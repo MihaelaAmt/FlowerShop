@@ -33,7 +33,8 @@ namespace FlowerApp.Models
                             Category = Categories["Single flower"],
                             ImageUrl = "https://www.florariaaly.ro/image/cache/data/Flori%20la%20fir/Crin%20imperial-500x500_0.jpg",
                             InStock = true,
-                            ImageThumbnailUrl = "https://www.florariaaly.ro/image/cache/data/Flori%20la%20fir/Crin%20imperial-500x500_0.jpg"
+                            ImageThumbnailUrl = "https://www.florariaaly.ro/image/cache/data/Flori%20la%20fir/Crin%20imperial-500x500_0.jpg",
+                            IsFlowerPresentation = true
                         },
                         new Flower
                         {
@@ -44,7 +45,8 @@ namespace FlowerApp.Models
                             Category = Categories["Single flower"],
                             ImageUrl = "http://www.buchetetrandafiri.ro/poze/flori/un-fir-de-trandafir-rosu-OBIdz.jpg",
                             InStock = true,
-                            ImageThumbnailUrl = "http://www.buchetetrandafiri.ro/poze/flori/un-fir-de-trandafir-rosu-OBIdz.jpg"
+                            ImageThumbnailUrl = "http://www.buchetetrandafiri.ro/poze/flori/un-fir-de-trandafir-rosu-OBIdz.jpg",
+                            IsFlowerPresentation = false
                         },
                         new Flower
                         {
@@ -54,7 +56,8 @@ namespace FlowerApp.Models
                             LongDescription = "ssdgdfdf",
                             Category = Categories["Single flower"],
                             ImageUrl = "https://i.pinimg.com/originals/17/a5/d1/17a5d17b2f30c1ad24b6fd182dc89c59.jpg",
-                            InStock = true, ImageThumbnailUrl = "https://i.pinimg.com/originals/17/a5/d1/17a5d17b2f30c1ad24b6fd182dc89c59.jpg"
+                            InStock = true, ImageThumbnailUrl = "https://i.pinimg.com/originals/17/a5/d1/17a5d17b2f30c1ad24b6fd182dc89c59.jpg",
+                            IsFlowerPresentation = false
                         },
                         new Flower
                         {
@@ -65,7 +68,8 @@ namespace FlowerApp.Models
                             Category = Categories["Bouquet of flowers"],
                             ImageUrl = "https://florariadevis.ro/1493-large_default/buchet-trandafiri.jpg",
                             InStock = true,
-                            ImageThumbnailUrl = "https://florariadevis.ro/1493-large_default/buchet-trandafiri.jpg"
+                            ImageThumbnailUrl = "https://florariadevis.ro/1493-large_default/buchet-trandafiri.jpg",
+                            IsFlowerPresentation = true
                         },
 
                         new Flower {
@@ -76,7 +80,8 @@ namespace FlowerApp.Models
                             Category = Categories["Seasonal flowers"],
                             ImageUrl = "https://www.giftidea.ro/wp-content/uploads/2017/02/3-1.jpg",
                             InStock = true,
-                            ImageThumbnailUrl = "https://www.giftidea.ro/wp-content/uploads/2017/02/3-1.jpg"
+                            ImageThumbnailUrl = "https://www.giftidea.ro/wp-content/uploads/2017/02/3-1.jpg",
+                            IsFlowerPresentation = false
                         },
 
                         new Flower {
@@ -87,7 +92,8 @@ namespace FlowerApp.Models
                             Category = Categories["Seasonal flowers"],
                             ImageUrl = "https://floridebrasov.ro/pics/6/0.jpg",
                             InStock = true,
-                            ImageThumbnailUrl = "https://floridebrasov.ro/pics/6/0.jpg"
+                            ImageThumbnailUrl = "https://floridebrasov.ro/pics/6/0.jpg",
+                            IsFlowerPresentation = false
                         },
 
                         new Flower {
@@ -98,7 +104,8 @@ namespace FlowerApp.Models
                             Category = Categories["Bouquet of flowers"],
                             ImageUrl = "https://www.magnolia.ro/images/products/1562829074img_7543.jpg",
                             InStock = false,
-                            ImageThumbnailUrl = "https://www.magnolia.ro/images/products/1562829074img_7543.jpg"
+                            ImageThumbnailUrl = "https://www.magnolia.ro/images/products/1562829074img_7543.jpg",
+                            IsFlowerPresentation = true
                         },
 
                         new Flower {
@@ -109,7 +116,8 @@ namespace FlowerApp.Models
                             Category = Categories["Seasonal flowers"],
                             ImageUrl = "https://s12emagst.akamaized.net/products/3599/3598987/images/res_6664a230d1124f1cbe0eb246f0c7a477_full.jpg",
                             InStock = true,
-                            ImageThumbnailUrl = "https://s12emagst.akamaized.net/products/3599/3598987/images/res_6664a230d1124f1cbe0eb246f0c7a477_full.jpg"
+                            ImageThumbnailUrl = "https://s12emagst.akamaized.net/products/3599/3598987/images/res_6664a230d1124f1cbe0eb246f0c7a477_full.jpg",
+                            IsFlowerPresentation = true
                         },
 
                         new Flower {
@@ -120,7 +128,8 @@ namespace FlowerApp.Models
                             Category = Categories["Bouquet of flowers"],
                             ImageUrl = "https://s12emagst.akamaized.net/products/6085/6084226/images/res_b401ee11c47ba7fb3762c91794496f22_full.jpg",
                             InStock = true,
-                            ImageThumbnailUrl = "https://s12emagst.akamaized.net/products/6085/6084226/images/res_b401ee11c47ba7fb3762c91794496f22_full.jpg"
+                            ImageThumbnailUrl = "https://s12emagst.akamaized.net/products/6085/6084226/images/res_b401ee11c47ba7fb3762c91794496f22_full.jpg",
+                            IsFlowerPresentation = false
                         },
                         new Flower {
                             Name = "Bouquet of lilies",
@@ -130,7 +139,8 @@ namespace FlowerApp.Models
                             Category = Categories["Bouquet of flowers"],
                             ImageUrl = "http://www.iflori.ro/image/cache/data/Buchete%20corporate/BC66%20Buchet%20flori%20crin%20alb%20pret%20%20235%20lei-500x500.jpg",
                             InStock = true,
-                            ImageThumbnailUrl = "http://www.iflori.ro/image/cache/data/Buchete%20corporate/BC66%20Buchet%20flori%20crin%20alb%20pret%20%20235%20lei-500x500.jpg"
+                            ImageThumbnailUrl = "http://www.iflori.ro/image/cache/data/Buchete%20corporate/BC66%20Buchet%20flori%20crin%20alb%20pret%20%20235%20lei-500x500.jpg",
+                            IsFlowerPresentation = false
                         },
 
                         new Flower {
@@ -141,7 +151,8 @@ namespace FlowerApp.Models
                             Category = Categories["Single flower"],
                             ImageUrl = "https://www.robertorossi.ro/images/produse/crizantema-75-cm-galben-87017-1.jpg",
                             InStock = false,
-                            ImageThumbnailUrl = "https://www.robertorossi.ro/images/produse/crizantema-75-cm-galben-87017-1.jpg"
+                            ImageThumbnailUrl = "https://www.robertorossi.ro/images/produse/crizantema-75-cm-galben-87017-1.jpg",
+                            IsFlowerPresentation = false
                         }
                     );
                 }

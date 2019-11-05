@@ -10,6 +10,8 @@ namespace FlowerApp.Repository
     {
         IEnumerable<Flower> Flowers { get; }
 
+        IEnumerable<Flower> FlowerPresentation { get; }
+
         Flower GetFlowerById(int flowerId);
 
     }

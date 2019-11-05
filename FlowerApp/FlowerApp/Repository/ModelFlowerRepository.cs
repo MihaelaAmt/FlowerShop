@@ -36,7 +36,9 @@ namespace FlowerApp.Repository
             }
         }
 
-       public Flower GetFlowerById(int flowerId)
+        public IEnumerable<Flower> FlowerPresentation { get; }
+
+        public Flower GetFlowerById(int flowerId)
         {
             throw new System.NotImplementedException();
         }

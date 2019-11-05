@@ -12,5 +12,7 @@ namespace FlowerApp.Models
         public DbSet<Category> Categories { get; set; }
 
         public DbSet<Flower> Flowers { get; set; }
+
+        public DbSet<ShoppingCartItem> ShoppingCartItems { get; set; }
     }
 }

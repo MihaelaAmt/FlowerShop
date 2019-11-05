@@ -23,8 +23,13 @@ using FlowerApp.ViewModels;
 
 #line default
 #line hidden
+#line 3 "C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\Views\_ViewImports.cshtml"
+using FlowerApp.TagHelpers;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"91518073bf7c2f877db716d903bacbb2778255eb", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"82ffc988e157097c6e39f8ac58b132e561528904", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

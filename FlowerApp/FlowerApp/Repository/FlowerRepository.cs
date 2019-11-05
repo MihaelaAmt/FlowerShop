@@ -24,6 +24,13 @@ namespace FlowerApp.Repository
             }
         }
 
+        public IEnumerable<Flower> FlowerPresentation
+        {
+            get
+            {
+                return _appDbContext.Flowers.Include(c => c.Category).Where(p => p.IsFlowerPresentation);
+            }
+        }
 
         public Flower GetFlowerById(int flowerId)
         {

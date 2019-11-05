@@ -26,5 +26,7 @@ namespace FlowerApp.Models
         public int CategoryId { get; set; }
 
         public virtual Category Category { get; set; }
+
+        public bool IsFlowerPresentation { get;  set; }
     }
 }
