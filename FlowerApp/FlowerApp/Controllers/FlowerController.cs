@@ -1,11 +1,10 @@
-﻿using FlowerApp.Repository;
+﻿using FlowerApp.Models;
+using FlowerApp.Repository;
 using FlowerApp.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
-
-
-
+using System.Linq;
 
 namespace FlowerApp.Controllers
 {
@@ -20,13 +19,37 @@ namespace FlowerApp.Controllers
             _categoryRepository = categoryRepository;
         }
 
-        public ViewResult List()
+        public ViewResult List(string category)
         {
-            FlowerListViewModel flowerListViewModel = new FlowerListViewModel();
-            flowerListViewModel.Flowers = _flowerRepository.Flowers;
+            IEnumerable<Flower> flowers;
+            string currentCategory = string.Empty;
 
-            flowerListViewModel.CurrentCategory = "";
-            return View(flowerListViewModel);
+            if (string.IsNullOrEmpty(category))
+            {
+                flowers = _flowerRepository.Flowers.OrderBy(p => p.FlowerId);
+                currentCategory = "All flowers";
+            }
+            else
+            {
+                flowers = _flowerRepository.Flowers.Where(p => p.Category.CategoryName == category)
+                   .OrderBy(p => p.FlowerId);
+                currentCategory = _categoryRepository.Categories.FirstOrDefault(c => c.CategoryName == category).CategoryName;
+            }
+
+            return View(new FlowerListViewModel
+            {
+                Flowers = flowers,
+                CurrentCategory = currentCategory
+            });
+        }
+
+        public IActionResult Details(int id)
+        {
+            var flower = _flowerRepository.GetFlowerById(id);
+
+            return View(new FlowerDetailViewModel() {
+                Flower = flower
+            });
         }
 
     }

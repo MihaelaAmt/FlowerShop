@@ -51,7 +51,19 @@ namespace FlowerApp
             app.UseStatusCodePages();
             app.UseStaticFiles();
             app.UseSession();
-            app.UseMvcWithDefaultRoute();
+
+            //app.UseMvcWithDefaultRoute();
+            app.UseMvc(routes =>
+            {
+                routes.MapRoute(
+                    name: "categoryfilter",
+                    template: "Flower/{action}/{category?}",
+                    defaults: new { Controller = "Flower", action = "List" });
+
+                routes.MapRoute(
+                    name: "default",
+                    template: "{controller=Home}/{action=Index}/{id?}");
+            });
 
             DbInitializer.Seed(app);
         }
