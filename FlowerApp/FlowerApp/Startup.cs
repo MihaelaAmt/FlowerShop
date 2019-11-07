@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -33,6 +34,16 @@ namespace FlowerApp
         {
             services.AddDbContext<AppDbContext>(options =>
                                             options.UseSqlServer(_configurationRoot.GetConnectionString("DefaultConnection")));
+
+            services.AddIdentity<IdentityUser, IdentityRole>(options => 
+            {
+                options.Password.RequireDigit = true;
+                options.Password.RequireLowercase = true;
+                options.Password.RequireUppercase = true;
+                options.Password.RequireNonAlphanumeric = false;
+            })
+                .AddEntityFrameworkStores<AppDbContext>();
+
             services.AddTransient<ICategoryRepository, CategoryRepository>();
             services.AddTransient<IFlowerRepository, FlowerRepository>();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
@@ -51,6 +62,7 @@ namespace FlowerApp
             app.UseStatusCodePages();
             app.UseStaticFiles();
             app.UseSession();
+            app.UseIdentity();
 
             //app.UseMvcWithDefaultRoute();
             app.UseMvc(routes =>
