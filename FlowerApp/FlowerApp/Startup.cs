@@ -48,6 +48,7 @@ namespace FlowerApp
             services.AddTransient<IFlowerRepository, FlowerRepository>();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddScoped<ShoppingCart>(sp => ShoppingCart.GetCart(sp));
+            services.AddTransient<IOrderRepository, OrderRepository>();
 
             services.AddMvc();
 
