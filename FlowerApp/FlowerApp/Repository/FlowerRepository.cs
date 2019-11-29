@@ -24,6 +24,14 @@ namespace FlowerApp.Repository
             }
         }
 
+        public IEnumerable<string> FlowersNames
+        {
+            get
+            {
+                return _appDbContext.Flowers.Select(x => x.Name).ToList();
+            }
+        }
+
         public IEnumerable<Flower> FlowerPresentation
         {
             get

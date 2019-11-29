@@ -41,6 +41,7 @@
                     @await Component.InvokeAsync("ShoppingCartSummary")
 
                 </ul>
+                @await Html.PartialAsync("SearchPartial", new HomeViewModel())
                 @await Html.PartialAsync("LoginPartial")
             </div>
         </div>

@@ -14,5 +14,10 @@ namespace FlowerApp.Repository
 
         Flower GetFlowerById(int flowerId);
 
+        IEnumerable<string> FlowersNames
+        {
+            get;
+        }
+
     }
 }

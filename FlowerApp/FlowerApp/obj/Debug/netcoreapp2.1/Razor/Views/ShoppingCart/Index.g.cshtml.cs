@@ -144,7 +144,7 @@ using FlowerApp.TagHelpers;
             WriteLiteral("\r\n<custom:div progress-value=\"33\">\r\n</custom:div>\r\n\r\n<div class=\"text-center\">\r\n    ");
             EndContext();
             BeginContext(1251, 90, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "50c9cb9744b74365afc8e8ed288b7d44", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5afa72cacac04a798b61849aa43b2fe9", async() => {
                 BeginContext(1323, 14, true);
                 WriteLiteral("Check out now!");
                 EndContext();

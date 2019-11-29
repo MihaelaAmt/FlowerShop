@@ -1,0 +1,45 @@
+﻿@model HomeViewModel
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>$(function () {
+        var availableTags = [
+            "ActionScript",
+            "AppleScript",
+            "Asp",
+            "BASIC",
+            "C",
+            "C++",
+            "Clojure",
+            "COBOL",
+            "ColdFusion",
+            "Erlang",
+            "Fortran",
+            "Groovy",
+            "Haskell",
+            "Java",
+            "JavaScript",
+            "Lisp",
+            "Perl",
+            "PHP",
+            "Python",
+            "Ruby",
+            "Scala",
+            "Scheme"
+        ];
+        $("#search").autocomplete({
+            source: "/Flower/AutocompleteSearch"
+        });
+    });</script>
+<style>
+
+    .ui-menu-item {
+        padding-top: 10px;
+    }
+</style>
+<ul class="nav navbar-nav navbar-right" style="margin-top:10px">
+    <form class="form-inline mt-2 mt-md-0">
+        <input id="search" class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" name="flowerName" style="background-color: white; color:cornflowerblue">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit" asp-controller="Flower" asp-action="Search">Search</button>
+    </form>
+</ul>
+

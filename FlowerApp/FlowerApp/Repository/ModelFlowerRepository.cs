@@ -38,6 +38,8 @@ namespace FlowerApp.Repository
 
         public IEnumerable<Flower> FlowerPresentation { get; }
 
+        public IEnumerable<string> FlowersNames => throw new NotImplementedException();
+
         public Flower GetFlowerById(int flowerId)
         {
             throw new System.NotImplementedException();

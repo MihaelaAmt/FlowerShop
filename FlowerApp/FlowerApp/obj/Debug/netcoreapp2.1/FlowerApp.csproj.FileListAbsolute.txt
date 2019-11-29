@@ -65,3 +65,5 @@ C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcor
 C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\LoginPartial.g.cshtml.cs
 C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
 C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\SearchPartial.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Flower\Search.g.cshtml.cs
