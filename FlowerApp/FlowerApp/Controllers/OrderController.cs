@@ -35,7 +35,7 @@ namespace FlowerApp.Controllers
 
             if (_shoppingCart.ShoppingCartItems.Count == 0)
             {
-                ModelState.AddModelError("", "Your casrt is empty, add some flowers first");
+                ModelState.AddModelError("", "Your cart is empty, add some flowers first");
             }
 
             if (ModelState.IsValid)

@@ -66,9 +66,11 @@ namespace FlowerApp.Controllers
             string currentCategory = string.Empty;
             ViewBag.FlowerName = flowerName;
 
+
             flowers = _flowerRepository.Flowers.Where(p => p.Name.Contains(flowerName) ||
                 p.LongDescription.Contains(flowerName) ||
                 p.ShortDescription.Contains(flowerName)).OrderBy(p => p.FlowerId);
+                
 
             flowers = PriceFilter(lowPrice, highPrice, flowers);
 
@@ -79,6 +81,7 @@ namespace FlowerApp.Controllers
                 else if (sorting.Equals("descending", StringComparison.OrdinalIgnoreCase))
                     flowers = flowers.OrderByDescending(p => p.Price);
             }
+            
 
             return View(new FlowerListViewModel
             {
