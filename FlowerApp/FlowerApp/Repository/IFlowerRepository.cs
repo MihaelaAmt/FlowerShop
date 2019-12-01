@@ -1,4 +1,5 @@
 ﻿using FlowerApp.Models;
+using FlowerApp.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,11 @@ namespace FlowerApp.Repository
         IEnumerable<Flower> FlowerPresentation { get; }
 
         Flower GetFlowerById(int flowerId);
+
+        IEnumerable<FlowerViewModel> FlowersAsViewModel
+        {
+            get;
+        }
 
         IEnumerable<string> FlowersNames
         {

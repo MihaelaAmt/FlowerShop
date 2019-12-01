@@ -1,4 +1,5 @@
 ﻿using FlowerApp.Models;
+using FlowerApp.ViewModels;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -43,6 +44,33 @@ namespace FlowerApp.Repository
         public Flower GetFlowerById(int flowerId)
         {
             return _appDbContext.Flowers.FirstOrDefault(f => f.FlowerId == flowerId);
+        }
+
+        public IEnumerable<FlowerViewModel> FlowersAsViewModel
+        {
+            get
+            {
+                List<FlowerViewModel> flowers = new List<FlowerViewModel>();
+
+                foreach (var dbFlower in Flowers)
+                {
+                    flowers.Add(MapDbFlowerToFlowerViewModel(dbFlower));
+                }
+
+                return flowers;
+            }
+        }
+
+        private FlowerViewModel MapDbFlowerToFlowerViewModel(Flower dbFlower)
+        {
+            return new FlowerViewModel()
+            {
+                FlowerId = dbFlower.FlowerId,
+                Name = dbFlower.Name,
+                Price = dbFlower.Price,
+                ShortDescription = dbFlower.ShortDescription,
+                ImageThumbnailUrl = dbFlower.ImageThumbnailUrl
+            };
         }
     }
 }

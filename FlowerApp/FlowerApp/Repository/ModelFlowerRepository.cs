@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using FlowerApp.Models;
+using FlowerApp.ViewModels;
 
 namespace FlowerApp.Repository
 {
@@ -37,6 +38,8 @@ namespace FlowerApp.Repository
         }
 
         public IEnumerable<Flower> FlowerPresentation { get; }
+
+        public IEnumerable<FlowerViewModel> FlowersAsViewModel => throw new NotImplementedException();
 
         public IEnumerable<string> FlowersNames => throw new NotImplementedException();
 

@@ -20,7 +20,7 @@ namespace FlowerApp.Controllers
             _categoryRepository = categoryRepository;
         }
 
-        public ViewResult List(string category)
+        public ViewResult List(string category, decimal lowPrice = 0, decimal highPrice = 0, string sorting = "")
         {
             IEnumerable<Flower> flowers;
             string currentCategory = string.Empty;
@@ -28,13 +28,24 @@ namespace FlowerApp.Controllers
             if (string.IsNullOrEmpty(category))
             {
                 flowers = _flowerRepository.Flowers.OrderBy(p => p.FlowerId);
+                flowers = PriceFilter(lowPrice, highPrice, flowers);
+
                 currentCategory = "All flowers";
             }
             else
             {
                 flowers = _flowerRepository.Flowers.Where(p => p.Category.CategoryName == category)
                    .OrderBy(p => p.FlowerId);
+                flowers = PriceFilter(lowPrice, highPrice, flowers);
                 currentCategory = _categoryRepository.Categories.FirstOrDefault(c => c.CategoryName == category).CategoryName;
+            }
+
+            if (!string.IsNullOrEmpty(sorting))
+            {
+                if (sorting.Equals("ascending", StringComparison.OrdinalIgnoreCase))
+                    flowers = flowers.OrderBy(p => p.Price);
+                else if (sorting.Equals("descending", StringComparison.OrdinalIgnoreCase))
+                    flowers = flowers.OrderByDescending(p => p.Price);
             }
 
             return View(new FlowerListViewModel
@@ -116,10 +127,10 @@ namespace FlowerApp.Controllers
         {
             var flower = _flowerRepository.GetFlowerById(id);
 
-            return View(new FlowerDetailViewModel()
-            {
-                Flower = flower
-            });
+            if (flower == null)
+                return NotFound();
+
+            return View(flower);
         }
     }
 }

@@ -21,7 +21,8 @@ namespace FlowerApp.Controllers
         {
             var homeViewModel = new HomeViewModel
             {
-                FlowerPresentation = _flowerRepository.FlowerPresentation
+                FlowerPresentation = _flowerRepository.FlowerPresentation,
+                FlowersName = _flowerRepository.FlowersNames
             };
 
             return View(homeViewModel);
