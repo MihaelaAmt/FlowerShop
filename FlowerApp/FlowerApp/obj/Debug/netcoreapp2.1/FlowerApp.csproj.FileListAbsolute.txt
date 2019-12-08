@@ -67,3 +67,16 @@ C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcor
 C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.g.cshtml.cs
 C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\SearchPartial.g.cshtml.cs
 C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Flower\Search.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddUser.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\EditUser.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\AdminMenu\Default.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewRole.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddUserToRole.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteUserFromRole.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\EditRole.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\RoleManagement.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddFlower.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\EditFlower.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.g.cshtml.cs

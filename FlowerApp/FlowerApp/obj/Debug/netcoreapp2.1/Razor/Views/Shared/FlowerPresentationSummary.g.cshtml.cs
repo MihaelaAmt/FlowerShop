@@ -83,7 +83,7 @@ WriteAttributeValue("", 106, Model.ImageThumbnailUrl, 106, 24, false);
             WriteLiteral("</h3>\r\n            <h3>\r\n                ");
             EndContext();
             BeginContext(276, 134, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ad2294653909406c82a9a7c48c931d0d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5a1a4250d253419aad48b2a6dcc7250f", async() => {
                 BeginContext(396, 10, false);
 #line 11 "C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\Views\Shared\FlowerPresentationSummary.cshtml"
                                              Write(Model.Name);
@@ -134,7 +134,7 @@ WriteAttributeValue("", 106, Model.ImageThumbnailUrl, 106, 24, false);
             WriteLiteral("</p>\r\n        </div>\r\n        <div class=\"addToCart\">\r\n            <p class=\"button\">\r\n                ");
             EndContext();
             BeginContext(572, 160, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5a2b71dd59474911afd91f30b35c0601", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "429f275c84dc4ddd97f286664c16bb92", async() => {
                 BeginContext(717, 11, true);
                 WriteLiteral("Add to cart");
                 EndContext();

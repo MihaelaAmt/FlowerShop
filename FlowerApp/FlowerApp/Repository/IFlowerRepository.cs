@@ -13,8 +13,6 @@ namespace FlowerApp.Repository
 
         IEnumerable<Flower> FlowerPresentation { get; }
 
-        Flower GetFlowerById(int flowerId);
-
         IEnumerable<FlowerViewModel> FlowersAsViewModel
         {
             get;
@@ -25,5 +23,12 @@ namespace FlowerApp.Repository
             get;
         }
 
+        Flower GetFlowerById(int flowerId);
+
+        bool AddFlower(Flower flower);
+
+        bool DeleteFlower(Flower flower);
+
+        bool UpdateFlower(Flower flower);
     }
 }

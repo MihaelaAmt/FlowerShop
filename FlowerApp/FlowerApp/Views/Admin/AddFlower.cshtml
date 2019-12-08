@@ -1,0 +1,83 @@
+﻿@model AddFlowerViewModel
+<h2>Create a new user</h2>
+<form asp-controller="Admin" asp-action="AddFlower" method="post" class="form-horizontal" role="form">
+    <h4>Enter the flower details below</h4>
+    <hr />
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Name" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="ShortDescription" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <input asp-for="ShortDescription" class="form-control" />
+            <span asp-validation-for="ShortDescription" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="LongDescription" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <input asp-for="LongDescription" class="form-control" />
+            <span asp-validation-for="LongDescription" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <input asp-for="Price" class="form-control" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="ImageUrl" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <input asp-for="ImageUrl" class="form-control" />
+            <span asp-validation-for="ImageUrl" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="ImageThumbnailUrl" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <input asp-for="ImageThumbnailUrl" class="form-control" />
+            <span asp-validation-for="ImageThumbnailUrl" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="IsFlowerPresentation" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <select asp-for="IsFlowerPresentation" class="form-control">
+                <option value="true">True</option>
+                <option value="false">False</option>
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="InStock" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <select asp-for="InStock" class="form-control">
+                <option value="true">True</option>
+                <option value="false">False</option>
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="CategoryId" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <select asp-for="CategoryId" class="form-control">
+                @foreach (var category in ViewData["categories"] as IList<Category>)
+                {
+                    <option value="@category.CategoryId">@category.CategoryName</option>
+                }
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-primary" value="Create user" />
+        </div>
+    </div>
+</form>

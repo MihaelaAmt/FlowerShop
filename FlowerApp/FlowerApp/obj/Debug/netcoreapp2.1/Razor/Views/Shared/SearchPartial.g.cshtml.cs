@@ -103,12 +103,12 @@ using FlowerApp.TagHelpers;
     ");
             EndContext();
             BeginContext(1015, 371, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6626d8485c0b469981a81bcae243e27b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d17bb8f0c79541ac90b611cafbb9fef4", async() => {
                 BeginContext(1054, 193, true);
                 WriteLiteral("\r\n        <input id=\"search\" class=\"form-control mr-sm-2\" type=\"text\" placeholder=\"Search\" aria-label=\"Search\" name=\"flowerName\" style=\"background-color: white; color:cornflowerblue\">\r\n        ");
                 EndContext();
                 BeginContext(1247, 126, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e54661bf7d014d93ad8515e4963a4148", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "53ae1d382dcd4b30a9bdad604c5027e9", async() => {
                     BeginContext(1358, 6, true);
                     WriteLiteral("Search");
                     EndContext();

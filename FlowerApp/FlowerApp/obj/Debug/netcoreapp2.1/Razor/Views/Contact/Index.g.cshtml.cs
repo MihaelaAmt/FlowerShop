@@ -59,7 +59,7 @@ using FlowerApp.TagHelpers;
             WriteLiteral("\r\n<h2>Contact FlowerShop</h2>\r\n<p>If you have any questinos, please don\'t hesitate to get in touch. Click below to send us an email.</p>\r\n");
             EndContext();
             BeginContext(161, 67, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("email", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1e8b38dfb4694868bc7beef55dc6f44b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("email", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e8e56da322994bd4ba5dbcbf1774fdfd", async() => {
             }
             );
             __FlowerApp_TagHelpers_EmailTagHelper = CreateTagHelper<global::FlowerApp.TagHelpers.EmailTagHelper>();

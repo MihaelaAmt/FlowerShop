@@ -61,6 +61,24 @@ namespace FlowerApp.Repository
             }
         }
 
+        public bool AddFlower(Flower flower)
+        {
+            var result = _appDbContext.Add(flower);
+
+            _appDbContext.SaveChanges();
+
+            return result.State == EntityState.Added || result.State == EntityState.Unchanged ? true : false;
+        }
+
+        public bool DeleteFlower(Flower flower)
+        {
+            var result = _appDbContext.Remove(flower);
+
+            _appDbContext.SaveChanges();
+
+            return result.State == EntityState.Deleted || result.State == EntityState.Unchanged ? true : false;
+        }
+
         private FlowerViewModel MapDbFlowerToFlowerViewModel(Flower dbFlower)
         {
             return new FlowerViewModel()
@@ -71,6 +89,15 @@ namespace FlowerApp.Repository
                 ShortDescription = dbFlower.ShortDescription,
                 ImageThumbnailUrl = dbFlower.ImageThumbnailUrl
             };
+        }
+
+        public bool UpdateFlower(Flower flower)
+        {
+            _appDbContext.Update(flower);
+
+            _appDbContext.SaveChanges();
+
+            return true;
         }
     }
 }

@@ -1,0 +1,40 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<FlowerApp.ViewModels.FlowerViewModel>
+<h2>User management</h2>
+@if (!Model.Any())
+{
+    <tr><td colspan="3" class="text-center">No User Accounts</td></tr>
+}
+else
+{
+    <table class="table table-condensed table-bordered">
+        <tr>
+            <th>Flower ID</th>
+            <th>Name</th>
+            <th>ShortDescription</th>
+            <th>Price</th>
+            <th>ImageThumbnailUrl</th>
+        </tr>
+        @foreach (FlowerViewModel flower in Model)
+        {
+            <tr>
+                <td>@flower.FlowerId</td>
+                <td>@flower.Name</td>
+                <td>@flower.ShortDescription</td>
+                <td>@flower.Price</td>
+                <td>@flower.ImageThumbnailUrl</td>
+                <td>
+                    <form asp-action="DeleteFlower" asp-route-id="@flower.FlowerId" method="post">
+                        <a class="btn btn-sm btn-primary" asp-action="EditFlower" asp-route-id="@flower.FlowerId">Edit</a>
+                        <button type="submit" onclick="return confirm('Do you really want to delete this flower?');" class="btn btn-sm btn-danger">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </table>
+}
+<p>
+    <a class="btn btn-primary" asp-action="AddFlower">Add new flower</a>
+</p>

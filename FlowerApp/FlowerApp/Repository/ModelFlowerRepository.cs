@@ -43,9 +43,24 @@ namespace FlowerApp.Repository
 
         public IEnumerable<string> FlowersNames => throw new NotImplementedException();
 
+        public bool AddFlower(Flower flower)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool DeleteFlower(Flower flower)
+        {
+            throw new NotImplementedException();
+        }
+
         public Flower GetFlowerById(int flowerId)
         {
             throw new System.NotImplementedException();
+        }
+
+        public bool UpdateFlower(Flower flower)
+        {
+            throw new NotImplementedException();
         }
     }
 }

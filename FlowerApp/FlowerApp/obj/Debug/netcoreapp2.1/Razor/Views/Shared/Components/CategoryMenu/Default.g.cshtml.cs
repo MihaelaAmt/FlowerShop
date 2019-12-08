@@ -67,7 +67,7 @@ using FlowerApp.TagHelpers;
             WriteLiteral("\r\n<li class=\"dropdown\">\r\n    ");
             EndContext();
             BeginContext(61, 140, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ba11d99f7cb04efbb994a71b6bfb29cc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1ebca94e77b14f5e9891bc963ce3ab5c", async() => {
                 BeginContext(170, 27, true);
                 WriteLiteral("Flower<b class=\"caret\"></b>");
                 EndContext();
@@ -102,7 +102,7 @@ using FlowerApp.TagHelpers;
             WriteLiteral("            <li>\r\n                ");
             EndContext();
             BeginContext(322, 135, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "811095ce73b2465cb337fa425966a7fe", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "070759c4cd194147b8a0aadee8c705de", async() => {
                 BeginContext(432, 21, false);
 #line 13 "C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\Views\Shared\Components\CategoryMenu\Default.cshtml"
                                                           Write(category.CategoryName);
@@ -151,7 +151,7 @@ using FlowerApp.TagHelpers;
             WriteLiteral("        <li class=\"divider\"></li>\r\n        <li>\r\n            ");
             EndContext();
             BeginContext(550, 87, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3d12e9272d5346b1b9fbf3299986d0cd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ea51e6c94fee4576b56dd841b9711aee", async() => {
                 BeginContext(617, 16, true);
                 WriteLiteral("View all flowers");
                 EndContext();

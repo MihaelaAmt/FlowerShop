@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using FlowerApp.Auth;
 using FlowerApp.Models;
 using FlowerApp.Repository;
 using Microsoft.AspNetCore.Builder;
@@ -35,12 +36,13 @@ namespace FlowerApp
             services.AddDbContext<AppDbContext>(options =>
                                             options.UseSqlServer(_configurationRoot.GetConnectionString("DefaultConnection")));
 
-            services.AddIdentity<IdentityUser, IdentityRole>(options => 
+            services.AddIdentity<ApplicationUser, IdentityRole>(options => 
             {
                 options.Password.RequireDigit = true;
                 options.Password.RequireLowercase = true;
                 options.Password.RequireUppercase = true;
                 options.Password.RequireNonAlphanumeric = false;
+                options.User.RequireUniqueEmail = false;
             })
                 .AddEntityFrameworkStores<AppDbContext>();
 

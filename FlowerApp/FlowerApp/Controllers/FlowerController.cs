@@ -36,7 +36,9 @@ namespace FlowerApp.Controllers
             {
                 flowers = _flowerRepository.Flowers.Where(p => p.Category.CategoryName == category)
                    .OrderBy(p => p.FlowerId);
+
                 flowers = PriceFilter(lowPrice, highPrice, flowers);
+
                 currentCategory = _categoryRepository.Categories.FirstOrDefault(c => c.CategoryName == category).CategoryName;
             }
 
@@ -81,8 +83,7 @@ namespace FlowerApp.Controllers
             flowers = _flowerRepository.Flowers.Where(p => p.Name.Contains(flowerName) ||
                 p.LongDescription.Contains(flowerName) ||
                 p.ShortDescription.Contains(flowerName)).OrderBy(p => p.FlowerId);
-                
-
+               
             flowers = PriceFilter(lowPrice, highPrice, flowers);
 
             if (!string.IsNullOrEmpty(sorting))
@@ -130,7 +131,10 @@ namespace FlowerApp.Controllers
             if (flower == null)
                 return NotFound();
 
-            return View(flower);
+            return View(new FlowerDetailViewModel
+            {
+                Flower = flower
+            });
         }
     }
 }

@@ -68,7 +68,7 @@ using FlowerApp.TagHelpers;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(30, 750, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "48dd01de709e4d9bbe93d4865bf909ad", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2291ea45c4a84c4ba6e9d9c16c49fa6a", async() => {
                 BeginContext(69, 305, true);
                 WriteLiteral(@"
     <input class=""form-control mr-sm-2"" type=""text"" placeholder=""Low price"" aria-label=""Search"" name=""lowPrice"">
@@ -86,7 +86,7 @@ WriteAttributeValue("", 382, ViewBag.CurrentCategory, 382, 24, false);
                 WriteLiteral(" placeholder=\"category\" aria-label=\"Search\" name=\"category\">\r\n    <select aria-label=\"Search\" name=\"sorting\">\r\n        ");
                 EndContext();
                 BeginContext(526, 44, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e82dc7a02d2649ca9419cf1f6df8fb09", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e9153c92d56c43aab35f1b599428b73f", async() => {
                     BeginContext(552, 9, true);
                     WriteLiteral("Ascending");
                     EndContext();
@@ -108,7 +108,7 @@ WriteAttributeValue("", 382, ViewBag.CurrentCategory, 382, 24, false);
                 WriteLiteral("\r\n        ");
                 EndContext();
                 BeginContext(580, 46, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f93bb40d7e114a1fa13dcd6ca1252b14", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "684f189f518a4160a5745fee3e513f17", async() => {
                     BeginContext(607, 10, true);
                     WriteLiteral("Descending");
                     EndContext();
@@ -130,7 +130,7 @@ WriteAttributeValue("", 382, ViewBag.CurrentCategory, 382, 24, false);
                 WriteLiteral("\r\n    </select>\r\n    ");
                 EndContext();
                 BeginContext(647, 124, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f47f30a341140caa21e143b8401b040", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "71b08a467a164cb2abbc367dc001f0a8", async() => {
                     BeginContext(756, 6, true);
                     WriteLiteral("Filter");
                     EndContext();
