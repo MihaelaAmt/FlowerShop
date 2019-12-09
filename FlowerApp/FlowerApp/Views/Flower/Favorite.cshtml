@@ -1,0 +1,7 @@
+﻿@model FlowerListViewModel
+
+@ViewBag.CurrentCategory
+@foreach (var flower in Model.Flowers)
+{
+    @Html.Partial("FlowerOverviewSummary", flower)
+}

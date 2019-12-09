@@ -15,7 +15,7 @@ namespace FlowerApp.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "2.1.4-rtm-31024")
+                .HasAnnotation("ProductVersion", "2.1.11-servicing-32099")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
@@ -104,6 +104,8 @@ namespace FlowerApp.Migrations
                     b.Property<string>("ImageUrl");
 
                     b.Property<bool>("InStock");
+
+                    b.Property<bool>("IsFavorite");
 
                     b.Property<bool>("IsFlowerPresentation");
 

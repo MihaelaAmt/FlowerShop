@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace FlowerApp.Models
+﻿namespace FlowerApp.Models
 {
     public class Flower
     {
-        public int FlowerId { get;  set; }
+        public int FlowerId { get; set; }
 
-        public string Name{ get; set; }
+        public string Name { get; set; }
 
         public string ShortDescription { get; set; }
 
@@ -27,6 +22,8 @@ namespace FlowerApp.Models
 
         public virtual Category Category { get; set; }
 
-        public bool IsFlowerPresentation { get;  set; }
+        public bool IsFlowerPresentation { get; set; }
+
+        public bool IsFavorite { get; set; }
     }
 }

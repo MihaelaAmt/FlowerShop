@@ -57,6 +57,46 @@ namespace FlowerApp.Controllers
             });
         }
 
+        public ViewResult Favorite()
+        {
+            IEnumerable<Flower> flowers = _flowerRepository.Flowers
+                .Where(x => x.IsFavorite)
+                .OrderBy(p => p.FlowerId)
+                .ToList();
+
+            return View(new FlowerListViewModel
+            {
+                Flowers = flowers,
+                CurrentCategory = null
+            });
+        }
+
+        public ActionResult AddToFavorite(int flowerId)
+        {
+            var flower = _flowerRepository.Flowers.Where(x => x.FlowerId == flowerId).FirstOrDefault();
+
+            if (flower != null)
+            {
+                flower.IsFavorite = true;
+                _flowerRepository.UpdateFlower(flower);
+            }
+
+            return RedirectToAction("Favorite", "Flower");
+        }
+
+        public ActionResult RemoveFromFavorite(int flowerId)
+        {
+            var flower = _flowerRepository.Flowers.Where(x => x.FlowerId == flowerId).FirstOrDefault();
+
+            if (flower != null)
+            {
+                flower.IsFavorite = false;
+                _flowerRepository.UpdateFlower(flower);
+            }
+
+            return RedirectToAction("List", "Flower");
+        }
+
         private static IEnumerable<Flower> PriceFilter(decimal lowPrice, decimal highPrice, IEnumerable<Flower> flowers)
         {
             if (lowPrice != 0)
@@ -83,7 +123,7 @@ namespace FlowerApp.Controllers
             flowers = _flowerRepository.Flowers.Where(p => p.Name.Contains(flowerName) ||
                 p.LongDescription.Contains(flowerName) ||
                 p.ShortDescription.Contains(flowerName)).OrderBy(p => p.FlowerId);
-               
+
             flowers = PriceFilter(lowPrice, highPrice, flowers);
 
             if (!string.IsNullOrEmpty(sorting))
@@ -93,7 +133,7 @@ namespace FlowerApp.Controllers
                 else if (sorting.Equals("descending", StringComparison.OrdinalIgnoreCase))
                     flowers = flowers.OrderByDescending(p => p.Price);
             }
-            
+
 
             return View(new FlowerListViewModel
             {

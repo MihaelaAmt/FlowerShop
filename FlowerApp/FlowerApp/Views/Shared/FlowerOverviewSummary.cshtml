@@ -15,9 +15,24 @@
         <div class="addToCart">
             <p class="button">
                 <a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="AddToShoppingCart"
-                    asp-route-flowerId="@Model.FlowerId">Add to cart</a>
+                   asp-route-flowerId="@Model.FlowerId">Add to cart</a>
             </p>
         </div>
+        @if (!Model.IsFavorite)
+        {
+
+            <div class="addToFavorite">
+                <a class="btn btn-primary" asp-controller="Flower" asp-action="AddToFavorite"
+                   asp-route-flowerId="@Model.FlowerId">Add to favorite </a>
+            </div>
+        }
+        else
+        {
+            <div class="addToFavorite">
+                <a class="btn btn-primary" asp-controller="Flower" asp-action="RemoveFromFavorite"
+                   asp-route-flowerId="@Model.FlowerId">Remove from favorite </a>
+            </div>
+        }
     </div>
 
 </div>

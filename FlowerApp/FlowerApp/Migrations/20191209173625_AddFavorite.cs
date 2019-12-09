@@ -2,12 +2,12 @@
 
 namespace FlowerApp.Migrations
 {
-    public partial class AddShoppingCartItem2 : Migration
+    public partial class AddFavorite : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.AddColumn<bool>(
-                name: "IsFlowerPresentation",
+                name: "IsFavorite",
                 table: "Flowers",
                 nullable: false,
                 defaultValue: false);
@@ -16,7 +16,7 @@ namespace FlowerApp.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropColumn(
-                name: "IsFlowerPresentation",
+                name: "IsFavorite",
                 table: "Flowers");
         }
     }
