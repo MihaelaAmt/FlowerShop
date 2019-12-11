@@ -4,14 +4,16 @@ using FlowerApp.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace FlowerApp.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20191211182401_ShippingAndPaymentMethods")]
+    partial class ShippingAndPaymentMethods
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -131,6 +133,7 @@ namespace FlowerApp.Migrations
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("AddressLine1")
+                        .IsRequired()
                         .HasMaxLength(100);
 
                     b.Property<string>("AddressLine2");
@@ -143,6 +146,7 @@ namespace FlowerApp.Migrations
                         .HasMaxLength(50);
 
                     b.Property<string>("Country")
+                        .IsRequired()
                         .HasMaxLength(50);
 
                     b.Property<string>("Email")
@@ -177,6 +181,7 @@ namespace FlowerApp.Migrations
                         .HasMaxLength(10);
 
                     b.Property<string>("ZipCode")
+                        .IsRequired()
                         .HasMaxLength(10);
 
                     b.HasKey("OrderId");

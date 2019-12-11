@@ -139,3 +139,4 @@ C:\Users\alexc\Documents\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\
 C:\Users\alexc\Documents\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\FlowerApp.dll
 C:\Users\alexc\Documents\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\FlowerApp.pdb
 C:\Users\alexc\Documents\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\FlowerApp.csproj.CopyComplete
+C:\Users\alexc\Documents\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\FlowerApp.csprojAssemblyReference.cache
