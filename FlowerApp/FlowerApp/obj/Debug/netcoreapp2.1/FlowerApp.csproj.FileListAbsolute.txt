@@ -31,7 +31,6 @@ C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\bin\Debug\netcor
 C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\bin\Debug\netcoreapp2.1\FlowerApp.pdb
 C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\bin\Debug\netcoreapp2.1\FlowerApp.Views.dll
 C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\bin\Debug\netcoreapp2.1\FlowerApp.Views.pdb
-C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\FlowerApp.csprojAssemblyReference.cache
 C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\FlowerApp.csproj.CoreCompileInputs.cache
 C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\FlowerApp.RazorAssemblyInfo.cache
 C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\FlowerApp.RazorAssemblyInfo.cs
@@ -139,3 +138,5 @@ C:\Users\alexc\Documents\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\
 C:\Users\alexc\Documents\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\FlowerApp.dll
 C:\Users\alexc\Documents\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\FlowerApp.pdb
 C:\Users\alexc\Documents\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\FlowerApp.csproj.CopyComplete
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Flower\Favorite.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\FlowerApp.csprojAssemblyReference.cache
