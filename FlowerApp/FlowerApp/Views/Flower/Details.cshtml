@@ -3,7 +3,7 @@
 @model FlowerDetailViewModel
 
 <div class="thumbnail">
-    <img alt="@Model.Flower.Name" src="@Model.Flower.ImageUrl">
+    <img alt="@Model.Flower.Name" src="@Model.Flower.ImageUrl" style=" margin-top: 20px; height: 400px; width: 300px">
     <div class="caption-full">
         <h3 class="pull-right">@Model.Flower.Price</h3>
         <h3>
@@ -11,9 +11,24 @@
         </h3>
         <h4>@Model.Flower.ShortDescription</h4>
         <p>@Model.Flower.LongDescription</p>
-        <p class="button">
-            <a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="AddToShoppingCart"
-               asp-route-pieId="@Model.Flower.FlowerId">Add to cart</a>
-        </p>
+        @if (Model.Flower.InStock)
+        {
+            <div class="addToCart">
+                <p class="button">
+                    <a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="AddToShoppingCart"
+                       asp-route-flowerId="@Model.Flower.FlowerId">Add to cart</a>
+                </p>
+            </div>
+        }
+        else
+        {
+            <div class="notInStock">
+                <p class="button">
+                    <a class="btnNotInStock">
+                        Not In Stock
+                    </a>
+                </p>
+            </div>
+        }
     </div>
 </div>

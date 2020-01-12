@@ -45,6 +45,24 @@ namespace FlowerApp.Controllers
             return RedirectToAction("Index");
         }
 
+        public RedirectToActionResult UpdateShoppingCart(int flowerId, bool isAdding)
+        {
+            var selectedFlower = _flowerRepository.Flowers.FirstOrDefault(p => p.FlowerId == flowerId);
+
+            if (selectedFlower != null)
+            {
+                if (isAdding)
+                {
+                    _shoppingCart.AddToCart(selectedFlower, 1);
+                }
+                else
+                {
+                    _shoppingCart.AddToCart(selectedFlower, -1);
+                }
+            }
+            return RedirectToAction("Index");
+        }
+
         public RedirectToActionResult RemoveFromShoppingCart(int flowerId)
         {
             var selectedFlower = _flowerRepository.Flowers.FirstOrDefault(p => p.FlowerId == flowerId);

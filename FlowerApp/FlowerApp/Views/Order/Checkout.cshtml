@@ -21,6 +21,16 @@
     </div>
 
     <div class="form-group">
+        <label asp-for="ShippingMethod" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <select asp-for="ShippingMethod" class="form-control" id="shippingMethod">
+                <option value="Home">Home</option>
+                <option value="Showroom">Showroom</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group homeShipping">
         <label asp-for="AddressLine1" class="col-md-2 control-label"></label>
         <div class="col-md-5">
             <input asp-for="AddressLine1" class="form-control" />
@@ -28,7 +38,7 @@
         </div>
     </div>
 
-    <div class="form-group">
+    <div class="form-group homeShipping">
         <label asp-for="AddressLine2" class="col-md-2 control-label"></label>
         <div class="col-md-5">
             <input asp-for="AddressLine2" class="form-control" />
@@ -36,7 +46,7 @@
         </div>
     </div>
 
-    <div class="form-group">
+    <div class="form-group homeShipping">
         <label asp-for="ZipCode" class="col-md-2 control-label"></label>
         <div class="col-md-5">
             <input asp-for="ZipCode" class="form-control" />
@@ -52,7 +62,7 @@
         </div>
     </div>
 
-    <div class="form-group">
+    <div class="form-group homeShipping">
         <label asp-for="State" class="col-md-2 control-label"></label>
         <div class="col-md-5">
             <input asp-for="State" class="form-control" />
@@ -60,7 +70,7 @@
         </div>
     </div>
 
-    <div class="form-group">
+    <div class="form-group homeShipping">
         <label asp-for="Country" class="col-md-2 control-label"></label>
         <div class="col-md-5">
             <input asp-for="Country" class="form-control" />
@@ -81,6 +91,32 @@
         <div class="col-md-5">
             <input asp-for="Email" class="form-control" />
             <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PayMethod" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <select asp-for="PayMethod" class="form-control" id="payMethod">
+                <option value="Cash">Cash</option>
+                <option value="Card">Card</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group cardMethod">
+        <label asp-for="CardNumber" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="CardNumber" class="form-control" />
+            <span asp-validation-for="CardNumber" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group cardMethod">
+        <label asp-for="SecurityCode" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="SecurityCode" class="form-control" />
+            <span asp-validation-for="SecurityCode" class="text-danger"></span>
         </div>
     </div>
 

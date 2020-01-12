@@ -15,7 +15,14 @@
         @foreach (var line in Model.ShoppingCart.ShoppingCartItems)
         {
             <tr>
-                <td class="text-center">@line.Amount</td>
+                <td class="text-center">
+                    <div class="text-center">
+                        <a class="btn btn-primary" style="float: right;" asp-controller="ShoppingCart" asp-action="UpdateShoppingCart" asp-route-flowerId="@line.Flower.FlowerId" asp-route-isAdding="true">+</a>
+          
+                    @line.Amount
+                        <a class="btn btn-primary" style="float: left;" asp-controller="ShoppingCart" asp-action="UpdateShoppingCart" asp-route-flowerId="@line.Flower.FlowerId" asp-route-isAdding="false">-</a>
+                    </div>
+                </td>
                 <td class="text-left">@line.Flower.Name</td>
                 <td class="text-right">@line.Flower.Price.ToString("c")</td>
                 <td class="text-right">

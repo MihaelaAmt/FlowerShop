@@ -2,8 +2,6 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace FlowerApp.Models
 {
@@ -15,16 +13,20 @@ namespace FlowerApp.Models
         public List<OrderDetail> OrderLines { get; set; }
 
         [Required(ErrorMessage = "Please enter your first name")]
-        [Display(Name = "First Name" )]
+        [Display(Name = "First Name")]
         [StringLength(50)]
         public string FirstName { get; set; }
 
         [Required(ErrorMessage = "Please enter your last name")]
         [Display(Name = "Last Name")]
         [StringLength(50)]
-        public string  LastName { get; set; }
+        public string LastName { get; set; }
 
-        [Required(ErrorMessage = "Please enter your address")]
+        [Required]
+        [StringLength(50)]
+        public string ShippingMethod { get; set; }
+
+        //[Required(ErrorMessage = "Please enter your address")]
         [StringLength(100)]
         [Display(Name = "Address Line 1")]
         public string AddressLine1 { get; set; }
@@ -32,7 +34,7 @@ namespace FlowerApp.Models
         [Display(Name = "Address Line 2")]
         public string AddressLine2 { get; set; }
 
-        [Required(ErrorMessage = "Please enter your zip code")]
+        //[Required(ErrorMessage = "Please enter your zip code")]
         [Display(Name = "Zip code")]
         [StringLength(10, MinimumLength = 4)]
         public string ZipCode { get; set; }
@@ -44,7 +46,7 @@ namespace FlowerApp.Models
         [StringLength(10)]
         public string State { get; set; }
 
-        [Required(ErrorMessage = "Please enter your country")]
+        //[Required(ErrorMessage = "Please enter your country")]
         [StringLength(50)]
         public string Country { get; set; }
 
@@ -68,5 +70,15 @@ namespace FlowerApp.Models
         [BindNever]
         [ScaffoldColumn(false)]
         public DateTime OrderPlaced { get; set; }
+
+        [Required]
+        [StringLength(50)]
+        public string PayMethod { get; set; }
+
+        [StringLength(16)]
+        public string CardNumber { get; set; }
+
+        [StringLength(3)]
+        public string SecurityCode { get; set; }
     }
 }

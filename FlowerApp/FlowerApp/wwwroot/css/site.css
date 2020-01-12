@@ -35,16 +35,17 @@
 .addToCart {
     padding-right: 2px;
     padding-left: 2px;
-    display:block;
+    display: block;
 }
 
 .addToFavorite {
-    padding-right: 2px;
+    padding-right: 4px;
     padding-left: 2px;
     display: block;
     position: absolute;
     bottom: 31px;
     right: 2px;
+    margin-right: 12px;
 }
 
 .thumbnail {
@@ -72,6 +73,7 @@ footer {
 .nav.navbar-nav.navbar-right li a {
     color: white;
     font-size: 1.2em;
+    margin-right: 12px;
 }
 
 .navbar .nav > li > a {
@@ -100,3 +102,31 @@ footer {
     background-color: #fcaeae !important;
     border-color: #fba1a1 !important;
 }
+.notInStock {
+    padding-right: 2px;
+    padding-left: 2px;
+    display: block;
+    border-color: #33ccff !important;
+    margin-bottom: 17px;
+}
+.btnNotInStock {
+    background-color: #b3ecff !important;
+    border-color: #33ccff !important;
+    padding: 7px 7px;
+    margin-bottom: 50px;
+    border-color: blue;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    user-select: none;
+    background-image: none;
+    color: #0086b3;
+}
+

@@ -52,7 +52,22 @@ namespace FlowerApp.Models
             }
             else
             {
-                shoppingCartItem.Amount++;
+                //if (shoppingCartItem.Amount > 0 && shoppingCartItem.Amount < 9)
+                //{
+                //    shoppingCartItem.Amount += amount;
+                //}
+                //else
+                //    shoppingCartItem.Amount = amount;
+                if(shoppingCartItem.Amount < 1 )
+                {
+                    shoppingCartItem.Amount = amount + 1;
+                }
+                else if(shoppingCartItem.Amount > 8 )
+                {
+                    shoppingCartItem.Amount = amount;
+                }
+                else
+                    shoppingCartItem.Amount += amount;
             }
             _appDbContext.SaveChanges();
         }
