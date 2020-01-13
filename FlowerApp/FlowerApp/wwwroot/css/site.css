@@ -129,4 +129,56 @@ footer {
     background-image: none;
     color: #0086b3;
 }
+.lbl-low-Price {
+    left: -220px;
+    position: absolute;
+    margin-top: 360px;
+    padding-right: -64px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.lbl-high-Price {
+    left: -220px;
+    position: absolute;
+    margin-top: 400px;
+    padding-right: -64px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.asc-desc-dropButton {
+    left: -220px;
+    position: absolute;
+    margin-top: 300px;
+    padding-right: -64px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.stock-dropButton {
+    left: -220px;
+    position: absolute;
+    margin-top: 330px;
+    padding-right: -64px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.filter-button {
+    left: 0px;
+    position: absolute;
+    margin-top: 188px;
+    padding-right: -64px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
 
+.textFilter {
+    left: -220px;
+    position: absolute;
+    margin-top: 266px;
+    padding-right: -64px;
+    padding-right: 0px;
+    padding-left: 0px;
+    font-family: cursive;
+    font-size: initial;
+    font-variant: small-caps;
+    -webkit-text-stroke: thin;
+}

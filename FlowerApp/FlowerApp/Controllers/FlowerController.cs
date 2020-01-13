@@ -20,7 +20,7 @@ namespace FlowerApp.Controllers
             _categoryRepository = categoryRepository;
         }
 
-        public ViewResult List(string category, decimal lowPrice = 0, decimal highPrice = 0, string sorting = "")
+        public ViewResult List(string category, decimal lowPrice = 0, decimal highPrice = 0, string sorting = "", FlowerStock availability = 0)
         {
             IEnumerable<Flower> flowers;
             string currentCategory = string.Empty;
@@ -48,6 +48,20 @@ namespace FlowerApp.Controllers
                     flowers = flowers.OrderBy(p => p.Price);
                 else if (sorting.Equals("descending", StringComparison.OrdinalIgnoreCase))
                     flowers = flowers.OrderByDescending(p => p.Price);
+            }
+
+            switch (availability)
+            {
+                case FlowerStock.InStock:
+                    flowers = flowers.Where(x => x.InStock == true);
+                    break;
+
+                case FlowerStock.NotInStock:
+                    flowers = flowers.Where(x => x.InStock == false);
+                    break;
+
+                case FlowerStock.All:
+                    break;
             }
 
             return View(new FlowerListViewModel
@@ -110,6 +124,13 @@ namespace FlowerApp.Controllers
                 return flowers.Where(x => x.Price <= highPrice).OrderBy(p => p.FlowerId);
             else
                 return flowers;
+        }
+
+        public enum FlowerStock
+        {
+            All = 0,
+            InStock = 1,
+            NotInStock = 2
         }
 
         [HttpGet]

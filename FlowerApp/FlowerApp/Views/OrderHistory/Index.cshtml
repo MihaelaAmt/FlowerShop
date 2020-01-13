@@ -1,0 +1,34 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model OrderHistoryViewModel
+
+<table class="table table-condensed table-bordered">
+    <tr>
+        <th>Order ID </th>
+        <th>FirstName</th>
+        <th>LastName</th>
+        <th>Address</th>
+        <th>City</th>
+        <th>ShippingMethod</th>
+        <th>PhoneNumber</th>
+        <th>PayMethod</th>
+
+    </tr>
+
+    <tbody>
+        @foreach (var line in Model.Orders)
+        {
+        <tr>
+            <td class="text-center">
+                <a>@line.OrderId</a>
+            </td>
+            <td class="text-left">@line.FirstName</td>
+            <td class="text-left">@line.LastName</td>
+            <td class="text-left">@line.Address</td>
+            <td class="text-left">@line.City</td>
+            <td class="text-left">@line.ShippingMethod</td>
+            <td class="text-left">@line.PhoneNumber</td>
+            <td class="text-left">@line.PayMethod</td>
+        </tr>
+        }
+    </tbody>
+</table>

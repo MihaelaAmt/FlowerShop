@@ -8,6 +8,14 @@
         <option value="descending">Descending</option>
     </select>
     <button class="btn btn-outline-success my-2 my-sm-0" type="submit" asp-controller="Flower" asp-action="Search">Filter</button>
+
+    <select aria-label="Search" name="sorting">
+        <option value="all">All</option>
+        <option value="inStock">In Stock</option>
+        <option value="notInSto">Not In Stock</option>
+    </select>
+
+    <button class="btn btn-outline-success my-2 my-sm-0" type="submit" asp-controller="Flower" asp-action="StockFilter">Stock Filter</button>
 </form>
 @foreach (var flower in Model.Flowers)
 {

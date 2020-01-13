@@ -40,6 +40,7 @@ namespace FlowerApp.Controllers
 
             if (ModelState.IsValid)
             {
+                order.Email = User.Identity.Name;
                 _orderRepository.CreateOrder(order);
                 _shoppingCart.ClearCart();
                 return RedirectToAction("CheckoutComplete");

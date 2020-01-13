@@ -144,3 +144,7 @@ C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcor
 =======
 C:\Users\alexc\Documents\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\FlowerApp.csprojAssemblyReference.cache
 >>>>>>> 8d7cfafe8ffe7eb046808b426b0be60dacb041b6
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\History\Index.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\History\Index.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\OrderHistory\Index.g.cshtml.cs
+C:\Users\Mihaela\source\repos\FlowerShopApp\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\OrderHistory\Index.g.cshtml.cs
