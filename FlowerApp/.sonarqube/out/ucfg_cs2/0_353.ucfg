@@ -1,18 +1,20 @@
 
-$FlowerApp.Models.Flower.Category.setE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs0 (3"0*ó
+&FlowerApp.Models.Flower.IsFavorite.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& ()"0*€
 0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs4 (4∫
-∑
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs* (*í
+è
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs0 (4B
-FlowerApp.Models.Flower"%
-CategoryFlowerApp.Models.Category"__id*$
-"
-valueFlowerApp.Models.Category"ç
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& (*/
+FlowerApp.Models.Flower"
+
+IsFavoritebool"__id*
+
+valuebool"z
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs0 (4D*B
-FlowerApp.Models.Flower"%
-CategoryFlowerApp.Models.Category:"
-valueFlowerApp.Models.CategoryB
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& (*1*/
+FlowerApp.Models.Flower"
+
+IsFavoritebool:
+valueboolB
 FlowerApp.Models.Flower

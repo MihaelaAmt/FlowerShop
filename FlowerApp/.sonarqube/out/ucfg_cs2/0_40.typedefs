@@ -1,6 +1,11 @@
-ÿ
-$FlowerApp.Repository.OrderRepositoryobject√
-MOrderRepository(FlowerApp.Models.AppDbContext, FlowerApp.Models.ShoppingCart)rFlowerApp.Repository.OrderRepository.OrderRepository(FlowerApp.Models.AppDbContext, FlowerApp.Models.ShoppingCart)a
-GetOrdersAsViewModel(string)AFlowerApp.Repository.OrderRepository.GetOrdersAsViewModel(string)o
-#CreateOrder(FlowerApp.Models.Order)HFlowerApp.Repository.OrderRepository.CreateOrder(FlowerApp.Models.Order)ç
-2MapDbOrderToOrderViewModel(FlowerApp.Models.Order)WFlowerApp.Repository.OrderRepository.MapDbOrderToOrderViewModel(FlowerApp.Models.Order)
+˘
+.FlowerApp.ViewModels.ClaimsManagementViewModelobjecti
+ClaimsManagementViewModel()JFlowerApp.ViewModels.ClaimsManagementViewModel.ClaimsManagementViewModel()G
+
+UserId.get9FlowerApp.ViewModels.ClaimsManagementViewModel.UserId.getG
+
+UserId.set9FlowerApp.ViewModels.ClaimsManagementViewModel.UserId.setI
+ClaimId.get:FlowerApp.ViewModels.ClaimsManagementViewModel.ClaimId.getI
+ClaimId.set:FlowerApp.ViewModels.ClaimsManagementViewModel.ClaimId.setU
+AllClaimsList.get@FlowerApp.ViewModels.ClaimsManagementViewModel.AllClaimsList.getU
+AllClaimsList.set@FlowerApp.ViewModels.ClaimsManagementViewModel.AllClaimsList.set

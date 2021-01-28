@@ -1,16 +1,18 @@
 
-=FlowerApp.ViewModels.OrderHistoryDetailsViewModel.OrderId.get_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs ( "0*•
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs! (!¾
-»
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs (!	
-%0int"__id*G*E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-OrderIdint"n
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs (!
-	
-%0intB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+5FlowerApp.ViewModels.OrderHistoryViewModel.Orders.setX
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csG (J"0*¢
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csK (Kþ
+û
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csG (Kc,
+*FlowerApp.ViewModels.OrderHistoryViewModel"3
+Orders)System.Collections.Generic.IEnumerable<T>"__id*4
+2
+value)System.Collections.Generic.IEnumerable<T>"Á
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csG (Ke*c,
+*FlowerApp.ViewModels.OrderHistoryViewModel"3
+Orders)System.Collections.Generic.IEnumerable<T>:2
+value)System.Collections.Generic.IEnumerable<T>B.,
+*FlowerApp.ViewModels.OrderHistoryViewModel

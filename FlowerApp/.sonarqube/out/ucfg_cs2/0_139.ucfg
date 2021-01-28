@@ -1,18 +1,16 @@
 
-=FlowerApp.ViewModels.EditFlowerViewModel.ShortDescription.setV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs	. 	(1"0*Ã
+4FlowerApp.ViewModels.FlowerListViewModel.Flowers.getV
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs- (0"0*ä
 0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs	2 	(2¾
-»
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs1 (1ø
+õ
 V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs	. 	(2H*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-ShortDescriptionstring"__id*
-
-valuestring"¤
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs- (1/
+%0)System.Collections.Generic.IEnumerable<T>"__id*d*b*
+(FlowerApp.ViewModels.FlowerListViewModel"4
+Flowers)System.Collections.Generic.IEnumerable<T>"‹
 V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs	. 	(2J*H*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-ShortDescriptionstring:
-valuestringB,*
-(FlowerApp.ViewModels.EditFlowerViewModel
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs- (11
+/
+%0)System.Collections.Generic.IEnumerable<T>B,*
+(FlowerApp.ViewModels.FlowerListViewModel

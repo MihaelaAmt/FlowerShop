@@ -1,18 +1,18 @@
 
-:FlowerApp.ViewModels.OrderHistoryDetailsViewModel.City.set_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	" 	(%"0*Ø
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	& 	(&Ä
-Á
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	" 	(&E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-Citystring"__id*
+*FlowerApp.Auth.ApplicationUser.Country.setL
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs% (("0*ÿ
+0L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs) ()¡
+ž
+L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs% ()5 
+FlowerApp.Auth.ApplicationUser"
+Countrystring"__id*
 
-valuestring"ª
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	" 	(&G*E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-Citystring:
-valuestringB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+valuestring"‡
+L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs% ()7*5 
+FlowerApp.Auth.ApplicationUser"
+Countrystring:
+valuestringB" 
+FlowerApp.Auth.ApplicationUser

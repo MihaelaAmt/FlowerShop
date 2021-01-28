@@ -1,13 +1,13 @@
 
-0FlowerApp.Controllers.OrderController.Checkout()S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (%"2*²	
+/FlowerApp.Controllers.AdminController.AddUser()S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs+ +($"2*±	
 0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (Ð
-Í
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs- -(Ï
+Ì
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs- -(
 
-%0void"flowerapp/views/order/checkout*
+%0void"flowerapp/views/admin/adduser*
 
 %1*
 	{unknown}*
@@ -25,7 +25,7 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs 
 %HttpContextItemsHtmlobjectÌ
 É
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs- -(
 
 %2void"flowerapp/views/_viewstart*
 
@@ -45,7 +45,7 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs 
 %HttpContextItemsHtmlobjectÐ
 Í
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs- -(
 
 %4void"flowerapp/views/shared/_layout*
 
@@ -64,20 +64,20 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs 
 
 %HttpContextItemsHtmlobject"c
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs- -(
 
 
 %4void*Ä
 1S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs	 (	"j
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs.	 .(	"j
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (	
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs. .(	
 implicit return*Ê
 2S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs' ('k
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs+& +(&k
 i
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (%
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs+ +($
 %6"__entrypoint*
 0B)'
-%FlowerApp.Controllers.OrderController
+%FlowerApp.Controllers.AdminController

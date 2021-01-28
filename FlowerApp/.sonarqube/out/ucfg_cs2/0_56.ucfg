@@ -1,27 +1,27 @@
 
-XFlowerApp.Components.CategoryMenu.CategoryMenu(FlowerApp.Repository.ICategoryRepository)O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs ("1*Í
-1O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs	 (	r
+[FlowerApp.Components.ShoppingCartSummary.ShoppingCartSummary(FlowerApp.Models.ShoppingCart)V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (""1*Ô
+1V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs	 (	r
 p
 
 %0void"6Microsoft.AspNetCore.Mvc.ViewComponent.ViewComponent()**(
 &Microsoft.AspNetCore.Mvc.ViewComponent*
-0*à
-0O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (4„
-
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (4f#
-!FlowerApp.Components.CategoryMenu"?
-_categoryRepository(FlowerApp.Repository.ICategoryRepository"__id*@
->
-categoryRepository(FlowerApp.Repository.ICategoryRepository*
-2*¼
-2O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs	 (	"f
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (	
-implicit return:>
-categoryRepository(FlowerApp.Repository.ICategoryRepositoryB%#
-!FlowerApp.Components.CategoryMenu
+0*Ó
+0V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs ((ð
+í
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs ((\*
+(FlowerApp.Components.ShoppingCartSummary".
+_shoppingCartFlowerApp.Models.ShoppingCart"__id*/
+-
+shoppingCartFlowerApp.Models.ShoppingCart*
+2*Ê
+2V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs	 (	"m
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (	
+implicit return:-
+shoppingCartFlowerApp.Models.ShoppingCartB,*
+(FlowerApp.Components.ShoppingCartSummary

@@ -1,36 +1,18 @@
 
-[FlowerApp.Controllers.HomeController.HomeController(FlowerApp.Repository.IFlowerRepository)R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs ("3*Ç
-1R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs	 (	i
-g
+3FlowerApp.ViewModels.AddFlowerViewModel.InStock.getU
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs (!"0*ð
+0U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs" ("¬
+©
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs ("
 
-%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
-#Microsoft.AspNetCore.Mvc.Controller*
-0*á
-0R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (0‚
-ÿ
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (0e&
-$FlowerApp.Controllers.HomeController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepository"__id*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository*
-2*Â
-2R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs	 (	"i
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (	
-implicit return*ˆ
-3R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.csA (A©
-¦
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (
-%1"__entrypoint*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository*
-1::
-flowerRepository&FlowerApp.Repository.IFlowerRepositoryB(&
-$FlowerApp.Controllers.HomeController
+%0bool"__id*>*<)
+'FlowerApp.ViewModels.AddFlowerViewModel"
+InStockbool"e
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs ("
+
+
+%0boolB+)
+'FlowerApp.ViewModels.AddFlowerViewModel

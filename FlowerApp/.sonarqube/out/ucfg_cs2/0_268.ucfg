@@ -1,16 +1,23 @@
 
-&FlowerApp.Models.OrderDetail.Order.getJ
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs% (("0*ø
-0J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs) ()¸
-µ
-J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs% ()
-%0FlowerApp.Models.Order"__id*C*A
-FlowerApp.Models.OrderDetail"
-OrderFlowerApp.Models.Order"l
-J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs% ()
-
-%0FlowerApp.Models.OrderB 
-FlowerApp.Models.OrderDetail
+UFlowerApp.Repository.FlowerRepository.FlowerRepository(FlowerApp.Models.AppDbContext)S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ("1*]
+1S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs	 (	*
+0*Ê
+0S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ((ê
+ç
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ((Y'
+%FlowerApp.Repository.FlowerRepository".
+_appDbContextFlowerApp.Models.AppDbContext"__id*/
+-
+appDbContextFlowerApp.Models.AppDbContext*
+2*Ä
+2S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs	 (	"j
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (	
+implicit return:-
+appDbContextFlowerApp.Models.AppDbContextB)'
+%FlowerApp.Repository.FlowerRepository

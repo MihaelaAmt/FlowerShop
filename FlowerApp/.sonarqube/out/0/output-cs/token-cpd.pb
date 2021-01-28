@@ -13,53 +13,35 @@ BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs
 :! "
 IdentityUser# /
 { 
-public 
-DateTime 
-	Birthdate !
-{" #
-get$ '
-;' (
-set) ,
-;, -
-}. /
-public
-
- 
-string
-
- 
-City
-
- 
-{
-
- 
-get
-
-  
-;
-
-  !
-set
-
-" %
-;
-
-% &
-}
-
-' (
+public		 
+DateTime		 
+	Birthdate		 !
+{		" #
+get		$ '
+;		' (
+set		) ,
+;		, -
+}		. /
 public 
-string 
-Country 
-{ 
-get  #
-;# $
-set% (
-;( )
-}* +
-} 
-} ã
+string 
+City 
+{ 
+get  
+;  !
+set" %
+;% &
+}' (
+public 
+string 
+Country 
+{ 
+get  #
+;# $
+set% (
+;( )
+}* +
+} 
+} ã
 GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs
 	namespace 	
 	FlowerApp
@@ -67,43 +49,45 @@ GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs
 . 
 Auth 
 { 
-public 
+public 
 
-class  
-FlowerShopClaimTypes %
-{ 
-public 
-static 
-List 
-< 
-string !
->! "
+class  
+FlowerShopClaimTypes %
+{ 
+public		 
+static		 
+List		 
+<		 
+string		 !
+>		! "
 
-ClaimsList# -
-{. /
-get0 3
-;3 4
-set5 8
-;8 9
-}: ;
-=< =
-new> A
-ListB F
-<F G
-stringG M
->M N
-{O P
-$strQ `
-,` a
-$strb n
-,n o
-$str	p ‚
+ClaimsList		# -
+{		. /
+get		0 3
+;		3 4
+set		5 8
+;		8 9
+}		: ;
+=		< =
+new		> A
+List		B F
+<		F G
+string		G M
+>		M N
+{		O P
+$str		Q `
+,		` a
+$str		b n
+,		n o
+$str			p ‚
 }
-ƒ „
+		ƒ „
 ;
-„ …
-} 
-}		 û
+		„ …
+}
+
+ 
+} û
 FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs
 	namespace 	
 	FlowerApp
@@ -119,124 +103,100 @@ Components 
 : 
 ViewComponent *
 { 
-public  
-IViewComponentResult #
-Invoke$ *
-(* +
-)+ ,
-{		 	
-var
-
- 
-	menuItems
-
- 
-=
-
- 
-new
-
- 
-List
-
-  $
-<
-
-$ %
-AdminMenuItem
-
-% 2
->
-
-2 3
+public		  
+IViewComponentResult		 #
+Invoke		$ *
+(		* +
+)		+ ,
 {
 
-4 5
-new
-
-6 9
-AdminMenuItem
-
-: G
-(
-
-G H
-)
-
-H I
-{ 
-DisplayValue  
-=! "
-$str# 4
-,4 5
-ActionValue 
-=  !
-$str" 2
-} 
-, 
-new 
-AdminMenuItem "
-(" #
-)# $
-{ 
-DisplayValue  
-=! "
-$str# 4
-,4 5
-ActionValue 
-=  !
-$str" 2
-} 
-, 
-new 
-AdminMenuItem #
-(# $
-)$ %
-{ 
-DisplayValue  
-=! "
-$str# 6
-,6 7
-ActionValue 
-=  !
-$str" 4
-} 
-, 
-} 
-; 
-return 
-View 
-( 
-	menuItems !
-)! "
-;" #
-} 	
-}   
-public"" 
+ 	
+var 
+	menuItems 
+= 
+new 
+List  $
+<$ %
+AdminMenuItem% 2
+>2 3
+{4 5
+new6 9
+AdminMenuItem: G
+(G H
+)H I
+{ 
+DisplayValue  
+=! "
+$str# 4
+,4 5
+ActionValue 
+=  !
+$str" 2
+} 
+, 
+new 
+AdminMenuItem "
+(" #
+)# $
+{ 
+DisplayValue  
+=! "
+$str# 4
+,4 5
+ActionValue 
+=  !
+$str" 2
+} 
+, 
+new 
+AdminMenuItem #
+(# $
+)$ %
+{ 
+DisplayValue  
+=! "
+$str# 6
+,6 7
+ActionValue 
+=  !
+$str" 4
+}   
+,   
+}!! 
+;!! 
+return$$ 
+View$$ 
+($$ 
+	menuItems$$ !
+)$$! "
+;$$" #
+}%% 	
+}&& 
+public)) 
 
-class"" 
-AdminMenuItem"" 
-{## 
-public$$ 
-string$$ 
-DisplayValue$$ "
-{$$# $
-get$$% (
-;$$( )
-set$$* -
-;$$- .
-}$$/ 0
-public%% 
-string%% 
-ActionValue%% !
-{%%" #
-get%%$ '
-;%%' (
-set%%) ,
-;%%, -
-}%%. /
-}&& 
-}'' Ü	
+class)) 
+AdminMenuItem)) 
+{** 
+public,, 
+string,, 
+DisplayValue,, "
+{,,# $
+get,,% (
+;,,( )
+set,,* -
+;,,- .
+},,/ 0
+public// 
+string// 
+ActionValue// !
+{//" #
+get//$ '
+;//' (
+set//) ,
+;//, -
+}//. /
+}00 
+}11 Ü	
 EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs
 	namespace 	
 	FlowerApp
@@ -245,64 +205,64 @@ EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs
 
 Components 
 { 
-public 
+public 
 
-class 
-CategoryMenu 
-: 
-ViewComponent  -
-{ 
-private		 
-readonly		 
-ICategoryRepository		 ,
-_categoryRepository		- @
-;		@ A
-public 
-CategoryMenu 
-( 
-ICategoryRepository /
-categoryRepository0 B
-)B C
-{ 	
-_categoryRepository 
-=  !
-categoryRepository" 4
-;4 5
-} 	
-public  
-IViewComponentResult #
-Invoke$ *
-(* +
-)+ ,
-{ 	
-var 
+class 
+CategoryMenu 
+: 
+ViewComponent  -
+{		 
+private 
+readonly 
+ICategoryRepository ,
+_categoryRepository- @
+;@ A
+public 
+CategoryMenu 
+( 
+ICategoryRepository /
+categoryRepository0 B
+)B C
+{ 	
+_categoryRepository 
+=  !
+categoryRepository" 4
+;4 5
+} 	
+public  
+IViewComponentResult #
+Invoke$ *
+(* +
+)+ ,
+{ 	
+var 
 
-categories 
-= 
-_categoryRepository 0
-.0 1
+categories 
+= 
+_categoryRepository 0
+.0 1
 
-Categories1 ;
-.; <
-OrderBy< C
-(C D
-cD E
-=>F H
-cI J
-.J K
-CategoryNameK W
-)W X
-;X Y
-return 
-View 
-( 
+Categories1 ;
+.; <
+OrderBy< C
+(C D
+cD E
+=>F H
+cI J
+.J K
+CategoryNameK W
+)W X
+;X Y
+return 
+View 
+( 
 
-categories "
-)" #
-;# $
-} 	
-} 
-} Û
+categories "
+)" #
+;# $
+} 	
+} 
+} Û
 LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs
 	namespace 	
 	FlowerApp
@@ -311,79 +271,89 @@ LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs
 
 Components 
 { 
-public 
+public 
 
-class 
-ShoppingCartSummary $
-:% &
-ViewComponent' 4
-{ 
-private		 
-readonly		 
-ShoppingCart		 %
-_shoppingCart		& 3
-;		3 4
-public 
-ShoppingCartSummary "
-(" #
-ShoppingCart# /
-shoppingCart0 <
-)< =
-{ 	
-_shoppingCart 
-= 
-shoppingCart (
-;( )
-} 	
-public  
-IViewComponentResult #
-Invoke$ *
-(* +
-)+ ,
-{ 	
-var 
-items 
-= 
-_shoppingCart %
-.% & 
-GetShoppingCartItems& :
-(: ;
-); <
-;< =
-_shoppingCart 
-. 
-ShoppingCartItems +
-=, -
-items. 3
-;3 4
-var 
-shoppingViewModel !
-=" #
-new$ '!
-ShoppingCartViewModel( =
-{ 
-ShoppingCart 
-= 
-_shoppingCart ,
-,, -
-ShoppingCartTotal !
-=" #
-_shoppingCart$ 1
-.1 2 
-GetShoppingCartTotal2 F
-(F G
-)G H
-} 
-; 
-return 
-View 
-( 
-shoppingViewModel )
-)) *
-;* +
-} 	
-} 
-} î1
+class 
+ShoppingCartSummary $
+:% &
+ViewComponent' 4
+{		 
+private
+
+ 
+readonly
+
+ 
+ShoppingCart
+
+ %
+_shoppingCart
+
+& 3
+;
+
+3 4
+public 
+ShoppingCartSummary "
+(" #
+ShoppingCart# /
+shoppingCart0 <
+)< =
+{ 	
+_shoppingCart 
+= 
+shoppingCart (
+;( )
+} 	
+public  
+IViewComponentResult #
+Invoke$ *
+(* +
+)+ ,
+{ 	
+var 
+items 
+= 
+_shoppingCart %
+.% & 
+GetShoppingCartItems& :
+(: ;
+); <
+;< =
+_shoppingCart 
+. 
+ShoppingCartItems +
+=, -
+items. 3
+;3 4
+var 
+shoppingViewModel !
+=" #
+new$ '!
+ShoppingCartViewModel( =
+{ 
+ShoppingCart 
+= 
+_shoppingCart ,
+,, -
+ShoppingCartTotal !
+=" #
+_shoppingCart$ 1
+.1 2 
+GetShoppingCartTotal2 F
+(F G
+)G H
+} 
+; 
+return   
+View   
+(   
+shoppingViewModel   )
+)  ) *
+;  * +
+}!! 	
+}"" 
+}## î1
 KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs
 	namespace 	
 	FlowerApp
@@ -391,351 +361,345 @@ KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs
 . 
 Controllers 
 {		 
-[
-
- 
-	Authorize
-
- 
-]
-
- 
-public 
+[ 
+	Authorize 
+] 
+public 
 
-class 
-AccountController "
-:# $
+class 
+AccountController "
+:# $
 
-Controller% /
-{ 
-private 
-readonly 
-UserManager $
-<$ %
-ApplicationUser% 4
->4 5
-_userManager6 B
-;B C
-private 
-readonly 
-SignInManager &
-<& '
-ApplicationUser' 6
->6 7
-_signInManager8 F
-;F G
-public 
-AccountController  
-(  !
-UserManager! ,
-<, -
-ApplicationUser- <
->< =
-userManager> I
-,I J
-SignInManager 
-< 
-ApplicationUser )
->) *
-signInManager+ 8
-)8 9
-{ 	
-_userManager 
-= 
-userManager &
-;& '
-_signInManager 
-= 
-signInManager *
-;* +
-} 	
-[ 	
-AllowAnonymous	 
-] 
-public 
-IActionResult 
-Login "
-(" #
-string# )
-	returnUrl* 3
-)3 4
-{ 	
-return 
-View 
-( 
-new 
-LoginViewModel *
-{ 
-	ReturnUrl 
-= 
-	returnUrl %
-} 
-) 
-; 
-} 	
-[   	
-HttpPost  	 
-]   
-[!! 	
-AllowAnonymous!!	 
-]!! 
-public"" 
-async"" 
-Task"" 
-<"" 
-IActionResult"" '
->""' (
-Login"") .
-("". /
-LoginViewModel""/ =
-loginViewModel""> L
-)""L M
-{## 	
-if$$ 
-($$ 
-!$$ 
+Controller% /
+{ 
+private 
+readonly 
+UserManager $
+<$ %
+ApplicationUser% 4
+>4 5
+_userManager6 B
+;B C
+private 
+readonly 
+SignInManager &
+<& '
+ApplicationUser' 6
+>6 7
+_signInManager8 F
+;F G
+public 
+AccountController  
+(  !
+UserManager! ,
+<, -
+ApplicationUser- <
+>< =
+userManager> I
+,I J
+SignInManager 
+< 
+ApplicationUser )
+>) *
+signInManager+ 8
+)8 9
+{ 	
+_userManager 
+= 
+userManager &
+;& '
+_signInManager 
+= 
+signInManager *
+;* +
+} 	
+[ 	
+AllowAnonymous	 
+] 
+public 
+IActionResult 
+Login "
+(" #
+string# )
+	returnUrl* 3
+)3 4
+{ 	
+return   
+View   
+(   
+new   
+LoginViewModel   *
+{!! 
+	ReturnUrl"" 
+="" 
+	returnUrl"" %
+}## 
+)## 
+;## 
+}$$ 	
+['' 	
+HttpPost''	 
+]'' 
+[** 	
+AllowAnonymous**	 
+]** 
+public++ 
+async++ 
+Task++ 
+<++ 
+IActionResult++ '
+>++' (
+Login++) .
+(++. /
+LoginViewModel++/ =
+loginViewModel++> L
+)++L M
+{,, 	
+if-- 
+(-- 
+!-- 
 
-ModelState$$ 
-.$$ 
-IsValid$$ #
-)$$# $
-return%% 
-View%% 
-(%% 
-loginViewModel%% *
-)%%* +
-;%%+ ,
-var'' 
-user'' 
-='' 
-await'' 
-_userManager'' )
-.'') *
-FindByNameAsync''* 9
-(''9 :
-loginViewModel'': H
-.''H I
-UserName''I Q
-)''Q R
-;''R S
-if)) 
-()) 
-user)) 
-!=)) 
-null)) 
-))) 
-{** 
-var++ 
-result++ 
-=++ 
-await++ "
-_signInManager++# 1
-.++1 2
-PasswordSignInAsync++2 E
-(++E F
-user++F J
-,++J K
-loginViewModel++L Z
-.++Z [
-Password++[ c
-,++c d
-false++e j
-,++j k
-false++l q
-)++q r
-;++r s
-if,, 
-(,, 
-result,, 
-.,, 
-	Succeeded,, $
-),,$ %
-{-- 
-if.. 
-(.. 
-string.. 
-... 
-IsNullOrEmpty.. ,
-(.., -
-loginViewModel..- ;
-...; <
-	ReturnUrl..< E
-)..E F
-)..F G
-return// 
-RedirectToAction// /
-(/// 0
-$str//0 7
-,//7 8
-$str//9 ?
-)//? @
-;//@ A
-return11 
-Redirect11 #
-(11# $
-loginViewModel11$ 2
-.112 3
-	ReturnUrl113 <
-)11< =
-;11= >
-}22 
-}33 
+ModelState-- 
+.-- 
+IsValid-- #
+)--# $
+return.. 
+View.. 
+(.. 
+loginViewModel.. *
+)..* +
+;..+ ,
+var00 
+user00 
+=00 
+await00 
+_userManager00 )
+.00) *
+FindByNameAsync00* 9
+(009 :
+loginViewModel00: H
+.00H I
+UserName00I Q
+)00Q R
+;00R S
+if22 
+(22 
+user22 
+!=22 
+null22 
+)22 
+{33 
+var55 
+result55 
+=55 
+await55 "
+_signInManager55# 1
+.551 2
+PasswordSignInAsync552 E
+(55E F
+user55F J
+,55J K
+loginViewModel55L Z
+.55Z [
+Password55[ c
+,55c d
+false55e j
+,55j k
+false55l q
+)55q r
+;55r s
+if88 
+(88 
+result88 
+.88 
+	Succeeded88 $
+)88$ %
+{99 
+if;; 
+(;; 
+string;; 
+.;; 
+IsNullOrEmpty;; ,
+(;;, -
+loginViewModel;;- ;
+.;;; <
+	ReturnUrl;;< E
+);;E F
+);;F G
+return<< 
+RedirectToAction<< /
+(<</ 0
+$str<<0 7
+,<<7 8
+$str<<9 ?
+)<<? @
+;<<@ A
+return>> 
+Redirect>> #
+(>># $
+loginViewModel>>$ 2
+.>>2 3
+	ReturnUrl>>3 <
+)>>< =
+;>>= >
+}?? 
+}@@ 
 
-ModelState55 
-.55 
-AddModelError55 $
-(55$ %
-$str55% '
-,55' (
-$str55) F
-)55F G
-;55G H
-return66 
-View66 
-(66 
-loginViewModel66 &
-)66& '
-;66' (
-}77 	
-[99 	
-AllowAnonymous99	 
-]99 
-public:: 
-IActionResult:: 
-Register:: %
-(::% &
-)::& '
-{;; 	
-return<< 
-View<< 
-(<< 
-)<< 
-;<< 
-}== 	
-[?? 	
-HttpPost??	 
-]?? 
-[@@ 	$
-ValidateAntiForgeryToken@@	 !
-]@@! "
-[AA 	
-AllowAnonymousAA	 
-]AA 
-publicBB 
-asyncBB 
-TaskBB 
-<BB 
-IActionResultBB '
->BB' (
-RegisterBB) 1
-(BB1 2
-LoginViewModelBB2 @
-loginViewModelBBA O
-)BBO P
-{CC 	
-ifDD 
-(DD 
+ModelStateBB 
+.BB 
+AddModelErrorBB $
+(BB$ %
+$strBB% '
+,BB' (
+$strBB) F
+)BBF G
+;BBG H
+returnDD 
+ViewDD 
+(DD 
+loginViewModelDD &
+)DD& '
+;DD' (
+}EE 	
+[HH 	
+AllowAnonymousHH	 
+]HH 
+publicII 
+IActionResultII 
+RegisterII %
+(II% &
+)II& '
+{JJ 	
+returnKK 
+ViewKK 
+(KK 
+)KK 
+;KK 
+}LL 	
+[OO 	
+HttpPostOO	 
+]OO 
+[PP 	$
+ValidateAntiForgeryTokenPP	 !
+]PP! "
+[QQ 	
+AllowAnonymousQQ	 
+]QQ 
+publicRR 
+asyncRR 
+TaskRR 
+<RR 
+IActionResultRR '
+>RR' (
+RegisterRR) 1
+(RR1 2
+LoginViewModelRR2 @
+loginViewModelRRA O
+)RRO P
+{SS 	
+ifTT 
+(TT 
 
-ModelStateDD 
-.DD 
-IsValidDD "
-)DD" #
-{EE 
-varFF 
-userFF 
-=FF 
-newFF 
-ApplicationUserFF .
-(FF. /
-)FF/ 0
-{FF1 2
-UserNameFF3 ;
-=FF< =
-loginViewModelFF> L
-.FFL M
-UserNameFFM U
-}FFV W
-;FFW X
-varGG 
-resultGG 
-=GG 
-awaitGG "
-_userManagerGG# /
-.GG/ 0
-CreateAsyncGG0 ;
-(GG; <
-userGG< @
-,GG@ A
-loginViewModelGGB P
-.GGP Q
-PasswordGGQ Y
-)GGY Z
-;GGZ [
-ifII 
-(II 
-resultII 
-.II 
-	SucceededII $
-)II$ %
-{JJ 
-returnKK 
-RedirectToActionKK +
-(KK+ ,
-$strKK, 3
-,KK3 4
-$strKK5 ;
-)KK; <
-;KK< =
-}LL 
-}MM 
+ModelStateTT 
+.TT 
+IsValidTT "
+)TT" #
+{UU 
+varWW 
+userWW 
+=WW 
+newWW 
+ApplicationUserWW .
+(WW. /
+)WW/ 0
+{WW1 2
+UserNameWW3 ;
+=WW< =
+loginViewModelWW> L
+.WWL M
+UserNameWWM U
+}WWV W
+;WWW X
+varXX 
+resultXX 
+=XX 
+awaitXX "
+_userManagerXX# /
+.XX/ 0
+CreateAsyncXX0 ;
+(XX; <
+userXX< @
+,XX@ A
+loginViewModelXXB P
+.XXP Q
+PasswordXXQ Y
+)XXY Z
+;XXZ [
+if[[ 
+([[ 
+result[[ 
+.[[ 
+	Succeeded[[ $
+)[[$ %
+{\\ 
+return]] 
+RedirectToAction]] +
+(]]+ ,
+$str]], 3
+,]]3 4
+$str]]5 ;
+)]]; <
+;]]< =
+}^^ 
+}__ 
 
-ModelStateOO 
-.OO 
-AddModelErrorOO $
-(OO$ %
-$strOO% '
-,OO' (
-$strOO) G
-)OOG H
-;OOH I
-returnPP 
-ViewPP 
-(PP 
-loginViewModelPP &
-)PP& '
-;PP' (
-}QQ 	
-[SS 	
-HttpPostSS	 
-]SS 
-publicTT 
-asyncTT 
-TaskTT 
-<TT 
-IActionResultTT '
->TT' (
-LogoutTT) /
-(TT/ 0
-)TT0 1
-{UU 	
-awaitVV 
-_signInManagerVV  
-.VV  !
-SignOutAsyncVV! -
-(VV- .
-)VV. /
-;VV/ 0
-returnWW 
-RedirectToActionWW #
-(WW# $
-$strWW$ +
-,WW+ ,
-$strWW- 3
-)WW3 4
-;WW4 5
-}XX 	
-}YY 
-}ZZ •µ
+ModelStatebb 
+.bb 
+AddModelErrorbb $
+(bb$ %
+$strbb% '
+,bb' (
+$strbb) G
+)bbG H
+;bbH I
+returncc 
+Viewcc 
+(cc 
+loginViewModelcc &
+)cc& '
+;cc' (
+}dd 	
+[hh 	
+HttpPosthh	 
+]hh 
+publicjj 
+asyncjj 
+Taskjj 
+<jj 
+IActionResultjj '
+>jj' (
+Logoutjj) /
+(jj/ 0
+)jj0 1
+{kk 	
+awaitll 
+_signInManagerll  
+.ll  !
+SignOutAsyncll! -
+(ll- .
+)ll. /
+;ll/ 0
+returnnn 
+RedirectToActionnn #
+(nn# $
+$strnn$ +
+,nn+ ,
+$strnn- 3
+)nn3 4
+;nn4 5
+}oo 	
+}pp 
+}qq •µ
 IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs
 	namespace 	
 	FlowerApp

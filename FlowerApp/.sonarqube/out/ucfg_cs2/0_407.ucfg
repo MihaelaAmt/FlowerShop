@@ -1,82 +1,102 @@
 
-1FlowerApp.Controllers.FlowerController.Favorite()T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csJ J(""2*Á
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csL  T(&¯
-ı
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csL* L(;,
-%0&FlowerApp.Repository.IFlowerRepository"__id*i*g(
-&FlowerApp.Controllers.FlowerController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepository˚¯
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csL* L(C/
-%1)System.Collections.Generic.IEnumerable<T>"2FlowerApp.Repository.IFlowerRepository.Flowers.get*.
-,
-%0&FlowerApp.Repository.IFlowerRepository2Flowers.get’
-“
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csL* M()/
-%2)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
-System.Linq.Enumerable*1
-/
-%1)System.Collections.Generic.IEnumerable<T>*
-""‹
-Ÿ
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csL* N().
-%3(System.Linq.IOrderedEnumerable<TElement>"zSystem.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)*"
-System.Linq.Enumerable*1
-/
-%2)System.Collections.Generic.IEnumerable<T>*
-""™
-ß
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csL* O((
-%4"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*0
+5FlowerApp.Controllers.AdminController.EditFlower(int)U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csˇ ˇ('"4*Ï
+0U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÅ Ö(|z
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÅ Å(
+%ViewBagDataAllobject"object}{
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÅ Å(
+%ViewBagDataHtmlobject"object˛
+˚
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÅ% Å(8.
+%0(FlowerApp.Repository.ICategoryRepository"__id*l*j'
+%FlowerApp.Controllers.AdminController"?
+_categoryRepository(FlowerApp.Repository.ICategoryRepositoryÜÉ
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÅ% Å(C/
+%1)System.Collections.Generic.IEnumerable<T>"7FlowerApp.Repository.ICategoryRepository.Categories.get*0
 .
-%3(System.Linq.IOrderedEnumerable<TElement>¡
-æ
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csL  O(4
-flowers)System.Collections.Generic.IEnumerable<T>"__id**
+%0(FlowerApp.Repository.ICategoryRepository2Categories.get¨
+©
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÅ% Å(L(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%1)System.Collections.Generic.IEnumerable<T>√
+¿
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÅ Å(L
+%3"__mapSet*
+
+%ViewBagDataAllobject*
+
+categories**
 (
-%4"System.Collections.Generic.List<T>≥∞
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csQ U(.
-%5(FlowerApp.ViewModels.FlowerListViewModel"(FlowerApp.ViewModels.FlowerListViewModel◊
-‘
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csQ Q(/
+%2"System.Collections.Generic.List<T>†
+ù
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÅ Å(L
+%4"__mapSet*
+
+%ViewBagDataHtmlobject*
 
-%6void">FlowerApp.ViewModels.FlowerListViewModel.FlowerListViewModel()*0
-.
-%5(FlowerApp.ViewModels.FlowerListViewModel™
-ß
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csS S(!/
-%7)System.Collections.Generic.IEnumerable<T>"4FlowerApp.ViewModels.FlowerListViewModel.Flowers.set*0
-.
-%5(FlowerApp.ViewModels.FlowerListViewModel*6
-4
-flowers)System.Collections.Generic.IEnumerable<T>ﬂ
-‹
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csT T(&
-%8string"<FlowerApp.ViewModels.FlowerListViewModel.CurrentCategory.set*0
-.
-%5(FlowerApp.ViewModels.FlowerListViewModel*
-""ˆ
-Û
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csQ U(
+categories*
+""¯
+ı
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÉ É(*,
+%5&FlowerApp.Repository.IFlowerRepository"__id*h*f'
+%FlowerApp.Controllers.AdminController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepositoryÄ˝
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÉ É(<
+%6FlowerApp.Models.Flower"9FlowerApp.Repository.IFlowerRepository.GetFlowerById(int)*.
+,
+%5&FlowerApp.Repository.IFlowerRepository*
+""2GetFlowerById(int)§
+°
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÉ É(<!
+flowerFlowerApp.Models.Flower"__id*
+
+%6FlowerApp.Models.Flower√
+¿
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÖ Ö(
 
-%9void"flowerapp/views/flower/favorite*
+%7bool""object.operator ==(object, object)*
+"
+object*#
+!
+flowerFlowerApp.Models.Flower*
+""*
+1
+2*«
+1U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÜ Ü(T¯
+ı
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÜ0 Ü(A,
+%8&FlowerApp.Repository.IFlowerRepository"__id*h*f'
+%FlowerApp.Controllers.AdminController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepositoryíè
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÜ0 Ü(T/
+%9)System.Collections.Generic.IEnumerable<T>"=FlowerApp.Repository.IFlowerRepository.FlowersAsViewModel.get*.
+,
+%8&FlowerApp.Repository.IFlowerRepository2FlowersAsViewModel.getÄ
+˝
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÜ Ü(U
+%10void"&flowerapp/views/admin/flowermanagement*
 
-%10*0
-.
-%5(FlowerApp.ViewModels.FlowerListViewModel*
+%11*1
+/
+%9)System.Collections.Generic.IEnumerable<T>*
 
 %ViewBagDataAllobject*
 
@@ -88,15 +108,15 @@ JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csQ 
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjectÚ
-Ô
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csQ U(
-%11void"flowerapp/views/_viewstart*
+%HttpContextItemsHtmlobjectÙ
+Ò
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÜ Ü(U
+%12void"flowerapp/views/_viewstart*
 
-%12*0
-.
-%5(FlowerApp.ViewModels.FlowerListViewModel*
+%13*1
+/
+%9)System.Collections.Generic.IEnumerable<T>*
 
 %ViewBagDataAllobject*
 
@@ -108,15 +128,15 @@ JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csQ 
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjectˆ
-Û
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csQ U(
-%13void"flowerapp/views/shared/_layout*
+%HttpContextItemsHtmlobject¯
+ı
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÜ Ü(U
+%14void"flowerapp/views/shared/_layout*
 
-%14*0
-.
-%5(FlowerApp.ViewModels.FlowerListViewModel*
+%15*1
+/
+%9)System.Collections.Generic.IEnumerable<T>*
 
 %ViewBagDataAllobject*
 
@@ -128,21 +148,233 @@ JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csQ 
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobject"e
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csQ U(
+%HttpContextItemsHtmlobject"f
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÜ Ü(V
 
-%13void*∆
-1T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csV	 V(	"k
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csV V(	
-implicit return*Õ
-2T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csJ$ J($m
-k
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csJ J("
-%15"__entrypoint*
-0B*(
-&FlowerApp.Controllers.FlowerController
+%14void*Ö-
+2U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csà ï(+µ≤
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csà& ì(/
+%16(FlowerApp.ViewModels.EditFlowerViewModel"(FlowerApp.ViewModels.EditFlowerViewModel⁄
+◊
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csà* à(=
+%17void">FlowerApp.ViewModels.EditFlowerViewModel.EditFlowerViewModel()*1
+/
+%16(FlowerApp.ViewModels.EditFlowerViewModel∞
+≠
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csä ä("
+%18string" FlowerApp.Models.Flower.Name.get*#
+!
+flowerFlowerApp.Models.Flower‡
+›
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csä ä("
+%19string"1FlowerApp.ViewModels.EditFlowerViewModel.Name.set*1
+/
+%16(FlowerApp.ViewModels.EditFlowerViewModel*
+
+%18stringº
+π
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csã# ã(:
+%20string",FlowerApp.Models.Flower.ShortDescription.get*#
+!
+flowerFlowerApp.Models.FlowerÏ
+È
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csã ã(:
+%21string"=FlowerApp.ViewModels.EditFlowerViewModel.ShortDescription.set*1
+/
+%16(FlowerApp.ViewModels.EditFlowerViewModel*
+
+%20stringª
+∏
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cså" å(8
+%22string"+FlowerApp.Models.Flower.LongDescription.get*#
+!
+flowerFlowerApp.Models.FlowerÎ
+Ë
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cså å(8
+%23string"<FlowerApp.ViewModels.EditFlowerViewModel.LongDescription.set*1
+/
+%16(FlowerApp.ViewModels.EditFlowerViewModel*
+
+%22string≤
+Ø
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csç ç($
+%24decimal"!FlowerApp.Models.Flower.Price.get*#
+!
+flowerFlowerApp.Models.Flower„
+‡
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csç ç($
+%25decimal"2FlowerApp.ViewModels.EditFlowerViewModel.Price.set*1
+/
+%16(FlowerApp.ViewModels.EditFlowerViewModel*
+
+%24decimal¥
+±
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csé é(*
+%26string"$FlowerApp.Models.Flower.ImageUrl.get*#
+!
+flowerFlowerApp.Models.Flower‰
+·
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csé é(*
+%27string"5FlowerApp.ViewModels.EditFlowerViewModel.ImageUrl.set*1
+/
+%16(FlowerApp.ViewModels.EditFlowerViewModel*
+
+%26stringΩ
+∫
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csè$ è(<
+%28string"-FlowerApp.Models.Flower.ImageThumbnailUrl.get*#
+!
+flowerFlowerApp.Models.FlowerÌ
+Í
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csè è(<
+%29string">FlowerApp.ViewModels.EditFlowerViewModel.ImageThumbnailUrl.set*1
+/
+%16(FlowerApp.ViewModels.EditFlowerViewModel*
+
+%28stringæ
+ª
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csê' ê(B
+%30bool"0FlowerApp.Models.Flower.IsFlowerPresentation.get*#
+!
+flowerFlowerApp.Models.FlowerÏ
+È
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csê ê(B
+%31bool"AFlowerApp.ViewModels.EditFlowerViewModel.IsFlowerPresentation.set*1
+/
+%16(FlowerApp.ViewModels.EditFlowerViewModel*
+
+%30bool±
+Æ
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csë ë((
+%32bool"#FlowerApp.Models.Flower.InStock.get*#
+!
+flowerFlowerApp.Models.Flowerﬂ
+‹
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csë ë((
+%33bool"4FlowerApp.ViewModels.EditFlowerViewModel.InStock.set*1
+/
+%16(FlowerApp.ViewModels.EditFlowerViewModel*
+
+%32bool≥
+∞
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csí í(.
+
+%34int"&FlowerApp.Models.Flower.CategoryId.get*#
+!
+flowerFlowerApp.Models.Flower‡
+›
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csí í(.
+
+%35int"7FlowerApp.ViewModels.EditFlowerViewModel.CategoryId.set*1
+/
+%16(FlowerApp.ViewModels.EditFlowerViewModel*
+
+
+%34int‘
+—
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csà ì(?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModel"__id*1
+/
+%16(FlowerApp.ViewModels.EditFlowerViewModelä
+á
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csï ï(,
+%36void" flowerapp/views/admin/editflower*
+
+%37*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectÑ
+Å
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csï ï(,
+%38void"flowerapp/views/_viewstart*
+
+%39*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectà
+Ö
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csï ï(,
+%40void"flowerapp/views/shared/_layout*
+
+%41*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"f
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csï ï(-
+
+%40void*»
+3U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csñ	 ñ(	"l
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csñ ñ(	
+implicit return*◊
+4U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csˇ/ ˇ(/v
+t
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csˇ ˇ('
+%42"__entrypoint*
+""*
+0:	
+idintB)'
+%FlowerApp.Controllers.AdminController

@@ -1,16 +1,23 @@
 
-(FlowerApp.Models.AppDbContext.Orders.getK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "("0*À
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "(ç
-ä
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "(2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*[*Y
-FlowerApp.Models.AppDbContext"6
-Orders,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ƒ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "(4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
-FlowerApp.Models.AppDbContext
+MFlowerApp.Repository.ModelFlowerRepository.AddFlower(FlowerApp.Models.Flower)X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs- -("0*Ö
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs/ /(/£ 
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs/ /(/$
+%0System.NotImplementedException"System.NotImplementedExceptionË
+È
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs/ /(-
+
+%1void"8System.NotImplementedException.NotImplementedException()*&
+$
+%0System.NotImplementedException*
+1*Î
+1X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs0	 0(	"o
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs0 0(	
+implicit return:!
+flowerFlowerApp.Models.FlowerB.,
+*FlowerApp.Repository.ModelFlowerRepository

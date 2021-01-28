@@ -1,165 +1,121 @@
 
-4FlowerApp.Controllers.ShoppingCartController.Index()Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs ("2*¸"
-0Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (-Ó
-Î
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (%#
-%0FlowerApp.Models.ShoppingCart"__id*b*`.
-,FlowerApp.Controllers.ShoppingCartController".
-_shoppingCartFlowerApp.Models.ShoppingCartÊ
-„
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (<(
-%1"System.Collections.Generic.List<T>"4FlowerApp.Models.ShoppingCart.GetShoppingCartItems()*%
-#
-%0FlowerApp.Models.ShoppingCartæ
-ª
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (<+
-items"System.Collections.Generic.List<T>"__id**
-(
-%1"System.Collections.Generic.List<T>Ó
-Î
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (#
-%2FlowerApp.Models.ShoppingCart"__id*b*`.
-,FlowerApp.Controllers.ShoppingCartController".
-_shoppingCartFlowerApp.Models.ShoppingCartî
-ë
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (3(
-%3"System.Collections.Generic.List<T>"3FlowerApp.Models.ShoppingCart.ShoppingCartItems.set*%
-#
-%2FlowerApp.Models.ShoppingCart*-
-+
-items"System.Collections.Generic.List<T>Ω∫
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs( (0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel"*FlowerApp.ViewModels.ShoppingCartViewModel„
-‡
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs, (A
+5FlowerApp.Controllers.AccountController.Login(string)U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs (""2*
+0U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs  "(%™ß
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs  #()
+%0#FlowerApp.ViewModels.LoginViewModel"#FlowerApp.ViewModels.LoginViewModel…
+∆
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs   (*
 
-%5void"BFlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartViewModel()*2
-0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel
-Ì
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (,#
-%6FlowerApp.Models.ShoppingCart"__id*d*b
-0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel".
-_shoppingCartFlowerApp.Models.ShoppingCartú
-ô
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (,#
-%7FlowerApp.Models.ShoppingCart";FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.set*2
-0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel*%
-#
-%6FlowerApp.Models.ShoppingCartÓ
-Î
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs$ (1#
-%8FlowerApp.Models.ShoppingCart"__id*b*`.
-,FlowerApp.Controllers.ShoppingCartController".
-_shoppingCartFlowerApp.Models.ShoppingCartÀ
-»
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs$ (H
-%9decimal"4FlowerApp.Models.ShoppingCart.GetShoppingCartTotal()*%
-#
-%8FlowerApp.Models.ShoppingCartˆ
-Û
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (H
-%10decimal"@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.set*2
-0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel*
+%1void"4FlowerApp.ViewModels.LoginViewModel.LoginViewModel()*+
+)
+%0#FlowerApp.ViewModels.LoginViewModelﬂ
+‹
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs" "(%
+%2string"1FlowerApp.ViewModels.LoginViewModel.ReturnUrl.set*+
+)
+%0#FlowerApp.ViewModels.LoginViewModel*
+
+	returnUrlstringÔ
+Ï
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs  #(
 
-%9decimalﬁ
+%3void"flowerapp/views/account/login*
+
+%4*+
+)
+%0#FlowerApp.ViewModels.LoginViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectÏ
+È
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs  #(
+
+%5void"flowerapp/views/_viewstart*
+
+%6*+
+)
+%0#FlowerApp.ViewModels.LoginViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject
+Ì
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs  #(
+
+%7void"flowerapp/views/shared/_layout*
+
+%8*+
+)
+%0#FlowerApp.ViewModels.LoginViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"e
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs  #(
+
+
+%7void*»
+1U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs$	 $(	"l
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs$ $(	
+implicit return*—
+2U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs4 (4Ö
+Ç
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs ("
+%9"__entrypoint*
+
+	returnUrlstringﬁ
 €
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (C
-shoppingCartViewModel*FlowerApp.ViewModels.ShoppingCartViewModel"__id*2
-0
-%4*FlowerApp.ViewModels.ShoppingCartViewModelï
-í
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (.
-%11void""flowerapp/views/shoppingcart/index*
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs	 (
+%10"
+__annotate*XV
+TMicrosoft.AspNetCore.Authorization.AllowAnonymousAttribute.AllowAnonymousAttribute()*
+
+	returnUrlstringÜ
+É
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs# (3
+	returnUrlstring"__annotation*
 
-%12*E
-C
-shoppingCartViewModel*FlowerApp.ViewModels.ShoppingCartViewModel*
-
-%ViewBagDataAllobject*
-
-%ViewBagDataHtmlobject*
-
-%TempDataAllobject*
-
-%TempDataHtmlobject* 
-
-%HttpContextItemsAllobject*!
-
-%HttpContextItemsHtmlobjectç
-ä
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (.
-%13void"flowerapp/views/_viewstart*
-
-%14*E
-C
-shoppingCartViewModel*FlowerApp.ViewModels.ShoppingCartViewModel*
-
-%ViewBagDataAllobject*
-
-%ViewBagDataHtmlobject*
-
-%TempDataAllobject*
-
-%TempDataHtmlobject* 
-
-%HttpContextItemsAllobject*!
-
-%HttpContextItemsHtmlobjectë
-é
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (.
-%15void"flowerapp/views/shared/_layout*
-
-%16*E
-C
-shoppingCartViewModel*FlowerApp.ViewModels.ShoppingCartViewModel*
-
-%ViewBagDataAllobject*
-
-%ViewBagDataHtmlobject*
-
-%TempDataAllobject*
-
-%TempDataHtmlobject* 
-
-%HttpContextItemsAllobject*!
-
-%HttpContextItemsHtmlobject"k
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (/
-
-%15void*“
-1Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs 	  (	"q
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs   (	
-implicit return*Ÿ
-2Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs! (!s
-q
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (
-%17"__entrypoint*
-0B0.
-,FlowerApp.Controllers.ShoppingCartController
+%10*
+0:
+	returnUrlstringB+)
+'FlowerApp.Controllers.AccountController

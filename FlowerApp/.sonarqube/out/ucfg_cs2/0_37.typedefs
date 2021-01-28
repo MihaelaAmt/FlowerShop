@@ -1,12 +1,15 @@
-‹
-FlowerApp.Models.ShoppingCartobjectx
-+ShoppingCart(FlowerApp.Models.AppDbContext)IFlowerApp.Models.ShoppingCart.ShoppingCart(FlowerApp.Models.AppDbContext)p
-'AddToCart(FlowerApp.Models.Flower, int)EFlowerApp.Models.ShoppingCart.AddToCart(FlowerApp.Models.Flower, int)p
-'RemoveFromCart(FlowerApp.Models.Flower)EFlowerApp.Models.ShoppingCart.RemoveFromCart(FlowerApp.Models.Flower)N
-GetShoppingCartItems()4FlowerApp.Models.ShoppingCart.GetShoppingCartItems()8
-ClearCart())FlowerApp.Models.ShoppingCart.ClearCart()N
-GetShoppingCartTotal()4FlowerApp.Models.ShoppingCart.GetShoppingCartTotal()F
-ShoppingCartId.get0FlowerApp.Models.ShoppingCart.ShoppingCartId.getF
-ShoppingCartId.set0FlowerApp.Models.ShoppingCart.ShoppingCartId.setL
-ShoppingCartItems.get3FlowerApp.Models.ShoppingCart.ShoppingCartItems.getL
-ShoppingCartItems.set3FlowerApp.Models.ShoppingCart.ShoppingCartItems.set
+“
+%FlowerApp.ViewModels.AddUserViewModelobjectN
+AddUserViewModel()8FlowerApp.ViewModels.AddUserViewModel.AddUserViewModel()B
+UserName.get2FlowerApp.ViewModels.AddUserViewModel.UserName.getB
+UserName.set2FlowerApp.ViewModels.AddUserViewModel.UserName.set<
+	Email.get/FlowerApp.ViewModels.AddUserViewModel.Email.get<
+	Email.set/FlowerApp.ViewModels.AddUserViewModel.Email.setB
+Password.get2FlowerApp.ViewModels.AddUserViewModel.Password.getB
+Password.set2FlowerApp.ViewModels.AddUserViewModel.Password.setD
+Birthdate.get3FlowerApp.ViewModels.AddUserViewModel.Birthdate.getD
+Birthdate.set3FlowerApp.ViewModels.AddUserViewModel.Birthdate.set:
+City.get.FlowerApp.ViewModels.AddUserViewModel.City.get:
+City.set.FlowerApp.ViewModels.AddUserViewModel.City.set@
+Country.get1FlowerApp.ViewModels.AddUserViewModel.Country.get@
+Country.set1FlowerApp.ViewModels.AddUserViewModel.Country.set

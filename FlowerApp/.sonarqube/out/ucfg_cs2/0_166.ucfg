@@ -1,16 +1,18 @@
 
-2FlowerApp.ViewModels.AddUserViewModel.Password.getS
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs! ($"0*ï
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs% (%­
-ª
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs! (%
-%0string"__id*?*='
-%FlowerApp.ViewModels.AddUserViewModel"
-Passwordstring"e
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs! (%
-
-%0stringB)'
-%FlowerApp.ViewModels.AddUserViewModel
+0FlowerApp.ViewModels.EditRoleViewModel.Users.setT
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditRoleViewModel.cs) (,"0*÷
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditRoleViewModel.cs- (-ç
+ä
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditRoleViewModel.cs) (-W(
+&FlowerApp.ViewModels.EditRoleViewModel"+
+Users"System.Collections.Generic.List<T>"__id*-
++
+value"System.Collections.Generic.List<T>"±
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditRoleViewModel.cs) (-Y*W(
+&FlowerApp.ViewModels.EditRoleViewModel"+
+Users"System.Collections.Generic.List<T>:+
+value"System.Collections.Generic.List<T>B*(
+&FlowerApp.ViewModels.EditRoleViewModel

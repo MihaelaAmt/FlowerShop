@@ -1,16 +1,23 @@
 
-5FlowerApp.ViewModels.OrderHistoryViewModel.Orders.getX
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csB (E"0*Î
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csF (F˚
-¯
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csB (F/
-%0)System.Collections.Generic.IEnumerable<T>"__id*e*c,
-*FlowerApp.ViewModels.OrderHistoryViewModel"3
-Orders)System.Collections.Generic.IEnumerable<T>"ç
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csB (F1
-/
-%0)System.Collections.Generic.IEnumerable<T>B.,
-*FlowerApp.ViewModels.OrderHistoryViewModel
+IFlowerApp.Models.ShoppingCart.ShoppingCart(FlowerApp.Models.AppDbContext)K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs ("1*U
+1K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs	 (	*
+0*≤
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs ((⁄
+◊
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs ((Q
+FlowerApp.Models.ShoppingCart".
+_appDbContextFlowerApp.Models.AppDbContext"__id*/
+-
+appDbContextFlowerApp.Models.AppDbContext*
+2*¥
+2K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs	 (	"b
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (	
+implicit return:-
+appDbContextFlowerApp.Models.AppDbContextB!
+FlowerApp.Models.ShoppingCart

@@ -1,18 +1,28 @@
 
-3FlowerApp.ViewModels.EditUserViewModel.UserName.setT
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs& ()"0*©
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs* (*²
-¯
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs& (*>(
-&FlowerApp.ViewModels.EditUserViewModel"
-UserNamestring"__id*
-
-valuestring"˜
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs& (*@*>(
-&FlowerApp.ViewModels.EditUserViewModel"
-UserNamestring:
-valuestringB*(
-&FlowerApp.ViewModels.EditUserViewModel
+(FlowerApp.Models.Category.CategoryId.setG
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs
+ 
+("0*â
+0G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs
+ 
+(”
+‘
+G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs
+ 
+(0
+FlowerApp.Models.Category"
+
+CategoryIdint"__id*
+
+valueint"}
+G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs
+ 
+(2*0
+FlowerApp.Models.Category"
+
+CategoryIdint:
+valueintB
+FlowerApp.Models.Category

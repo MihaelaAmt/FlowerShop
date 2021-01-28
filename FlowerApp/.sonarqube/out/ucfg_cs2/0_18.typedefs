@@ -1,6 +1,3 @@
-ä
-FlowerApp.Migrations.Order22Microsoft.EntityFrameworkCore.Migrations.Migrationobjectš
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)YFlowerApp.Migrations.Order2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ž
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)[FlowerApp.Migrations.Order2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)˜
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)XFlowerApp.Migrations.Order2.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)0
-Order2()$FlowerApp.Migrations.Order2.Order2()
+E
+FlowerApp.Programobject(
+	Program()FlowerApp.Program.Program()

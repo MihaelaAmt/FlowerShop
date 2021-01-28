@@ -1,8 +1,15 @@
-À
-#FlowerApp.TagHelpers.EmailTagHelper/Microsoft.AspNetCore.Razor.TagHelpers.TagHelperobject•
-vProcess(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput)šFlowerApp.TagHelpers.EmailTagHelper.Process(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput)H
-EmailTagHelper()4FlowerApp.TagHelpers.EmailTagHelper.EmailTagHelper()>
-Address.get/FlowerApp.TagHelpers.EmailTagHelper.Address.get>
-Address.set/FlowerApp.TagHelpers.EmailTagHelper.Address.set>
-Content.get/FlowerApp.TagHelpers.EmailTagHelper.Content.get>
-Content.set/FlowerApp.TagHelpers.EmailTagHelper.Content.set
+§
+!FlowerApp.Models.ShoppingCartItemobjectJ
+ShoppingCartItem()4FlowerApp.Models.ShoppingCartItem.ShoppingCartItem()R
+ShoppingCartItemId.get8FlowerApp.Models.ShoppingCartItem.ShoppingCartItemId.getR
+ShoppingCartItemId.set8FlowerApp.Models.ShoppingCartItem.ShoppingCartItemId.set:
+
+Flower.get,FlowerApp.Models.ShoppingCartItem.Flower.get:
+
+Flower.set,FlowerApp.Models.ShoppingCartItem.Flower.set:
+
+Amount.get,FlowerApp.Models.ShoppingCartItem.Amount.get:
+
+Amount.set,FlowerApp.Models.ShoppingCartItem.Amount.setJ
+ShoppingCartId.get4FlowerApp.Models.ShoppingCartItem.ShoppingCartId.getJ
+ShoppingCartId.set4FlowerApp.Models.ShoppingCartItem.ShoppingCartId.set

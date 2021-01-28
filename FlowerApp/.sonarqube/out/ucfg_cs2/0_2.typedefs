@@ -1,4 +1,4 @@
-è
-'FlowerApp.Controllers.ContactController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject:
-Index()/FlowerApp.Controllers.ContactController.Index()R
-ContactController();FlowerApp.Controllers.ContactController.ContactController()
+†
+!FlowerApp.Components.CategoryMenu&Microsoft.AspNetCore.Mvc.ViewComponentobjectí
+6CategoryMenu(FlowerApp.Repository.ICategoryRepository)XFlowerApp.Components.CategoryMenu.CategoryMenu(FlowerApp.Repository.ICategoryRepository)6
+Invoke()*FlowerApp.Components.CategoryMenu.Invoke()

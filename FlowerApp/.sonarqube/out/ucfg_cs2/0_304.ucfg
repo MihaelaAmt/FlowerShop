@@ -1,16 +1,18 @@
 
-)FlowerApp.Models.Order.ShippingMethod.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs' (*"0*¹
+'FlowerApp.Models.Order.AddressLine2.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs#* #(-"0*à
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs+ (+•
-’
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs#. #(.–
+“
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs' (+
-%0string"__id*6*4
-FlowerApp.Models.Order"
-ShippingMethodstring"V
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs#* #(.2
+FlowerApp.Models.Order"
+AddressLine2string"__id*
+
+valuestring"|
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs' (+
-
-%0stringB
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs#* #(.4*2
+FlowerApp.Models.Order"
+AddressLine2string:
+valuestringB
 FlowerApp.Models.Order

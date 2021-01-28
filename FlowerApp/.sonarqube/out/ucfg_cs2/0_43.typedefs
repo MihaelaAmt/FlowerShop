@@ -1,9 +1,6 @@
-˝
-&FlowerApp.ViewModels.EditRoleViewModelobjectQ
-EditRoleViewModel():FlowerApp.ViewModels.EditRoleViewModel.EditRoleViewModel()7
-Id.get-FlowerApp.ViewModels.EditRoleViewModel.Id.get7
-Id.set-FlowerApp.ViewModels.EditRoleViewModel.Id.setC
-RoleName.get3FlowerApp.ViewModels.EditRoleViewModel.RoleName.getC
-RoleName.set3FlowerApp.ViewModels.EditRoleViewModel.RoleName.set=
-	Users.get0FlowerApp.ViewModels.EditRoleViewModel.Users.get=
-	Users.set0FlowerApp.ViewModels.EditRoleViewModel.Users.set
+ÿ
+$FlowerApp.Repository.OrderRepositoryobject√
+MOrderRepository(FlowerApp.Models.AppDbContext, FlowerApp.Models.ShoppingCart)rFlowerApp.Repository.OrderRepository.OrderRepository(FlowerApp.Models.AppDbContext, FlowerApp.Models.ShoppingCart)a
+GetOrdersAsViewModel(string)AFlowerApp.Repository.OrderRepository.GetOrdersAsViewModel(string)o
+#CreateOrder(FlowerApp.Models.Order)HFlowerApp.Repository.OrderRepository.CreateOrder(FlowerApp.Models.Order)ç
+2MapDbOrderToOrderViewModel(FlowerApp.Models.Order)WFlowerApp.Repository.OrderRepository.MapDbOrderToOrderViewModel(FlowerApp.Models.Order)

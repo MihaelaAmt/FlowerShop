@@ -1,18 +1,18 @@
 
->FlowerApp.ViewModels.EditFlowerViewModel.ImageThumbnailUrl.setV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs/ (2"0*Å
-0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs3 (3¿
-¼
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs/ (3I*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-ImageThumbnailUrlstring"__id*
-
-valuestring"¥
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs/ (3K*I*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-ImageThumbnailUrlstring:
-valuestringB,*
-(FlowerApp.ViewModels.EditFlowerViewModel
+5FlowerApp.ViewModels.FlowerDetailViewModel.Flower.setX
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerDetailViewModel.cs$ ('"0*ì
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerDetailViewModel.cs( ((Ú
+×
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerDetailViewModel.cs$ ((Q,
+*FlowerApp.ViewModels.FlowerDetailViewModel"!
+FlowerFlowerApp.Models.Flower"__id*"
+ 
+valueFlowerApp.Models.Flower"¯
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerDetailViewModel.cs$ ((S*Q,
+*FlowerApp.ViewModels.FlowerDetailViewModel"!
+FlowerFlowerApp.Models.Flower: 
+valueFlowerApp.Models.FlowerB.,
+*FlowerApp.ViewModels.FlowerDetailViewModel

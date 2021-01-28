@@ -1,18 +1,16 @@
 
-8FlowerApp.Models.ShoppingCartItem.ShoppingCartItemId.setO
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs- (0"0*›
-0O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs1 (1¬
-©
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs- (1@#
-!FlowerApp.Models.ShoppingCartItem"
-ShoppingCartItemIdint"__id*
+2FlowerApp.ViewModels.AddUserViewModel.Password.getS
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs! ($"0*ï
+0S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs% (%­
+ª
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs! (%
+%0string"__id*?*='
+%FlowerApp.ViewModels.AddUserViewModel"
+Passwordstring"e
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs! (%
 
-valueint"•
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs- (1B*@#
-!FlowerApp.Models.ShoppingCartItem"
-ShoppingCartItemIdint:
-valueintB%#
-!FlowerApp.Models.ShoppingCartItem
+%0stringB)'
+%FlowerApp.ViewModels.AddUserViewModel

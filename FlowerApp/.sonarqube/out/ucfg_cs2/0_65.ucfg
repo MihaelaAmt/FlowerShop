@@ -1,18 +1,16 @@
 
-;FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.setX
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs0 (3"0*Š
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs4 (4ì
-é
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs0 (4],
-*FlowerApp.ViewModels.ShoppingCartViewModel"-
-ShoppingCartFlowerApp.Models.ShoppingCart"__id*(
-&
-valueFlowerApp.Models.ShoppingCart"»
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs0 (4_*],
-*FlowerApp.ViewModels.ShoppingCartViewModel"-
-ShoppingCartFlowerApp.Models.ShoppingCart:&
-valueFlowerApp.Models.ShoppingCartB.,
-*FlowerApp.ViewModels.ShoppingCartViewModel
+3FlowerApp.Models.ShoppingCart.ShoppingCartItems.getK
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs: (="0*¬
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs> (>Þ
+Û
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs: (>(
+%0"System.Collections.Generic.List<T>"__id*\*Z
+FlowerApp.Models.ShoppingCart"7
+ShoppingCartItems"System.Collections.Generic.List<T>"y
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs: (>*
+(
+%0"System.Collections.Generic.List<T>B!
+FlowerApp.Models.ShoppingCart

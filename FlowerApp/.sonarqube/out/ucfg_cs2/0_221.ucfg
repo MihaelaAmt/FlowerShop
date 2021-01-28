@@ -1,86 +1,70 @@
 
-HFlowerApp.Controllers.ShoppingCartController.RemoveFromShoppingCart(int)Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs?& ?(<"4*Î
-
-0Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csA C(&„
-
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csA! A(2,
-%0&FlowerApp.Repository.IFlowerRepository"__id*o*m.
-,FlowerApp.Controllers.ShoppingCartController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepositoryþ
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csA! A(:/
-%1)System.Collections.Generic.IEnumerable<T>"2FlowerApp.Repository.IFlowerRepository.Flowers.get*.
-,
-%0&FlowerApp.Repository.IFlowerRepository2Flowers.getÒ
-Ï
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csA! A(f
-%2FlowerApp.Models.Flower"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+!razor_component_CategoryMenuO
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs$ (*"0*Ü
+0O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs ("ô
+ñ
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (0.
+%0(FlowerApp.Repository.ICategoryRepository"__id*h*f#
+!FlowerApp.Components.CategoryMenu"?
+_categoryRepository(FlowerApp.Repository.ICategoryRepository€ý
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (;/
+%1)System.Collections.Generic.IEnumerable<T>"7FlowerApp.Repository.ICategoryRepository.Categories.get*0
+.
+%0(FlowerApp.Repository.ICategoryRepository2Categories.get×
+Ô
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (X.
+%2(System.Linq.IOrderedEnumerable<TElement>"zSystem.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)*"
 System.Linq.Enumerable*1
 /
 %1)System.Collections.Generic.IEnumerable<T>*
-""±
-®
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csA A(f)
-selectedFlowerFlowerApp.Models.Flower"__id*
-
-%2FlowerApp.Models.FlowerÐ
-Í
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csC C(&
+""Ä
+Á
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (X6
 
-%3bool""object.operator !=(object, object)*
-"
-object*+
-)
-selectedFlowerFlowerApp.Models.Flower*
-""*
-1
-2*Ý
-1Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csE E(;î
-ë
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csE E(#
-%4FlowerApp.Models.ShoppingCart"__id*b*`.
-,FlowerApp.Controllers.ShoppingCartController".
-_shoppingCartFlowerApp.Models.ShoppingCart…
-‚
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csE E(<	
-%5int"EFlowerApp.Models.ShoppingCart.RemoveFromCart(FlowerApp.Models.Flower)*%
-#
-%4FlowerApp.Models.ShoppingCart*+
-)
-selectedFlowerFlowerApp.Models.Flower*
-2*¤
-2Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csG G(+ª§
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csG G(,5
-%6/Microsoft.AspNetCore.Mvc.RedirectToActionResult"@Microsoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*	
-Index2RedirectToAction(string)"•
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csG G(-7
-5
-%6/Microsoft.AspNetCore.Mvc.RedirectToActionResult*Ò
-3Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csH	 H(	"q
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csH H(	
-implicit return*à
-4Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs?J ?(Jz
-x
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs?& ?(<
-%7"__entrypoint*
-""*
-0:
-flowerIdintB0.
-,FlowerApp.Controllers.ShoppingCartController
+categories(System.Linq.IOrderedEnumerable<TElement>"__id*0
+.
+%2(System.Linq.IOrderedEnumerable<TElement>‰
+†
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (#
+
+%3void"6flowerapp/views/shared/components/categorymenu/default*
+
+%4*8
+6
+
+categories(System.Linq.IOrderedEnumerable<TElement>*
+
+ViewBagDataAllobject*
+
+ViewBagDataHtmlobject*
+
+TempDataAllobject*
+
+TempDataHtmlobject*
+
+HttpContextItemsAllobject* 
+
+HttpContextItemsHtmlobject"_
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs ($
+
+
+%3void*¼
+1O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs	 (	"f
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (	
+implicit return:
+ViewBagDataAllobject:
+ViewBagDataHtmlobject:
+TempDataAllobject:
+TempDataHtmlobject:
+HttpContextItemsAllobject:
+HttpContextItemsHtmlobjectB%#
+!FlowerApp.Components.CategoryMenu

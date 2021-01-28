@@ -1,99 +1,103 @@
 
-$!razor_component_ShoppingCartSummaryV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs$ (*"0*ô
-0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs ()Ê
-„
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (%#
-%0FlowerApp.Models.ShoppingCart"__id*^*\*
-(FlowerApp.Components.ShoppingCartSummary".
-_shoppingCartFlowerApp.Models.ShoppingCart‚
-ﬂ
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (<(
-%1"System.Collections.Generic.List<T>"4FlowerApp.Models.ShoppingCart.GetShoppingCartItems()*%
-#
-%0FlowerApp.Models.ShoppingCart∫
-∑
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (<+
-items"System.Collections.Generic.List<T>"__id**
+!razor_component_AdminMenuP
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs	$ 	(*"0*ƒ
+0P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs $(!£†
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs !((
+%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>∏
+µ
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs  (3
+
+%1void")System.Collections.Generic.List<T>.List()**
 (
-%1"System.Collections.Generic.List<T>Ê
-„
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (#
-%2FlowerApp.Models.ShoppingCart"__id*^*\*
-(FlowerApp.Components.ShoppingCartSummary".
-_shoppingCartFlowerApp.Models.ShoppingCartê
-ç
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (3(
-%3"System.Collections.Generic.List<T>"3FlowerApp.Models.ShoppingCart.ShoppingCartItems.set*%
-#
-%2FlowerApp.Models.ShoppingCart*-
-+
-items"System.Collections.Generic.List<T>π∂
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs$ (0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel"*FlowerApp.ViewModels.ShoppingCartViewModelﬂ
-‹
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs( (=
+%0"System.Collections.Generic.List<T>£†
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs6 ((
+%2"FlowerApp.Components.AdminMenuItem""FlowerApp.Components.AdminMenuItem¡
+æ
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs: (G
 
-%5void"BFlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartViewModel()*2
-0
-%4*FlowerApp.ViewModels.ShoppingCartViewModelÏ
-È
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (,#
-%6FlowerApp.Models.ShoppingCart"__id*d*b
-0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel".
-_shoppingCartFlowerApp.Models.ShoppingCartò
-ï
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (,#
-%7FlowerApp.Models.ShoppingCart";FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.set*2
-0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel*%
-#
-%6FlowerApp.Models.ShoppingCartÊ
-„
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs$ (1#
-%8FlowerApp.Models.ShoppingCart"__id*^*\*
-(FlowerApp.Components.ShoppingCartSummary".
-_shoppingCartFlowerApp.Models.ShoppingCart«
-ƒ
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs$ (H
-%9decimal"4FlowerApp.Models.ShoppingCart.GetShoppingCartTotal()*%
-#
-%8FlowerApp.Models.ShoppingCartÚ
-Ô
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (H
-%10decimal"@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.set*2
-0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel*
+%3void"2FlowerApp.Components.AdminMenuItem.AdminMenuItem()**
+(
+%2"FlowerApp.Components.AdminMenuItemŸ
+÷
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (4
+%4string"3FlowerApp.Components.AdminMenuItem.DisplayValue.set**
+(
+%2"FlowerApp.Components.AdminMenuItem*
+User management◊
+‘
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (2
+%5string"2FlowerApp.Components.AdminMenuItem.ActionValue.set**
+(
+%2"FlowerApp.Components.AdminMenuItem*
+UserManagement£†
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs ((
+%6"FlowerApp.Components.AdminMenuItem""FlowerApp.Components.AdminMenuItem¡
+æ
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs ("
 
-%9decimal÷
-”
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (?
-shoppingViewModel*FlowerApp.ViewModels.ShoppingCartViewModel"__id*2
-0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel¢
-ü
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (*
-%11void"=flowerapp/views/shared/components/shoppingcartsummary/default*
+%7void"2FlowerApp.Components.AdminMenuItem.AdminMenuItem()**
+(
+%6"FlowerApp.Components.AdminMenuItemŸ
+÷
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (4
+%8string"3FlowerApp.Components.AdminMenuItem.DisplayValue.set**
+(
+%6"FlowerApp.Components.AdminMenuItem*
+Role management◊
+‘
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (2
+%9string"2FlowerApp.Components.AdminMenuItem.ActionValue.set**
+(
+%6"FlowerApp.Components.AdminMenuItem*
+RoleManagement§°
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs  ()
+%10"FlowerApp.Components.AdminMenuItem""FlowerApp.Components.AdminMenuItem√
+¿
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (#
+%11void"2FlowerApp.Components.AdminMenuItem.AdminMenuItem()*+
+)
+%10"FlowerApp.Components.AdminMenuItem›
+⁄
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (6
+%12string"3FlowerApp.Components.AdminMenuItem.DisplayValue.set*+
+)
+%10"FlowerApp.Components.AdminMenuItem*
+Flower management€
+ÿ
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (4
+%13string"2FlowerApp.Components.AdminMenuItem.ActionValue.set*+
+)
+%10"FlowerApp.Components.AdminMenuItem*
+FlowerManagement∏
+µ
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs !(/
+	menuItems"System.Collections.Generic.List<T>"__id**
+(
+%0"System.Collections.Generic.List<T>Ç
+ˇ
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs$ $("
+%14void"3flowerapp/views/shared/components/adminmenu/default*
 
-%12*A
-?
-shoppingViewModel*FlowerApp.ViewModels.ShoppingCartViewModel*
+%15*1
+/
+	menuItems"System.Collections.Generic.List<T>*
 
 ViewBagDataAllobject*
 
@@ -105,20 +109,20 @@ LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs
 
 HttpContextItemsAllobject* 
 
-HttpContextItemsHtmlobject"g
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (+
+HttpContextItemsHtmlobject"a
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs$ $(#
 
-%11void* 
-1V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs	 (	"m
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (	
+%14void*æ
+1P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs%	 %(	"g
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs% %(	
 implicit return:
 ViewBagDataAllobject:
 ViewBagDataHtmlobject:
 TempDataAllobject:
 TempDataHtmlobject:
 HttpContextItemsAllobject:
-HttpContextItemsHtmlobjectB,*
-(FlowerApp.Components.ShoppingCartSummary
+HttpContextItemsHtmlobjectB" 
+FlowerApp.Components.AdminMenu

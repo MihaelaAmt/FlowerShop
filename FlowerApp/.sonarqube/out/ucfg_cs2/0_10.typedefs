@@ -1,4 +1,4 @@
-≠
-(FlowerApp.Components.ShoppingCartSummary&Microsoft.AspNetCore.Mvc.ViewComponentobjectë
-2ShoppingCartSummary(FlowerApp.Models.ShoppingCart)[FlowerApp.Components.ShoppingCartSummary.ShoppingCartSummary(FlowerApp.Models.ShoppingCart)=
-Invoke()1FlowerApp.Components.ShoppingCartSummary.Invoke()
+è
+'FlowerApp.Controllers.ContactController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject:
+Index()/FlowerApp.Controllers.ContactController.Index()R
+ContactController();FlowerApp.Controllers.ContactController.ContactController()

@@ -1,16 +1,195 @@
 
-)FlowerApp.Models.AppDbContext.Flowers.getK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs ("0*Á
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (è
-å
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*\*Z
-FlowerApp.Models.AppDbContext"7
-Flowers,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ƒ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (4
+HFlowerApp.Repository.OrderRepository.CreateOrder(FlowerApp.Models.Order)R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs) )("0*Û
+0R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs+ 1(>œ
+™
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs+  +(,
+%0System.DateTime"System.DateTime.Now.get*"
+System.DateTimeÒ
+Ï
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs+ +(,
+%1System.DateTime"&FlowerApp.Models.Order.OrderPlaced.set*!
+
+orderFlowerApp.Models.Order*
+
+%0System.DateTimeÞ
+Û
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs- -(#
+%2FlowerApp.Models.AppDbContext"__id*Z*X&
+$FlowerApp.Repository.OrderRepository".
+_appDbContextFlowerApp.Models.AppDbContextÜ
+Ù
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs- -( 2
+%3,Microsoft.EntityFrameworkCore.DbSet<TEntity>"(FlowerApp.Models.AppDbContext.Orders.get*%
+#
+%2FlowerApp.Models.AppDbContextÂ¿
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs- -(+G
+%4AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
 2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
-FlowerApp.Models.AppDbContext
+%3,Microsoft.EntityFrameworkCore.DbSet<TEntity>*!
+
+orderFlowerApp.Models.Order2Add(TEntity)Þ
+Û
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs/$ /(1#
+%5FlowerApp.Models.ShoppingCart"__id*Z*X&
+$FlowerApp.Repository.OrderRepository".
+_shoppingCartFlowerApp.Models.ShoppingCartÝ
+Ú
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs/$ /(C(
+%6"System.Collections.Generic.List<T>"3FlowerApp.Models.ShoppingCart.ShoppingCartItems.get*%
+#
+%5FlowerApp.Models.ShoppingCartÂ
+¿
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs/ /(C7
+shoppingCartItems"System.Collections.Generic.List<T>"__id**
+(
+%6"System.Collections.Generic.List<T>*
+1*_
+1R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs?	 ?(	*
+2
+3*¬
+2R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs3 ;(:™–
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs3" 9("
+%7FlowerApp.Models.OrderDetail"FlowerApp.Models.OrderDetailµ
+²
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs3& 3(1
+
+%8void"*FlowerApp.Models.OrderDetail.OrderDetail()*$
+"
+%7FlowerApp.Models.OrderDetailÉ
+Æ
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs5 5(4	
+%9int",FlowerApp.Models.ShoppingCartItem.Amount.get*7
+5
+shoppingCartItem!FlowerApp.Models.ShoppingCartItem¿
+¼
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs5 5(4
+
+%10int"'FlowerApp.Models.OrderDetail.Amount.set*$
+"
+%7FlowerApp.Models.OrderDetail*
+	
+%9intÞ
+Û
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs6 6(6
+%11FlowerApp.Models.Flower",FlowerApp.Models.ShoppingCartItem.Flower.get*7
+5
+shoppingCartItem!FlowerApp.Models.ShoppingCartItem«
+¨
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs6 6(?
+
+%12int"$FlowerApp.Models.Flower.FlowerId.get* 
+
+%11FlowerApp.Models.FlowerÂ
+¿
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs6 6(?
+
+%13int")FlowerApp.Models.OrderDetail.FlowerId.set*$
+"
+%7FlowerApp.Models.OrderDetail*
+
+
+%12intª
+§
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs7 7(+
+
+%14int""FlowerApp.Models.Order.OrderId.get*!
+
+orderFlowerApp.Models.OrderÁ
+¾
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs7 7(+
+
+%15int"(FlowerApp.Models.OrderDetail.OrderId.set*$
+"
+%7FlowerApp.Models.OrderDetail*
+
+
+%14intÞ
+Û
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs8 8(3
+%16FlowerApp.Models.Flower",FlowerApp.Models.ShoppingCartItem.Flower.get*7
+5
+shoppingCartItem!FlowerApp.Models.ShoppingCartItem¬
+©
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs8 8(9
+%17decimal"!FlowerApp.Models.Flower.Price.get* 
+
+%16FlowerApp.Models.FlowerÇ
+Ä
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs8 8(9
+%18decimal"&FlowerApp.Models.OrderDetail.Price.set*$
+"
+%7FlowerApp.Models.OrderDetail*
+
+%17decimal°
+­
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs3 9(+
+orderDetailFlowerApp.Models.OrderDetail"__id*$
+"
+%7FlowerApp.Models.OrderDetailß
+Ü
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs; ;($
+%19FlowerApp.Models.AppDbContext"__id*Z*X&
+$FlowerApp.Repository.OrderRepository".
+_appDbContextFlowerApp.Models.AppDbContextä
+á
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs; ;(*3
+%20,Microsoft.EntityFrameworkCore.DbSet<TEntity>".FlowerApp.Models.AppDbContext.OrderDetails.get*&
+$
+%19FlowerApp.Models.AppDbContextÐÍ
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs; ;(;H
+%21AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*5
+3
+%20,Microsoft.EntityFrameworkCore.DbSet<TEntity>*-
++
+orderDetailFlowerApp.Models.OrderDetail2Add(TEntity)*
+1*’
+3R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs> >('ß
+Ü
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs> >($
+%22FlowerApp.Models.AppDbContext"__id*Z*X&
+$FlowerApp.Repository.OrderRepository".
+_appDbContextFlowerApp.Models.AppDbContextÑÎ
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs> >('
+
+%23int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*&
+$
+%22FlowerApp.Models.AppDbContext2SaveChanges()*
+4*Â
+4R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs?	 ?(	"i
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs? ?(	
+implicit return:
+orderFlowerApp.Models.OrderB(&
+$FlowerApp.Repository.OrderRepository

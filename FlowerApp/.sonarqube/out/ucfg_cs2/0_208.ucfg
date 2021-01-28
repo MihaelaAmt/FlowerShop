@@ -1,70 +1,18 @@
 
-!razor_component_CategoryMenuO
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs$ (*"0*Ü
-0O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs ("ô
-ñ
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (0.
-%0(FlowerApp.Repository.ICategoryRepository"__id*h*f#
-!FlowerApp.Components.CategoryMenu"?
-_categoryRepository(FlowerApp.Repository.ICategoryRepository€ý
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (;/
-%1)System.Collections.Generic.IEnumerable<T>"7FlowerApp.Repository.ICategoryRepository.Categories.get*0
-.
-%0(FlowerApp.Repository.ICategoryRepository2Categories.get×
-Ô
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (X.
-%2(System.Linq.IOrderedEnumerable<TElement>"zSystem.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)*"
-System.Linq.Enumerable*1
-/
-%1)System.Collections.Generic.IEnumerable<T>*
-""Ä
-Á
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (X6
-
-categories(System.Linq.IOrderedEnumerable<TElement>"__id*0
-.
-%2(System.Linq.IOrderedEnumerable<TElement>‰
-†
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (#
-
-%3void"6flowerapp/views/shared/components/categorymenu/default*
-
-%4*8
-6
-
-categories(System.Linq.IOrderedEnumerable<TElement>*
-
-ViewBagDataAllobject*
-
-ViewBagDataHtmlobject*
-
-TempDataAllobject*
-
-TempDataHtmlobject*
-
-HttpContextItemsAllobject* 
-
-HttpContextItemsHtmlobject"_
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs ($
-
-
-%3void*¼
-1O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs	 (	"f
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (	
-implicit return:
-ViewBagDataAllobject:
-ViewBagDataHtmlobject:
-TempDataAllobject:
-TempDataHtmlobject:
-HttpContextItemsAllobject:
-HttpContextItemsHtmlobjectB%#
-!FlowerApp.Components.CategoryMenu
+2FlowerApp.ViewModels.AddRoleViewModel.RoleName.setS
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs	& 	()"0*¤
+0S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs	* 	(*°
+­
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs	& 	(*='
+%FlowerApp.ViewModels.AddRoleViewModel"
+RoleNamestring"__id*
+
+valuestring"–
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs	& 	(*?*='
+%FlowerApp.ViewModels.AddRoleViewModel"
+RoleNamestring:
+valuestringB)'
+%FlowerApp.ViewModels.AddRoleViewModel

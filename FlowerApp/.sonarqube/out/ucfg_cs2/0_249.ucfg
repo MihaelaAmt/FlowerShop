@@ -1,16 +1,25 @@
 
-(FlowerApp.Models.OrderDetail.OrderId.getJ
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs ( "0*Á
-0J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs! (!”
-‘
-J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs (!	
-%0int"__id*2*0
-FlowerApp.Models.OrderDetail"
-OrderIdint"Y
-J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs (!
-	
-%0intB 
-FlowerApp.Models.OrderDetail
+YFlowerApp.Repository.CategoryRepository.CategoryRepository(FlowerApp.Models.AppDbContext)U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs
+ 
+(!"1*_
+1U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs	 (	*
+0*Ð
+0U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs ((î
+ë
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs (([)
+'FlowerApp.Repository.CategoryRepository".
+_appDbContextFlowerApp.Models.AppDbContext"__id*/
+-
+appDbContextFlowerApp.Models.AppDbContext*
+2*È
+2U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs	 (	"l
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs (	
+implicit return:-
+appDbContextFlowerApp.Models.AppDbContextB+)
+'FlowerApp.Repository.CategoryRepository

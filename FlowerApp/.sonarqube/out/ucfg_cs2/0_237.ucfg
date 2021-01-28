@@ -1,39 +1,30 @@
 
-0FlowerApp.Controllers.AccountController.Logout()U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csT) T(/"2*–
-0U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csV W(3è
-å
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csV V( 8
-%02Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*s*q)
-'FlowerApp.Controllers.AccountController"D
-_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>åâ
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csV V(/!
-%1System.Threading.Tasks.Task"AMicrosoft.AspNetCore.Identity.SignInManager<TUser>.SignOutAsync()*:
-8
-%02Microsoft.AspNetCore.Identity.SignInManager<TUser>2SignOutAsync()øº
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csW W(45
-%2/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, string)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*	
-Index*
-Home2 RedirectToAction(string, string)"ê
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csW W(57
-5
-%2/Microsoft.AspNetCore.Mvc.RedirectToActionResult*»
-1U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csX	 X(	"l
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csX X(	
-implicit return*Œ
-2U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csT1 T(1m
-k
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csT) T(/
-%3"__entrypoint*
-0B+)
-'FlowerApp.Controllers.AccountController
+YFlowerApp.Migrations.Order2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs  (""0*Á
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs	 (Çˇ
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs	 (_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"ûMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+SecurityCode*
+
+Orders*
+""*
+""*22*
+""*
+""*
+""*
+""*
+""*
+""*
+""2dAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?)*
+1*Œ
+1X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs	 (	"o
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs (	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB
+FlowerApp.Migrations.Order2

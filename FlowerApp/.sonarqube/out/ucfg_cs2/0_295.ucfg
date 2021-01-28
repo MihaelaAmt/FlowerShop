@@ -1,16 +1,20 @@
 
-)FlowerApp.Models.Category.Description.getG
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs ("0*Â
-0G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (˜
-•
-G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (
-%0string"__id*6*4
-FlowerApp.Models.Category"
-Descriptionstring"Y
-G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (
-
-%0stringB
-FlowerApp.Models.Category
+%FlowerApp.Models.Order.OrderLines.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs3 (6"0*±
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs7 (7Ì
+É
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs3 (7L
+FlowerApp.Models.Order"0
+
+OrderLines"System.Collections.Generic.List<T>"__id*-
++
+value"System.Collections.Generic.List<T>"–
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs3 (7N*L
+FlowerApp.Models.Order"0
+
+OrderLines"System.Collections.Generic.List<T>:+
+value"System.Collections.Generic.List<T>B
+FlowerApp.Models.Order

@@ -1,9 +1,9 @@
-Ö
-'FlowerApp.Controllers.AccountController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject€
-©AccountController(Microsoft.AspNetCore.Identity.UserManager<FlowerApp.Auth.ApplicationUser>, Microsoft.AspNetCore.Identity.SignInManager<FlowerApp.Auth.ApplicationUser>)ÑFlowerApp.Controllers.AccountController.AccountController(Microsoft.AspNetCore.Identity.UserManager<FlowerApp.Auth.ApplicationUser>, Microsoft.AspNetCore.Identity.SignInManager<FlowerApp.Auth.ApplicationUser>)F
-Login(string)5FlowerApp.Controllers.AccountController.Login(string)€
-*Login(FlowerApp.ViewModels.LoginViewModel)RFlowerApp.Controllers.AccountController.Login(FlowerApp.ViewModels.LoginViewModel)@
-
-Register()2FlowerApp.Controllers.AccountController.Register()†
--Register(FlowerApp.ViewModels.LoginViewModel)UFlowerApp.Controllers.AccountController.Register(FlowerApp.ViewModels.LoginViewModel)<
-Logout()0FlowerApp.Controllers.AccountController.Logout()
+«
+FlowerApp.Auth.ApplicationUser*Microsoft.AspNetCore.Identity.IdentityUser0Microsoft.AspNetCore.Identity.IdentityUser<TKey>objectE
+ApplicationUser()0FlowerApp.Auth.ApplicationUser.ApplicationUser()=
+Birthdate.get,FlowerApp.Auth.ApplicationUser.Birthdate.get=
+Birthdate.set,FlowerApp.Auth.ApplicationUser.Birthdate.set3
+City.get'FlowerApp.Auth.ApplicationUser.City.get3
+City.set'FlowerApp.Auth.ApplicationUser.City.set9
+Country.get*FlowerApp.Auth.ApplicationUser.Country.get9
+Country.set*FlowerApp.Auth.ApplicationUser.Country.set

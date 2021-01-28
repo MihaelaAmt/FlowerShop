@@ -1,20 +1,18 @@
 
-%FlowerApp.Models.Order.OrderTotal.setD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csD) D(,"0*ﬂ
+$FlowerApp.Models.Order.PayMethod.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csL' L(*"0*⁄
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csD- D(-ñ
-ì
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csL+ L(+ì
+ê
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csD) D(-1
-FlowerApp.Models.Order"
-
-OrderTotaldecimal"__id*
-
-valuedecimal"{
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csL' L(+/
+FlowerApp.Models.Order"
+	PayMethodstring"__id*
+
+valuestring"y
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csD) D(-3*1
-FlowerApp.Models.Order"
-
-OrderTotaldecimal:
-valuedecimalB
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csL' L(+1*/
+FlowerApp.Models.Order"
+	PayMethodstring:
+valuestringB
 FlowerApp.Models.Order

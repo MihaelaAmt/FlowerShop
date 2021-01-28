@@ -1,66 +1,124 @@
 
-©FlowerApp.Controllers.AdminController.AdminController(Microsoft.AspNetCore.Identity.UserManager<FlowerApp.Auth.ApplicationUser>, Microsoft.AspNetCore.Identity.RoleManager<Microsoft.AspNetCore.Identity.IdentityRole>, FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs ("3*»
-1S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs	 (	i
-g
+$!razor_component_ShoppingCartSummaryV
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs$ (*"0*ô
+0V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs  ()Ê
+„
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (%#
+%0FlowerApp.Models.ShoppingCart"__id*^*\*
+(FlowerApp.Components.ShoppingCartSummary".
+_shoppingCartFlowerApp.Models.ShoppingCart‚
+ﬂ
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (<(
+%1"System.Collections.Generic.List<T>"4FlowerApp.Models.ShoppingCart.GetShoppingCartItems()*%
+#
+%0FlowerApp.Models.ShoppingCart∫
+∑
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (<+
+items"System.Collections.Generic.List<T>"__id**
+(
+%1"System.Collections.Generic.List<T>Ê
+„
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (#
+%2FlowerApp.Models.ShoppingCart"__id*^*\*
+(FlowerApp.Components.ShoppingCartSummary".
+_shoppingCartFlowerApp.Models.ShoppingCartê
+ç
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (3(
+%3"System.Collections.Generic.List<T>"3FlowerApp.Models.ShoppingCart.ShoppingCartItems.set*%
+#
+%2FlowerApp.Models.ShoppingCart*-
++
+items"System.Collections.Generic.List<T>π∂
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs$ (0
+%4*FlowerApp.ViewModels.ShoppingCartViewModel"*FlowerApp.ViewModels.ShoppingCartViewModelﬂ
+‹
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs( (=
 
-%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
-#Microsoft.AspNetCore.Mvc.Controller*
-0*ï	
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs (4é
-ã
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs (&k'
-%FlowerApp.Controllers.AdminController"@
-_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*A
+%5void"BFlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartViewModel()*2
+0
+%4*FlowerApp.ViewModels.ShoppingCartViewModelÏ
+È
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (,#
+%6FlowerApp.Models.ShoppingCart"__id*d*b
+0
+%4*FlowerApp.ViewModels.ShoppingCartViewModel".
+_shoppingCartFlowerApp.Models.ShoppingCartò
+ï
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (,#
+%7FlowerApp.Models.ShoppingCart";FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.set*2
+0
+%4*FlowerApp.ViewModels.ShoppingCartViewModel*%
+#
+%6FlowerApp.Models.ShoppingCartÊ
+„
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs$ (1#
+%8FlowerApp.Models.ShoppingCart"__id*^*\*
+(FlowerApp.Components.ShoppingCartSummary".
+_shoppingCartFlowerApp.Models.ShoppingCart«
+ƒ
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs$ (H
+%9decimal"4FlowerApp.Models.ShoppingCart.GetShoppingCartTotal()*%
+#
+%8FlowerApp.Models.ShoppingCartÚ
+Ô
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (H
+%10decimal"@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.set*2
+0
+%4*FlowerApp.ViewModels.ShoppingCartViewModel*
+
+%9decimal÷
+”
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (?
+shoppingViewModel*FlowerApp.ViewModels.ShoppingCartViewModel"__id*2
+0
+%4*FlowerApp.ViewModels.ShoppingCartViewModel¢
+ü
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs   (*
+%11void"=flowerapp/views/shared/components/shoppingcartsummary/default*
+
+%12*A
 ?
-userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>é
-ã
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs (&k'
-%FlowerApp.Controllers.AdminController"@
-_roleManager0Microsoft.AspNetCore.Identity.RoleManager<TRole>"__id*A
-?
-roleManager0Microsoft.AspNetCore.Identity.RoleManager<TRole>Ñ
-Å
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs (0f'
-%FlowerApp.Controllers.AdminController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepository"__id*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepositoryå
-â
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs (4j'
-%FlowerApp.Controllers.AdminController"?
-_categoryRepository(FlowerApp.Repository.ICategoryRepository"__id*@
->
-categoryRepository(FlowerApp.Repository.ICategoryRepository*
-2*ƒ
-2S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs	 (	"j
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs (	
-implicit return*‘
-3U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csª (ªÚ
-Ô
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs (
-%1"__entrypoint*A
-?
-userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*A
-?
-roleManager0Microsoft.AspNetCore.Identity.RoleManager<TRole>*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository*@
->
-categoryRepository(FlowerApp.Repository.ICategoryRepository*
-1:?
-userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>:?
-roleManager0Microsoft.AspNetCore.Identity.RoleManager<TRole>::
-flowerRepository&FlowerApp.Repository.IFlowerRepository:>
-categoryRepository(FlowerApp.Repository.ICategoryRepositoryB)'
-%FlowerApp.Controllers.AdminController
+shoppingViewModel*FlowerApp.ViewModels.ShoppingCartViewModel*
+
+ViewBagDataAllobject*
+
+ViewBagDataHtmlobject*
+
+TempDataAllobject*
+
+TempDataHtmlobject*
+
+HttpContextItemsAllobject* 
+
+HttpContextItemsHtmlobject"g
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs   (+
+
+%11void* 
+1V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs!	 !(	"m
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs! !(	
+implicit return:
+ViewBagDataAllobject:
+ViewBagDataHtmlobject:
+TempDataAllobject:
+TempDataHtmlobject:
+HttpContextItemsAllobject:
+HttpContextItemsHtmlobjectB,*
+(FlowerApp.Components.ShoppingCartSummary

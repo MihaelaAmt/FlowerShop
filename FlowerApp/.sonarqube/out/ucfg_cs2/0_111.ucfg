@@ -1,16 +1,18 @@
 
-4FlowerApp.ViewModels.FlowerListViewModel.Flowers.getV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs- (0"0*ä
-0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs1 (1ø
-õ
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs- (1/
-%0)System.Collections.Generic.IEnumerable<T>"__id*d*b*
-(FlowerApp.ViewModels.FlowerListViewModel"4
-Flowers)System.Collections.Generic.IEnumerable<T>"‹
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs- (11
-/
-%0)System.Collections.Generic.IEnumerable<T>B,*
-(FlowerApp.ViewModels.FlowerListViewModel
+0FlowerApp.ViewModels.LoginViewModel.Password.setQ
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs& ()"0*š
+0Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs* (*¬
+©
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs& (*;%
+#FlowerApp.ViewModels.LoginViewModel"
+Passwordstring"__id*
+
+valuestring"’
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs& (*=*;%
+#FlowerApp.ViewModels.LoginViewModel"
+Passwordstring:
+valuestringB'%
+#FlowerApp.ViewModels.LoginViewModel

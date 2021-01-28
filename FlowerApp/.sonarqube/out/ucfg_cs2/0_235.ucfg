@@ -1,46 +1,35 @@
 
-‰FlowerApp.Controllers.FlowerController.FlowerController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs ("3*É
-1T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs	 (	i
-g
-
-%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
-#Microsoft.AspNetCore.Mvc.Controller*
-0*ø
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (4†
-ƒ
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (0g(
-&FlowerApp.Controllers.FlowerController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepository"__id*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepositoryŽ
-‹
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (4k(
-&FlowerApp.Controllers.FlowerController"?
-_categoryRepository(FlowerApp.Repository.ICategoryRepository"__id*@
->
-categoryRepository(FlowerApp.Repository.ICategoryRepository*
-2*Æ
-2T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs	 (	"k
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (	
-implicit return*Î
-3T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk (kí
-ê
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (
-%1"__entrypoint*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository*@
->
-categoryRepository(FlowerApp.Repository.ICategoryRepository*
-1::
-flowerRepository&FlowerApp.Repository.IFlowerRepository:>
-categoryRepository(FlowerApp.Repository.ICategoryRepositoryB*(
-&FlowerApp.Controllers.FlowerController
+(FlowerApp.Program.BuildWebHost(string[])?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (+"0*ó
+0?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (-ë
+è
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (.2
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilder";Microsoft.AspNetCore.WebHost.CreateDefaultBuilder(string[])* "
+Microsoft.AspNetCore.WebHost*
+
+argsstring[]ã
+à
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (&2
+%1,Microsoft.AspNetCore.Hosting.IWebHostBuilder"xMicrosoft.AspNetCore.Hosting.WebHostBuilderExtensions.UseStartup<TStartup>(Microsoft.AspNetCore.Hosting.IWebHostBuilder)*9"7
+5Microsoft.AspNetCore.Hosting.WebHostBuilderExtensions*4
+2
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilderæã
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (+
+%2%Microsoft.AspNetCore.Hosting.IWebHost"4Microsoft.AspNetCore.Hosting.IWebHostBuilder.Build()*4
+2
+%1,Microsoft.AspNetCore.Hosting.IWebHostBuilder2Build()"p
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (-
++
+%2%Microsoft.AspNetCore.Hosting.IWebHost*œ
+1?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs ("V
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (
+implicit return:
+argsstring[]B"
+FlowerApp.Program

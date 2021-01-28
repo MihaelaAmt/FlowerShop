@@ -1,20 +1,18 @@
 
-7FlowerApp.ViewModels.EditFlowerViewModel.CategoryId.setV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs% (("0*®
-0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs) ()²
-¯
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs% ()?*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-
-CategoryIdint"__id*
-
-valueint"›
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs% ()A*?*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-
-CategoryIdint:
-valueintB,*
-(FlowerApp.ViewModels.EditFlowerViewModel
+0FlowerApp.ViewModels.EditUserViewModel.Email.setT
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs# (&"0*£
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs' ('¯
+¬
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs# (';(
+&FlowerApp.ViewModels.EditUserViewModel"
+Emailstring"__id*
+
+valuestring"•
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs# ('=*;(
+&FlowerApp.ViewModels.EditUserViewModel"
+Emailstring:
+valuestringB*(
+&FlowerApp.ViewModels.EditUserViewModel

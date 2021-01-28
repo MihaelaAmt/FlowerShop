@@ -1,16 +1,18 @@
 
-;FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.getX
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs+ (."0*Õ
+@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.setX
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(3"0*“
 0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs/ (/È
-Ê
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	4 	(4≈
+¬
 X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs+ (/#
-%0FlowerApp.Models.ShoppingCart"__id*_*],
-*FlowerApp.ViewModels.ShoppingCartViewModel"-
-ShoppingCartFlowerApp.Models.ShoppingCart"Å
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(4L,
+*FlowerApp.ViewModels.ShoppingCartViewModel"
+ShoppingCartTotaldecimal"__id*
+
+valuedecimal"™
 X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs+ (/%
-#
-%0FlowerApp.Models.ShoppingCartB.,
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(4N*L,
+*FlowerApp.ViewModels.ShoppingCartViewModel"
+ShoppingCartTotaldecimal:
+valuedecimalB.,
 *FlowerApp.ViewModels.ShoppingCartViewModel

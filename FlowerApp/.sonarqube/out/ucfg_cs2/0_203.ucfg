@@ -1,18 +1,16 @@
 
-,FlowerApp.Models.ShoppingCartItem.Amount.setO
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs	! 	($"0*É
-0O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs	% 	(%†
-ù
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs	! 	(%4#
-!FlowerApp.Models.ShoppingCartItem"
-Amountint"__id*
+.FlowerApp.ViewModels.AddUserViewModel.City.getS
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs ( "0*Î
+0S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs! (!©
+¶
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs (!
+%0string"__id*;*9'
+%FlowerApp.ViewModels.AddUserViewModel"
+Citystring"e
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs (!
 
-valueint"â
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs	! 	(%6*4#
-!FlowerApp.Models.ShoppingCartItem"
-Amountint:
-valueintB%#
-!FlowerApp.Models.ShoppingCartItem
+%0stringB)'
+%FlowerApp.ViewModels.AddUserViewModel
