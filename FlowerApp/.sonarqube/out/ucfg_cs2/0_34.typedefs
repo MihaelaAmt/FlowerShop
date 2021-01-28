@@ -1,0 +1,5 @@
+›
+*FlowerApp.Controllers.FlowerDataController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject§
+<FlowerDataController(FlowerApp.Repository.IFlowerRepository)gFlowerApp.Controllers.FlowerDataController.FlowerDataController(FlowerApp.Repository.IFlowerRepository)Q
+LoadMoreFlowers()<FlowerApp.Controllers.FlowerDataController.LoadMoreFlowers()™
+5MapDbFlowerToFlowerViewModel(FlowerApp.Models.Flower)`FlowerApp.Controllers.FlowerDataController.MapDbFlowerToFlowerViewModel(FlowerApp.Models.Flower)

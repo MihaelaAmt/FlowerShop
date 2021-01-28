@@ -1,0 +1,103 @@
+
+6FlowerApp.Controllers.AdminController.RoleManagement()U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csâ â(+"2*∫
+0U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csã å(á
+Ñ
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csã ã($6
+%00Microsoft.AspNetCore.Identity.RoleManager<TRole>"__id*m*k'
+%FlowerApp.Controllers.AdminController"@
+_roleManager0Microsoft.AspNetCore.Identity.RoleManager<TRole>¸˘
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csã ã(*
+%1System.Linq.IQueryable<T>":Microsoft.AspNetCore.Identity.RoleManager<TRole>.Roles.get*8
+6
+%00Microsoft.AspNetCore.Identity.RoleManager<TRole>2	Roles.getß
+§
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csã ã(*"
+rolesSystem.Linq.IQueryable<T>"__id*!
+
+%1System.Linq.IQueryable<T>Ô
+Ï
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cså å(
+
+%2void"$flowerapp/views/admin/rolemanagement*
+
+%3*$
+"
+rolesSystem.Linq.IQueryable<T>*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectÂ
+‚
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cså å(
+
+%4void"flowerapp/views/_viewstart*
+
+%5*$
+"
+rolesSystem.Linq.IQueryable<T>*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectÈ
+Ê
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cså å(
+
+%6void"flowerapp/views/shared/_layout*
+
+%7*$
+"
+rolesSystem.Linq.IQueryable<T>*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"e
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cså å(
+
+
+%6void*»
+1U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csç	 ç(	"l
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csç ç(	
+implicit return*Œ
+2U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csâ- â(-m
+k
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csâ â(+
+%8"__entrypoint*
+0B)'
+%FlowerApp.Controllers.AdminController

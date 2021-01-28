@@ -1,0 +1,183 @@
+
+"flowerapp/views/orderhistory/indexR
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\OrderHistory\Index.cshtml ("0*∫
+0w
+mE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\OrderHistory\Index.cshtml.g.cs+ >(*∑¥
+
+%0void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2D*2Ω*
+""2BeginContext(int, int, bool)Å
+
+%1void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()¯
+ı
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\OrderHistory\Index.cshtml (+/
+%2)System.Collections.Generic.IEnumerable<T>"5FlowerApp.ViewModels.OrderHistoryViewModel.Orders.get*5
+3
+Model*FlowerApp.ViewModels.OrderHistoryViewModel*
+1*Ü
+1y
+mE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\OrderHistory\Index.cshtml.g.csû	 û(	*
+2
+3*ã:
+2x
+mE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\OrderHistory\Index.cshtml.g.csC ï(∑¥
+
+%3void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2π*2G*
+""2BeginContext(int, int, bool)Å
+
+%4void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∑¥
+
+%5void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Å*2*
+""2BeginContext(int, int, bool)‡
+›
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\OrderHistory\Index.cshtml ($	
+%6int"=FlowerApp.ViewModels.OrderHistoryDetailsViewModel.OrderId.get*;
+9
+line1FlowerApp.ViewModels.OrderHistoryDetailsViewModelÅ
+
+%7void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∑¥
+
+%8void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ç*2;*
+""2BeginContext(int, int, bool)Å
+
+%9void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%10void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2…*2*
+""2BeginContext(int, int, bool)Ê
+„
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\OrderHistory\Index.cshtml (6
+%11string"?FlowerApp.ViewModels.OrderHistoryDetailsViewModel.FirstName.get*;
+9
+line1FlowerApp.ViewModels.OrderHistoryDetailsViewModelÉÄ
+%12void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%13void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2◊*2)*
+""2BeginContext(int, int, bool)ÉÄ
+%14void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%15void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Å*2*
+""2BeginContext(int, int, bool)Â
+‚
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\OrderHistory\Index.cshtml (5
+%16string">FlowerApp.ViewModels.OrderHistoryDetailsViewModel.LastName.get*;
+9
+line1FlowerApp.ViewModels.OrderHistoryDetailsViewModelÉÄ
+%17void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%18void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2é*2)*
+""2BeginContext(int, int, bool)ÉÄ
+%19void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%20void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2∏*2*
+""2BeginContext(int, int, bool)‰
+·
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\OrderHistory\Index.cshtml (4
+%21string"=FlowerApp.ViewModels.OrderHistoryDetailsViewModel.Address.get*;
+9
+line1FlowerApp.ViewModels.OrderHistoryDetailsViewModelÉÄ
+%22void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%23void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ƒ*2)*
+""2BeginContext(int, int, bool)ÉÄ
+%24void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%25void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Ó*2	*
+""2BeginContext(int, int, bool)·
+ﬁ
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\OrderHistory\Index.cshtml (1
+%26string":FlowerApp.ViewModels.OrderHistoryDetailsViewModel.City.get*;
+9
+line1FlowerApp.ViewModels.OrderHistoryDetailsViewModelÉÄ
+%27void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%28void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2˜*2)*
+""2BeginContext(int, int, bool)ÉÄ
+%29void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%30void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2°*2*
+""2BeginContext(int, int, bool)Î
+Ë
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\OrderHistory\Index.cshtml (;
+%31string"DFlowerApp.ViewModels.OrderHistoryDetailsViewModel.ShippingMethod.get*;
+9
+line1FlowerApp.ViewModels.OrderHistoryDetailsViewModelÉÄ
+%32void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%33void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2¥*2)*
+""2BeginContext(int, int, bool)ÉÄ
+%34void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%35void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ﬁ*2*
+""2BeginContext(int, int, bool)Ë
+Â
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\OrderHistory\Index.cshtml (8
+%36string"AFlowerApp.ViewModels.OrderHistoryDetailsViewModel.PhoneNumber.get*;
+9
+line1FlowerApp.ViewModels.OrderHistoryDetailsViewModelÉÄ
+%37void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%38void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Ó*2)*
+""2BeginContext(int, int, bool)ÉÄ
+%39void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%40void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ò*2*
+""2BeginContext(int, int, bool)Ê
+„
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\OrderHistory\Index.cshtml (6
+%41string"?FlowerApp.ViewModels.OrderHistoryDetailsViewModel.PayMethod.get*;
+9
+line1FlowerApp.ViewModels.OrderHistoryDetailsViewModelÉÄ
+%42void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%43void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2¶*2*
+""2BeginContext(int, int, bool)ÉÄ
+%44void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()*
+1*ƒ
+3y
+mE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\OrderHistory\Index.cshtml.g.csõ ù(∏µ
+%45void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2«*2*
+""2BeginContext(int, int, bool)ÉÄ
+%46void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()*
+4*ï
+4y
+mE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\OrderHistory\Index.cshtml.g.csû	 û(	"
+implicit return:3
+Model*FlowerApp.ViewModels.OrderHistoryViewModel:
+ViewBagDataAllobject:
+ViewBagDataHtmlobject:
+TempDataAllobject:
+TempDataHtmlobject:
+HttpContextItemsAllobject:
+HttpContextItemsHtmlobjectB 

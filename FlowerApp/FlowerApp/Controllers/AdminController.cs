@@ -1,18 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using FlowerApp.Auth;
+﻿using FlowerApp.Auth;
 using FlowerApp.Models;
 using FlowerApp.Repository;
 using FlowerApp.ViewModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace FlowerApp.Controllers
 {
-    [Authorize(Roles="Administrators")]
+    [Authorize(Roles = "Administrators")]
     public class AdminController : Controller
     {
         private readonly UserManager<ApplicationUser> _userManager;
@@ -49,7 +48,8 @@ namespace FlowerApp.Controllers
         [HttpPost]
         public async Task<IActionResult> AddUser(AddUserViewModel addUserViewModel)
         {
-            if (!ModelState.IsValid) return View(addUserViewModel);
+            if (!ModelState.IsValid)
+                return View(addUserViewModel);
 
             var user = new ApplicationUser()
             {
@@ -145,7 +145,8 @@ namespace FlowerApp.Controllers
         public async Task<IActionResult> AddNewRole(AddRoleViewModel addRoleViewModel)
         {
 
-            if (!ModelState.IsValid) return View(addRoleViewModel);
+            if (!ModelState.IsValid)
+                return View(addRoleViewModel);
 
             var role = new IdentityRole
             {
@@ -339,7 +340,8 @@ namespace FlowerApp.Controllers
         [HttpPost]
         public IActionResult AddFlower(AddFlowerViewModel addFlowerViewModel)
         {
-            if (!ModelState.IsValid) return View(addFlowerViewModel);
+            if (!ModelState.IsValid)
+                return View(addFlowerViewModel);
 
             var flower = new Flower()
             {

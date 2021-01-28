@@ -1,0 +1,15 @@
+§
+!FlowerApp.Models.ShoppingCartItemobjectJ
+ShoppingCartItem()4FlowerApp.Models.ShoppingCartItem.ShoppingCartItem()R
+ShoppingCartItemId.get8FlowerApp.Models.ShoppingCartItem.ShoppingCartItemId.getR
+ShoppingCartItemId.set8FlowerApp.Models.ShoppingCartItem.ShoppingCartItemId.set:
+
+Flower.get,FlowerApp.Models.ShoppingCartItem.Flower.get:
+
+Flower.set,FlowerApp.Models.ShoppingCartItem.Flower.set:
+
+Amount.get,FlowerApp.Models.ShoppingCartItem.Amount.get:
+
+Amount.set,FlowerApp.Models.ShoppingCartItem.Amount.setJ
+ShoppingCartId.get4FlowerApp.Models.ShoppingCartItem.ShoppingCartId.getJ
+ShoppingCartId.set4FlowerApp.Models.ShoppingCartItem.ShoppingCartId.set

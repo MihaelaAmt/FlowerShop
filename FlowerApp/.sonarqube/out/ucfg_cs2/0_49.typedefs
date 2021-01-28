@@ -1,0 +1,12 @@
+‹
+FlowerApp.Models.ShoppingCartobjectx
++ShoppingCart(FlowerApp.Models.AppDbContext)IFlowerApp.Models.ShoppingCart.ShoppingCart(FlowerApp.Models.AppDbContext)p
+'AddToCart(FlowerApp.Models.Flower, int)EFlowerApp.Models.ShoppingCart.AddToCart(FlowerApp.Models.Flower, int)p
+'RemoveFromCart(FlowerApp.Models.Flower)EFlowerApp.Models.ShoppingCart.RemoveFromCart(FlowerApp.Models.Flower)N
+GetShoppingCartItems()4FlowerApp.Models.ShoppingCart.GetShoppingCartItems()8
+ClearCart())FlowerApp.Models.ShoppingCart.ClearCart()N
+GetShoppingCartTotal()4FlowerApp.Models.ShoppingCart.GetShoppingCartTotal()F
+ShoppingCartId.get0FlowerApp.Models.ShoppingCart.ShoppingCartId.getF
+ShoppingCartId.set0FlowerApp.Models.ShoppingCart.ShoppingCartId.setL
+ShoppingCartItems.get3FlowerApp.Models.ShoppingCart.ShoppingCartItems.getL
+ShoppingCartItems.set3FlowerApp.Models.ShoppingCart.ShoppingCartItems.set

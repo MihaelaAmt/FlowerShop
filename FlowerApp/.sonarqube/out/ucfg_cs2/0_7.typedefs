@@ -1,0 +1,27 @@
+Å
+%FlowerApp.Controllers.AdminController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject²
+ƒAdminController(Microsoft.AspNetCore.Identity.UserManager<FlowerApp.Auth.ApplicationUser>, Microsoft.AspNetCore.Identity.RoleManager<Microsoft.AspNetCore.Identity.IdentityRole>, FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)©FlowerApp.Controllers.AdminController.AdminController(Microsoft.AspNetCore.Identity.UserManager<FlowerApp.Auth.ApplicationUser>, Microsoft.AspNetCore.Identity.RoleManager<Microsoft.AspNetCore.Identity.IdentityRole>, FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)8
+Index()-FlowerApp.Controllers.AdminController.Index()J
+UserManagement()6FlowerApp.Controllers.AdminController.UserManagement()<
+	AddUser()/FlowerApp.Controllers.AdminController.AddUser()†
+.AddUser(FlowerApp.ViewModels.AddUserViewModel)TFlowerApp.Controllers.AdminController.AddUser(FlowerApp.ViewModels.AddUserViewModel)J
+EditUser(string)6FlowerApp.Controllers.AdminController.EditUser(string)Š
+0EditUser(FlowerApp.ViewModels.EditUserViewModel)VFlowerApp.Controllers.AdminController.EditUser(FlowerApp.ViewModels.EditUserViewModel)N
+DeleteUser(string)8FlowerApp.Controllers.AdminController.DeleteUser(string)J
+RoleManagement()6FlowerApp.Controllers.AdminController.RoleManagement()B
+AddNewRole()2FlowerApp.Controllers.AdminController.AddNewRole()Œ
+1AddNewRole(FlowerApp.ViewModels.AddRoleViewModel)WFlowerApp.Controllers.AdminController.AddNewRole(FlowerApp.ViewModels.AddRoleViewModel)J
+EditRole(string)6FlowerApp.Controllers.AdminController.EditRole(string)Š
+0EditRole(FlowerApp.ViewModels.EditRoleViewModel)VFlowerApp.Controllers.AdminController.EditRole(FlowerApp.ViewModels.EditRoleViewModel)N
+DeleteRole(string)8FlowerApp.Controllers.AdminController.DeleteRole(string)T
+AddUserToRole(string);FlowerApp.Controllers.AdminController.AddUserToRole(string)”
+5AddUserToRole(FlowerApp.ViewModels.UserRoleViewModel)[FlowerApp.Controllers.AdminController.AddUserToRole(FlowerApp.ViewModels.UserRoleViewModel)^
+DeleteUserFromRole(string)@FlowerApp.Controllers.AdminController.DeleteUserFromRole(string)ž
+:DeleteUserFromRole(FlowerApp.ViewModels.UserRoleViewModel)`FlowerApp.Controllers.AdminController.DeleteUserFromRole(FlowerApp.ViewModels.UserRoleViewModel)N
+FlowerManagement()8FlowerApp.Controllers.AdminController.FlowerManagement()@
+AddFlower()1FlowerApp.Controllers.AdminController.AddFlower()Ž
+2AddFlower(FlowerApp.ViewModels.AddFlowerViewModel)XFlowerApp.Controllers.AdminController.AddFlower(FlowerApp.ViewModels.AddFlowerViewModel)L
+DeleteFlower(int)7FlowerApp.Controllers.AdminController.DeleteFlower(int)H
+EditFlower(int)5FlowerApp.Controllers.AdminController.EditFlower(int)’
+4EditFlower(FlowerApp.ViewModels.EditFlowerViewModel)ZFlowerApp.Controllers.AdminController.EditFlower(FlowerApp.ViewModels.EditFlowerViewModel)”
+5MapDbFlowerToFlowerViewModel(FlowerApp.Models.Flower)[FlowerApp.Controllers.AdminController.MapDbFlowerToFlowerViewModel(FlowerApp.Models.Flower)

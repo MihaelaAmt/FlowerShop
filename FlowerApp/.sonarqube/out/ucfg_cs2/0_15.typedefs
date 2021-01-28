@@ -1,0 +1,5 @@
+ª
+FlowerApp.Startupobjectˆ
+9Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment)KFlowerApp.Startup.Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment)²
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)`FlowerApp.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)Ì
+šConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment, Microsoft.Extensions.Logging.ILoggerFactory)¬FlowerApp.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment, Microsoft.Extensions.Logging.ILoggerFactory)

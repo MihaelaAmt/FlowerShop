@@ -1,0 +1,13 @@
+Á
+$FlowerApp.ViewModels.FlowerViewModelobjectK
+FlowerViewModel()6FlowerApp.ViewModels.FlowerViewModel.FlowerViewModel()A
+FlowerId.get1FlowerApp.ViewModels.FlowerViewModel.FlowerId.getA
+FlowerId.set1FlowerApp.ViewModels.FlowerViewModel.FlowerId.set9
+Name.get-FlowerApp.ViewModels.FlowerViewModel.Name.get9
+Name.set-FlowerApp.ViewModels.FlowerViewModel.Name.setQ
+ShortDescription.get9FlowerApp.ViewModels.FlowerViewModel.ShortDescription.getQ
+ShortDescription.set9FlowerApp.ViewModels.FlowerViewModel.ShortDescription.set;
+	Price.get.FlowerApp.ViewModels.FlowerViewModel.Price.get;
+	Price.set.FlowerApp.ViewModels.FlowerViewModel.Price.setS
+ImageThumbnailUrl.get:FlowerApp.ViewModels.FlowerViewModel.ImageThumbnailUrl.getS
+ImageThumbnailUrl.set:FlowerApp.ViewModels.FlowerViewModel.ImageThumbnailUrl.set

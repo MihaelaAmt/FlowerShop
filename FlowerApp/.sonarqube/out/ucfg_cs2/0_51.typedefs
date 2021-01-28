@@ -1,0 +1,7 @@
+ë
+*FlowerApp.ViewModels.ShoppingCartViewModelobject]
+ShoppingCartViewModel()BFlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartViewModel()O
+ShoppingCart.get;FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.getO
+ShoppingCart.set;FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.setY
+ShoppingCartTotal.get@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.getY
+ShoppingCartTotal.set@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.set
