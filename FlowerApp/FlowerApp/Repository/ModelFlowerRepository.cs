@@ -1,9 +1,8 @@
-﻿using System;
+﻿using FlowerApp.Models;
+using FlowerApp.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using FlowerApp.Models;
-using FlowerApp.ViewModels;
 
 namespace FlowerApp.Repository
 {

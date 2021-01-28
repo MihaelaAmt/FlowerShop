@@ -6,7 +6,7 @@
   <SonarScannerWorkingDirectory>E:\Projects\FlowerShop\FlowerApp</SonarScannerWorkingDirectory>
   <HasBeginStepCommandLineCredentials>false</HasBeginStepCommandLineCredentials>
   <SonarQubeHostUrl>https://sonarcloud.io</SonarQubeHostUrl>
-  <SonarQubeVersion>8.0.0.16650</SonarQubeVersion>
+  <SonarQubeVersion>8.0.0.16759</SonarQubeVersion>
   <SonarProjectKey>MihaelaAmt_FlowerShop</SonarProjectKey>
   <AdditionalConfig>
     <ConfigSetting Id="BuildUri" />
@@ -129,7 +129,7 @@
     <Property Name="node_10_end_of_support_date">1612166400000</Property>
     <Property Name="node_10_grace_period_termination_date">1613376000000</Property>
     <Property Name="java_11_brownout_termination_date">1610722800000</Property>
-    <Property Name="sonar.core.startTime">1/25/2021 12:30:22 PM</Property>
+    <Property Name="sonar.core.startTime">1/28/2021 12:53:55 PM</Property>
   </ServerSettings>
   <LocalSettings>
     <Property Name="sonar.host.url">https://sonarcloud.io</Property>

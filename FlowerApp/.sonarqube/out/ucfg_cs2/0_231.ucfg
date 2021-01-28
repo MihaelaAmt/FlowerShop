@@ -1,128 +1,95 @@
 
-!razor_component_AdminMenuP
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs$ (*"0*Ä
-0P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs !(!£ 
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs ((
-%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>¸
-µ
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs  (3
-
-%1void")System.Collections.Generic.List<T>.List()**
-(
-%0"System.Collections.Generic.List<T>£ 
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs6 ((
-%2"FlowerApp.Components.AdminMenuItem""FlowerApp.Components.AdminMenuItemÁ
-¾
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs: (G
-
-%3void"2FlowerApp.Components.AdminMenuItem.AdminMenuItem()**
-(
-%2"FlowerApp.Components.AdminMenuItemÙ
-Ö
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (4
-%4string"3FlowerApp.Components.AdminMenuItem.DisplayValue.set**
-(
-%2"FlowerApp.Components.AdminMenuItem*
-User management×
-Ô
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (2
-%5string"2FlowerApp.Components.AdminMenuItem.ActionValue.set**
-(
-%2"FlowerApp.Components.AdminMenuItem*
-UserManagement£ 
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs ((
-%6"FlowerApp.Components.AdminMenuItem""FlowerApp.Components.AdminMenuItemÁ
-¾
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs ("
-
-%7void"2FlowerApp.Components.AdminMenuItem.AdminMenuItem()**
-(
-%6"FlowerApp.Components.AdminMenuItemÙ
-Ö
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (4
-%8string"3FlowerApp.Components.AdminMenuItem.DisplayValue.set**
-(
-%6"FlowerApp.Components.AdminMenuItem*
-Role management×
-Ô
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (2
-%9string"2FlowerApp.Components.AdminMenuItem.ActionValue.set**
-(
-%6"FlowerApp.Components.AdminMenuItem*
-RoleManagement¤¡
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs ()
-%10"FlowerApp.Components.AdminMenuItem""FlowerApp.Components.AdminMenuItemÃ
-À
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (#
-%11void"2FlowerApp.Components.AdminMenuItem.AdminMenuItem()*+
-)
-%10"FlowerApp.Components.AdminMenuItemÝ
-Ú
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (6
-%12string"3FlowerApp.Components.AdminMenuItem.DisplayValue.set*+
-)
-%10"FlowerApp.Components.AdminMenuItem*
-Flower managementÛ
-Ø
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (4
-%13string"2FlowerApp.Components.AdminMenuItem.ActionValue.set*+
-)
-%10"FlowerApp.Components.AdminMenuItem*
-FlowerManagement¸
-µ
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs (/
-	menuItems"System.Collections.Generic.List<T>"__id**
-(
-%0"System.Collections.Generic.List<T>‚
-ÿ
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs! !("
-%14void"3flowerapp/views/shared/components/adminmenu/default*
-
-%15*1
-/
-	menuItems"System.Collections.Generic.List<T>*
-
-ViewBagDataAllobject*
-
-ViewBagDataHtmlobject*
-
-TempDataAllobject*
-
-TempDataHtmlobject*
-
-HttpContextItemsAllobject* 
-
-HttpContextItemsHtmlobject"a
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs! !(#
-
-%14void*¾
-1P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs"	 "(	"g
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs" "(	
-implicit return:
-ViewBagDataAllobject:
-ViewBagDataHtmlobject:
-TempDataAllobject:
-TempDataHtmlobject:
-HttpContextItemsAllobject:
-HttpContextItemsHtmlobjectB" 
-FlowerApp.Components.AdminMenu
+`FlowerApp.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (%"0*·*
+0?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs 4(!§
+¤
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (~A
+%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"áMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)*W"U
+SMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+""*
+""‚
+ÿ
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! ((3
+%1-Microsoft.AspNetCore.Identity.IdentityBuilder"áMicrosoft.Extensions.DependencyInjection.IdentityServiceCollectionExtensions.AddIdentity<TUser, TRole>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Identity.IdentityOptions>)*P"N
+LMicrosoft.Extensions.DependencyInjection.IdentityServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""­
+ª
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! )(93
+%2-Microsoft.AspNetCore.Identity.IdentityBuilder"£Microsoft.Extensions.DependencyInjection.IdentityEntityFrameworkBuilderExtensions.AddEntityFrameworkStores<TContext>(Microsoft.AspNetCore.Identity.IdentityBuilder)*U"S
+QMicrosoft.Extensions.DependencyInjection.IdentityEntityFrameworkBuilderExtensions*5
+3
+%1-Microsoft.AspNetCore.Identity.IdentityBuilderÖ
+Ó
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs+ +(LA
+%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionÖ
+Ó
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs, ,(HA
+%4;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionÖ
+Ó
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs- -(NA
+%5;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionú
+÷
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs. .(LA
+%6;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÌMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Func<System.IServiceProvider, TService>)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""Ö
+Ó
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs/ /(FA
+%7;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection¦
+£
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs1 1(:
+%84Microsoft.Extensions.DependencyInjection.IMvcBuilder"‹Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddMvc(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionÅ
+Â
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs3 3(%A
+%9;Microsoft.Extensions.DependencyInjection.IServiceCollection"›Microsoft.Extensions.DependencyInjection.MemoryCacheServiceCollectionExtensions.AddMemoryCache(Microsoft.Extensions.DependencyInjection.IServiceCollection)*S"Q
+OMicrosoft.Extensions.DependencyInjection.MemoryCacheServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionº
+·
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs4 4(!B
+%10;Microsoft.Extensions.DependencyInjection.IServiceCollection"“Microsoft.Extensions.DependencyInjection.SessionServiceCollectionExtensions.AddSession(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.SessionServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+1*œ
+1?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs5	 5(	"V
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs5 5(	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
+FlowerApp.Startup

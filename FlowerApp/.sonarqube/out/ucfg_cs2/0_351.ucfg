@@ -1,18 +1,20 @@
 
-0FlowerApp.Models.Flower.IsFlowerPresentation.getE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (."0*Ω
+&FlowerApp.Models.Flower.CategoryId.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% (("0*ÿ
 0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs/ (/ô
-ñ
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs) ()ê
+ç
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (/
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% ().
+FlowerApp.Models.Flower"
 
-%0bool"__id*;*9
-FlowerApp.Models.Flower"
-IsFlowerPresentationbool"U
+CategoryIdint"__id*
+
+valueint"y
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (/
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% ()0*.
+FlowerApp.Models.Flower"
 
-
-%0boolB
+CategoryIdint:
+valueintB
 FlowerApp.Models.Flower

@@ -1,93 +1,18 @@
 
-4FlowerApp.Models.ShoppingCart.GetShoppingCartItems()K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cse& e(:"0*‹
+(FlowerApp.Models.AppDbContext.Orders.setK
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs# #("0*ê
 0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csg g($Ò
-Ï
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs# #(ê
+ç
 K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csg g($(
-%3"System.Collections.Generic.List<T>"3FlowerApp.Models.ShoppingCart.ShoppingCartItems.get*!
-FlowerApp.Models.ShoppingCart¬
-©
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs# #(Y
+FlowerApp.Models.AppDbContext"6
+Orders,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ª
 K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csg g($(
-%1"System.Collections.Generic.List<T>"__id**
-(
-%3"System.Collections.Generic.List<T>¬
-©
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csg g($(
-%0"System.Collections.Generic.List<T>"__id**
-(
-%1"System.Collections.Generic.List<T>*
-1
-2*ä
-1K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh j(1Ð
-Í
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csi i($#
-%4FlowerApp.Models.AppDbContext"__id*S*Q
-FlowerApp.Models.ShoppingCart".
-_appDbContextFlowerApp.Models.AppDbContextà
-Ý
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csi i(62
-%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>"3FlowerApp.Models.AppDbContext.ShoppingCartItems.get*%
-#
-%4FlowerApp.Models.AppDbContextÒ
-Ï
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csi i(e
-%6System.Linq.IQueryable<T>"…System.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
-2
-%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""Ú
-×
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csi j(2R
-%7LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"ÂMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*D"B
-@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
-
-%6System.Linq.IQueryable<T>*
-""Å
-Â
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csi k($(
-%8"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*T
-R
-%7LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>þ
-û
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh k($(
-%9"System.Collections.Generic.List<T>"3FlowerApp.Models.ShoppingCart.ShoppingCartItems.set*!
-FlowerApp.Models.ShoppingCart**
-(
-%8"System.Collections.Generic.List<T>¬
-©
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh k($(
-%2"System.Collections.Generic.List<T>"__id**
-(
-%9"System.Collections.Generic.List<T>¬
-©
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh k($(
-%0"System.Collections.Generic.List<T>"__id**
-(
-%2"System.Collections.Generic.List<T>*
-2*Ë
-2K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csl	 l(	"y
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csg k(&*
-(
-%0"System.Collections.Generic.List<T>*´
-3K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csl	 l(	"b
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csl l(	
-implicit returnB!
-FlowerApp.Models.ShoppingCart
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs# #([*Y
+FlowerApp.Models.AppDbContext"6
+Orders,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
+FlowerApp.Models.AppDbContext

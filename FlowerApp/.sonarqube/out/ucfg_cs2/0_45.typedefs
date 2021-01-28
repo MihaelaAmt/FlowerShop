@@ -1,7 +1,23 @@
-«
-"FlowerApp.ViewModels.HomeViewModelobjectE
-HomeViewModel()2FlowerApp.ViewModels.HomeViewModel.HomeViewModel()S
-FlowerPresentation.get9FlowerApp.ViewModels.HomeViewModel.FlowerPresentation.getS
-FlowerPresentation.set9FlowerApp.ViewModels.HomeViewModel.FlowerPresentation.setE
-FlowersName.get2FlowerApp.ViewModels.HomeViewModel.FlowersName.getE
-FlowersName.set2FlowerApp.ViewModels.HomeViewModel.FlowersName.set
+÷
+(FlowerApp.ViewModels.EditFlowerViewModelobjectW
+EditFlowerViewModel()>FlowerApp.ViewModels.EditFlowerViewModel.EditFlowerViewModel()9
+Id.get/FlowerApp.ViewModels.EditFlowerViewModel.Id.get9
+Id.set/FlowerApp.ViewModels.EditFlowerViewModel.Id.set=
+Name.get1FlowerApp.ViewModels.EditFlowerViewModel.Name.get=
+Name.set1FlowerApp.ViewModels.EditFlowerViewModel.Name.setU
+ShortDescription.get=FlowerApp.ViewModels.EditFlowerViewModel.ShortDescription.getU
+ShortDescription.set=FlowerApp.ViewModels.EditFlowerViewModel.ShortDescription.setS
+LongDescription.get<FlowerApp.ViewModels.EditFlowerViewModel.LongDescription.getS
+LongDescription.set<FlowerApp.ViewModels.EditFlowerViewModel.LongDescription.set?
+	Price.get2FlowerApp.ViewModels.EditFlowerViewModel.Price.get?
+	Price.set2FlowerApp.ViewModels.EditFlowerViewModel.Price.setE
+ImageUrl.get5FlowerApp.ViewModels.EditFlowerViewModel.ImageUrl.getE
+ImageUrl.set5FlowerApp.ViewModels.EditFlowerViewModel.ImageUrl.setW
+ImageThumbnailUrl.get>FlowerApp.ViewModels.EditFlowerViewModel.ImageThumbnailUrl.getW
+ImageThumbnailUrl.set>FlowerApp.ViewModels.EditFlowerViewModel.ImageThumbnailUrl.set]
+IsFlowerPresentation.getAFlowerApp.ViewModels.EditFlowerViewModel.IsFlowerPresentation.get]
+IsFlowerPresentation.setAFlowerApp.ViewModels.EditFlowerViewModel.IsFlowerPresentation.setC
+InStock.get4FlowerApp.ViewModels.EditFlowerViewModel.InStock.getC
+InStock.set4FlowerApp.ViewModels.EditFlowerViewModel.InStock.setI
+CategoryId.get7FlowerApp.ViewModels.EditFlowerViewModel.CategoryId.getI
+CategoryId.set7FlowerApp.ViewModels.EditFlowerViewModel.CategoryId.set

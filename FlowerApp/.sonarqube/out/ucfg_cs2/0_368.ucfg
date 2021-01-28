@@ -1,1126 +1,102 @@
 
-UFlowerApp.Models.DbInitializer.Seed(Microsoft.AspNetCore.Builder.IApplicationBuilder)L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs ("0* 
-0L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs (Zùö
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs& (L
-%0System.IServiceProvider"HMicrosoft.AspNetCore.Builder.IApplicationBuilder.ApplicationServices.get*H
-F
-applicationBuilder0Microsoft.AspNetCore.Builder.IApplicationBuilder2ApplicationServices.getÔ
-Ï
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs& (Z<
-%16Microsoft.Extensions.DependencyInjection.IServiceScope"nMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.CreateScope(System.IServiceProvider)*M"K
-IMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions*
-
-%0System.IServiceProviderﬂ
-‹
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs (ZF
-serviceScope6Microsoft.Extensions.DependencyInjection.IServiceScope"__id*>
-<
-%16Microsoft.Extensions.DependencyInjection.IServiceScope*
-1*’
-
-1L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs (-õò
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs' (C
-%2System.IServiceProvider"JMicrosoft.Extensions.DependencyInjection.IServiceScope.ServiceProvider.get*H
-F
-serviceScope6Microsoft.Extensions.DependencyInjection.IServiceScope2ServiceProvider.getÿ
-’
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs' (^#
-%3FlowerApp.Models.AppDbContext"pMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetService<T>(System.IServiceProvider)*M"K
-IMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions*
-
-%2System.IServiceProvider®
-•
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs (^(
-contextFlowerApp.Models.AppDbContext"__id*%
-#
-%3FlowerApp.Models.AppDbContextﬂ
-‹
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs ('2
-%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>",FlowerApp.Models.AppDbContext.Categories.get**
-(
-contextFlowerApp.Models.AppDbContextÛ
-
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs (-
-
-%5bool"CSystem.Linq.Queryable.Any<TSource>(System.Linq.IQueryable<TSource>)*"
-System.Linq.Queryable*4
-2
-%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-2
-3*Ì	
-2L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs (Nﬂ
-‹
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs (&2
-%6,Microsoft.EntityFrameworkCore.DbSet<TEntity>",FlowerApp.Models.AppDbContext.Categories.get**
-(
-contextFlowerApp.Models.AppDbContextﬂ
-‹
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs0 (:9
-%73System.Collections.Generic.Dictionary<TKey, TValue>"-FlowerApp.Models.DbInitializer.Categories.get*"" 
-FlowerApp.Models.DbInitializer‰
-·
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs0 (O/
-%8)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
-System.Linq.Enumerable*;
-9
-%73System.Collections.Generic.Dictionary<TKey, TValue>*
-""ÈÊ
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs (P
-
-%9void"fMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddRange(System.Collections.Generic.IEnumerable<TEntity>)*4
-2
-%6,Microsoft.EntityFrameworkCore.DbSet<TEntity>*1
+>FlowerApp.Controllers.FlowerController.RemoveFromFavorite(int)T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cse e(."4*»
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csg i(¯
+ı
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csg g(*,
+%0&FlowerApp.Repository.IFlowerRepository"__id*i*g(
+&FlowerApp.Controllers.FlowerController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepository˚¯
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csg g(2/
+%1)System.Collections.Generic.IEnumerable<T>"2FlowerApp.Repository.IFlowerRepository.Flowers.get*.
+,
+%0&FlowerApp.Repository.IFlowerRepository2Flowers.get’
+“
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csg g(U/
+%2)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*1
 /
-%8)System.Collections.Generic.IEnumerable<T>29AddRange(System.Collections.Generic.IEnumerable<TEntity>)*
-3*±
-3L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs (*›
-⁄
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs ($3
-%10,Microsoft.EntityFrameworkCore.DbSet<TEntity>")FlowerApp.Models.AppDbContext.Flowers.get**
-(
-contextFlowerApp.Models.AppDbContextı
-Ú
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs (*
-%11bool"CSystem.Linq.Queryable.Any<TSource>(System.Linq.IQueryable<TSource>)*"
-System.Linq.Queryable*5
-3
-%10,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-4
-5*ñô
-4M
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs …(8äá
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs *(
-%12FlowerApp.Models.Flower"FlowerApp.Models.Flower¢
-ü
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs ("
-%13void" FlowerApp.Models.Flower.Flower()* 
-
-%12FlowerApp.Models.FlowerÆ
-´
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs ()
-%14string" FlowerApp.Models.Flower.Name.set* 
-
-%12FlowerApp.Models.Flower*
-LilyÆ
-´
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs (*
-%15decimal"!FlowerApp.Models.Flower.Price.set* 
-
-%12FlowerApp.Models.Flower*
-""¬
+%1)System.Collections.Generic.IEnumerable<T>*
+""®
+•
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csg g(f
+%3FlowerApp.Models.Flower"_System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%2)System.Collections.Generic.IEnumerable<T>£
+†
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csg g(f!
+flowerFlowerApp.Models.Flower"__id*
+
+%3FlowerApp.Models.Flower¬
 ø
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs (=
-%16string",FlowerApp.Models.Flower.ShortDescription.set* 
-
-%12FlowerApp.Models.Flower*
-Strong smell£
-†
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs  $(R
-%17string"+FlowerApp.Models.Flower.LongDescription.set* 
-
-%12FlowerApp.Models.Flower*ÒÓ
-ÎTrue lilies have long, narrow leaves growing along the length of the stem and large,
-                                                flamboyant flowers that are either single or in clusters.
-                                                They grow from scaly bulbs.
-                                                Many of the species are highly fragrant and typically range in height from 30cm ‚àí 120cm,
-                                                although some can be much taller.‡
-›
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs%' %(1:
-%183System.Collections.Generic.Dictionary<TKey, TValue>"-FlowerApp.Models.DbInitializer.Categories.get*"" 
-FlowerApp.Models.DbInitializerŒ
-À
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs%' %(B 
-%19FlowerApp.Models.Category"__mapGet*<
-:
-%183System.Collections.Generic.Dictionary<TKey, TValue>*
-Single flowerÌÍ
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs% %(B 
-%20FlowerApp.Models.Category"$FlowerApp.Models.Flower.Category.set* 
-
-%12FlowerApp.Models.Flower*"
- 
-%19FlowerApp.Models.Category2Category.setâ
-Ü
-M
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs& &(É
-%21string"$FlowerApp.Models.Flower.ImageUrl.set* 
-
-%12FlowerApp.Models.Flower*^\
-Zhttps://www.florariaaly.ro/image/cache/data/Flori%20la%20fir/Crin%20imperial-500x500_0.jpg≠
-™
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs' '(*
-%22bool"#FlowerApp.Models.Flower.InStock.set* 
-
-%12FlowerApp.Models.Flower*
-""í
-è
-M
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs( ((å
-%23string"-FlowerApp.Models.Flower.ImageThumbnailUrl.set* 
-
-%12FlowerApp.Models.Flower*^\
-Zhttps://www.florariaaly.ro/image/cache/data/Flori%20la%20fir/Crin%20imperial-500x500_0.jpg∫
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csi i(
+
+%4bool""object.operator !=(object, object)*
+"
+object*#
+!
+flowerFlowerApp.Models.Flower*
+""*
+1
+2*»
+1T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk l(5∫
 ∑
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs) )(7
-%24bool"0FlowerApp.Models.Flower.IsFlowerPresentation.set* 
-
-%12FlowerApp.Models.Flower*
-""äá
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs+ 7(
-%25FlowerApp.Models.Flower"FlowerApp.Models.Flower¢
-ü
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs+ +("
-%26void" FlowerApp.Models.Flower.Flower()* 
-
-%25FlowerApp.Models.FlowerÆ
-´
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs- -()
-%27string" FlowerApp.Models.Flower.Name.set* 
-
-%25FlowerApp.Models.Flower*
-RoseÆ
-´
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs. .(*
-%28decimal"!FlowerApp.Models.Flower.Price.set* 
-
-%25FlowerApp.Models.Flower*
-""…
-∆
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs/ /(D
-%29string",FlowerApp.Models.Flower.ShortDescription.set* 
-
-%25FlowerApp.Models.Flower*
-Roses is beautiful!ë
-é
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs0 1(p
-%30string"+FlowerApp.Models.Flower.LongDescription.set* 
-
-%25FlowerApp.Models.Flower*ﬂ‹
-ŸIf the red rose's exquisite beauty isn't reason enough to make it the ideal choice to express your love,
-                                                its symbolism of magic and passion adds a message beyond words.‡
-›
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs2' 2(1:
-%313System.Collections.Generic.Dictionary<TKey, TValue>"-FlowerApp.Models.DbInitializer.Categories.get*"" 
-FlowerApp.Models.DbInitializerŒ
-À
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs2' 2(B 
-%32FlowerApp.Models.Category"__mapGet*<
-:
-%313System.Collections.Generic.Dictionary<TKey, TValue>*
-Single flowerÌÍ
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs2 2(B 
-%33FlowerApp.Models.Category"$FlowerApp.Models.Flower.Category.set* 
-
-%25FlowerApp.Models.Flower*"
- 
-%32FlowerApp.Models.Category2Category.set˚
-¯
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs3 3(v
-%34string"$FlowerApp.Models.Flower.ImageUrl.set* 
-
-%25FlowerApp.Models.Flower*QO
-Mhttp://www.buchetetrandafiri.ro/poze/flori/un-fir-de-trandafir-rosu-OBIdz.jpg≠
-™
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs4 4(*
-%35bool"#FlowerApp.Models.Flower.InStock.set* 
-
-%25FlowerApp.Models.Flower*
-""Ñ
-Å
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs5 5(
-%36string"-FlowerApp.Models.Flower.ImageThumbnailUrl.set* 
-
-%25FlowerApp.Models.Flower*QO
-Mhttp://www.buchetetrandafiri.ro/poze/flori/un-fir-de-trandafir-rosu-OBIdz.jpg∫
-∑
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs6 6(8
-%37bool"0FlowerApp.Models.Flower.IsFlowerPresentation.set* 
-
-%25FlowerApp.Models.Flower*
-""äá
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs8 C(
-%38FlowerApp.Models.Flower"FlowerApp.Models.Flower¢
-ü
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs8 8("
-%39void" FlowerApp.Models.Flower.Flower()* 
-
-%38FlowerApp.Models.FlowerØ
-¨
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs: :(*
-%40string" FlowerApp.Models.Flower.Name.set* 
-
-%38FlowerApp.Models.Flower*	
-DaisyÆ
-´
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs; ;(*
-%41decimal"!FlowerApp.Models.Flower.Price.set* 
-
-%38FlowerApp.Models.Flower*
-""»
-≈
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs< <(C
-%42string",FlowerApp.Models.Flower.ShortDescription.set* 
-
-%38FlowerApp.Models.Flower*
-White daisy flowerÍ
-Á
-M
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs= >(Ç
-%43string"+FlowerApp.Models.Flower.LongDescription.set* 
-
-%38FlowerApp.Models.Flower*∑¥
-±The perfect bouquet to brighten someon'es day!
-                                                White and yellow dasies accented with buplerum, greens, and a lovely yellow bow. ‡
-›
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs?' ?(1:
-%443System.Collections.Generic.Dictionary<TKey, TValue>"-FlowerApp.Models.DbInitializer.Categories.get*"" 
-FlowerApp.Models.DbInitializerŒ
-À
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs?' ?(B 
-%45FlowerApp.Models.Category"__mapGet*<
-:
-%443System.Collections.Generic.Dictionary<TKey, TValue>*
-Single flowerÌÍ
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs? ?(B 
-%46FlowerApp.Models.Category"$FlowerApp.Models.Flower.Category.set* 
-
-%38FlowerApp.Models.Flower*"
- 
-%45FlowerApp.Models.Category2Category.set˙
-˜
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs@ @(u
-%47string"$FlowerApp.Models.Flower.ImageUrl.set* 
-
-%38FlowerApp.Models.Flower*PN
-Lhttps://i.pinimg.com/originals/17/a5/d1/17a5d17b2f30c1ad24b6fd182dc89c59.jpg≠
-™
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csA A(*
-%48bool"#FlowerApp.Models.Flower.InStock.set* 
-
-%38FlowerApp.Models.Flower*
-""Ñ
-Å
-M
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csA, A(é
-%49string"-FlowerApp.Models.Flower.ImageThumbnailUrl.set* 
-
-%38FlowerApp.Models.Flower*PN
-Lhttps://i.pinimg.com/originals/17/a5/d1/17a5d17b2f30c1ad24b6fd182dc89c59.jpg∫
-∑
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csB B(8
-%50bool"0FlowerApp.Models.Flower.IsFlowerPresentation.set* 
-
-%38FlowerApp.Models.Flower*
-""äá
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csD W(
-%51FlowerApp.Models.Flower"FlowerApp.Models.Flower¢
-ü
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csD D("
-%52void" FlowerApp.Models.Flower.Flower()* 
-
-%51FlowerApp.Models.Flower∫
-∑
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csF F(5
-%53string" FlowerApp.Models.Flower.Name.set* 
-
-%51FlowerApp.Models.Flower*
-Bouquet of rosesÆ
-´
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csG G(*
-%54decimal"!FlowerApp.Models.Flower.Price.set* 
-
-%51FlowerApp.Models.Flower*
-""ø
-º
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csH H(:
-%55string",FlowerApp.Models.Flower.ShortDescription.set* 
-
-%51FlowerApp.Models.Flower*
-	101 rosesˆ	
-Û	
-M
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csI Q(Å
-%56string"+FlowerApp.Models.Flower.LongDescription.set* 
-
-%51FlowerApp.Models.Flower*√¿
-ΩA huge bouquet of 101 red roses can only carry one message:
-                                                You are my only love.
-                                                The rose is the king of flowers when it comes to their association with beauty and feminine grace,
-                                                passionate and eternal love, sincere devotion.
-                                                Appreciated since ancient times, the rose has been found in the paintings of artists as well as the pages of writers,
-                                                their romanticism being well known. The bouquet of red roses is a classical choice,
-                                                full of charm, elegance and distinction, communicating clearly the feelings of the giver.
-                                                When you wish to declare your love in a stylish way offer an impressive bouquet of red roses
-                                                that will overwhelm the senses through the beauty of its petals and sweet scent.‡
-›
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csR' R(1:
-%573System.Collections.Generic.Dictionary<TKey, TValue>"-FlowerApp.Models.DbInitializer.Categories.get*"" 
-FlowerApp.Models.DbInitializer”
-–
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csR' R(G 
-%58FlowerApp.Models.Category"__mapGet*<
-:
-%573System.Collections.Generic.Dictionary<TKey, TValue>*
-Bouquet of flowersÌÍ
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csR R(G 
-%59FlowerApp.Models.Category"$FlowerApp.Models.Flower.Category.set* 
-
-%51FlowerApp.Models.Flower*"
- 
-%58FlowerApp.Models.Category2Category.setÔ
-Ï
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csS S(j
-%60string"$FlowerApp.Models.Flower.ImageUrl.set* 
-
-%51FlowerApp.Models.Flower*EC
-Ahttps://florariadevis.ro/1493-large_default/buchet-trandafiri.jpg≠
-™
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csT T(*
-%61bool"#FlowerApp.Models.Flower.InStock.set* 
-
-%51FlowerApp.Models.Flower*
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk k()
+
+%5bool"&FlowerApp.Models.Flower.IsFavorite.set*#
+!
+flowerFlowerApp.Models.Flower*
 ""¯
 ı
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csU U(s
-%62string"-FlowerApp.Models.Flower.ImageThumbnailUrl.set* 
-
-%51FlowerApp.Models.Flower*EC
-Ahttps://florariadevis.ro/1493-large_default/buchet-trandafiri.jpg∫
-∑
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csV V(7
-%63bool"0FlowerApp.Models.Flower.IsFlowerPresentation.set* 
-
-%51FlowerApp.Models.Flower*
-""äá
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csY f(
-%64FlowerApp.Models.Flower"FlowerApp.Models.Flower¢
-ü
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csY Y("
-%65void" FlowerApp.Models.Flower.Flower()* 
-
-%64FlowerApp.Models.Flower≤
-Ø
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csZ Z(-
-%66string" FlowerApp.Models.Flower.Name.set* 
-
-%64FlowerApp.Models.Flower*
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csl l(!,
+%6&FlowerApp.Repository.IFlowerRepository"__id*i*g(
+&FlowerApp.Controllers.FlowerController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepositoryØ¨
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csl l(6
 
-HyacinthÆ
-´
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs[ [(*
-%67decimal"!FlowerApp.Models.Flower.Price.set* 
-
-%64FlowerApp.Models.Flower*
-""√
-¿
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs\ \(>
-%68string",FlowerApp.Models.Flower.ShortDescription.set* 
-
-%64FlowerApp.Models.Flower*
-Spring flower¢
-ü
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs] `(d
-%69string"+FlowerApp.Models.Flower.LongDescription.set* 
-
-%64FlowerApp.Models.Flower*Ì
-ÍThe delightful aroma of spring, in one bouquet: hyacinth and fresia notes, in a colorful spring bouquet. 
-                                                Important: The flowers we use are always fresh. Thus, in some cases they may be in the form of buds.
-                                                They will open within 24 hours if in the room are between 23 and 25 Celsius degrees.
-                                                In this case you can enjoy the freshness even more!‡
-›
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csa' a(1:
-%703System.Collections.Generic.Dictionary<TKey, TValue>"-FlowerApp.Models.DbInitializer.Categories.get*"" 
-FlowerApp.Models.DbInitializer—
-Œ
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csa' a(E 
-%71FlowerApp.Models.Category"__mapGet*<
-:
-%703System.Collections.Generic.Dictionary<TKey, TValue>*
-Seasonal flowersÌÍ
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csa a(E 
-%72FlowerApp.Models.Category"$FlowerApp.Models.Flower.Category.set* 
-
-%64FlowerApp.Models.Flower*"
- 
-%71FlowerApp.Models.Category2Category.setË
-Â
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csb b(c
-%73string"$FlowerApp.Models.Flower.ImageUrl.set* 
-
-%64FlowerApp.Models.Flower*><
-:https://www.giftidea.ro/wp-content/uploads/2017/02/3-1.jpg≠
-™
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csc c(*
-%74bool"#FlowerApp.Models.Flower.InStock.set* 
-
-%64FlowerApp.Models.Flower*
-""Ò
-Ó
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csd d(l
-%75string"-FlowerApp.Models.Flower.ImageThumbnailUrl.set* 
-
-%64FlowerApp.Models.Flower*><
-:https://www.giftidea.ro/wp-content/uploads/2017/02/3-1.jpg∫
-∑
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cse e(8
-%76bool"0FlowerApp.Models.Flower.IsFlowerPresentation.set* 
-
-%64FlowerApp.Models.Flower*
-""äá
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csh y(
-%77FlowerApp.Models.Flower"FlowerApp.Models.Flower¢
-ü
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csh h("
-%78void" FlowerApp.Models.Flower.Flower()* 
-
-%77FlowerApp.Models.FlowerØ
-¨
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csi i(*
-%79string" FlowerApp.Models.Flower.Name.set* 
-
-%77FlowerApp.Models.Flower*	
-TulipÆ
-´
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csj j(*
-%80decimal"!FlowerApp.Models.Flower.Price.set* 
-
-%77FlowerApp.Models.Flower*
-""√
-¿
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csk k(>
-%81string",FlowerApp.Models.Flower.ShortDescription.set* 
-
-%77FlowerApp.Models.Flower*
-Spring flowerÃ
-…
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csl s(x
-%82string"+FlowerApp.Models.Flower.LongDescription.set* 
-
-%77FlowerApp.Models.Flower*öó
-îTulips are undoubtedly some of the most loved flowers.
-                                                They have a long history, their origin being in the Himalayas.
-                                                They were first brought to Europe by Turks in the sixteenth century,
-                                                when they became the favorite flowers at the court of Ottoman Empire`s Sultan.
-                                                The scientific name of the tulip , "Tulipa", means "turban" and relates to the shape of the flower.
-                                                In any season the tulips remains one of the most appreciated flowers,
-                                                so who would not enjoy a surprise which contain colourful tulips?
-                                                Order online this wonderful bouquet and someone you love will be happy!‡
-›
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cst' t(1:
-%833System.Collections.Generic.Dictionary<TKey, TValue>"-FlowerApp.Models.DbInitializer.Categories.get*"" 
-FlowerApp.Models.DbInitializer—
-Œ
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cst' t(E 
-%84FlowerApp.Models.Category"__mapGet*<
-:
-%833System.Collections.Generic.Dictionary<TKey, TValue>*
-Seasonal flowersÌÍ
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cst t(E 
-%85FlowerApp.Models.Category"$FlowerApp.Models.Flower.Category.set* 
-
-%77FlowerApp.Models.Flower*"
- 
-%84FlowerApp.Models.Category2Category.set”
-–
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csu u(N
-%86string"$FlowerApp.Models.Flower.ImageUrl.set* 
-
-%77FlowerApp.Models.Flower*)'
-%https://floridebrasov.ro/pics/6/0.jpg≠
-™
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csv v(*
-%87bool"#FlowerApp.Models.Flower.InStock.set* 
-
-%77FlowerApp.Models.Flower*
-""‹
-Ÿ
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csw w(W
-%88string"-FlowerApp.Models.Flower.ImageThumbnailUrl.set* 
-
-%77FlowerApp.Models.Flower*)'
-%https://floridebrasov.ro/pics/6/0.jpg∫
-∑
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csx x(8
-%89bool"0FlowerApp.Models.Flower.IsFlowerPresentation.set* 
-
-%77FlowerApp.Models.Flower*
-""ãà
-M
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs{ á(
-%90FlowerApp.Models.Flower"FlowerApp.Models.Flower¢
-ü
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs{ {("
-%91void" FlowerApp.Models.Flower.Flower()* 
-
-%90FlowerApp.Models.Flower¬
-ø
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs| |(=
-%92string" FlowerApp.Models.Flower.Name.set* 
-
-%90FlowerApp.Models.Flower*
-Bouquet of field flowersÆ
-´
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs} }(*
-%93decimal"!FlowerApp.Models.Flower.Price.set* 
-
-%90FlowerApp.Models.Flower*
-""√
-¿
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs~ ~(>
-%94string",FlowerApp.Models.Flower.ShortDescription.set* 
-
-%90FlowerApp.Models.Flower*
-Field flowersø
-º
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs Å(É
-%95string"+FlowerApp.Models.Flower.LongDescription.set* 
-
-%90FlowerApp.Models.Flower*ãà
-ÖA summery mix of yellow daisy chrysanthemums,
-                            purple asters and red and orange carnations - arranged
-                            in a clear ginger vase and adorned with a cheerful green plaid bow - will make their wishes come true!‚
-ﬂ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csÇ' Ç(1:
-%963System.Collections.Generic.Dictionary<TKey, TValue>"-FlowerApp.Models.DbInitializer.Categories.get*"" 
-FlowerApp.Models.DbInitializer’
-“
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csÇ' Ç(G 
-%97FlowerApp.Models.Category"__mapGet*<
-:
-%963System.Collections.Generic.Dictionary<TKey, TValue>*
-Bouquet of flowersÔÏ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csÇ Ç(G 
-%98FlowerApp.Models.Category"$FlowerApp.Models.Flower.Category.set* 
-
-%90FlowerApp.Models.Flower*"
- 
-%97FlowerApp.Models.Category2Category.setÓ
-Î
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csÉ É(g
-%99string"$FlowerApp.Models.Flower.ImageUrl.set* 
-
-%90FlowerApp.Models.Flower*B@
->https://www.magnolia.ro/images/products/1562829074img_7543.jpg∞
-≠
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csÑ Ñ(*
-%100bool"#FlowerApp.Models.Flower.InStock.set* 
-
-%90FlowerApp.Models.Flower*
-""¯
-ı
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csÖ Ö(p
-%101string"-FlowerApp.Models.Flower.ImageThumbnailUrl.set* 
-
-%90FlowerApp.Models.Flower*B@
->https://www.magnolia.ro/images/products/1562829074img_7543.jpgΩ
-∫
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csÜ Ü(7
-%102bool"0FlowerApp.Models.Flower.IsFlowerPresentation.set* 
-
-%90FlowerApp.Models.Flower*
-""çä
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csâ ó(
-%103FlowerApp.Models.Flower"FlowerApp.Models.Flower¶
-£
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csâ â("
-%104void" FlowerApp.Models.Flower.Flower()*!
-
-%103FlowerApp.Models.Flower≥
-∞
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csä ä(*
-%105string" FlowerApp.Models.Flower.Name.set*!
-
-%103FlowerApp.Models.Flower*	
-Pearl≤
-Ø
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csã ã(*
-%106decimal"!FlowerApp.Models.Flower.Price.set*!
-
-%103FlowerApp.Models.Flower*
-""Œ
-À
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cså å(E
-%107string",FlowerApp.Models.Flower.ShortDescription.set*!
-
-%103FlowerApp.Models.Flower*
-For lovers of spring˙
-˜
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csç ë(a
-%108string"+FlowerApp.Models.Flower.LongDescription.set*!
-
-%103FlowerApp.Models.Flower*ƒ¡
-æPearl flowers, are among the first flowers to appear in early spring.
-                                                Their unmistakable fragrance soothes our senses.
-                                                As beautiful and graceful as they are,
-                                                they are fair and graceful.For this reason,
-                                                their use in floral arrangements is less common.„
-‡
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csí' í(1;
-%1093System.Collections.Generic.Dictionary<TKey, TValue>"-FlowerApp.Models.DbInitializer.Categories.get*"" 
-FlowerApp.Models.DbInitializer’
-“
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csí' í(E!
-%110FlowerApp.Models.Category"__mapGet*=
-;
-%1093System.Collections.Generic.Dictionary<TKey, TValue>*
-Seasonal flowersÚÔ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csí í(E!
-%111FlowerApp.Models.Category"$FlowerApp.Models.Flower.Category.set*!
-
-%103FlowerApp.Models.Flower*#
+%7bool"LFlowerApp.Repository.IFlowerRepository.UpdateFlower(FlowerApp.Models.Flower)*.
+,
+%6&FlowerApp.Repository.IFlowerRepository*#
 !
-%110FlowerApp.Models.Category2Category.setù
-ö
-O
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csì ì(ì
-%112string"$FlowerApp.Models.Flower.ImageUrl.set*!
-
-%103FlowerApp.Models.Flower*nl
-jhttps://s12emagst.akamaized.net/products/3599/3598987/images/res_6664a230d1124f1cbe0eb246f0c7a477_full.jpg±
-Æ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csî î(*
-%113bool"#FlowerApp.Models.Flower.InStock.set*!
-
-%103FlowerApp.Models.Flower*
-""¶
-£
-O
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csï ï(ú
-%114string"-FlowerApp.Models.Flower.ImageThumbnailUrl.set*!
-
-%103FlowerApp.Models.Flower*nl
-jhttps://s12emagst.akamaized.net/products/3599/3598987/images/res_6664a230d1124f1cbe0eb246f0c7a477_full.jpgæ
-ª
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csñ ñ(7
-%115bool"0FlowerApp.Models.Flower.IsFlowerPresentation.set*!
-
-%103FlowerApp.Models.Flower*
-""çä
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csô ¶(
-%116FlowerApp.Models.Flower"FlowerApp.Models.Flower¶
-£
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csô ô("
-%117void" FlowerApp.Models.Flower.Flower()*!
-
-%116FlowerApp.Models.Flowerª
-∏
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csö ö(2
-%118string" FlowerApp.Models.Flower.Name.set*!
-
-%116FlowerApp.Models.Flower*
-Peony bouquet≤
-Ø
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csõ õ(*
-%119decimal"!FlowerApp.Models.Flower.Price.set*!
-
-%116FlowerApp.Models.Flower*
-""”
-–
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csú ú(J
-%120string",FlowerApp.Models.Flower.ShortDescription.set*!
-
-%116FlowerApp.Models.Flower*
-King in the spring gardenÕ
- 
-O
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csù †(ü
-%121string"+FlowerApp.Models.Flower.LongDescription.set*!
-
-%116FlowerApp.Models.Flower*ñì
-êFor a delicate lady, a delicate bouquet.
-                                                The combination of pink peony flowers, scented freesias,
-                                                Matthiola and Brunia is absolutely charming.
-                                                The pastel colors and the perfume give  the bouquet a romantic look and it is suitable for a sensitive person.„
-‡
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs°' °(1;
-%1223System.Collections.Generic.Dictionary<TKey, TValue>"-FlowerApp.Models.DbInitializer.Categories.get*"" 
-FlowerApp.Models.DbInitializer◊
-‘
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs°' °(G!
-%123FlowerApp.Models.Category"__mapGet*=
-;
-%1223System.Collections.Generic.Dictionary<TKey, TValue>*
-Bouquet of flowersÚÔ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs° °(G!
-%124FlowerApp.Models.Category"$FlowerApp.Models.Flower.Category.set*!
-
-%116FlowerApp.Models.Flower*#
-!
-%123FlowerApp.Models.Category2Category.setù
-ö
-O
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs¢ ¢(ì
-%125string"$FlowerApp.Models.Flower.ImageUrl.set*!
-
-%116FlowerApp.Models.Flower*nl
-jhttps://s12emagst.akamaized.net/products/6085/6084226/images/res_b401ee11c47ba7fb3762c91794496f22_full.jpg±
-Æ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs£ £(*
-%126bool"#FlowerApp.Models.Flower.InStock.set*!
-
-%116FlowerApp.Models.Flower*
-""¶
-£
-O
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs§ §(ú
-%127string"-FlowerApp.Models.Flower.ImageThumbnailUrl.set*!
-
-%116FlowerApp.Models.Flower*nl
-jhttps://s12emagst.akamaized.net/products/6085/6084226/images/res_b401ee11c47ba7fb3762c91794496f22_full.jpgæ
-ª
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs• •(8
-%128bool"0FlowerApp.Models.Flower.IsFlowerPresentation.set*!
-
-%116FlowerApp.Models.Flower*
-""çä
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csß µ(
-%129FlowerApp.Models.Flower"FlowerApp.Models.Flower¶
-£
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csß ß("
-%130void" FlowerApp.Models.Flower.Flower()*!
-
-%129FlowerApp.Models.Flowerø
-º
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs® ®(6
-%131string" FlowerApp.Models.Flower.Name.set*!
-
-%129FlowerApp.Models.Flower*
-Bouquet of lilies≤
-Ø
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs© ©(*
-%132decimal"!FlowerApp.Models.Flower.Price.set*!
-
-%129FlowerApp.Models.Flower*
-""«
-ƒ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs™ ™(>
-%133string",FlowerApp.Models.Flower.ShortDescription.set*!
-
-%129FlowerApp.Models.Flower*
-Strong flower–
-Õ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs´ Ø(k
-%134string"+FlowerApp.Models.Flower.LongDescription.set*!
-
-%129FlowerApp.Models.Flower*öó
-îOur Spring Lilies bouquet is shipped in bud form,
-                                                as most lilies are. Here's why this is a good thing:
-                                                watching these flowers open over the course of a few days is a gift in itself.
-                                                Imagine your recipient's delight as each day their bouquet of lilies grows brighter and bigger,
-                                                reminding them of your thoughtfulness for at least a week.„
-‡
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs∞' ∞(1;
-%1353System.Collections.Generic.Dictionary<TKey, TValue>"-FlowerApp.Models.DbInitializer.Categories.get*"" 
-FlowerApp.Models.DbInitializer◊
-‘
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs∞' ∞(G!
-%136FlowerApp.Models.Category"__mapGet*=
-;
-%1353System.Collections.Generic.Dictionary<TKey, TValue>*
-Bouquet of flowersÚÔ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs∞ ∞(G!
-%137FlowerApp.Models.Category"$FlowerApp.Models.Flower.Category.set*!
-
-%129FlowerApp.Models.Flower*#
-!
-%136FlowerApp.Models.Category2Category.set≥
-∞
-O
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs± ±(ß
-%138string"$FlowerApp.Models.Flower.ImageUrl.set*!
-
-%129FlowerApp.Models.Flower*ÉÄ
-~http://www.iflori.ro/image/cache/data/Buchete%20corporate/BC66%20Buchet%20flori%20crin%20alb%20pret%20%20235%20lei-500x500.jpg±
-Æ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs≤ ≤(*
-%139bool"#FlowerApp.Models.Flower.InStock.set*!
-
-%129FlowerApp.Models.Flower*
-""º
-π
-O
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs≥ ≥(∞
-%140string"-FlowerApp.Models.Flower.ImageThumbnailUrl.set*!
-
-%129FlowerApp.Models.Flower*ÉÄ
-~http://www.iflori.ro/image/cache/data/Buchete%20corporate/BC66%20Buchet%20flori%20crin%20alb%20pret%20%20235%20lei-500x500.jpgæ
-ª
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs¥ ¥(8
-%141bool"0FlowerApp.Models.Flower.IsFlowerPresentation.set*!
-
-%129FlowerApp.Models.Flower*
-""çä
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs∑  (
-%142FlowerApp.Models.Flower"FlowerApp.Models.Flower¶
-£
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs∑ ∑("
-%143void" FlowerApp.Models.Flower.Flower()*!
-
-%142FlowerApp.Models.Flowerª
-∏
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs∏ ∏(2
-%144string" FlowerApp.Models.Flower.Name.set*!
-
-%142FlowerApp.Models.Flower*
-Chrysanthemum≤
-Ø
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csπ π(*
-%145decimal"!FlowerApp.Models.Flower.Price.set*!
-
-%142FlowerApp.Models.Flower*
-""–
-Õ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs∫ ∫(G
-%146string",FlowerApp.Models.Flower.ShortDescription.set*!
-
-%142FlowerApp.Models.Flower*
-A happy looking flowerÍ
-
-Á
-
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csª ƒ(`
-%147string"+FlowerApp.Models.Flower.LongDescription.set*!
-
-%142FlowerApp.Models.Flower*¥	±	
-Æ	A chrysanthemum is a beautiful flower,
-                                                which is why you‚Äôll see it on the Japanese royal crest today.
-                                                You will find that there are about 30 different kinds of chrysanthemum out there today,
-                                                so there are going to be a lot of different colors and styles.
-                                                Today, the chrysanthemums that are out there are far more flash than the ones in the past.
-                                                You will find that these flowers bloom often and they look great,
-                                                they have a lot of little petals that provide a lot of volume and take up a lot of space which is why a lot of people like the look.
-                                                They may come in a daisy like flower, a button flower, or even resembling a pom pom.
-                                                You will find that you can get them in traditional colors like white and yellow,
-                                                but they also come in reds and pinks today too.„
-‡
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs≈' ≈(1;
-%1483System.Collections.Generic.Dictionary<TKey, TValue>"-FlowerApp.Models.DbInitializer.Categories.get*"" 
-FlowerApp.Models.DbInitializer“
-œ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs≈' ≈(B!
-%149FlowerApp.Models.Category"__mapGet*=
-;
-%1483System.Collections.Generic.Dictionary<TKey, TValue>*
-Single flowerÚÔ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs≈ ≈(B!
-%150FlowerApp.Models.Category"$FlowerApp.Models.Flower.Category.set*!
-
-%142FlowerApp.Models.Flower*#
-!
-%149FlowerApp.Models.Category2Category.setÄ
-˝
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs∆ ∆(w
-%151string"$FlowerApp.Models.Flower.ImageUrl.set*!
-
-%142FlowerApp.Models.Flower*RP
-Nhttps://www.robertorossi.ro/images/produse/crizantema-75-cm-galben-87017-1.jpg±
-Æ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs« «(*
-%152bool"#FlowerApp.Models.Flower.InStock.set*!
-
-%142FlowerApp.Models.Flower*
-""ä
-á
-O
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs» »(Ä
-%153string"-FlowerApp.Models.Flower.ImageThumbnailUrl.set*!
-
-%142FlowerApp.Models.Flower*RP
-Nhttps://www.robertorossi.ro/images/produse/crizantema-75-cm-galben-87017-1.jpgæ
-ª
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs… …(8
-%154bool"0FlowerApp.Models.Flower.IsFlowerPresentation.set*!
-
-%142FlowerApp.Models.Flower*
-""‰·
-M
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs À(
-%155void"AMicrosoft.EntityFrameworkCore.DbContext.AddRange(params object[])**
-(
-contextFlowerApp.Models.AppDbContext* 
-
-%12FlowerApp.Models.Flower* 
-
-%25FlowerApp.Models.Flower* 
-
-%38FlowerApp.Models.Flower* 
-
-%51FlowerApp.Models.Flower* 
-
-%64FlowerApp.Models.Flower* 
-
-%77FlowerApp.Models.Flower* 
-
-%90FlowerApp.Models.Flower*!
-
-%103FlowerApp.Models.Flower*!
-
-%116FlowerApp.Models.Flower*!
-
-%129FlowerApp.Models.Flower*!
-
-%142FlowerApp.Models.Flower2AddRange(params object[])*
-5*≠
-5N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csŒ Œ(%“œ
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.csŒ Œ(%
-%156int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()**
-(
-contextFlowerApp.Models.AppDbContext2SaveChanges()*
-6*∫
-6N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs–	 –(	"e
-N
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs– –(	
-implicit return:F
-applicationBuilder0Microsoft.AspNetCore.Builder.IApplicationBuilderB"" 
-FlowerApp.Models.DbInitializer
+flowerFlowerApp.Models.Flower2%UpdateFlower(FlowerApp.Models.Flower)*
+2*≠
+2T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cso o(4øº
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cso o(55
+%8/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+List*
+
+Flower2 RedirectToAction(string, string)"è
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cso o(67
+5
+%8/Microsoft.AspNetCore.Mvc.RedirectToActionResult*∆
+3T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csp	 p(	"k
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csp p(	
+implicit return*‘
+4T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cse< e(<t
+r
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cse e(.
+%9"__entrypoint*
+""*
+0:
+flowerIdintB*(
+&FlowerApp.Controllers.FlowerController

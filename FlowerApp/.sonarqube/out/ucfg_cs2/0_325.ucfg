@@ -1,20 +1,16 @@
 
-%FlowerApp.Models.Order.CardNumber.setD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csO( O(+"0*Ü
+&FlowerApp.Models.Order.OrderPlaced.getD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csH& H()"0*Ñ
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csO, O(,”
-‘
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csH* H(*¤
+¡
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csO( O(,0
-FlowerApp.Models.Order"
-
-CardNumberstring"__id*
-
-valuestring"z
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csH& H(*
+%0System.DateTime"__id*<*:
+FlowerApp.Models.Order"
+OrderPlacedSystem.DateTime"_
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csO( O(,2*0
-FlowerApp.Models.Order"
-
-CardNumberstring:
-valuestringB
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csH& H(*
+
+%0System.DateTimeB
 FlowerApp.Models.Order

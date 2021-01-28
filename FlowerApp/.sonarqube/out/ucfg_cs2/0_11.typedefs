@@ -1,6 +1,6 @@
-á
- FlowerApp.Migrations.AddFavorite2Microsoft.EntityFrameworkCore.Migrations.Migrationobjectü
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)^FlowerApp.Migrations.AddFavorite.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)£
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)`FlowerApp.Migrations.AddFavorite.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ù
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)]FlowerApp.Migrations.AddFavorite.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)?
-AddFavorite().FlowerApp.Migrations.AddFavorite.AddFavorite()
+÷
+FlowerApp.Migrations.Init2Microsoft.EntityFrameworkCore.Migrations.Migrationobjectò
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)WFlowerApp.Migrations.Init.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ú
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)YFlowerApp.Migrations.Init.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ñ
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)VFlowerApp.Migrations.Init.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)*
+Init() FlowerApp.Migrations.Init.Init()

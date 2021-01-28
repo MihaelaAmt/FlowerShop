@@ -1,188 +1,34 @@
 
-6FlowerApp.Controllers.AdminController.EditUser(string)S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csN) N(1"4*ò
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csP R(…
-‚
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csP P()6
-%00Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*m*k'
+6FlowerApp.Controllers.AdminController.RoleManagement()U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csˆ ˆ(+"2*º
+0U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csŠ ‹(‡
+„
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csŠ Š($6
+%00Microsoft.AspNetCore.Identity.RoleManager<TRole>"__id*m*k'
 %FlowerApp.Controllers.AdminController"@
-_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>­ª
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csP P(;*
-%1$System.Threading.Tasks.Task<TResult>"FMicrosoft.AspNetCore.Identity.UserManager<TUser>.FindByIdAsync(string)*8
+_roleManager0Microsoft.AspNetCore.Identity.RoleManager<TRole>üù
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csŠ Š(*
+%1System.Linq.IQueryable<T>":Microsoft.AspNetCore.Identity.RoleManager<TRole>.Roles.get*8
 6
-%00Microsoft.AspNetCore.Identity.UserManager<TUser>*
-
-idstring2FindByIdAsync(string)Ž
-‹
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csP P(;&
-userFlowerApp.Auth.ApplicationUser"__id*
-""Æ
-Ã
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csR R(
-
-%2bool""object.operator ==(object, object)*
-"
-object*(
-&
-userFlowerApp.Auth.ApplicationUser*
-""*
-1
-2*Ð
-1S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csS S(L…
-‚
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csS: S(F6
-%30Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*m*k'
-%FlowerApp.Controllers.AdminController"@
-_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>ú÷
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csS: S(L
-%4System.Linq.IQueryable<T>":Microsoft.AspNetCore.Identity.UserManager<TUser>.Users.get*8
-6
-%30Microsoft.AspNetCore.Identity.UserManager<TUser>2	Users.getßÜ
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csS S(M5
-%5/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, object)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*
-UserManagement*!
+%00Microsoft.AspNetCore.Identity.RoleManager<TRole>2	Roles.get§
+¤
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csŠ Š(*"
+rolesSystem.Linq.IQueryable<T>"__id*!
 
-%4System.Linq.IQueryable<T>2 RedirectToAction(string, object)"Ž
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csS S(N7
-5
-%5/Microsoft.AspNetCore.Mvc.RedirectToActionResult*¢&
-2S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csT W(…
-‚
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csT T(+6
-%60Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*m*k'
-%FlowerApp.Controllers.AdminController"@
-_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>ÇÄ
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csT T(@*
-%7$System.Threading.Tasks.Task<TResult>"FMicrosoft.AspNetCore.Identity.UserManager<TUser>.GetClaimsAsync(TUser)*8
-6
-%60Microsoft.AspNetCore.Identity.UserManager<TUser>*(
-&
-userFlowerApp.Auth.ApplicationUser2GetClaimsAsync(TUser)•
-’
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csT T(@-
-claims#System.Collections.Generic.IList<T>"__id*
-""¯¬
-T
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csU U(ž,
-%8&FlowerApp.ViewModels.EditUserViewModel"&FlowerApp.ViewModels.EditUserViewModelÐ
-Í
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csU U(*
-
-%9void":FlowerApp.ViewModels.EditUserViewModel.EditUserViewModel()*.
-,
-%8&FlowerApp.ViewModels.EditUserViewModelÒÏ
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csU4 U(;
-%10string"7Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Id.get*(
-&
-userFlowerApp.Auth.ApplicationUser2Id.get×
-Ô
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csU/ U(;
-%11string"-FlowerApp.ViewModels.EditUserViewModel.Id.set*.
-,
-%8&FlowerApp.ViewModels.EditUserViewModel*
-
-%10stringØÕ
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csUE U(O
-%12string":Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Email.get*(
-&
-userFlowerApp.Auth.ApplicationUser2	Email.getÚ
-×
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csU= U(O
-%13string"0FlowerApp.ViewModels.EditUserViewModel.Email.set*.
-,
-%8&FlowerApp.ViewModels.EditUserViewModel*
-
-%12stringÞÛ
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csU\ U(i
-%14string"=Microsoft.AspNetCore.Identity.IdentityUser<TKey>.UserName.get*(
-&
-userFlowerApp.Auth.ApplicationUser2UserName.getÝ
-Ú
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csUQ U(i
-%15string"3FlowerApp.ViewModels.EditUserViewModel.UserName.set*.
-,
-%8&FlowerApp.ViewModels.EditUserViewModel*
-
-%14stringá
-Þ
-T
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csUx U(“0
-%16)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
-System.Linq.Enumerable*/
--
-claims#System.Collections.Generic.IList<T>*
-""­
-ª
-T
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csUx U(œ)
-%17"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*2
-0
-%16)System.Collections.Generic.IEnumerable<T>˜
-•
-T
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csUk U(œ)
-%18"System.Collections.Generic.List<T>"5FlowerApp.ViewModels.EditUserViewModel.UserClaims.set*.
-,
-%8&FlowerApp.ViewModels.EditUserViewModel*+
-)
-%17"System.Collections.Generic.List<T>½
-º
-T
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csU U(ž,
-vm&FlowerApp.ViewModels.EditUserViewModel"__id*.
-,
-%8&FlowerApp.ViewModels.EditUserViewModeló
-ð
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csW W(
-%19void"flowerapp/views/admin/edituser*
-
-%20*.
-,
-vm&FlowerApp.ViewModels.EditUserViewModel*
-
-%ViewBagDataAllobject*
-
-%ViewBagDataHtmlobject*
-
-%TempDataAllobject*
-
-%TempDataHtmlobject* 
-
-%HttpContextItemsAllobject*!
-
-%HttpContextItemsHtmlobjectï
+%1System.Linq.IQueryable<T>ï
 ì
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csW W(
-%21void"flowerapp/views/_viewstart*
-
-%22*.
-,
-vm&FlowerApp.ViewModels.EditUserViewModel*
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs‹ ‹(
+
+%2void"$flowerapp/views/admin/rolemanagement*
+
+%3*$
+"
+rolesSystem.Linq.IQueryable<T>*
 
 %ViewBagDataAllobject*
 
@@ -194,15 +40,16 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csW W
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjectó
-ð
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csW W(
-%23void"flowerapp/views/shared/_layout*
-
-%24*.
-,
-vm&FlowerApp.ViewModels.EditUserViewModel*
+%HttpContextItemsHtmlobjectå
+â
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs‹ ‹(
+
+%4void"flowerapp/views/_viewstart*
+
+%5*$
+"
+rolesSystem.Linq.IQueryable<T>*
 
 %ViewBagDataAllobject*
 
@@ -214,24 +61,43 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csW W
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobject"d
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csW W(
-
-%23void*Ä
-3S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csX	 X(	"j
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csX X(	
-implicit return*Û
-4S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csN< N(<|
-z
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csN) N(1
-%25"__entrypoint*
-
-idstring*
-0:
-idstringB)'
+%HttpContextItemsHtmlobjecté
+æ
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs‹ ‹(
+
+%6void"flowerapp/views/shared/_layout*
+
+%7*$
+"
+rolesSystem.Linq.IQueryable<T>*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"e
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs‹ ‹(
+
+
+%6void*È
+1U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csŒ	 Œ(	"l
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csŒ Œ(	
+implicit return*Î
+2U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csˆ- ˆ(-m
+k
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csˆ ˆ(+
+%8"__entrypoint*
+0B)'
 %FlowerApp.Controllers.AdminController

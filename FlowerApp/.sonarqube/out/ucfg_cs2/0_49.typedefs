@@ -1,12 +1,13 @@
-‹
-FlowerApp.Models.ShoppingCartobjectx
-+ShoppingCart(FlowerApp.Models.AppDbContext)IFlowerApp.Models.ShoppingCart.ShoppingCart(FlowerApp.Models.AppDbContext)p
-'AddToCart(FlowerApp.Models.Flower, int)EFlowerApp.Models.ShoppingCart.AddToCart(FlowerApp.Models.Flower, int)p
-'RemoveFromCart(FlowerApp.Models.Flower)EFlowerApp.Models.ShoppingCart.RemoveFromCart(FlowerApp.Models.Flower)N
-GetShoppingCartItems()4FlowerApp.Models.ShoppingCart.GetShoppingCartItems()8
-ClearCart())FlowerApp.Models.ShoppingCart.ClearCart()N
-GetShoppingCartTotal()4FlowerApp.Models.ShoppingCart.GetShoppingCartTotal()F
-ShoppingCartId.get0FlowerApp.Models.ShoppingCart.ShoppingCartId.getF
-ShoppingCartId.set0FlowerApp.Models.ShoppingCart.ShoppingCartId.setL
-ShoppingCartItems.get3FlowerApp.Models.ShoppingCart.ShoppingCartItems.getL
-ShoppingCartItems.set3FlowerApp.Models.ShoppingCart.ShoppingCartItems.set
+Á
+$FlowerApp.ViewModels.FlowerViewModelobjectK
+FlowerViewModel()6FlowerApp.ViewModels.FlowerViewModel.FlowerViewModel()A
+FlowerId.get1FlowerApp.ViewModels.FlowerViewModel.FlowerId.getA
+FlowerId.set1FlowerApp.ViewModels.FlowerViewModel.FlowerId.set9
+Name.get-FlowerApp.ViewModels.FlowerViewModel.Name.get9
+Name.set-FlowerApp.ViewModels.FlowerViewModel.Name.setQ
+ShortDescription.get9FlowerApp.ViewModels.FlowerViewModel.ShortDescription.getQ
+ShortDescription.set9FlowerApp.ViewModels.FlowerViewModel.ShortDescription.set;
+	Price.get.FlowerApp.ViewModels.FlowerViewModel.Price.get;
+	Price.set.FlowerApp.ViewModels.FlowerViewModel.Price.setS
+ImageThumbnailUrl.get:FlowerApp.ViewModels.FlowerViewModel.ImageThumbnailUrl.getS
+ImageThumbnailUrl.set:FlowerApp.ViewModels.FlowerViewModel.ImageThumbnailUrl.set

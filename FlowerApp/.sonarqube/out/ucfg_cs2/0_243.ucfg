@@ -1,22 +1,16 @@
 
-[FlowerApp.Migrations.Order2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs  ($"0*œ
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs (·´
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs ( _
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-SecurityCode*
-
-Orders*
-""2"DropColumn(string, string, string)*
-1*Î
-1X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs	 (	"o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB
-FlowerApp.Migrations.Order2
+.FlowerApp.Models.OrderDetail.OrderDetailId.getJ
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs# (&"0*Ç
+0J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs' ('š
+—
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs# ('	
+%0int"__id*8*6
+FlowerApp.Models.OrderDetail"
+OrderDetailIdint"Y
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs# ('
+	
+%0intB 
+FlowerApp.Models.OrderDetail

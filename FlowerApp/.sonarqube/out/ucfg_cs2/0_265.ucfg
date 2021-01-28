@@ -1,23 +1,16 @@
 
-UFlowerApp.Repository.FlowerRepository.FlowerRepository(FlowerApp.Models.AppDbContext)S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ("1*]
-1S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs	 (	*
-0*Ê
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ((ê
-ç
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ((Y'
-%FlowerApp.Repository.FlowerRepository".
-_appDbContextFlowerApp.Models.AppDbContext"__id*/
--
-appDbContextFlowerApp.Models.AppDbContext*
-2*Ä
-2S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs	 (	"j
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (	
-implicit return:-
-appDbContextFlowerApp.Models.AppDbContextB)'
-%FlowerApp.Repository.FlowerRepository
+.FlowerApp.Models.AppDbContext.OrderDetails.getK
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs( (("0*Æ
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs( ((í
+ê
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs( ((2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*a*_
+FlowerApp.Models.AppDbContext"<
+OrderDetails,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ƒ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs( ((4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
+FlowerApp.Models.AppDbContext

@@ -1,36 +1,18 @@
 
-[FlowerApp.Controllers.HomeController.HomeController(FlowerApp.Repository.IFlowerRepository)R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs ("3*Ç
-1R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs	 (	i
-g
-
-%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
-#Microsoft.AspNetCore.Mvc.Controller*
-0*á
-0R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (0‚
-ÿ
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (0e&
-$FlowerApp.Controllers.HomeController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepository"__id*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository*
-2*Â
-2R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs	 (	"i
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (	
-implicit return*ˆ
-3R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.csA (A©
-¦
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (
-%1"__entrypoint*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository*
-1::
-flowerRepository&FlowerApp.Repository.IFlowerRepositoryB(&
-$FlowerApp.Controllers.HomeController
+)FlowerApp.Models.AppDbContext.Flowers.setK
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs ("0*ì
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (ë
+è
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (Z
+FlowerApp.Models.AppDbContext"7
+Flowers,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"«
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (\*Z
+FlowerApp.Models.AppDbContext"7
+Flowers,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
+FlowerApp.Models.AppDbContext

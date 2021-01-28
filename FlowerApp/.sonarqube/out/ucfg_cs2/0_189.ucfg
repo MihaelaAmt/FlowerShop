@@ -1,18 +1,18 @@
 
-7FlowerApp.ViewModels.CategoryViewModel.CategoryName.setT
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs' (*"0*¨
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs+ (+°
-­
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs' (+?(
-&FlowerApp.ViewModels.CategoryViewModel"
-CategoryNameint"__id*
-
-valueint"™
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs' (+A*?(
-&FlowerApp.ViewModels.CategoryViewModel"
-CategoryNameint:
-valueintB*(
-&FlowerApp.ViewModels.CategoryViewModel
+@FlowerApp.ViewModels.AddFlowerViewModel.IsFlowerPresentation.setU
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs0 (3"0*À
+0U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs4 (4¼
+¹
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs0 (4I)
+'FlowerApp.ViewModels.AddFlowerViewModel"
+IsFlowerPresentationbool"__id*
+
+valuebool"¤
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs0 (4K*I)
+'FlowerApp.ViewModels.AddFlowerViewModel"
+IsFlowerPresentationbool:
+valueboolB+)
+'FlowerApp.ViewModels.AddFlowerViewModel

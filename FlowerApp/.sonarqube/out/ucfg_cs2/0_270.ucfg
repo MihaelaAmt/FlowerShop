@@ -1,22 +1,18 @@
 
-`FlowerApp.Migrations.AddFavorite.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs  ($"0*¥
-0]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs ( »¸
-]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs (!_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-IsFavorite*	
-Flowers*
-""2"DropColumn(string, string, string)*
-1*Ø
-1]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs	 (	"t
-]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB$"
- FlowerApp.Migrations.AddFavorite
+&FlowerApp.Models.OrderDetail.Order.setJ
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs* (-"0*¡
+0J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs. (.»
+¸
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs* (.A
+FlowerApp.Models.OrderDetail"
+OrderFlowerApp.Models.Order"__id*!
+
+valueFlowerApp.Models.Order"‘
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs* (.C*A
+FlowerApp.Models.OrderDetail"
+OrderFlowerApp.Models.Order:
+valueFlowerApp.Models.OrderB 
+FlowerApp.Models.OrderDetail

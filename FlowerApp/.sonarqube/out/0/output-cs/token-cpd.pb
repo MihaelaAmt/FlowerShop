@@ -1,416 +1,742 @@
 à
 BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs
-	namespace 	
-	FlowerApp
+	namespace 	
+	FlowerApp
  
-. 
-Auth 
-{ 
-public		 
+. 
+Auth 
+{ 
+public 
 
-class		 
-ApplicationUser		  
-:		! "
-IdentityUser		# /
-{
-
- 
-public 
-DateTime 
-	Birthdate !
-{" #
-get$ '
-;' (
-set) ,
-;, -
-}. /
-public 
-string 
-City 
-{ 
-get  
-;  !
-set" %
-;% &
-}' (
-public 
-string 
-Country 
-{ 
-get  #
-;# $
-set% (
-;( )
-}* +
-} 
-} „
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs
-	namespace 	
-	FlowerApp
- 
-. 
-Auth 
-{ 
-public 
-
-class  
-FlowerShopClaimTypes %
-{		 
+class 
+ApplicationUser  
+:! "
+IdentityUser# /
+{ 
+public 
+DateTime 
+	Birthdate !
+{" #
+get$ '
+;' (
+set) ,
+;, -
+}. /
 public
 
  
-static
+string
 
  
-List
+City
 
  
-<
-
- 
-string
-
- !
->
-
-! "
-
-ClaimsList
-
-# -
 {
 
-. /
+ 
 get
 
-0 3
+  
 ;
 
-3 4
+  !
 set
 
-5 8
+" %
 ;
 
-8 9
+% &
 }
 
-: ;
+' (
+public 
+string 
+Country 
+{ 
+get  #
+;# $
+set% (
+;( )
+}* +
+} 
+} „
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+Auth 
+{ 
+public 
+
+class  
+FlowerShopClaimTypes %
+{ 
+public 
+static 
+List 
+< 
+string !
+>! "
+
+ClaimsList# -
+{. /
+get0 3
+;3 4
+set5 8
+;8 9
+}: ;
+=< =
+new> A
+ListB F
+<F G
+stringG M
+>M N
+{O P
+$strQ `
+,` a
+$strb n
+,n o
+$str	p Ç
+}
+É Ñ
+;
+Ñ Ö
+} 
+}		 ˚
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+Components 
+{ 
+public 
+
+class 
+	AdminMenu 
+: 
+ViewComponent *
+{ 
+public  
+IViewComponentResult #
+Invoke$ *
+(* +
+)+ ,
+{		 	
+var
+
+ 
+	menuItems
+
+ 
 =
 
-< =
+ 
 new
 
-> A
+ 
 List
 
-B F
+  $
 <
 
-F G
-string
+$ %
+AdminMenuItem
 
-G M
+% 2
 >
 
-M N
+2 3
 {
 
-O P
-$str
+4 5
+new
 
-Q `
-,
+6 9
+AdminMenuItem
 
-` a
-$str
+: G
+(
 
-b n
-,
+G H
+)
 
-n o
-$str	
-
-p Ç
-}
-
-
-É Ñ
-;
-
-
-Ñ Ö
-} 
-} ˚
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs
-	namespace 	
-	FlowerApp
- 
-. 
-
-Components 
-{ 
-public		 
+H I
+{ 
+DisplayValue  
+=! "
+$str# 4
+,4 5
+ActionValue 
+=  !
+$str" 2
+} 
+, 
+new 
+AdminMenuItem "
+(" #
+)# $
+{ 
+DisplayValue  
+=! "
+$str# 4
+,4 5
+ActionValue 
+=  !
+$str" 2
+} 
+, 
+new 
+AdminMenuItem #
+(# $
+)$ %
+{ 
+DisplayValue  
+=! "
+$str# 6
+,6 7
+ActionValue 
+=  !
+$str" 4
+} 
+, 
+} 
+; 
+return 
+View 
+( 
+	menuItems !
+)! "
+;" #
+} 	
+}   
+public"" 
 
-class		 
-	AdminMenu		 
-:		 
-ViewComponent		 *
-{
-
- 
-public  
-IViewComponentResult #
-Invoke$ *
-(* +
-)+ ,
-{ 	
-var 
-	menuItems 
-= 
-new 
-List  $
-<$ %
-AdminMenuItem% 2
->2 3
-{4 5
-new6 9
-AdminMenuItem: G
-(G H
-)H I
-{ 
-DisplayValue  
-=! "
-$str# 4
-,4 5
-ActionValue 
-=  !
-$str" 2
-} 
-, 
-new 
-AdminMenuItem "
-(" #
-)# $
-{ 
-DisplayValue  
-=! "
-$str# 4
-,4 5
-ActionValue 
-=  !
-$str" 2
-} 
-, 
-new 
-AdminMenuItem #
-(# $
-)$ %
-{ 
-DisplayValue  
-=! "
-$str# 6
-,6 7
-ActionValue 
-=  !
-$str" 4
-} 
-, 
-} 
-; 
-return!! 
-View!! 
-(!! 
-	menuItems!! !
-)!!! "
-;!!" #
-}"" 	
-}## 
-public%% 
-
-class%% 
-AdminMenuItem%% 
-{&& 
-public'' 
-string'' 
-DisplayValue'' "
-{''# $
-get''% (
-;''( )
-set''* -
-;''- .
-}''/ 0
-public(( 
-string(( 
-ActionValue(( !
-{((" #
-get(($ '
-;((' (
-set(() ,
-;((, -
-}((. /
-})) 
-}** ‹	
+class"" 
+AdminMenuItem"" 
+{## 
+public$$ 
+string$$ 
+DisplayValue$$ "
+{$$# $
+get$$% (
+;$$( )
+set$$* -
+;$$- .
+}$$/ 0
+public%% 
+string%% 
+ActionValue%% !
+{%%" #
+get%%$ '
+;%%' (
+set%%) ,
+;%%, -
+}%%. /
+}&& 
+}'' ‹	
 EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+Components 
+{ 
+public 
+
+class 
+CategoryMenu 
+: 
+ViewComponent  -
+{ 
+private		 
+readonly		 
+ICategoryRepository		 ,
+_categoryRepository		- @
+;		@ A
+public 
+CategoryMenu 
+( 
+ICategoryRepository /
+categoryRepository0 B
+)B C
+{ 	
+_categoryRepository 
+=  !
+categoryRepository" 4
+;4 5
+} 	
+public  
+IViewComponentResult #
+Invoke$ *
+(* +
+)+ ,
+{ 	
+var 
+
+categories 
+= 
+_categoryRepository 0
+.0 1
+
+Categories1 ;
+.; <
+OrderBy< C
+(C D
+cD E
+=>F H
+cI J
+.J K
+CategoryNameK W
+)W X
+;X Y
+return 
+View 
+( 
+
+categories "
+)" #
+;# $
+} 	
+} 
+} €
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+Components 
+{ 
+public 
+
+class 
+ShoppingCartSummary $
+:% &
+ViewComponent' 4
+{ 
+private		 
+readonly		 
+ShoppingCart		 %
+_shoppingCart		& 3
+;		3 4
+public 
+ShoppingCartSummary "
+(" #
+ShoppingCart# /
+shoppingCart0 <
+)< =
+{ 	
+_shoppingCart 
+= 
+shoppingCart (
+;( )
+} 	
+public  
+IViewComponentResult #
+Invoke$ *
+(* +
+)+ ,
+{ 	
+var 
+items 
+= 
+_shoppingCart %
+.% & 
+GetShoppingCartItems& :
+(: ;
+); <
+;< =
+_shoppingCart 
+. 
+ShoppingCartItems +
+=, -
+items. 3
+;3 4
+var 
+shoppingViewModel !
+=" #
+new$ '!
+ShoppingCartViewModel( =
+{ 
+ShoppingCart 
+= 
+_shoppingCart ,
+,, -
+ShoppingCartTotal !
+=" #
+_shoppingCart$ 1
+.1 2 
+GetShoppingCartTotal2 F
+(F G
+)G H
+} 
+; 
+return 
+View 
+( 
+shoppingViewModel )
+)) *
+;* +
+} 	
+} 
+} Ó1
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs
 	namespace 	
 	FlowerApp
  
-. 
-
-Components 
-{		 
-public
+. 
+Controllers 
+{		 
+[
 
- 
-
-class
+ 
+	Authorize
 
- 
-CategoryMenu
+ 
+]
 
- 
-:
-
- 
-ViewComponent
-
-  -
-{ 
-private 
-readonly 
-ICategoryRepository ,
-_categoryRepository- @
-;@ A
-public 
-CategoryMenu 
-( 
-ICategoryRepository /
-categoryRepository0 B
-)B C
-{ 	
-_categoryRepository 
-=  !
-categoryRepository" 4
-;4 5
-} 	
-public  
-IViewComponentResult #
-Invoke$ *
-(* +
-)+ ,
-{ 	
-var 
-
-categories 
-= 
-_categoryRepository 0
-.0 1
-
-Categories1 ;
-.; <
-OrderBy< C
-(C D
-cD E
-=>F H
-cI J
-.J K
-CategoryNameK W
-)W X
-;X Y
-return 
-View 
-( 
-
-categories "
-)" #
-;# $
-} 	
-} 
-} €
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs
-	namespace		 	
-	FlowerApp		
- 
-.		 
-
-Components		 
-{
-
- 
+ 
 public 
 
-class 
-ShoppingCartSummary $
-:% &
-ViewComponent' 4
+class 
+AccountController "
+:# $
+
+Controller% /
 { 
 private 
-readonly 
-ShoppingCart %
-_shoppingCart& 3
-;3 4
-public 
-ShoppingCartSummary "
-(" #
-ShoppingCart# /
-shoppingCart0 <
-)< =
-{ 	
-_shoppingCart 
-= 
-shoppingCart (
-;( )
-} 	
-public  
-IViewComponentResult #
-Invoke$ *
-(* +
-)+ ,
-{ 	
-var 
-items 
-= 
-_shoppingCart %
-.% & 
-GetShoppingCartItems& :
-(: ;
-); <
-;< =
-_shoppingCart 
-. 
-ShoppingCartItems +
-=, -
-items. 3
-;3 4
-var 
-shoppingViewModel !
-=" #
-new$ '!
-ShoppingCartViewModel( =
-{ 
-ShoppingCart 
-= 
-_shoppingCart ,
-,, -
-ShoppingCartTotal !
-=" #
-_shoppingCart$ 1
-.1 2 
-GetShoppingCartTotal2 F
-(F G
-)G H
-} 
-; 
-return 
-View 
-( 
-shoppingViewModel )
-)) *
-;* +
-}   	
-}!! 
-}"" Ó1
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs
+readonly 
+UserManager $
+<$ %
+ApplicationUser% 4
+>4 5
+_userManager6 B
+;B C
+private 
+readonly 
+SignInManager &
+<& '
+ApplicationUser' 6
+>6 7
+_signInManager8 F
+;F G
+public 
+AccountController  
+(  !
+UserManager! ,
+<, -
+ApplicationUser- <
+>< =
+userManager> I
+,I J
+SignInManager 
+< 
+ApplicationUser )
+>) *
+signInManager+ 8
+)8 9
+{ 	
+_userManager 
+= 
+userManager &
+;& '
+_signInManager 
+= 
+signInManager *
+;* +
+} 	
+[ 	
+AllowAnonymous	 
+] 
+public 
+IActionResult 
+Login "
+(" #
+string# )
+	returnUrl* 3
+)3 4
+{ 	
+return 
+View 
+( 
+new 
+LoginViewModel *
+{ 
+	ReturnUrl 
+= 
+	returnUrl %
+} 
+) 
+; 
+} 	
+[   	
+HttpPost  	 
+]   
+[!! 	
+AllowAnonymous!!	 
+]!! 
+public"" 
+async"" 
+Task"" 
+<"" 
+IActionResult"" '
+>""' (
+Login"") .
+("". /
+LoginViewModel""/ =
+loginViewModel""> L
+)""L M
+{## 	
+if$$ 
+($$ 
+!$$ 
+
+ModelState$$ 
+.$$ 
+IsValid$$ #
+)$$# $
+return%% 
+View%% 
+(%% 
+loginViewModel%% *
+)%%* +
+;%%+ ,
+var'' 
+user'' 
+='' 
+await'' 
+_userManager'' )
+.'') *
+FindByNameAsync''* 9
+(''9 :
+loginViewModel'': H
+.''H I
+UserName''I Q
+)''Q R
+;''R S
+if)) 
+()) 
+user)) 
+!=)) 
+null)) 
+))) 
+{** 
+var++ 
+result++ 
+=++ 
+await++ "
+_signInManager++# 1
+.++1 2
+PasswordSignInAsync++2 E
+(++E F
+user++F J
+,++J K
+loginViewModel++L Z
+.++Z [
+Password++[ c
+,++c d
+false++e j
+,++j k
+false++l q
+)++q r
+;++r s
+if,, 
+(,, 
+result,, 
+.,, 
+	Succeeded,, $
+),,$ %
+{-- 
+if.. 
+(.. 
+string.. 
+... 
+IsNullOrEmpty.. ,
+(.., -
+loginViewModel..- ;
+...; <
+	ReturnUrl..< E
+)..E F
+)..F G
+return// 
+RedirectToAction// /
+(/// 0
+$str//0 7
+,//7 8
+$str//9 ?
+)//? @
+;//@ A
+return11 
+Redirect11 #
+(11# $
+loginViewModel11$ 2
+.112 3
+	ReturnUrl113 <
+)11< =
+;11= >
+}22 
+}33 
+
+ModelState55 
+.55 
+AddModelError55 $
+(55$ %
+$str55% '
+,55' (
+$str55) F
+)55F G
+;55G H
+return66 
+View66 
+(66 
+loginViewModel66 &
+)66& '
+;66' (
+}77 	
+[99 	
+AllowAnonymous99	 
+]99 
+public:: 
+IActionResult:: 
+Register:: %
+(::% &
+)::& '
+{;; 	
+return<< 
+View<< 
+(<< 
+)<< 
+;<< 
+}== 	
+[?? 	
+HttpPost??	 
+]?? 
+[@@ 	$
+ValidateAntiForgeryToken@@	 !
+]@@! "
+[AA 	
+AllowAnonymousAA	 
+]AA 
+publicBB 
+asyncBB 
+TaskBB 
+<BB 
+IActionResultBB '
+>BB' (
+RegisterBB) 1
+(BB1 2
+LoginViewModelBB2 @
+loginViewModelBBA O
+)BBO P
+{CC 	
+ifDD 
+(DD 
+
+ModelStateDD 
+.DD 
+IsValidDD "
+)DD" #
+{EE 
+varFF 
+userFF 
+=FF 
+newFF 
+ApplicationUserFF .
+(FF. /
+)FF/ 0
+{FF1 2
+UserNameFF3 ;
+=FF< =
+loginViewModelFF> L
+.FFL M
+UserNameFFM U
+}FFV W
+;FFW X
+varGG 
+resultGG 
+=GG 
+awaitGG "
+_userManagerGG# /
+.GG/ 0
+CreateAsyncGG0 ;
+(GG; <
+userGG< @
+,GG@ A
+loginViewModelGGB P
+.GGP Q
+PasswordGGQ Y
+)GGY Z
+;GGZ [
+ifII 
+(II 
+resultII 
+.II 
+	SucceededII $
+)II$ %
+{JJ 
+returnKK 
+RedirectToActionKK +
+(KK+ ,
+$strKK, 3
+,KK3 4
+$strKK5 ;
+)KK; <
+;KK< =
+}LL 
+}MM 
+
+ModelStateOO 
+.OO 
+AddModelErrorOO $
+(OO$ %
+$strOO% '
+,OO' (
+$strOO) G
+)OOG H
+;OOH I
+returnPP 
+ViewPP 
+(PP 
+loginViewModelPP &
+)PP& '
+;PP' (
+}QQ 	
+[SS 	
+HttpPostSS	 
+]SS 
+publicTT 
+asyncTT 
+TaskTT 
+<TT 
+IActionResultTT '
+>TT' (
+LogoutTT) /
+(TT/ 0
+)TT0 1
+{UU 	
+awaitVV 
+_signInManagerVV  
+.VV  !
+SignOutAsyncVV! -
+(VV- .
+)VV. /
+;VV/ 0
+returnWW 
+RedirectToActionWW #
+(WW# $
+$strWW$ +
+,WW+ ,
+$strWW- 3
+)WW3 4
+;WW4 5
+}XX 	
+}YY 
+}ZZ ïµ
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs
 	namespace 	
 	FlowerApp
  
@@ -419,14 +745,19 @@ KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs
 { 
 [ 
 	Authorize 
-] 
+( 
+Roles 
+= 
+$str '
+)' (
+]( )
 public 
 
-class 
-AccountController "
-:# $
+class 
+AdminController  
+:! "
 
-Controller% /
+Controller# -
 { 
 private 
 readonly 
@@ -437,2054 +768,1728 @@ Controller% /
 _userManager6 B
 ;B C
 private 
-readonly 
-SignInManager &
-<& '
-ApplicationUser' 6
->6 7
-_signInManager8 F
-;F G
-public 
-AccountController  
-(  !
-UserManager! ,
-<, -
-ApplicationUser- <
->< =
-userManager> I
-,I J
-SignInManager 
-< 
-ApplicationUser )
->) *
-signInManager+ 8
-)8 9
-{ 	
-_userManager 
-= 
-userManager &
-;& '
-_signInManager 
-= 
-signInManager *
-;* +
-} 	
-[ 	
-AllowAnonymous	 
-] 
-public 
-IActionResult 
-Login "
-(" #
-string# )
-	returnUrl* 3
-)3 4
-{ 	
-return 
-View 
-( 
-new 
-LoginViewModel *
-{ 
-	ReturnUrl   
-=   
-	returnUrl   %
-}!! 
-)!! 
-;!! 
-}"" 	
-[$$ 	
-HttpPost$$	 
-]$$ 
-[%% 	
-AllowAnonymous%%	 
-]%% 
-public&& 
-async&& 
-Task&& 
-<&& 
-IActionResult&& '
->&&' (
-Login&&) .
-(&&. /
-LoginViewModel&&/ =
-loginViewModel&&> L
-)&&L M
-{'' 	
-if(( 
-((( 
-!(( 
+readonly 
+RoleManager $
+<$ %
+IdentityRole% 1
+>1 2
+_roleManager3 ?
+;? @
+private 
+readonly 
+IFlowerRepository *
+_flowerRepository+ <
+;< =
+private 
+readonly 
+ICategoryRepository ,
+_categoryRepository- @
+;@ A
+public 
+AdminController 
+( 
+UserManager *
+<* +
+ApplicationUser+ :
+>: ;
+userManager< G
+,G H
+RoleManagerI T
+<T U
+IdentityRoleU a
+>a b
+roleManagerc n
+,n o
+IFlowerRepository	p Å
+flowerRepository
+Ç í
+,
+í ì!
+ICategoryRepository
+î ß 
+categoryRepository
+® ∫
+)
+∫ ª
+{ 	
+_userManager 
+= 
+userManager &
+;& '
+_roleManager 
+= 
+roleManager &
+;& '
+_flowerRepository 
+= 
+flowerRepository  0
+;0 1
+_categoryRepository 
+=  !
+categoryRepository" 4
+;4 5
+} 	
+public 
+IActionResult 
+Index "
+(" #
+)# $
+{   	
+return!! 
+View!! 
+(!! 
+)!! 
+;!! 
+}"" 	
+public$$ 
+IActionResult$$ 
+UserManagement$$ +
+($$+ ,
+)$$, -
+{%% 	
+var&& 
+users&& 
+=&& 
+_userManager&& $
+.&&$ %
+Users&&% *
+;&&* +
+return(( 
+View(( 
+((( 
+users(( 
+)(( 
+;(( 
+})) 	
+public++ 
+IActionResult++ 
+AddUser++ $
+(++$ %
+)++% &
+{,, 	
+return-- 
+View-- 
+(-- 
+)-- 
+;-- 
+}.. 	
+[00 	
+HttpPost00	 
+]00 
+public11 
+async11 
+Task11 
+<11 
+IActionResult11 '
+>11' (
+AddUser11) 0
+(110 1
+AddUserViewModel111 A
+addUserViewModel11B R
+)11R S
+{22 	
+if33 
+(33 
+!33 
 
-ModelState(( 
-.(( 
-IsValid(( #
-)((# $
-return)) 
-View)) 
-()) 
-loginViewModel)) *
-)))* +
-;))+ ,
-var++ 
-user++ 
-=++ 
-await++ 
-_userManager++ )
-.++) *
-FindByNameAsync++* 9
-(++9 :
-loginViewModel++: H
-.++H I
-UserName++I Q
-)++Q R
-;++R S
-if-- 
-(-- 
-user-- 
-!=-- 
-null-- 
-)-- 
-{.. 
-var// 
-result// 
-=// 
-await// "
-_signInManager//# 1
-.//1 2
-PasswordSignInAsync//2 E
-(//E F
-user//F J
-,//J K
-loginViewModel//L Z
-.//Z [
-Password//[ c
-,//c d
-false//e j
-,//j k
-false//l q
-)//q r
-;//r s
-if00 
-(00 
-result00 
-.00 
-	Succeeded00 $
-)00$ %
-{11 
-if22 
-(22 
-string22 
-.22 
-IsNullOrEmpty22 ,
-(22, -
-loginViewModel22- ;
-.22; <
-	ReturnUrl22< E
-)22E F
-)22F G
-return33 
-RedirectToAction33 /
-(33/ 0
-$str330 7
-,337 8
-$str339 ?
-)33? @
-;33@ A
-return55 
-Redirect55 #
-(55# $
-loginViewModel55$ 2
-.552 3
-	ReturnUrl553 <
-)55< =
-;55= >
-}66 
-}77 
-
-ModelState99 
-.99 
-AddModelError99 $
-(99$ %
-$str99% '
-,99' (
-$str99) F
-)99F G
-;99G H
-return:: 
-View:: 
-(:: 
-loginViewModel:: &
-)::& '
-;::' (
-};; 	
-[== 	
-AllowAnonymous==	 
-]== 
-public>> 
-IActionResult>> 
-Register>> %
-(>>% &
-)>>& '
-{?? 	
-return@@ 
-View@@ 
-(@@ 
-)@@ 
-;@@ 
-}AA 	
-[CC 	
-HttpPostCC	 
-]CC 
-[DD 	$
-ValidateAntiForgeryTokenDD	 !
-]DD! "
-[EE 	
-AllowAnonymousEE	 
-]EE 
-publicFF 
-asyncFF 
-TaskFF 
-<FF 
-IActionResultFF '
->FF' (
-RegisterFF) 1
-(FF1 2
-LoginViewModelFF2 @
-loginViewModelFFA O
-)FFO P
-{GG 	
-ifHH 
-(HH 
+ModelState33 
+.33 
+IsValid33 #
+)33# $
+return44 
+View44 
+(44 
+addUserViewModel44 ,
+)44, -
+;44- .
+var66 
+user66 
+=66 
+new66 
+ApplicationUser66 *
+(66* +
+)66+ ,
+{77 
+UserName88 
+=88 
+addUserViewModel88 +
+.88+ ,
+UserName88, 4
+,884 5
+Email99 
+=99 
+addUserViewModel99 (
+.99( )
+Email99) .
+,99. /
+	Birthdate:: 
+=:: 
+addUserViewModel:: ,
+.::, -
+	Birthdate::- 6
+,::6 7
+City;; 
+=;; 
+addUserViewModel;; '
+.;;' (
+City;;( ,
+,;;, -
+Country<< 
+=<< 
+addUserViewModel<< *
+.<<* +
+Country<<+ 2
+}== 
+;== 
+IdentityResult?? 
+result?? !
+=??" #
+await??$ )
+_userManager??* 6
+.??6 7
+CreateAsync??7 B
+(??B C
+user??C G
+,??G H
+addUserViewModel??I Y
+.??Y Z
+Password??Z b
+)??b c
+;??c d
+ifAA 
+(AA 
+resultAA 
+.AA 
+	SucceededAA  
+)AA  !
+{BB 
+returnCC 
+RedirectToActionCC '
+(CC' (
+$strCC( 8
+,CC8 9
+_userManagerCC: F
+.CCF G
+UsersCCG L
+)CCL M
+;CCM N
+}DD 
+foreachFF 
+(FF 
+IdentityErrorFF "
+errorFF# (
+inFF) +
+resultFF, 2
+.FF2 3
+ErrorsFF3 9
+)FF9 :
+{GG 
 
 ModelStateHH 
-.HH 
-IsValidHH "
-)HH" #
-{II 
-varJJ 
-userJJ 
-=JJ 
-newJJ 
-ApplicationUserJJ .
-(JJ. /
-)JJ/ 0
-{JJ1 2
-UserNameJJ3 ;
-=JJ< =
-loginViewModelJJ> L
-.JJL M
-UserNameJJM U
-}JJV W
-;JJW X
-varKK 
-resultKK 
-=KK 
-awaitKK "
-_userManagerKK# /
-.KK/ 0
-CreateAsyncKK0 ;
-(KK; <
-userKK< @
-,KK@ A
-loginViewModelKKB P
-.KKP Q
-PasswordKKQ Y
-)KKY Z
-;KKZ [
-ifMM 
-(MM 
-resultMM 
-.MM 
-	SucceededMM $
-)MM$ %
-{NN 
-returnOO 
-RedirectToActionOO +
-(OO+ ,
-$strOO, 3
-,OO3 4
-$strOO5 ;
-)OO; <
-;OO< =
-}PP 
-}QQ 
+.HH 
+AddModelErrorHH (
+(HH( )
+$strHH) +
+,HH+ ,
+errorHH- 2
+.HH2 3
+DescriptionHH3 >
+)HH> ?
+;HH? @
+}II 
+returnJJ 
+ViewJJ 
+(JJ 
+addUserViewModelJJ (
+)JJ( )
+;JJ) *
+}KK 	
+publicMM 
+asyncMM 
+TaskMM 
+<MM 
+IActionResultMM '
+>MM' (
+EditUserMM) 1
+(MM1 2
+stringMM2 8
+idMM9 ;
+)MM; <
+{NN 	
+varOO 
+userOO 
+=OO 
+awaitOO 
+_userManagerOO )
+.OO) *
+FindByIdAsyncOO* 7
+(OO7 8
+idOO8 :
+)OO: ;
+;OO; <
+ifQQ 
+(QQ 
+userQQ 
+==QQ 
+nullQQ 
+)QQ 
+returnRR 
+RedirectToActionRR '
+(RR' (
+$strRR( 8
+,RR8 9
+_userManagerRR: F
+.RRF G
+UsersRRG L
+)RRL M
+;RRM N
+varSS 
+claimsSS 
+=SS 
+awaitSS 
+_userManagerSS +
+.SS+ ,
+GetClaimsAsyncSS, :
+(SS: ;
+userSS; ?
+)SS? @
+;SS@ A
+varTT 
+vmTT 
+=TT 
+newTT 
+EditUserViewModelTT *
+(TT* +
+)TT+ ,
+{TT- .
+IdTT/ 1
+=TT2 3
+userTT4 8
+.TT8 9
+IdTT9 ;
+,TT; <
+EmailTT= B
+=TTC D
+userTTE I
+.TTI J
+EmailTTJ O
+,TTO P
+UserNameTTQ Y
+=TTZ [
+userTT\ `
+.TT` a
+UserNameTTa i
+,TTi j
 
-ModelStateSS 
-.SS 
-AddModelErrorSS $
-(SS$ %
-$strSS% '
-,SS' (
-$strSS) G
-)SSG H
-;SSH I
-returnTT 
-ViewTT 
-(TT 
-loginViewModelTT &
-)TT& '
-;TT' (
-}UU 	
-[WW 	
-HttpPostWW	 
-]WW 
-publicXX 
-asyncXX 
-TaskXX 
-<XX 
-IActionResultXX '
->XX' (
-LogoutXX) /
-(XX/ 0
-)XX0 1
-{YY 	
-awaitZZ 
-_signInManagerZZ  
-.ZZ  !
-SignOutAsyncZZ! -
-(ZZ- .
-)ZZ. /
-;ZZ/ 0
-return[[ 
-RedirectToAction[[ #
-([[# $
-$str[[$ +
-,[[+ ,
-$str[[- 3
-)[[3 4
-;[[4 5
-}\\ 	
-}]] 
-}^^ óµ
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs
-	namespace 	
-	FlowerApp
- 
-. 
-Controllers 
-{ 
-[ 
-	Authorize 
-( 
-Roles 
-= 
-$str '
-)' (
-]( )
-public 
-
-class 
-AdminController  
-:! "
-
-Controller# -
-{ 
-private 
-readonly 
-UserManager $
-<$ %
-ApplicationUser% 4
->4 5
-_userManager6 B
-;B C
-private 
-readonly 
-RoleManager $
-<$ %
-IdentityRole% 1
->1 2
-_roleManager3 ?
-;? @
-private 
-readonly 
-IFlowerRepository *
-_flowerRepository+ <
-;< =
-private 
-readonly 
-ICategoryRepository ,
-_categoryRepository- @
-;@ A
-public 
-AdminController 
-( 
-UserManager *
-<* +
-ApplicationUser+ :
->: ;
-userManager< G
-,G H
-RoleManagerI T
-<T U
-IdentityRoleU a
->a b
-roleManagerc n
-,n o
-IFlowerRepository	p Å
-flowerRepository
-Ç í
-,
-í ì!
-ICategoryRepository
-î ß 
-categoryRepository
-® ∫
-)
-∫ ª
-{ 	
-_userManager 
-= 
-userManager &
-;& '
-_roleManager 
-= 
-roleManager &
-;& '
-_flowerRepository 
-= 
-flowerRepository  0
-;0 1
-_categoryRepository 
-=  !
-categoryRepository" 4
-;4 5
-} 	
-public   
-IActionResult   
-Index   "
-(  " #
-)  # $
-{!! 	
-return"" 
-View"" 
-("" 
-)"" 
-;"" 
-}## 	
-public%% 
-IActionResult%% 
-UserManagement%% +
-(%%+ ,
-)%%, -
-{&& 	
-var'' 
-users'' 
-='' 
-_userManager'' $
-.''$ %
-Users''% *
-;''* +
-return)) 
-View)) 
-()) 
-users)) 
-))) 
-;)) 
-}** 	
-public,, 
-IActionResult,, 
-AddUser,, $
-(,,$ %
-),,% &
-{-- 	
-return.. 
-View.. 
-(.. 
-).. 
-;.. 
-}// 	
-[11 	
-HttpPost11	 
-]11 
-public22 
-async22 
-Task22 
-<22 
-IActionResult22 '
->22' (
-AddUser22) 0
-(220 1
-AddUserViewModel221 A
-addUserViewModel22B R
-)22R S
-{33 	
-if44 
-(44 
-!44 
-
-ModelState44 
-.44 
-IsValid44 #
-)44# $
-return55 
-View55 
-(55 
-addUserViewModel55 ,
-)55, -
-;55- .
-var77 
-user77 
-=77 
-new77 
-ApplicationUser77 *
-(77* +
-)77+ ,
-{88 
-UserName99 
-=99 
-addUserViewModel99 +
-.99+ ,
-UserName99, 4
-,994 5
-Email:: 
-=:: 
-addUserViewModel:: (
-.::( )
-Email::) .
-,::. /
-	Birthdate;; 
-=;; 
-addUserViewModel;; ,
-.;;, -
-	Birthdate;;- 6
-,;;6 7
-City<< 
-=<< 
-addUserViewModel<< '
-.<<' (
-City<<( ,
-,<<, -
-Country== 
-=== 
-addUserViewModel== *
-.==* +
-Country==+ 2
-}>> 
-;>> 
-IdentityResult@@ 
-result@@ !
-=@@" #
-await@@$ )
-_userManager@@* 6
-.@@6 7
-CreateAsync@@7 B
-(@@B C
-user@@C G
-,@@G H
-addUserViewModel@@I Y
-.@@Y Z
-Password@@Z b
-)@@b c
-;@@c d
-ifBB 
-(BB 
-resultBB 
-.BB 
-	SucceededBB  
-)BB  !
-{CC 
-returnDD 
-RedirectToActionDD '
-(DD' (
-$strDD( 8
-,DD8 9
-_userManagerDD: F
-.DDF G
-UsersDDG L
-)DDL M
-;DDM N
-}EE 
-foreachGG 
-(GG 
-IdentityErrorGG "
-errorGG# (
-inGG) +
-resultGG, 2
-.GG2 3
-ErrorsGG3 9
-)GG9 :
-{HH 
-
-ModelStateII 
-.II 
-AddModelErrorII (
-(II( )
-$strII) +
-,II+ ,
-errorII- 2
-.II2 3
-DescriptionII3 >
-)II> ?
-;II? @
-}JJ 
-returnKK 
-ViewKK 
-(KK 
-addUserViewModelKK (
-)KK( )
-;KK) *
-}LL 	
-publicNN 
-asyncNN 
-TaskNN 
-<NN 
-IActionResultNN '
->NN' (
-EditUserNN) 1
-(NN1 2
-stringNN2 8
-idNN9 ;
-)NN; <
-{OO 	
-varPP 
-userPP 
-=PP 
-awaitPP 
-_userManagerPP )
-.PP) *
-FindByIdAsyncPP* 7
-(PP7 8
-idPP8 :
-)PP: ;
-;PP; <
-ifRR 
-(RR 
-userRR 
-==RR 
-nullRR 
-)RR 
-returnSS 
-RedirectToActionSS '
-(SS' (
-$strSS( 8
-,SS8 9
-_userManagerSS: F
-.SSF G
-UsersSSG L
-)SSL M
-;SSM N
-varTT 
-claimsTT 
-=TT 
-awaitTT 
-_userManagerTT +
-.TT+ ,
-GetClaimsAsyncTT, :
-(TT: ;
-userTT; ?
-)TT? @
-;TT@ A
-varUU 
-vmUU 
-=UU 
-newUU 
-EditUserViewModelUU *
-(UU* +
-)UU+ ,
-{UU- .
-IdUU/ 1
-=UU2 3
-userUU4 8
-.UU8 9
-IdUU9 ;
-,UU; <
-EmailUU= B
-=UUC D
-userUUE I
-.UUI J
-EmailUUJ O
-,UUO P
-UserNameUUQ Y
-=UUZ [
-userUU\ `
-.UU` a
-UserNameUUa i
-,UUi j
-
-UserClaimsUUk u
-=UUv w
-claimsUUx ~
-.UU~ 
-Select	UU Ö
+UserClaimsTTk u
+=TTv w
+claimsTTx ~
+.TT~ 
+Select	TT Ö
 (
-UUÖ Ü
+TTÖ Ü
 c
-UUÜ á
+TTÜ á
 =>
-UUà ä
+TTà ä
 c
-UUã å
+TTã å
 .
-UUå ç
+TTå ç
 Value
-UUç í
+TTç í
 )
-UUí ì
+TTí ì
 .
-UUì î
+TTì î
 ToList
-UUî ö
+TTî ö
 (
-UUö õ
+TTö õ
 )
-UUõ ú
+TTõ ú
 }
-UUù û
+TTù û
 ;
-UUû ü
-returnWW 
-ViewWW 
-(WW 
-vmWW 
-)WW 
-;WW 
-}XX 	
-[ZZ 	
-HttpPostZZ	 
-]ZZ 
-public[[ 
-async[[ 
-Task[[ 
-<[[ 
-IActionResult[[ '
->[[' (
-EditUser[[) 1
-([[1 2
-EditUserViewModel[[2 C
-editUserViewModel[[D U
-)[[U V
-{\\ 	
-var]] 
-user]] 
-=]] 
-await]] 
-_userManager]] )
-.]]) *
-FindByIdAsync]]* 7
-(]]7 8
-editUserViewModel]]8 I
-.]]I J
-Id]]J L
-)]]L M
-;]]M N
-if__ 
-(__ 
-user__ 
-!=__ 
-null__ 
-)__ 
-{`` 
+TTû ü
+returnVV 
+ViewVV 
+(VV 
+vmVV 
+)VV 
+;VV 
+}WW 	
+[YY 	
+HttpPostYY	 
+]YY 
+publicZZ 
+asyncZZ 
+TaskZZ 
+<ZZ 
+IActionResultZZ '
+>ZZ' (
+EditUserZZ) 1
+(ZZ1 2
+EditUserViewModelZZ2 C
+editUserViewModelZZD U
+)ZZU V
+{[[ 	
+var\\ 
+user\\ 
+=\\ 
+await\\ 
+_userManager\\ )
+.\\) *
+FindByIdAsync\\* 7
+(\\7 8
+editUserViewModel\\8 I
+.\\I J
+Id\\J L
+)\\L M
+;\\M N
+if^^ 
+(^^ 
+user^^ 
+!=^^ 
+null^^ 
+)^^ 
+{__ 
+user`` 
+.`` 
+Email`` 
+=`` 
+editUserViewModel`` .
+.``. /
+Email``/ 4
+;``4 5
 useraa 
-.aa 
-Emailaa 
-=aa 
-editUserViewModelaa .
-.aa. /
-Emailaa/ 4
-;aa4 5
+.aa 
+UserNameaa 
+=aa 
+editUserViewModelaa  1
+.aa1 2
+UserNameaa2 :
+;aa: ;
 userbb 
-.bb 
-UserNamebb 
-=bb 
-editUserViewModelbb  1
-.bb1 2
-UserNamebb2 :
-;bb: ;
+.bb 
+	Birthdatebb 
+=bb  
+editUserViewModelbb! 2
+.bb2 3
+	Birthdatebb3 <
+;bb< =
 usercc 
-.cc 
-	Birthdatecc 
-=cc  
-editUserViewModelcc! 2
-.cc2 3
-	Birthdatecc3 <
-;cc< =
+.cc 
+Citycc 
+=cc 
+editUserViewModelcc -
+.cc- .
+Citycc. 2
+;cc2 3
 userdd 
-.dd 
-Citydd 
-=dd 
-editUserViewModeldd -
-.dd- .
-Citydd. 2
-;dd2 3
-useree 
-.ee 
-Countryee 
-=ee 
-editUserViewModelee 0
-.ee0 1
-Countryee1 8
-;ee8 9
-vargg 
-resultgg 
-=gg 
-awaitgg "
-_userManagergg# /
-.gg/ 0
-UpdateAsyncgg0 ;
-(gg; <
-usergg< @
-)gg@ A
-;ggA B
-ifii 
-(ii 
-resultii 
-.ii 
-	Succeededii $
-)ii$ %
-returnjj 
-RedirectToActionjj +
-(jj+ ,
-$strjj, <
-,jj< =
-_userManagerjj> J
-.jjJ K
-UsersjjK P
-)jjP Q
-;jjQ R
+.dd 
+Countrydd 
+=dd 
+editUserViewModeldd 0
+.dd0 1
+Countrydd1 8
+;dd8 9
+varff 
+resultff 
+=ff 
+awaitff "
+_userManagerff# /
+.ff/ 0
+UpdateAsyncff0 ;
+(ff; <
+userff< @
+)ff@ A
+;ffA B
+ifhh 
+(hh 
+resulthh 
+.hh 
+	Succeededhh $
+)hh$ %
+returnii 
+RedirectToActionii +
+(ii+ ,
+$strii, <
+,ii< =
+_userManagerii> J
+.iiJ K
+UsersiiK P
+)iiP Q
+;iiQ R
 
-ModelStatell 
-.ll 
-AddModelErrorll (
-(ll( )
-$strll) +
-,ll+ ,
-$strll- V
-)llV W
-;llW X
-returnnn 
-Viewnn 
-(nn 
-editUserViewModelnn -
-)nn- .
-;nn. /
-}oo 
-returnqq 
-RedirectToActionqq #
-(qq# $
-$strqq$ 4
-,qq4 5
-_userManagerqq6 B
-.qqB C
-UsersqqC H
-)qqH I
-;qqI J
-}rr 	
-[tt 	
-HttpPosttt	 
-]tt 
-publicuu 
-asyncuu 
-Taskuu 
-<uu 
-IActionResultuu '
->uu' (
+ModelStatekk 
+.kk 
+AddModelErrorkk (
+(kk( )
+$strkk) +
+,kk+ ,
+$strkk- V
+)kkV W
+;kkW X
+returnmm 
+Viewmm 
+(mm 
+editUserViewModelmm -
+)mm- .
+;mm. /
+}nn 
+returnpp 
+RedirectToActionpp #
+(pp# $
+$strpp$ 4
+,pp4 5
+_userManagerpp6 B
+.ppB C
+UsersppC H
+)ppH I
+;ppI J
+}qq 	
+[ss 	
+HttpPostss	 
+]ss 
+publictt 
+asynctt 
+Tasktt 
+<tt 
+IActionResulttt '
+>tt' (
 
-DeleteUseruu) 3
-(uu3 4
-stringuu4 :
-userIduu; A
-)uuA B
-{vv 	
-varww 
-userww 
-=ww 
-awaitww 
-_userManagerww )
-.ww) *
-FindByIdAsyncww* 7
-(ww7 8
-userIdww8 >
-)ww> ?
-;ww? @
-ifyy 
-(yy 
-useryy 
-!=yy 
-nullyy 
-)yy 
-{zz 
-IdentityResult{{ 
-result{{ %
-={{& '
-await{{( -
-_userManager{{. :
-.{{: ;
-DeleteAsync{{; F
-({{F G
-user{{G K
-){{K L
-;{{L M
-if|| 
-(|| 
-result|| 
-.|| 
-	Succeeded|| $
-)||$ %
-return}} 
-RedirectToAction}} +
-(}}+ ,
-$str}}, <
-)}}< =
-;}}= >
-else~~ 
+DeleteUsertt) 3
+(tt3 4
+stringtt4 :
+userIdtt; A
+)ttA B
+{uu 	
+varvv 
+uservv 
+=vv 
+awaitvv 
+_userManagervv )
+.vv) *
+FindByIdAsyncvv* 7
+(vv7 8
+userIdvv8 >
+)vv> ?
+;vv? @
+ifxx 
+(xx 
+userxx 
+!=xx 
+nullxx 
+)xx 
+{yy 
+IdentityResultzz 
+resultzz %
+=zz& '
+awaitzz( -
+_userManagerzz. :
+.zz: ;
+DeleteAsynczz; F
+(zzF G
+userzzG K
+)zzK L
+;zzL M
+if{{ 
+({{ 
+result{{ 
+.{{ 
+	Succeeded{{ $
+){{$ %
+return|| 
+RedirectToAction|| +
+(||+ ,
+$str||, <
+)||< =
+;||= >
+else}} 
 
-ModelState 
-. 
-AddModelError ,
-(, -
-$str- /
-,/ 0
-$str1 a
-)a b
-;b c
-}
-ÄÄ 
+ModelState~~ 
+.~~ 
+AddModelError~~ ,
+(~~, -
+$str~~- /
+,~~/ 0
+$str~~1 a
+)~~a b
+;~~b c
+} 
 else
-ÅÅ 
+ÄÄ 
 {
-ÇÇ 
+ÅÅ 
 
 ModelState
-ÉÉ 
+ÇÇ 
 .
-ÉÉ 
+ÇÇ 
 AddModelError
-ÉÉ (
+ÇÇ (
 (
-ÉÉ( )
+ÇÇ( )
 $str
-ÉÉ) +
+ÇÇ) +
 ,
-ÉÉ+ ,
+ÇÇ+ ,
 $str
-ÉÉ- G
+ÇÇ- G
 )
-ÉÉG H
+ÇÇG H
 ;
-ÉÉH I
+ÇÇH I
 }
-ÑÑ 
+ÉÉ 
 return
-ÖÖ 
+ÑÑ 
 View
-ÖÖ 
+ÑÑ 
 (
-ÖÖ 
+ÑÑ 
 $str
-ÖÖ (
+ÑÑ (
 ,
-ÖÖ( )
+ÑÑ( )
 _userManager
-ÖÖ* 6
+ÑÑ* 6
 .
-ÖÖ6 7
+ÑÑ6 7
 Users
-ÖÖ7 <
+ÑÑ7 <
 )
-ÖÖ< =
+ÑÑ< =
 ;
-ÖÖ= >
+ÑÑ= >
 }
-ÜÜ 	
+ÖÖ 	
 public
-ââ 
+àà 
 IActionResult
-ââ 
+àà 
 RoleManagement
-ââ +
+àà +
 (
-ââ+ ,
+àà+ ,
 )
-ââ, -
+àà, -
 {
-ää 	
+ââ 	
 var
-ãã 
+ää 
 roles
-ãã 
+ää 
 =
-ãã 
+ää 
 _roleManager
-ãã $
+ää $
 .
-ãã$ %
+ää$ %
 Roles
-ãã% *
+ää% *
 ;
-ãã* +
+ää* +
 return
-åå 
+ãã 
 View
-åå 
+ãã 
 (
-åå 
+ãã 
 roles
-åå 
+ãã 
 )
-åå 
+ãã 
 ;
-åå 
+ãã 
 }
-çç 	
+åå 	
 public
-èè 
+éé 
 IActionResult
-èè 
+éé 
 
 AddNewRole
-èè '
+éé '
 (
-èè' (
+éé' (
 )
-èè( )
+éé( )
 =>
-èè* ,
+éé* ,
 View
-èè- 1
+éé- 1
 (
-èè1 2
+éé1 2
 )
-èè2 3
+éé2 3
 ;
-èè3 4
+éé3 4
 [
-ëë 	
+êê 	
 HttpPost
-ëë	 
+êê	 
 ]
-ëë 
+êê 
 public
-íí 
+ëë 
 async
-íí 
+ëë 
 Task
-íí 
+ëë 
 <
-íí 
+ëë 
 IActionResult
-íí '
+ëë '
 >
-íí' (
+ëë' (
 
 AddNewRole
-íí) 3
+ëë) 3
 (
-íí3 4
+ëë3 4
 AddRoleViewModel
-íí4 D
+ëë4 D
 addRoleViewModel
-ííE U
+ëëE U
 )
-ííU V
+ëëU V
 {
-ìì 	
+íí 	
 if
-ïï 
+îî 
 (
-ïï 
+îî 
 !
-ïï 
+îî 
 
 ModelState
-ïï 
+îî 
 .
-ïï 
+îî 
 IsValid
-ïï #
+îî #
 )
-ïï# $
+îî# $
 return
-ññ 
+ïï 
 View
-ññ 
+ïï 
 (
-ññ 
+ïï 
 addRoleViewModel
-ññ ,
+ïï ,
 )
-ññ, -
+ïï, -
 ;
-ññ- .
+ïï- .
 var
-òò 
+óó 
 role
-òò 
+óó 
 =
-òò 
+óó 
 new
-òò 
+óó 
 IdentityRole
-òò '
+óó '
 {
-ôô 
+òò 
 Name
-öö 
+ôô 
 =
-öö 
+ôô 
 addRoleViewModel
-öö '
+ôô '
 .
-öö' (
+ôô' (
 RoleName
-öö( 0
+ôô( 0
 }
-õõ 
+öö 
 ;
-õõ 
+öö 
 IdentityResult
-ùù 
+úú 
 result
-ùù !
+úú !
 =
-ùù" #
+úú" #
 await
-ùù$ )
+úú$ )
 _roleManager
-ùù* 6
+úú* 6
 .
-ùù6 7
+úú6 7
 CreateAsync
-ùù7 B
+úú7 B
 (
-ùùB C
+úúB C
 role
-ùùC G
+úúC G
 )
-ùùG H
+úúG H
 ;
-ùùH I
+úúH I
 if
-üü 
+ûû 
 (
-üü 
+ûû 
 result
-üü 
+ûû 
 .
-üü 
+ûû 
 	Succeeded
-üü  
+ûû  
 )
-üü  !
+ûû  !
 {
-†† 
+üü 
 return
-°° 
+†† 
 RedirectToAction
-°° '
+†† '
 (
-°°' (
+††' (
 $str
-°°( 8
+††( 8
 ,
-°°8 9
+††8 9
 _roleManager
-°°: F
+††: F
 .
-°°F G
+††F G
 Roles
-°°G L
+††G L
 )
-°°L M
+††L M
 ;
-°°M N
+††M N
 }
-¢¢ 
+°° 
 foreach
-§§ 
+££ 
 (
-§§ 
+££ 
 IdentityError
-§§ "
+££ "
 error
-§§# (
+££# (
 in
-§§) +
+££) +
 result
-§§, 2
+££, 2
 .
-§§2 3
+££2 3
 Errors
-§§3 9
+££3 9
 )
-§§9 :
+££9 :
 {
-•• 
+§§ 
 
 ModelState
-¶¶ 
+•• 
 .
-¶¶ 
+•• 
 AddModelError
-¶¶ (
+•• (
 (
-¶¶( )
+••( )
 $str
-¶¶) +
+••) +
 ,
-¶¶+ ,
+••+ ,
 error
-¶¶- 2
+••- 2
 .
-¶¶2 3
+••2 3
 Description
-¶¶3 >
+••3 >
 )
-¶¶> ?
+••> ?
 ;
-¶¶? @
+••? @
 }
-ßß 
+¶¶ 
 return
-®® 
+ßß 
 View
-®® 
+ßß 
 (
-®® 
+ßß 
 addRoleViewModel
-®® (
+ßß (
 )
-®®( )
+ßß( )
 ;
-®®) *
+ßß) *
 }
-©© 	
+®® 	
 public
-´´ 
+™™ 
 async
-´´ 
+™™ 
 Task
-´´ 
+™™ 
 <
-´´ 
+™™ 
 IActionResult
-´´ '
+™™ '
 >
-´´' (
+™™' (
 EditRole
-´´) 1
+™™) 1
 (
-´´1 2
+™™1 2
 string
-´´2 8
+™™2 8
 id
-´´9 ;
+™™9 ;
 )
-´´; <
+™™; <
 {
-¨¨ 	
+´´ 	
 var
-≠≠ 
+¨¨ 
 role
-≠≠ 
+¨¨ 
 =
-≠≠ 
+¨¨ 
 await
-≠≠ 
+¨¨ 
 _roleManager
-≠≠ )
+¨¨ )
 .
-≠≠) *
+¨¨) *
 FindByIdAsync
-≠≠* 7
+¨¨* 7
 (
-≠≠7 8
+¨¨7 8
 id
-≠≠8 :
+¨¨8 :
 )
-≠≠: ;
+¨¨: ;
 ;
-≠≠; <
+¨¨; <
 if
-ØØ 
+ÆÆ 
 (
-ØØ 
+ÆÆ 
 role
-ØØ 
+ÆÆ 
 ==
-ØØ 
+ÆÆ 
 null
-ØØ 
+ÆÆ 
 )
-ØØ 
+ÆÆ 
 return
-∞∞ 
+ØØ 
 RedirectToAction
-∞∞ '
+ØØ '
 (
-∞∞' (
+ØØ' (
 $str
-∞∞( 8
+ØØ( 8
 ,
-∞∞8 9
+ØØ8 9
 _roleManager
-∞∞: F
+ØØ: F
 .
-∞∞F G
+ØØF G
 Roles
-∞∞G L
+ØØG L
 )
-∞∞L M
+ØØL M
 ;
-∞∞M N
+ØØM N
 var
-≤≤ 
+±± 
 editRoleViewModel
-≤≤ !
+±± !
 =
-≤≤" #
+±±" #
 new
-≤≤$ '
+±±$ '
 EditRoleViewModel
-≤≤( 9
+±±( 9
 {
-≥≥ 
+≤≤ 
 Id
-¥¥ 
+≥≥ 
 =
-¥¥ 
+≥≥ 
 role
-¥¥ 
+≥≥ 
 .
-¥¥ 
+≥≥ 
 Id
-¥¥ 
+≥≥ 
 ,
-¥¥ 
+≥≥ 
 RoleName
-µµ 
+¥¥ 
 =
-µµ 
+¥¥ 
 role
-µµ 
+¥¥ 
 .
-µµ  
+¥¥  
 Name
-µµ  $
+¥¥  $
 ,
-µµ$ %
+¥¥$ %
 Users
-∂∂ 
+µµ 
 =
-∂∂ 
+µµ 
 new
-∂∂ 
+µµ 
 List
-∂∂  
+µµ  
 <
-∂∂  !
+µµ  !
 string
-∂∂! '
+µµ! '
 >
-∂∂' (
+µµ' (
 (
-∂∂( )
+µµ( )
 )
-∂∂) *
+µµ) *
 }
-∑∑ 
+∂∂ 
 ;
-∑∑ 
+∂∂ 
 foreach
-∫∫ 
+ππ 
 (
-∫∫ 
+ππ 
 var
-∫∫ 
+ππ 
 user
-∫∫ 
+ππ 
 in
-∫∫  
+ππ  
 _userManager
-∫∫! -
+ππ! -
 .
-∫∫- .
+ππ- .
 Users
-∫∫. 3
+ππ. 3
 )
-∫∫3 4
+ππ3 4
 {
-ªª 
+∫∫ 
 if
-ºº 
+ªª 
 (
-ºº 
+ªª 
 await
-ºº 
+ªª 
 _userManager
-ºº &
+ªª &
 .
-ºº& '
+ªª& '
 IsInRoleAsync
-ºº' 4
+ªª' 4
 (
-ºº4 5
+ªª4 5
 user
-ºº5 9
+ªª5 9
 ,
-ºº9 :
+ªª9 :
 role
-ºº; ?
+ªª; ?
 .
-ºº? @
+ªª? @
 Name
-ºº@ D
+ªª@ D
 )
-ººD E
+ªªD E
 )
-ººE F
+ªªE F
 editRoleViewModel
-ΩΩ %
+ºº %
 .
-ΩΩ% &
+ºº% &
 Users
-ΩΩ& +
+ºº& +
 .
-ΩΩ+ ,
+ºº+ ,
 Add
-ΩΩ, /
+ºº, /
 (
-ΩΩ/ 0
+ºº/ 0
 user
-ΩΩ0 4
+ºº0 4
 .
-ΩΩ4 5
+ºº4 5
 UserName
-ΩΩ5 =
+ºº5 =
 )
-ΩΩ= >
+ºº= >
 ;
-ΩΩ> ?
+ºº> ?
 }
-ææ 
+ΩΩ 
 return
-¿¿ 
+øø 
 View
-¿¿ 
+øø 
 (
-¿¿ 
+øø 
 editRoleViewModel
-¿¿ )
+øø )
 )
-¿¿) *
+øø) *
 ;
-¿¿* +
+øø* +
 }
-¡¡ 	
+¿¿ 	
 [
-√√ 	
+¬¬ 	
 HttpPost
-√√	 
+¬¬	 
 ]
-√√ 
+¬¬ 
 public
-ƒƒ 
+√√ 
 async
-ƒƒ 
+√√ 
 Task
-ƒƒ 
+√√ 
 <
-ƒƒ 
+√√ 
 IActionResult
-ƒƒ '
+√√ '
 >
-ƒƒ' (
+√√' (
 EditRole
-ƒƒ) 1
+√√) 1
 (
-ƒƒ1 2
+√√1 2
 EditRoleViewModel
-ƒƒ2 C
+√√2 C
 editRoleViewModel
-ƒƒD U
+√√D U
 )
-ƒƒU V
+√√U V
 {
-≈≈ 	
+ƒƒ 	
 var
-∆∆ 
+≈≈ 
 role
-∆∆ 
+≈≈ 
 =
-∆∆ 
+≈≈ 
 await
-∆∆ 
+≈≈ 
 _roleManager
-∆∆ )
+≈≈ )
 .
-∆∆) *
+≈≈) *
 FindByIdAsync
-∆∆* 7
+≈≈* 7
 (
-∆∆7 8
+≈≈7 8
 editRoleViewModel
-∆∆8 I
+≈≈8 I
 .
-∆∆I J
+≈≈I J
 Id
-∆∆J L
+≈≈J L
 )
-∆∆L M
+≈≈L M
 ;
-∆∆M N
+≈≈M N
 if
-»» 
+«« 
 (
-»» 
+«« 
 role
-»» 
+«« 
 !=
-»» 
+«« 
 null
-»» 
+«« 
 )
-»» 
+«« 
 {
-…… 
+»» 
 role
-   
+…… 
 .
-   
+…… 
 Name
-   
+…… 
 =
-   
+…… 
 editRoleViewModel
-   -
+…… -
 .
-  - .
+……- .
 RoleName
-  . 6
+……. 6
 ;
-  6 7
+……6 7
 var
-ÃÃ 
+ÀÀ 
 result
-ÃÃ 
+ÀÀ 
 =
-ÃÃ 
+ÀÀ 
 await
-ÃÃ "
+ÀÀ "
 _roleManager
-ÃÃ# /
+ÀÀ# /
 .
-ÃÃ/ 0
+ÀÀ/ 0
 UpdateAsync
-ÃÃ0 ;
+ÀÀ0 ;
 (
-ÃÃ; <
+ÀÀ; <
 role
-ÃÃ< @
+ÀÀ< @
 )
-ÃÃ@ A
+ÀÀ@ A
 ;
-ÃÃA B
+ÀÀA B
 if
-ŒŒ 
+ÕÕ 
 (
-ŒŒ 
+ÕÕ 
 result
-ŒŒ 
+ÕÕ 
 .
-ŒŒ 
+ÕÕ 
 	Succeeded
-ŒŒ $
+ÕÕ $
 )
-ŒŒ$ %
+ÕÕ$ %
 return
-œœ 
+ŒŒ 
 RedirectToAction
-œœ +
+ŒŒ +
 (
-œœ+ ,
+ŒŒ+ ,
 $str
-œœ, <
+ŒŒ, <
 ,
-œœ< =
+ŒŒ< =
 _roleManager
-œœ> J
+ŒŒ> J
 .
-œœJ K
+ŒŒJ K
 Roles
-œœK P
+ŒŒK P
 )
-œœP Q
+ŒŒP Q
 ;
-œœQ R
+ŒŒQ R
 
 ModelState
-—— 
+–– 
 .
-—— 
+–– 
 AddModelError
-—— (
+–– (
 (
-——( )
+––( )
 $str
-——) +
+––) +
 ,
-——+ ,
+––+ ,
 $str
-——- V
+––- V
 )
-——V W
+––V W
 ;
-——W X
+––W X
 return
-”” 
+““ 
 View
-”” 
+““ 
 (
-”” 
+““ 
 editRoleViewModel
-”” -
+““ -
 )
-””- .
+““- .
 ;
-””. /
+““. /
 }
-‘‘ 
+”” 
 return
-÷÷ 
+’’ 
 RedirectToAction
-÷÷ #
+’’ #
 (
-÷÷# $
+’’# $
 $str
-÷÷$ 4
+’’$ 4
 ,
-÷÷4 5
+’’4 5
 _roleManager
-÷÷6 B
+’’6 B
 .
-÷÷B C
+’’B C
 Roles
-÷÷C H
+’’C H
 )
-÷÷H I
+’’H I
 ;
-÷÷I J
+’’I J
 }
-◊◊ 	
+÷÷ 	
 [
-ŸŸ 	
+ÿÿ 	
 HttpPost
-ŸŸ	 
+ÿÿ	 
 ]
-ŸŸ 
+ÿÿ 
 public
-⁄⁄ 
+ŸŸ 
 async
-⁄⁄ 
+ŸŸ 
 Task
-⁄⁄ 
+ŸŸ 
 <
-⁄⁄ 
+ŸŸ 
 IActionResult
-⁄⁄ '
+ŸŸ '
 >
-⁄⁄' (
+ŸŸ' (
 
 DeleteRole
-⁄⁄) 3
+ŸŸ) 3
 (
-⁄⁄3 4
+ŸŸ3 4
 string
-⁄⁄4 :
+ŸŸ4 :
 id
-⁄⁄; =
+ŸŸ; =
 )
-⁄⁄= >
+ŸŸ= >
 {
-€€ 	
+⁄⁄ 	
 IdentityRole
-‹‹ 
+€€ 
 role
-‹‹ 
+€€ 
 =
-‹‹ 
+€€ 
 await
-‹‹  %
+€€  %
 _roleManager
-‹‹& 2
+€€& 2
 .
-‹‹2 3
+€€2 3
 FindByIdAsync
-‹‹3 @
+€€3 @
 (
-‹‹@ A
+€€@ A
 id
-‹‹A C
+€€A C
 )
-‹‹C D
+€€C D
 ;
-‹‹D E
+€€D E
 if
-›› 
+‹‹ 
 (
-›› 
+‹‹ 
 role
-›› 
+‹‹ 
 !=
-›› 
+‹‹ 
 null
-›› 
+‹‹ 
 )
-›› 
+‹‹ 
 {
-ﬁﬁ 
+›› 
 var
-ﬂﬂ 
+ﬁﬁ 
+result
+ﬁﬁ 
+=
+ﬁﬁ 
+await
+ﬁﬁ "
+_roleManager
+ﬁﬁ# /
+.
+ﬁﬁ/ 0
+DeleteAsync
+ﬁﬁ0 ;
+(
+ﬁﬁ; <
+role
+ﬁﬁ< @
+)
+ﬁﬁ@ A
+;
+ﬁﬁA B
+if
+ﬂﬂ 
+(
+ﬂﬂ 
 result
 ﬂﬂ 
-=
-ﬂﬂ 
-await
-ﬂﬂ "
-_roleManager
-ﬂﬂ# /
 .
-ﬂﬂ/ 0
-DeleteAsync
-ﬂﬂ0 ;
-(
-ﬂﬂ; <
-role
-ﬂﬂ< @
-)
-ﬂﬂ@ A
-;
-ﬂﬂA B
-if
-‡‡ 
-(
-‡‡ 
-result
-‡‡ 
-.
-‡‡ 
+ﬂﬂ 
 	Succeeded
-‡‡ $
+ﬂﬂ $
 )
-‡‡$ %
+ﬂﬂ$ %
 return
-·· 
+‡‡ 
 RedirectToAction
-·· +
+‡‡ +
 (
+‡‡+ ,
+$str
+‡‡, <
+,
+‡‡< =
+_roleManager
+‡‡> J
+.
+‡‡J K
+Roles
+‡‡K P
+)
+‡‡P Q
+;
+‡‡Q R
+
+ModelState
+·· 
+.
+·· 
+AddModelError
+·· (
+(
+··( )
+$str
+··) +
+,
 ··+ ,
 $str
-··, <
-,
-··< =
-_roleManager
-··> J
-.
-··J K
-Roles
-··K P
+··- ]
 )
-··P Q
+··] ^
 ;
-··Q R
-
-ModelState
-‚‚ 
-.
-‚‚ 
-AddModelError
-‚‚ (
-(
-‚‚( )
-$str
-‚‚) +
-,
-‚‚+ ,
-$str
-‚‚- ]
-)
-‚‚] ^
-;
-‚‚^ _
+··^ _
 }
-„„ 
+‚‚ 
 else
-‰‰ 
+„„ 
 {
-ÂÂ 
+‰‰ 
 
 ModelState
-ÊÊ 
+ÂÂ 
 .
-ÊÊ 
+ÂÂ 
 AddModelError
-ÊÊ (
+ÂÂ (
 (
-ÊÊ( )
+ÂÂ( )
 $str
-ÊÊ) +
+ÂÂ) +
 ,
-ÊÊ+ ,
+ÂÂ+ ,
 $str
-ÊÊ- H
+ÂÂ- H
 )
-ÊÊH I
+ÂÂH I
 ;
-ÊÊI J
+ÂÂI J
 }
-ÁÁ 
+ÊÊ 
 return
-ËË 
+ÁÁ 
 View
-ËË 
+ÁÁ 
 (
-ËË 
+ÁÁ 
 $str
-ËË (
+ÁÁ (
 ,
-ËË( )
+ÁÁ( )
 _roleManager
-ËË* 6
+ÁÁ* 6
 .
-ËË6 7
+ÁÁ6 7
 Roles
-ËË7 <
+ÁÁ7 <
 )
-ËË< =
+ÁÁ< =
 ;
-ËË= >
+ÁÁ= >
 }
-ÈÈ 	
+ËË 	
 public
-ÌÌ 
+ÏÏ 
 async
-ÌÌ 
+ÏÏ 
 Task
-ÌÌ 
+ÏÏ 
 <
-ÌÌ 
+ÏÏ 
 IActionResult
-ÌÌ '
+ÏÏ '
 >
-ÌÌ' (
+ÏÏ' (
 AddUserToRole
-ÌÌ) 6
+ÏÏ) 6
 (
-ÌÌ6 7
+ÏÏ6 7
 string
-ÌÌ7 =
+ÏÏ7 =
 roleId
-ÌÌ> D
+ÏÏ> D
 )
-ÌÌD E
+ÏÏD E
 {
-ÓÓ 	
+ÌÌ 	
 var
-ÔÔ 
+ÓÓ 
 role
-ÔÔ 
+ÓÓ 
 =
-ÔÔ 
+ÓÓ 
 await
-ÔÔ 
+ÓÓ 
 _roleManager
-ÔÔ )
+ÓÓ )
 .
-ÔÔ) *
+ÓÓ) *
 FindByIdAsync
-ÔÔ* 7
+ÓÓ* 7
 (
-ÔÔ7 8
+ÓÓ7 8
 roleId
-ÔÔ8 >
+ÓÓ8 >
 )
-ÔÔ> ?
+ÓÓ> ?
 ;
-ÔÔ? @
+ÓÓ? @
 if
-ÒÒ 
+ 
 (
-ÒÒ 
+ 
 role
-ÒÒ 
+ 
 ==
-ÒÒ 
+ 
 null
-ÒÒ 
+ 
 )
-ÒÒ 
+ 
 return
-ÚÚ 
+ÒÒ 
 RedirectToAction
-ÚÚ '
+ÒÒ '
 (
-ÚÚ' (
+ÒÒ' (
 $str
-ÚÚ( 8
+ÒÒ( 8
 ,
-ÚÚ8 9
+ÒÒ8 9
 _roleManager
-ÚÚ: F
+ÒÒ: F
 .
-ÚÚF G
+ÒÒF G
 Roles
-ÚÚG L
+ÒÒG L
 )
-ÚÚL M
+ÒÒL M
 ;
-ÚÚM N
+ÒÒM N
 var
-ÙÙ $
+ÛÛ $
 addUserToRoleViewModel
-ÙÙ &
+ÛÛ &
 =
-ÙÙ' (
+ÛÛ' (
 new
-ÙÙ) ,
+ÛÛ) ,
 UserRoleViewModel
-ÙÙ- >
+ÛÛ- >
 {
-ÙÙ? @
+ÛÛ? @
 RoleId
-ÙÙA G
+ÛÛA G
 =
-ÙÙH I
+ÛÛH I
 role
-ÙÙJ N
+ÛÛJ N
 .
-ÙÙN O
+ÛÛN O
 Id
-ÙÙO Q
+ÛÛO Q
 }
-ÙÙR S
+ÛÛR S
 ;
-ÙÙS T
+ÛÛS T
 foreach
-ˆˆ 
+ıı 
 (
-ˆˆ 
+ıı 
 var
-ˆˆ 
+ıı 
 user
-ˆˆ 
+ıı 
 in
-ˆˆ  
+ıı  
 _userManager
-ˆˆ! -
+ıı! -
 .
-ˆˆ- .
+ıı- .
 Users
-ˆˆ. 3
+ıı. 3
 )
-ˆˆ3 4
+ıı3 4
 {
-˜˜ 
+ˆˆ 
 if
-¯¯ 
+˜˜ 
 (
-¯¯ 
+˜˜ 
 !
-¯¯ 
+˜˜ 
 await
-¯¯ 
+˜˜ 
 _userManager
-¯¯ '
+˜˜ '
 .
-¯¯' (
+˜˜' (
 IsInRoleAsync
-¯¯( 5
+˜˜( 5
 (
-¯¯5 6
+˜˜5 6
 user
-¯¯6 :
+˜˜6 :
 ,
-¯¯: ;
+˜˜: ;
 role
-¯¯< @
+˜˜< @
 .
-¯¯@ A
+˜˜@ A
 Name
-¯¯A E
+˜˜A E
 )
-¯¯E F
+˜˜E F
 )
-¯¯F G
+˜˜F G
 {
-˘˘ $
+¯¯ $
 addUserToRoleViewModel
-˙˙ *
+˘˘ *
 .
-˙˙* +
+˘˘* +
 Users
-˙˙+ 0
+˘˘+ 0
 .
-˙˙0 1
+˘˘0 1
 Add
-˙˙1 4
+˘˘1 4
 (
-˙˙4 5
+˘˘4 5
 user
-˙˙5 9
+˘˘5 9
 )
-˙˙9 :
+˘˘9 :
 ;
-˙˙: ;
+˘˘: ;
 }
-˚˚ 
+˙˙ 
 }
-¸¸ 
+˚˚ 
 return
-˛˛ 
+˝˝ 
 View
-˛˛ 
+˝˝ 
 (
-˛˛ $
+˝˝ $
 addUserToRoleViewModel
-˛˛ .
+˝˝ .
 )
-˛˛. /
+˝˝. /
 ;
-˛˛/ 0
+˝˝/ 0
 }
-ˇˇ 	
+˛˛ 	
 [
-ÅÅ 	
+ÄÄ 	
 HttpPost
-ÅÅ	 
+ÄÄ	 
 ]
-ÅÅ 
+ÄÄ 
 public
-ÇÇ 
+ÅÅ 
 async
-ÇÇ 
+ÅÅ 
 Task
-ÇÇ 
+ÅÅ 
 <
-ÇÇ 
+ÅÅ 
 IActionResult
-ÇÇ '
+ÅÅ '
 >
-ÇÇ' (
+ÅÅ' (
 AddUserToRole
-ÇÇ) 6
+ÅÅ) 6
 (
-ÇÇ6 7
+ÅÅ6 7
 UserRoleViewModel
-ÇÇ7 H
+ÅÅ7 H
 userRoleViewModel
-ÇÇI Z
+ÅÅI Z
 )
-ÇÇZ [
+ÅÅZ [
 {
-ÉÉ 	
+ÇÇ 	
+var
+ÉÉ 
+user
+ÉÉ 
+=
+ÉÉ 
+await
+ÉÉ 
+_userManager
+ÉÉ )
+.
+ÉÉ) *
+FindByIdAsync
+ÉÉ* 7
+(
+ÉÉ7 8
+userRoleViewModel
+ÉÉ8 I
+.
+ÉÉI J
+UserId
+ÉÉJ P
+)
+ÉÉP Q
+;
+ÉÉQ R
 var
 ÑÑ 
-user
+role
 ÑÑ 
 =
 ÑÑ 
 await
 ÑÑ 
-_userManager
+_roleManager
 ÑÑ )
 .
 ÑÑ) *
@@ -2496,392 +2501,392 @@ ModelState
 ÑÑ8 I
 .
 ÑÑI J
-UserId
+RoleId
 ÑÑJ P
 )
 ÑÑP Q
 ;
 ÑÑQ R
 var
-ÖÖ 
-role
-ÖÖ 
-=
-ÖÖ 
-await
-ÖÖ 
-_roleManager
-ÖÖ )
-.
-ÖÖ) *
-FindByIdAsync
-ÖÖ* 7
-(
-ÖÖ7 8
-userRoleViewModel
-ÖÖ8 I
-.
-ÖÖI J
-RoleId
-ÖÖJ P
-)
-ÖÖP Q
-;
-ÖÖQ R
-var
-áá 
+ÜÜ 
 result
-áá 
+ÜÜ 
 =
-áá 
+ÜÜ 
 await
-áá 
+ÜÜ 
 _userManager
-áá +
+ÜÜ +
 .
-áá+ ,
+ÜÜ+ ,
 AddToRoleAsync
-áá, :
+ÜÜ, :
 (
-áá: ;
+ÜÜ: ;
 user
-áá; ?
+ÜÜ; ?
 ,
-áá? @
+ÜÜ? @
 role
-ááA E
+ÜÜA E
 .
-ááE F
+ÜÜE F
 Name
-ááF J
+ÜÜF J
 )
-ááJ K
+ÜÜJ K
 ;
-ááK L
+ÜÜK L
 if
-ââ 
+àà 
 (
-ââ 
+àà 
 result
-ââ 
+àà 
 .
-ââ 
+àà 
 	Succeeded
-ââ  
+àà  
 )
-ââ  !
+àà  !
 {
-ää 
+ââ 
 return
-ãã 
+ää 
 RedirectToAction
-ãã '
+ää '
 (
-ãã' (
+ää' (
 $str
-ãã( 8
+ää( 8
 ,
-ãã8 9
+ää8 9
 _roleManager
-ãã: F
+ää: F
 .
-ããF G
+ääF G
 Roles
-ããG L
+ääG L
 )
-ããL M
+ääL M
 ;
-ããM N
+ääM N
 }
-åå 
+ãã 
 foreach
-éé 
+çç 
 (
-éé 
+çç 
 IdentityError
-éé "
+çç "
 error
-éé# (
+çç# (
 in
-éé) +
+çç) +
 result
-éé, 2
+çç, 2
 .
-éé2 3
+çç2 3
 Errors
-éé3 9
+çç3 9
 )
-éé9 :
+çç9 :
 {
-èè 
+éé 
 
 ModelState
-êê 
+èè 
 .
-êê 
+èè 
 AddModelError
-êê (
+èè (
 (
-êê( )
+èè( )
 $str
-êê) +
+èè) +
 ,
-êê+ ,
+èè+ ,
 error
-êê- 2
+èè- 2
 .
-êê2 3
+èè2 3
 Description
-êê3 >
+èè3 >
 )
-êê> ?
+èè> ?
 ;
-êê? @
+èè? @
 }
-ëë 
+êê 
 return
-ìì 
+íí 
 View
-ìì 
+íí 
 (
-ìì 
+íí 
 userRoleViewModel
-ìì )
+íí )
 )
-ìì) *
+íí) *
 ;
-ìì* +
+íí* +
 }
-îî 	
+ìì 	
 public
-ññ 
+ïï 
 async
-ññ 
+ïï 
 Task
-ññ 
+ïï 
 <
-ññ 
+ïï 
 IActionResult
-ññ '
+ïï '
 >
-ññ' ( 
+ïï' ( 
 DeleteUserFromRole
-ññ) ;
+ïï) ;
 (
-ññ; <
+ïï; <
 string
-ññ< B
+ïï< B
 roleId
-ññC I
+ïïC I
 )
-ññI J
+ïïI J
 {
-óó 	
+ññ 	
 var
-òò 
+óó 
 role
-òò 
+óó 
 =
-òò 
+óó 
 await
-òò 
+óó 
 _roleManager
-òò )
+óó )
 .
-òò) *
+óó) *
 FindByIdAsync
-òò* 7
+óó* 7
 (
-òò7 8
+óó7 8
 roleId
-òò8 >
+óó8 >
 )
-òò> ?
+óó> ?
 ;
-òò? @
+óó? @
 if
-öö 
+ôô 
 (
-öö 
+ôô 
 role
-öö 
+ôô 
 ==
-öö 
+ôô 
 null
-öö 
+ôô 
 )
-öö 
+ôô 
 return
-õõ 
+öö 
 RedirectToAction
-õõ '
+öö '
 (
-õõ' (
+öö' (
 $str
-õõ( 8
+öö( 8
 ,
-õõ8 9
+öö8 9
 _roleManager
-õõ: F
+öö: F
 .
-õõF G
+ööF G
 Roles
-õõG L
+ööG L
 )
-õõL M
+ööL M
 ;
-õõM N
+ööM N
 var
-ùù $
+úú $
 addUserToRoleViewModel
-ùù &
+úú &
 =
-ùù' (
+úú' (
 new
-ùù) ,
+úú) ,
 UserRoleViewModel
-ùù- >
+úú- >
 {
-ùù? @
+úú? @
 RoleId
-ùùA G
+úúA G
 =
-ùùH I
+úúH I
 role
-ùùJ N
+úúJ N
 .
-ùùN O
+úúN O
 Id
-ùùO Q
+úúO Q
 }
-ùùR S
+úúR S
 ;
-ùùS T
+úúS T
 foreach
-üü 
+ûû 
 (
-üü 
+ûû 
 var
-üü 
+ûû 
 user
-üü 
+ûû 
 in
-üü  
+ûû  
 _userManager
-üü! -
+ûû! -
 .
-üü- .
+ûû- .
 Users
-üü. 3
+ûû. 3
 )
-üü3 4
+ûû3 4
 {
-†† 
+üü 
 if
-°° 
+†† 
 (
-°° 
+†† 
 await
-°° 
+†† 
 _userManager
-°° &
+†† &
 .
-°°& '
+††& '
 IsInRoleAsync
-°°' 4
+††' 4
 (
-°°4 5
+††4 5
 user
-°°5 9
+††5 9
 ,
-°°9 :
+††9 :
 role
-°°; ?
+††; ?
 .
-°°? @
+††? @
 Name
-°°@ D
+††@ D
 )
-°°D E
+††D E
 )
-°°E F
+††E F
 {
-¢¢ $
+°° $
 addUserToRoleViewModel
-££ *
+¢¢ *
 .
-££* +
+¢¢* +
 Users
-££+ 0
+¢¢+ 0
 .
-££0 1
+¢¢0 1
 Add
-££1 4
+¢¢1 4
 (
-££4 5
+¢¢4 5
 user
-££5 9
+¢¢5 9
 )
-££9 :
+¢¢9 :
 ;
-££: ;
+¢¢: ;
 }
-§§ 
+££ 
 }
-•• 
+§§ 
 return
-ßß 
+¶¶ 
 View
-ßß 
+¶¶ 
 (
-ßß $
+¶¶ $
 addUserToRoleViewModel
-ßß .
+¶¶ .
 )
-ßß. /
+¶¶. /
 ;
-ßß/ 0
+¶¶/ 0
 }
-®® 	
+ßß 	
 [
-™™ 	
+©© 	
 HttpPost
-™™	 
+©©	 
 ]
-™™ 
+©© 
 public
-´´ 
+™™ 
 async
-´´ 
+™™ 
 Task
-´´ 
+™™ 
 <
-´´ 
+™™ 
 IActionResult
-´´ '
+™™ '
 >
-´´' ( 
+™™' ( 
 DeleteUserFromRole
-´´) ;
+™™) ;
 (
-´´; <
+™™; <
 UserRoleViewModel
-´´< M
+™™< M
 userRoleViewModel
-´´N _
+™™N _
 )
-´´_ `
+™™_ `
 {
-¨¨ 	
+´´ 	
+var
+¨¨ 
+user
+¨¨ 
+=
+¨¨ 
+await
+¨¨ 
+_userManager
+¨¨ )
+.
+¨¨) *
+FindByIdAsync
+¨¨* 7
+(
+¨¨7 8
+userRoleViewModel
+¨¨8 I
+.
+¨¨I J
+UserId
+¨¨J P
+)
+¨¨P Q
+;
+¨¨Q R
 var
 ≠≠ 
-user
+role
 ≠≠ 
 =
 ≠≠ 
 await
 ≠≠ 
-_userManager
+_roleManager
 ≠≠ )
 .
 ≠≠) *
@@ -2893,1340 +2898,1322 @@ ModelState
 ≠≠8 I
 .
 ≠≠I J
-UserId
+RoleId
 ≠≠J P
 )
 ≠≠P Q
 ;
 ≠≠Q R
 var
-ÆÆ 
-role
-ÆÆ 
-=
-ÆÆ 
-await
-ÆÆ 
-_roleManager
-ÆÆ )
-.
-ÆÆ) *
-FindByIdAsync
-ÆÆ* 7
-(
-ÆÆ7 8
-userRoleViewModel
-ÆÆ8 I
-.
-ÆÆI J
-RoleId
-ÆÆJ P
-)
-ÆÆP Q
-;
-ÆÆQ R
-var
-∞∞ 
+ØØ 
 result
-∞∞ 
+ØØ 
 =
-∞∞ 
+ØØ 
 await
-∞∞ 
+ØØ 
 _userManager
-∞∞ +
+ØØ +
 .
-∞∞+ ,!
+ØØ+ ,!
 RemoveFromRoleAsync
-∞∞, ?
+ØØ, ?
 (
-∞∞? @
+ØØ? @
 user
-∞∞@ D
+ØØ@ D
 ,
-∞∞D E
+ØØD E
 role
-∞∞F J
+ØØF J
 .
-∞∞J K
+ØØJ K
 Name
-∞∞K O
+ØØK O
 )
-∞∞O P
+ØØO P
 ;
-∞∞P Q
+ØØP Q
 if
-≤≤ 
+±± 
 (
-≤≤ 
+±± 
 result
-≤≤ 
+±± 
 .
-≤≤ 
+±± 
 	Succeeded
-≤≤  
+±±  
 )
-≤≤  !
+±±  !
 {
-≥≥ 
+≤≤ 
 return
-¥¥ 
+≥≥ 
 RedirectToAction
-¥¥ '
+≥≥ '
 (
-¥¥' (
+≥≥' (
 $str
-¥¥( 8
+≥≥( 8
 ,
-¥¥8 9
+≥≥8 9
 _roleManager
-¥¥: F
+≥≥: F
 .
-¥¥F G
+≥≥F G
 Roles
-¥¥G L
+≥≥G L
 )
-¥¥L M
+≥≥L M
 ;
-¥¥M N
+≥≥M N
 }
-µµ 
+¥¥ 
 foreach
-∑∑ 
+∂∂ 
 (
-∑∑ 
+∂∂ 
 IdentityError
-∑∑ "
+∂∂ "
 error
-∑∑# (
+∂∂# (
 in
-∑∑) +
+∂∂) +
 result
-∑∑, 2
+∂∂, 2
 .
-∑∑2 3
+∂∂2 3
 Errors
-∑∑3 9
+∂∂3 9
 )
-∑∑9 :
+∂∂9 :
 {
-∏∏ 
+∑∑ 
 
 ModelState
-ππ 
+∏∏ 
 .
-ππ 
+∏∏ 
 AddModelError
-ππ (
+∏∏ (
 (
-ππ( )
+∏∏( )
 $str
-ππ) +
+∏∏) +
 ,
-ππ+ ,
+∏∏+ ,
 error
-ππ- 2
+∏∏- 2
 .
-ππ2 3
+∏∏2 3
 Description
-ππ3 >
+∏∏3 >
 )
-ππ> ?
+∏∏> ?
 ;
-ππ? @
+∏∏? @
 }
-∫∫ 
+ππ 
 return
-ºº 
+ªª 
 View
-ºº 
+ªª 
 (
-ºº 
+ªª 
 userRoleViewModel
-ºº )
+ªª )
 )
-ºº) *
+ªª) *
 ;
-ºº* +
+ªª* +
 }
-ΩΩ 	
+ºº 	
 public
-¿¿ 
+øø 
 IActionResult
-¿¿ 
+øø 
 FlowerManagement
-¿¿ -
+øø -
 (
-¿¿- .
+øø- .
 )
-¿¿. /
+øø. /
 {
-¡¡ 	
+¿¿ 	
 var
-¬¬ 
+¡¡ 
 	dbFlowers
-¬¬ 
+¡¡ 
 =
-¬¬ 
+¡¡ 
 _flowerRepository
-¬¬ -
+¡¡ -
 .
-¬¬- .
+¡¡- .
 Flowers
-¬¬. 5
+¡¡. 5
 ;
-¬¬5 6
+¡¡5 6
 List
-ƒƒ 
+√√ 
 <
-ƒƒ 
+√√ 
 FlowerViewModel
-ƒƒ  
+√√  
 >
-ƒƒ  !
+√√  !
 flowers
-ƒƒ" )
+√√" )
 =
-ƒƒ* +
+√√* +
 new
-ƒƒ, /
+√√, /
 List
-ƒƒ0 4
+√√0 4
 <
-ƒƒ4 5
+√√4 5
 FlowerViewModel
-ƒƒ5 D
+√√5 D
 >
-ƒƒD E
+√√D E
 (
-ƒƒE F
+√√E F
 )
-ƒƒF G
+√√F G
 ;
-ƒƒG H
+√√G H
 foreach
-∆∆ 
+≈≈ 
 (
-∆∆ 
+≈≈ 
 var
-∆∆ 
+≈≈ 
 dbFlower
-∆∆ !
+≈≈ !
 in
-∆∆" $
+≈≈" $
 	dbFlowers
-∆∆% .
+≈≈% .
 )
-∆∆. /
+≈≈. /
 {
-«« 
+∆∆ 
 flowers
-»» 
+«« 
 .
-»» 
+«« 
 Add
-»» 
+«« 
 (
-»» *
+«« *
 MapDbFlowerToFlowerViewModel
-»» 8
+«« 8
 (
-»»8 9
+««8 9
 dbFlower
-»»9 A
+««9 A
 )
-»»A B
+««A B
 )
-»»B C
+««B C
 ;
-»»C D
+««C D
 }
-…… 
+»» 
 return
-ÀÀ 
+   
 View
-ÀÀ 
+   
 (
-ÀÀ 
+   
 flowers
-ÀÀ 
+   
 )
-ÀÀ  
+    
 ;
-ÀÀ  !
+    !
 }
-ÃÃ 	
+ÀÀ 	
 public
-ŒŒ 
+ÕÕ 
 IActionResult
-ŒŒ 
+ÕÕ 
 	AddFlower
-ŒŒ &
+ÕÕ &
 (
-ŒŒ& '
+ÕÕ& '
 )
-ŒŒ' (
+ÕÕ' (
 {
-œœ 	
+ŒŒ 	
 ViewData
-–– 
+œœ 
 [
-–– 
+œœ 
 $str
-–– !
+œœ !
 ]
-––! "
+œœ! "
 =
-––# $!
+œœ# $!
 _categoryRepository
-––% 8
+œœ% 8
 .
-––8 9
+œœ8 9
 
 Categories
-––9 C
+œœ9 C
 .
-––C D
+œœC D
 ToList
-––D J
+œœD J
 (
-––J K
+œœJ K
 )
-––K L
+œœK L
 ;
-––L M
+œœL M
 return
-““ 
+—— 
 View
-““ 
+—— 
 (
-““ 
+—— 
 )
-““ 
+—— 
 ;
-““ 
+—— 
 }
-”” 	
+““ 	
 [
-’’ 	
+‘‘ 	
 HttpPost
-’’	 
+‘‘	 
 ]
-’’ 
+‘‘ 
 public
-÷÷ 
+’’ 
 IActionResult
-÷÷ 
+’’ 
 	AddFlower
-÷÷ &
+’’ &
 (
-÷÷& ' 
+’’& ' 
 AddFlowerViewModel
-÷÷' 9 
+’’' 9 
 addFlowerViewModel
-÷÷: L
+’’: L
 )
-÷÷L M
+’’L M
 {
-◊◊ 	
+÷÷ 	
 if
-ÿÿ 
+◊◊ 
 (
-ÿÿ 
+◊◊ 
 !
-ÿÿ 
+◊◊ 
 
 ModelState
-ÿÿ 
+◊◊ 
 .
-ÿÿ 
+◊◊ 
 IsValid
-ÿÿ #
+◊◊ #
 )
-ÿÿ# $
+◊◊# $
 return
-ŸŸ 
+ÿÿ 
 View
-ŸŸ 
+ÿÿ 
 (
-ŸŸ  
+ÿÿ  
 addFlowerViewModel
-ŸŸ .
+ÿÿ .
 )
-ŸŸ. /
+ÿÿ. /
 ;
-ŸŸ/ 0
+ÿÿ/ 0
 var
-€€ 
+⁄⁄ 
 flower
-€€ 
+⁄⁄ 
 =
-€€ 
+⁄⁄ 
 new
-€€ 
+⁄⁄ 
 Flower
-€€ #
+⁄⁄ #
 (
-€€# $
+⁄⁄# $
 )
-€€$ %
+⁄⁄$ %
 {
-‹‹ 
+€€ 
 Name
-›› 
+‹‹ 
 =
-››  
+‹‹  
 addFlowerViewModel
-›› )
+‹‹ )
 .
-››) *
+‹‹) *
 Name
-››* .
+‹‹* .
 ,
-››. /
+‹‹. /
 ShortDescription
-ﬁﬁ  
+››  
 =
-ﬁﬁ! " 
+››! " 
 addFlowerViewModel
-ﬁﬁ# 5
+››# 5
 .
-ﬁﬁ5 6
+››5 6
 ShortDescription
-ﬁﬁ6 F
+››6 F
 ,
-ﬁﬁF G
+››F G
 LongDescription
-ﬂﬂ 
+ﬁﬁ 
 =
-ﬂﬂ  ! 
+ﬁﬁ  ! 
 addFlowerViewModel
-ﬂﬂ" 4
+ﬁﬁ" 4
 .
-ﬂﬂ4 5
+ﬁﬁ4 5
 LongDescription
-ﬂﬂ5 D
+ﬁﬁ5 D
 ,
-ﬂﬂD E
+ﬁﬁD E
 Price
-‡‡ 
+ﬂﬂ 
 =
-‡‡  
+ﬂﬂ  
 addFlowerViewModel
-‡‡ *
+ﬂﬂ *
 .
-‡‡* +
+ﬂﬂ* +
 Price
-‡‡+ 0
+ﬂﬂ+ 0
 ,
-‡‡0 1
+ﬂﬂ0 1
 ImageUrl
-·· 
+‡‡ 
 =
-··  
+‡‡  
 addFlowerViewModel
-·· -
+‡‡ -
 .
-··- .
+‡‡- .
 ImageUrl
-··. 6
+‡‡. 6
 ,
+‡‡6 7
+ImageThumbnailUrl
+·· !
+=
+··" # 
+addFlowerViewModel
+··$ 6
+.
 ··6 7
 ImageThumbnailUrl
-‚‚ !
-=
-‚‚" # 
-addFlowerViewModel
-‚‚$ 6
-.
-‚‚6 7
-ImageThumbnailUrl
-‚‚7 H
+··7 H
 ,
-‚‚H I"
+··H I"
 IsFlowerPresentation
-„„ $
+‚‚ $
 =
-„„% & 
+‚‚% & 
 addFlowerViewModel
-„„' 9
+‚‚' 9
 .
-„„9 :"
+‚‚9 :"
 IsFlowerPresentation
-„„: N
+‚‚: N
 ,
-„„N O
+‚‚N O
 InStock
-‰‰ 
+„„ 
 =
-‰‰  
+„„  
 addFlowerViewModel
-‰‰ ,
+„„ ,
 .
-‰‰, -
+„„, -
 InStock
-‰‰- 4
+„„- 4
 ,
-‰‰4 5
+„„4 5
 
 CategoryId
-ÂÂ 
+‰‰ 
 =
-ÂÂ  
+‰‰  
 addFlowerViewModel
-ÂÂ /
+‰‰ /
 .
-ÂÂ/ 0
+‰‰/ 0
 
 CategoryId
-ÂÂ0 :
+‰‰0 :
 ,
-ÂÂ: ;
+‰‰: ;
 }
-ÁÁ 
+ÊÊ 
 ;
-ÁÁ 
+ÊÊ 
 _flowerRepository
-ÈÈ 
+ËË 
 .
-ÈÈ 
+ËË 
 	AddFlower
-ÈÈ '
+ËË '
 (
-ÈÈ' (
+ËË' (
 flower
-ÈÈ( .
+ËË( .
 )
-ÈÈ. /
+ËË. /
 ;
-ÈÈ/ 0
+ËË/ 0
 return
-ÎÎ 
+ÍÍ 
 RedirectToAction
-ÎÎ #
+ÍÍ #
 (
-ÎÎ# $
+ÍÍ# $
 $str
-ÎÎ$ 6
+ÍÍ$ 6
 ,
-ÎÎ6 7
+ÍÍ6 7
 _flowerRepository
-ÎÎ8 I
+ÍÍ8 I
 .
-ÎÎI J
+ÍÍI J
 Flowers
-ÎÎJ Q
+ÍÍJ Q
 )
-ÎÎQ R
+ÍÍQ R
 ;
-ÎÎR S
+ÍÍR S
 }
-ÏÏ 	
+ÎÎ 	
 [
-ÓÓ 	
+ÌÌ 	
 HttpPost
-ÓÓ	 
+ÌÌ	 
 ]
-ÓÓ 
+ÌÌ 
 public
-ÔÔ 
+ÓÓ 
 IActionResult
-ÔÔ 
+ÓÓ 
 DeleteFlower
-ÔÔ )
+ÓÓ )
 (
-ÔÔ) *
+ÓÓ) *
 int
-ÔÔ* -
+ÓÓ* -
 id
-ÔÔ. 0
+ÓÓ. 0
 )
-ÔÔ0 1
+ÓÓ0 1
 {
- 	
+ÔÔ 	
 Flower
-ÒÒ 
+ 
 flower
-ÒÒ 
+ 
 =
-ÒÒ 
+ 
 _flowerRepository
-ÒÒ -
+ -
 .
-ÒÒ- .
+- .
 GetFlowerById
-ÒÒ. ;
+. ;
 (
-ÒÒ; <
+; <
 id
-ÒÒ< >
+< >
 )
-ÒÒ> ?
+> ?
 ;
-ÒÒ? @
+? @
 if
-ÚÚ 
+ÒÒ 
 (
-ÚÚ 
+ÒÒ 
 flower
-ÚÚ 
+ÒÒ 
 !=
-ÚÚ 
+ÒÒ 
 null
-ÚÚ 
+ÒÒ 
 )
-ÚÚ 
+ÒÒ 
 {
-ÛÛ 
+ÚÚ 
 _flowerRepository
-ÙÙ !
+ÛÛ !
 .
-ÙÙ! "
+ÛÛ! "
 DeleteFlower
-ÙÙ" .
+ÛÛ" .
 (
-ÙÙ. /
+ÛÛ. /
 flower
-ÙÙ/ 5
+ÛÛ/ 5
 )
-ÙÙ5 6
+ÛÛ5 6
 ;
-ÙÙ6 7
+ÛÛ6 7
 return
-ˆˆ 
+ıı 
 View
-ˆˆ 
+ıı 
 (
-ˆˆ 
+ıı 
 $str
-ˆˆ .
+ıı .
 ,
-ˆˆ. /
+ıı. /
 _flowerRepository
-ˆˆ0 A
+ıı0 A
 .
-ˆˆA B 
+ııA B 
 FlowersAsViewModel
-ˆˆB T
+ııB T
 )
-ˆˆT U
+ııT U
 ;
-ˆˆU V
+ııU V
 }
-˜˜ 
+ˆˆ 
 else
-¯¯ 
+˜˜ 
 {
-˘˘ 
+¯¯ 
 
 ModelState
-˙˙ 
+˘˘ 
 .
-˙˙ 
+˘˘ 
 AddModelError
-˙˙ (
+˘˘ (
 (
-˙˙( )
+˘˘( )
 $str
-˙˙) +
+˘˘) +
 ,
-˙˙+ ,
+˘˘+ ,
 $str
-˙˙- J
+˘˘- J
 )
-˙˙J K
+˘˘J K
 ;
-˙˙K L
+˘˘K L
 }
-˚˚ 
+˙˙ 
 return
-˝˝ 
+¸¸ 
 View
-˝˝ 
+¸¸ 
 (
-˝˝ 
+¸¸ 
 $str
-˝˝ *
+¸¸ *
 ,
-˝˝* +
+¸¸* +
 _flowerRepository
-˝˝, =
+¸¸, =
 .
-˝˝= > 
+¸¸= > 
 FlowersAsViewModel
-˝˝> P
+¸¸> P
 )
-˝˝P Q
+¸¸P Q
 ;
-˝˝Q R
+¸¸Q R
 }
-˛˛ 	
+˝˝ 	
 public
-ÄÄ 
+ˇˇ 
 IActionResult
-ÄÄ 
+ˇˇ 
 
 EditFlower
-ÄÄ '
+ˇˇ '
 (
-ÄÄ' (
+ˇˇ' (
 int
-ÄÄ( +
+ˇˇ( +
 id
-ÄÄ, .
+ˇˇ, .
 )
-ÄÄ. /
+ˇˇ. /
 {
-ÅÅ 	
+ÄÄ 	
 ViewData
-ÇÇ 
+ÅÅ 
 [
-ÇÇ 
+ÅÅ 
 $str
-ÇÇ !
+ÅÅ !
 ]
-ÇÇ! "
+ÅÅ! "
 =
-ÇÇ# $!
+ÅÅ# $!
 _categoryRepository
-ÇÇ% 8
+ÅÅ% 8
 .
-ÇÇ8 9
+ÅÅ8 9
 
 Categories
-ÇÇ9 C
+ÅÅ9 C
 .
-ÇÇC D
+ÅÅC D
 ToList
-ÇÇD J
+ÅÅD J
 (
-ÇÇJ K
+ÅÅJ K
 )
-ÇÇK L
+ÅÅK L
 ;
-ÇÇL M
+ÅÅL M
 var
-ÑÑ 
+ÉÉ 
 flower
-ÑÑ 
+ÉÉ 
 =
-ÑÑ 
+ÉÉ 
 _flowerRepository
-ÑÑ *
+ÉÉ *
 .
-ÑÑ* +
+ÉÉ* +
 GetFlowerById
-ÑÑ+ 8
+ÉÉ+ 8
 (
-ÑÑ8 9
+ÉÉ8 9
 id
-ÑÑ9 ;
+ÉÉ9 ;
 )
-ÑÑ; <
+ÉÉ; <
 ;
-ÑÑ< =
+ÉÉ< =
 if
-ÜÜ 
+ÖÖ 
 (
-ÜÜ 
+ÖÖ 
 flower
-ÜÜ 
+ÖÖ 
 ==
-ÜÜ 
+ÖÖ 
 null
-ÜÜ 
+ÖÖ 
 )
-ÜÜ 
+ÖÖ 
 return
-áá 
+ÜÜ 
 View
-áá 
+ÜÜ 
 (
-áá 
+ÜÜ 
 $str
-áá .
+ÜÜ .
 ,
-áá. /
+ÜÜ. /
 _flowerRepository
-áá0 A
+ÜÜ0 A
 .
-ááA B 
+ÜÜA B 
 FlowersAsViewModel
-ááB T
+ÜÜB T
 )
-ááT U
+ÜÜT U
 ;
-ááU V
+ÜÜU V
 var
-ââ !
+àà !
 editFlowerViewModel
-ââ #
+àà #
 =
-ââ$ %
+àà$ %
 new
-ââ& )!
+àà& )!
 EditFlowerViewModel
-ââ* =
+àà* =
 {
-ää 
+ââ 
 Name
-ãã 
+ää 
 =
-ãã 
+ää 
 flower
-ãã 
+ää 
 .
-ãã 
+ää 
 Name
-ãã "
+ää "
 ,
-ãã" #
+ää" #
 ShortDescription
-åå  
+ãã  
 =
-åå! "
+ãã! "
 flower
-åå# )
+ãã# )
 .
-åå) *
+ãã) *
 ShortDescription
-åå* :
+ãã* :
 ,
-åå: ;
+ãã: ;
 LongDescription
-çç 
+åå 
 =
-çç  !
+åå  !
 flower
-çç" (
+åå" (
 .
-çç( )
+åå( )
 LongDescription
-çç) 8
+åå) 8
 ,
-çç8 9
+åå8 9
 Price
-éé 
+çç 
 =
-éé 
+çç 
 flower
-éé 
+çç 
 .
-éé 
+çç 
 Price
-éé $
+çç $
 ,
-éé$ %
+çç$ %
 ImageUrl
-èè 
+éé 
 =
-èè 
+éé 
 flower
-èè !
+éé !
 .
-èè! "
+éé! "
 ImageUrl
-èè" *
+éé" *
 ,
+éé* +
+ImageThumbnailUrl
+èè !
+=
+èè" #
+flower
+èè$ *
+.
 èè* +
 ImageThumbnailUrl
-êê !
-=
-êê" #
-flower
-êê$ *
-.
-êê* +
-ImageThumbnailUrl
-êê+ <
+èè+ <
 ,
-êê< ="
+èè< ="
 IsFlowerPresentation
-ëë $
+êê $
 =
-ëë% &
+êê% &
 flower
-ëë' -
+êê' -
 .
-ëë- ."
+êê- ."
 IsFlowerPresentation
-ëë. B
+êê. B
 ,
-ëëB C
+êêB C
 InStock
-íí 
+ëë 
 =
-íí 
+ëë 
 flower
-íí  
+ëë  
 .
-íí  !
+ëë  !
 InStock
-íí! (
+ëë! (
 ,
-íí( )
+ëë( )
 
 CategoryId
-ìì 
+íí 
 =
-ìì 
+íí 
 flower
-ìì #
+íí #
 .
-ìì# $
+íí# $
 
 CategoryId
-ìì$ .
+íí$ .
 }
-îî 
+ìì 
 ;
-îî 
+ìì 
 return
-ññ 
+ïï 
 View
-ññ 
+ïï 
 (
-ññ !
+ïï !
 editFlowerViewModel
-ññ +
+ïï +
 )
-ññ+ ,
+ïï+ ,
 ;
-ññ, -
+ïï, -
 }
-óó 	
+ññ 	
 [
-ôô 	
+òò 	
 HttpPost
-ôô	 
+òò	 
 ]
-ôô 
+òò 
 public
-öö 
+ôô 
 IActionResult
-öö 
+ôô 
 
 EditFlower
-öö '
+ôô '
 (
-öö' (!
+ôô' (!
 EditFlowerViewModel
-öö( ;!
+ôô( ;!
 editFlowerViewModel
-öö< O
+ôô< O
 )
-ööO P
+ôôO P
 {
-õõ 	
+öö 	
 ViewData
-úú 
+õõ 
 [
-úú 
+õõ 
 $str
-úú !
+õõ !
 ]
-úú! "
+õõ! "
 =
-úú# $!
+õõ# $!
 _categoryRepository
-úú% 8
+õõ% 8
 .
-úú8 9
+õõ8 9
 
 Categories
-úú9 C
+õõ9 C
 .
-úúC D
+õõC D
 ToList
-úúD J
+õõD J
 (
-úúJ K
+õõJ K
 )
-úúK L
+õõK L
 ;
-úúL M
+õõL M
 var
-ûû 
+ùù 
 flower
-ûû 
+ùù 
 =
-ûû 
+ùù 
 _flowerRepository
-ûû *
+ùù *
 .
-ûû* +
+ùù* +
 GetFlowerById
-ûû+ 8
+ùù+ 8
 (
-ûû8 9!
+ùù8 9!
 editFlowerViewModel
-ûû9 L
+ùù9 L
 .
-ûûL M
+ùùL M
 Id
-ûûM O
+ùùM O
 )
-ûûO P
+ùùO P
 ;
-ûûP Q
+ùùP Q
 if
-†† 
+üü 
 (
-†† 
+üü 
 flower
-†† 
+üü 
 !=
-†† 
+üü 
 null
-†† 
+üü 
 )
-†† 
+üü 
 {
-°° 
+†† 
+flower
+°° 
+.
+°° 
+Name
+°° 
+=
+°° !
+editFlowerViewModel
+°° 1
+.
+°°1 2
+Name
+°°2 6
+;
+°°6 7
 flower
 ¢¢ 
 .
-¢¢ 
-Name
-¢¢ 
+¢¢ 
+ShortDescription
+¢¢ '
 =
-¢¢ !
+¢¢( )!
 editFlowerViewModel
-¢¢ 1
+¢¢* =
 .
-¢¢1 2
-Name
-¢¢2 6
+¢¢= >
+ShortDescription
+¢¢> N
 ;
-¢¢6 7
+¢¢N O
 flower
 ££ 
 .
-££ 
-ShortDescription
-££ '
+££ 
+LongDescription
+££ &
 =
-££( )!
+££' (!
 editFlowerViewModel
-££* =
+££) <
 .
-££= >
-ShortDescription
-££> N
+££< =
+LongDescription
+££= L
 ;
-££N O
+££L M
 flower
 §§ 
 .
-§§ 
-LongDescription
-§§ &
+§§ 
+Price
+§§ 
 =
-§§' (!
+§§ !
 editFlowerViewModel
-§§) <
+§§ 2
 .
-§§< =
-LongDescription
-§§= L
+§§2 3
+Price
+§§3 8
 ;
-§§L M
+§§8 9
 flower
 •• 
 .
-•• 
-Price
-•• 
+•• 
+ImageUrl
+•• 
 =
-•• !
+••  !!
 editFlowerViewModel
-•• 2
+••" 5
 .
-••2 3
-Price
-••3 8
+••5 6
+ImageUrl
+••6 >
 ;
-••8 9
+••> ?
 flower
 ¶¶ 
 .
-¶¶ 
-ImageUrl
-¶¶ 
+¶¶ 
+ImageThumbnailUrl
+¶¶ (
 =
-¶¶  !!
+¶¶) *!
 editFlowerViewModel
-¶¶" 5
+¶¶+ >
 .
-¶¶5 6
-ImageUrl
-¶¶6 >
+¶¶> ?
+ImageThumbnailUrl
+¶¶? P
 ;
-¶¶> ?
+¶¶P Q
 flower
 ßß 
 .
-ßß 
-ImageThumbnailUrl
-ßß (
+ßß "
+IsFlowerPresentation
+ßß +
 =
-ßß) *!
+ßß, -!
 editFlowerViewModel
-ßß+ >
+ßß. A
 .
-ßß> ?
-ImageThumbnailUrl
-ßß? P
+ßßA B"
+IsFlowerPresentation
+ßßB V
 ;
-ßßP Q
+ßßV W
 flower
 ®® 
 .
-®® "
-IsFlowerPresentation
-®® +
+®® 
+InStock
+®® 
 =
-®®, -!
+®®  !
 editFlowerViewModel
-®®. A
+®®! 4
 .
-®®A B"
-IsFlowerPresentation
-®®B V
+®®4 5
+InStock
+®®5 <
 ;
-®®V W
+®®< =
 flower
 ©© 
 .
-©© 
-InStock
-©© 
-=
-©©  !
-editFlowerViewModel
-©©! 4
-.
-©©4 5
-InStock
-©©5 <
-;
-©©< =
-flower
-™™ 
-.
-™™ 
+©© 
 
 CategoryId
-™™ !
+©© !
 =
-™™" #!
+©©" #!
 editFlowerViewModel
-™™$ 7
+©©$ 7
 .
-™™7 8
+©©7 8
 
 CategoryId
-™™8 B
+©©8 B
 ;
-™™B C
+©©B C
 _flowerRepository
-¨¨ !
+´´ !
 .
-¨¨! "
+´´! "
 UpdateFlower
-¨¨" .
+´´" .
 (
-¨¨. /
+´´. /
 flower
-¨¨/ 5
+´´/ 5
 )
-¨¨5 6
+´´5 6
 ;
-¨¨6 7
+´´6 7
 return
-ÆÆ 
+≠≠ 
 RedirectToAction
-ÆÆ '
+≠≠ '
 (
-ÆÆ' (
+≠≠' (
 $str
-ÆÆ( :
+≠≠( :
 ,
-ÆÆ: ;
+≠≠: ;
 _flowerRepository
-ÆÆ< M
+≠≠< M
 .
-ÆÆM N 
+≠≠M N 
 FlowersAsViewModel
-ÆÆN `
+≠≠N `
 )
-ÆÆ` a
+≠≠` a
 ;
-ÆÆa b
+≠≠a b
 }
-ØØ 
+ÆÆ 
 return
-±± 
+∞∞ 
 RedirectToAction
-±± #
+∞∞ #
 (
-±±# $
+∞∞# $
 $str
-±±$ 6
+∞∞$ 6
 ,
-±±6 7
+∞∞6 7
 _flowerRepository
-±±8 I
+∞∞8 I
 .
-±±I J 
+∞∞I J 
 FlowersAsViewModel
-±±J \
+∞∞J \
 )
-±±\ ]
+∞∞\ ]
 ;
-±±] ^
+∞∞] ^
 }
-≤≤ 	
+±± 	
 private
-¥¥ 
+≥≥ 
 FlowerViewModel
-¥¥ *
+≥≥ *
 MapDbFlowerToFlowerViewModel
-¥¥  <
+≥≥  <
 (
-¥¥< =
+≥≥< =
 Flower
-¥¥= C
+≥≥= C
 dbFlower
-¥¥D L
+≥≥D L
 )
-¥¥L M
+≥≥L M
 {
-µµ 	
+¥¥ 	
 return
-∂∂ 
+µµ 
 new
-∂∂ 
+µµ 
 FlowerViewModel
-∂∂ &
+µµ &
 (
-∂∂& '
+µµ& '
 )
-∂∂' (
+µµ' (
 {
-∑∑ 
+∂∂ 
 FlowerId
-∏∏ 
+∑∑ 
 =
-∏∏ 
+∑∑ 
 dbFlower
-∏∏ #
+∑∑ #
 .
-∏∏# $
+∑∑# $
 FlowerId
-∏∏$ ,
+∑∑$ ,
 ,
-∏∏, -
+∑∑, -
 Name
-ππ 
+∏∏ 
 =
-ππ 
+∏∏ 
 dbFlower
-ππ 
+∏∏ 
 .
-ππ  
+∏∏  
 Name
-ππ  $
+∏∏  $
 ,
-ππ$ %
+∏∏$ %
 Price
-∫∫ 
+ππ 
 =
-∫∫ 
+ππ 
 dbFlower
-∫∫  
+ππ  
 .
-∫∫  !
+ππ  !
 Price
-∫∫! &
+ππ! &
 ,
-∫∫& '
+ππ& '
 ShortDescription
-ªª  
+∫∫  
 =
-ªª! "
+∫∫! "
 dbFlower
-ªª# +
+∫∫# +
 .
-ªª+ ,
+∫∫+ ,
 ShortDescription
-ªª, <
+∫∫, <
 ,
-ªª< =
+∫∫< =
 ImageThumbnailUrl
-ºº !
+ªª !
 =
-ºº" #
+ªª" #
 dbFlower
-ºº$ ,
+ªª$ ,
 .
-ºº, -
+ªª, -
 ImageThumbnailUrl
-ºº- >
+ªª- >
 }
-ΩΩ 
+ºº 
 ;
-ΩΩ 
+ºº 
 }
-ææ 	
+ΩΩ 	
 }
-øø 
-}¿¿ ü
+ææ 
+}øø ü
 KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ContactController.cs
-	namespace 	
-	FlowerApp
+	namespace 	
+	FlowerApp
  
-. 
-Controllers 
-{ 
-public		 
+. 
+Controllers 
+{ 
+public 
 
-class		 
-ContactController		 "
-:		# $
+class 
+ContactController "
+:# $
 
-Controller		% /
-{
+Controller% /
+{ 
+[ 	
+ResponseCache	 
+( 
+Duration 
+=  !
+$num" $
+,$ %
+Location& .
+=/ 0!
+ResponseCacheLocation1 F
+.F G
+ClientG M
+)M N
+]N O
+public
 
- 
-[ 	
-ResponseCache	 
-( 
-Duration 
-=  !
-$num" $
-,$ %
-Location& .
-=/ 0!
-ResponseCacheLocation1 F
-.F G
-ClientG M
-)M N
-]N O
-public 
-IActionResult 
-Index "
-(" #
-)# $
-{ 	
-return 
-View 
-( 
-) 
-; 
-} 	
-} 
-} ù
+ 
+IActionResult
+
+ 
+Index
+
+ "
+(
+
+" #
+)
+
+# $
+{ 	
+return 
+View 
+( 
+) 
+; 
+} 	
+} 
+} ù
 RE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FavoriteFlowerController.cs
 	namespace 	
 	FlowerApp
@@ -5603,204 +5590,609 @@ BadRequest
 »» 
 }…… •
 NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs
-	namespace 	
-	FlowerApp
+	namespace
+
+ 	
+	FlowerApp
+
+
  
-. 
-Controllers 
-{ 
-[ 
-Route 
+.
+
+ 
+Controllers
+
+ 
+{ 
+[ 
+Route 
 
-(
+(
  
-$str 
-) 
-] 
-public 
+$str 
+) 
+] 
+public 
 
-class  
-FlowerDataController %
-:& '
+class  
+FlowerDataController %
+:& '
 
-Controller( 2
-{ 
-private 
-readonly 
-IFlowerRepository *
-_flowerRepository+ <
-;< =
-public  
-FlowerDataController #
-(# $
-IFlowerRepository$ 5
-flowerRepository6 F
-)F G
-{ 	
-_flowerRepository 
-= 
-flowerRepository  0
-;0 1
-} 	
-[ 	
-HttpGet	 
-] 
-public 
-IEnumerable 
-< 
-FlowerViewModel *
->* +
-LoadMoreFlowers, ;
-(; <
-)< =
-{ 	
-IEnumerable 
-< 
-Flower 
-> 
-	dbFlowers  )
-=* +
-null, 0
-;0 1
-	dbFlowers 
-= 
-_flowerRepository )
-.) *
-Flowers* 1
-.1 2
-OrderBy2 9
-(9 :
-p: ;
-=>< >
-p? @
-.@ A
-FlowerIdA I
-)I J
-.J K
-TakeK O
-(O P
-$numP R
-)R S
-;S T
-List   
-<   
-FlowerViewModel    
->    !
-flowers  " )
-=  * +
-new  , /
-List  0 4
-<  4 5
-FlowerViewModel  5 D
->  D E
-(  E F
-)  F G
-;  G H
-foreach"" 
-("" 
-var"" 
-dbFlower"" !
-in""" $
-	dbFlowers""% .
-)"". /
-{## 
-flowers$$ 
-.$$ 
-Add$$ 
-($$ (
-MapDbFlowerToFlowerViewModel$$ 8
-($$8 9
-dbFlower$$9 A
-)$$A B
-)$$B C
-;$$C D
-}%% 
-return&& 
-flowers&& 
-;&& 
-}'' 	
-private)) 
-FlowerViewModel)) (
-MapDbFlowerToFlowerViewModel))  <
-())< =
-Flower))= C
-dbFlower))D L
-)))L M
-{** 	
-return++ 
-new++ 
-FlowerViewModel++ &
-(++& '
-)++' (
-{,, 
-FlowerId-- 
-=-- 
-dbFlower-- #
-.--# $
-FlowerId--$ ,
-,--, -
-Name.. 
-=.. 
-dbFlower.. 
-...  
-Name..  $
-,..$ %
-Price// 
-=// 
-dbFlower//  
-.//  !
-Price//! &
-,//& '
-ShortDescription00  
-=00! "
-dbFlower00# +
-.00+ ,
-ShortDescription00, <
-,00< =
-ImageThumbnailUrl11 !
-=11" #
-dbFlower11$ ,
-.11, -
-ImageThumbnailUrl11- >
-}22 
-;22 
-}33 	
-}44 
-}55 µ
+Controller( 2
+{ 
+private 
+readonly 
+IFlowerRepository *
+_flowerRepository+ <
+;< =
+public  
+FlowerDataController #
+(# $
+IFlowerRepository$ 5
+flowerRepository6 F
+)F G
+{ 	
+_flowerRepository 
+= 
+flowerRepository  0
+;0 1
+} 	
+[ 	
+HttpGet	 
+] 
+public 
+IEnumerable 
+< 
+FlowerViewModel *
+>* +
+LoadMoreFlowers, ;
+(; <
+)< =
+{ 	
+IEnumerable 
+< 
+Flower 
+> 
+	dbFlowers  )
+=* +
+null, 0
+;0 1
+	dbFlowers 
+= 
+_flowerRepository )
+.) *
+Flowers* 1
+.1 2
+OrderBy2 9
+(9 :
+p: ;
+=>< >
+p? @
+.@ A
+FlowerIdA I
+)I J
+.J K
+TakeK O
+(O P
+$numP R
+)R S
+;S T
+List 
+< 
+FlowerViewModel  
+>  !
+flowers" )
+=* +
+new, /
+List0 4
+<4 5
+FlowerViewModel5 D
+>D E
+(E F
+)F G
+;G H
+foreach   
+(   
+var   
+dbFlower   !
+in  " $
+	dbFlowers  % .
+)  . /
+{!! 
+flowers"" 
+."" 
+Add"" 
+("" (
+MapDbFlowerToFlowerViewModel"" 8
+(""8 9
+dbFlower""9 A
+)""A B
+)""B C
+;""C D
+}## 
+return$$ 
+flowers$$ 
+;$$ 
+}%% 	
+private'' 
+FlowerViewModel'' (
+MapDbFlowerToFlowerViewModel''  <
+(''< =
+Flower''= C
+dbFlower''D L
+)''L M
+{(( 	
+return)) 
+new)) 
+FlowerViewModel)) &
+())& '
+)))' (
+{** 
+FlowerId++ 
+=++ 
+dbFlower++ #
+.++# $
+FlowerId++$ ,
+,++, -
+Name,, 
+=,, 
+dbFlower,, 
+.,,  
+Name,,  $
+,,,$ %
+Price-- 
+=-- 
+dbFlower--  
+.--  !
+Price--! &
+,--& '
+ShortDescription..  
+=..! "
+dbFlower..# +
+...+ ,
+ShortDescription.., <
+,..< =
+ImageThumbnailUrl// !
+=//" #
+dbFlower//$ ,
+.//, -
+ImageThumbnailUrl//- >
+}00 
+;00 
+}11 	
+}22 
+}33 µ
 
 HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs
-	namespace		 	
-	FlowerApp		
+	namespace 	
+	FlowerApp
  
-.		 
-Controllers		 
-{
-
- 
-public 
+. 
+Controllers 
+{ 
+public 
 
-class 
-HomeController 
-:  !
+class 
+HomeController 
+:  !
 
-Controller" ,
-{ 
+Controller" ,
+{ 
+private		 
+readonly		 
+IFlowerRepository		 *
+_flowerRepository		+ <
+;		< =
+public 
+HomeController 
+( 
+IFlowerRepository /
+flowerRepository0 @
+)@ A
+{ 	
+_flowerRepository 
+= 
+flowerRepository  0
+;0 1
+} 	
+public 
+
+ViewResult 
+Index 
+(  
+)  !
+{ 	
+var 
+homeViewModel 
+= 
+new  #
+HomeViewModel$ 1
+{ 
+FlowerPresentation "
+=# $
+_flowerRepository% 6
+.6 7
+FlowerPresentation7 I
+,I J
+FlowersName 
+= 
+_flowerRepository /
+./ 0
+FlowersNames0 <
+} 
+; 
+return 
+View 
+( 
+homeViewModel %
+)% &
+;& '
+} 	
+} 
+} À
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+Controllers 
+{ 
+public 
+
+class 
+OrderController  
+:! "
+
+Controller# -
+{		 
+private
+
+ 
+readonly
+
+ 
+IOrderRepository
+
+ )
+_orderRepository
+
+* :
+;
+
+: ;
+private 
+readonly 
+ShoppingCart %
+_shoppingCart& 3
+;3 4
+public 
+OrderController 
+( 
+IOrderRepository /
+orderRepository0 ?
+,? @
+ShoppingCartA M
+shoppingCartN Z
+)Z [
+{ 	
+_orderRepository 
+= 
+orderRepository .
+;. /
+_shoppingCart 
+= 
+shoppingCart (
+;( )
+} 	
+[ 	
+	Authorize	 
+] 
+public 
+IActionResult 
+Checkout %
+(% &
+)& '
+{ 	
+return 
+View 
+( 
+) 
+; 
+} 	
+[ 	
+HttpPost	 
+] 
+[ 	
+	Authorize	 
+] 
+public 
+IActionResult 
+Checkout %
+(% &
+Order& +
+order, 1
+)1 2
+{ 	
+var 
+items 
+= 
+_shoppingCart %
+.% & 
+GetShoppingCartItems& :
+(: ;
+); <
+;< =
+_shoppingCart 
+. 
+ShoppingCartItems +
+=, -
+items. 3
+;3 4
+if   
+(   
+_shoppingCart   
+.   
+ShoppingCartItems   /
+.  / 0
+Count  0 5
+==  6 8
+$num  9 :
+)  : ;
+{!! 
+
+ModelState"" 
+."" 
+AddModelError"" (
+(""( )
+$str"") +
+,""+ ,
+$str""- Y
+)""Y Z
+;""Z [
+}## 
+if%% 
+(%% 
+
+ModelState%% 
+.%% 
+IsValid%% "
+)%%" #
+{&& 
+order'' 
+.'' 
+Email'' 
+='' 
+User'' "
+.''" #
+Identity''# +
+.''+ ,
+Name'', 0
+;''0 1
+_orderRepository((  
+.((  !
+CreateOrder((! ,
+(((, -
+order((- 2
+)((2 3
+;((3 4
+_shoppingCart)) 
+.)) 
+	ClearCart)) '
+())' (
+)))( )
+;))) *
+return** 
+RedirectToAction** '
+(**' (
+$str**( :
+)**: ;
+;**; <
+}++ 
+return,, 
+View,, 
+(,, 
+order,, 
+),, 
+;,, 
+}-- 	
+public// 
+IActionResult// 
+CheckoutComplete// -
+(//- .
+)//. /
+{00 	
+ViewBag11 
+.11 #
+CheckoutCompleteMessage11 +
+=11, -
+$str11. n
+;11n o
+return33 
+View33 
+(33 
+)33 
+;33 
+}44 	
+}55 
+}66 «
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+Controllers 
+{		 
+public
+
+ 
+
+class
+
+ "
+OrderHistoryController
+
+ '
+:
+
+( )
+
+Controller
+
+* 4
+{ 
+private 
+readonly 
+IOrderRepository )
+_orderRepository* :
+;: ;
 private 
-readonly 
-IFlowerRepository *
-_flowerRepository+ <
-;< =
-public 
-HomeController 
-( 
-IFlowerRepository /
-flowerRepository0 @
-)@ A
-{ 	
-_flowerRepository 
-= 
-flowerRepository  0
-;0 1
+readonly 
+SignInManager &
+<& '
+ApplicationUser' 6
+>6 7
+_signInManager8 F
+;F G
+public "
+OrderHistoryController %
+(% &
+IOrderRepository& 6
+orderRepository7 F
+,F G
+SignInManagerH U
+<U V
+ApplicationUserV e
+>e f
+signInManagerg t
+)t u
+{ 	
+_orderRepository 
+= 
+orderRepository .
+;. /
+_signInManager 
+= 
+signInManager *
+;* +
+} 	
+public 
+
+ViewResult 
+Index 
+(  
+)  !
+{ 	
+IEnumerable 
+< (
+OrderHistoryDetailsViewModel 4
+>4 5
+orders6 <
+== >
+null? C
+;C D
+if 
+( 
+_signInManager 
+. 
+
+IsSignedIn )
+() *
+User* .
+). /
+&&0 2
+User3 7
+.7 8
+IsInRole8 @
+(@ A
+$strA Q
+)Q R
+)R S
+{ 
+orders 
+= 
+_orderRepository )
+.) * 
+GetOrdersAsViewModel* >
+(> ?
+)? @
+;@ A
+} 
+else 
+{ 
+orders 
+= 
+_orderRepository )
+.) * 
+GetOrdersAsViewModel* >
+(> ?
+User? C
+.C D
+IdentityD L
+.L M
+NameM Q
+)Q R
+;R S
+} 
+return!! 
+View!! 
+(!! 
+new!! !
+OrderHistoryViewModel!! 1
+{"" 
+Orders## 
+=## 
+orders## 
+}$$ 
+)$$ 
+;$$ 
+}%% 	
+}&& 
+}(( ¸'
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+Controllers 
+{ 
+public		 
+
+class		 "
+ShoppingCartController		 '
+:		( )
+
+Controller		* 4
+{
+
+ 
+private 
+readonly 
+IFlowerRepository *
+_flowerRepository+ <
+;< =
+private 
+readonly 
+ShoppingCart %
+_shoppingCart& 3
+;3 4
+public "
+ShoppingCartController %
+(% &
+IFlowerRepository& 7
+flowerRepository8 H
+,H I
+ShoppingCartJ V
+shoppingCartW c
+)c d
+{ 	
+_flowerRepository 
+= 
+flowerRepository  0
+;0 1
+_shoppingCart 
+= 
+shoppingCart (
+;( )
 } 	
 public 
 
@@ -5809,612 +6201,219 @@ ViewResult 
 (  
 )  !
 { 	
-var 
-homeViewModel 
-= 
-new  #
-HomeViewModel$ 1
-{ 
-FlowerPresentation "
-=# $
-_flowerRepository% 6
-.6 7
-FlowerPresentation7 I
-,I J
-FlowersName 
-= 
-_flowerRepository /
-./ 0
-FlowersNames0 <
-} 
-; 
-return 
-View 
-( 
-homeViewModel %
-)% &
-;& '
-} 	
-} 
-} À
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs
-	namespace
-
- 	
-	FlowerApp
-
-
- 
-.
-
- 
-Controllers
-
- 
-{ 
-public 
-
-class 
-OrderController  
-:! "
-
-Controller# -
-{ 
-private 
-readonly 
-IOrderRepository )
-_orderRepository* :
-;: ;
-private 
-readonly 
-ShoppingCart %
-_shoppingCart& 3
-;3 4
-public 
-OrderController 
-( 
-IOrderRepository /
-orderRepository0 ?
-,? @
-ShoppingCartA M
-shoppingCartN Z
-)Z [
-{ 	
-_orderRepository 
-= 
-orderRepository .
-;. /
-_shoppingCart 
-= 
-shoppingCart (
-;( )
-} 	
-[ 	
-	Authorize	 
-] 
-public 
-IActionResult 
-Checkout %
-(% &
-)& '
-{ 	
-return 
-View 
-( 
-) 
-; 
-} 	
-[ 	
-HttpPost	 
-] 
-[ 	
-	Authorize	 
-] 
-public 
-IActionResult 
-Checkout %
-(% &
-Order& +
-order, 1
-)1 2
-{   	
-var!! 
-items!! 
-=!! 
-_shoppingCart!! %
-.!!% & 
-GetShoppingCartItems!!& :
-(!!: ;
-)!!; <
-;!!< =
-_shoppingCart"" 
-."" 
-ShoppingCartItems"" +
-="", -
-items"". 3
-;""3 4
-if$$ 
-($$ 
-_shoppingCart$$ 
-.$$ 
-ShoppingCartItems$$ /
-.$$/ 0
-Count$$0 5
-==$$6 8
-$num$$9 :
-)$$: ;
-{%% 
-
-ModelState&& 
-.&& 
-AddModelError&& (
-(&&( )
-$str&&) +
-,&&+ ,
-$str&&- Y
-)&&Y Z
-;&&Z [
-}'' 
-if)) 
-()) 
-
-ModelState)) 
-.)) 
-IsValid)) "
-)))" #
-{** 
-order++ 
-.++ 
-Email++ 
-=++ 
-User++ "
-.++" #
-Identity++# +
-.+++ ,
-Name++, 0
-;++0 1
-_orderRepository,,  
-.,,  !
-CreateOrder,,! ,
-(,,, -
-order,,- 2
-),,2 3
-;,,3 4
-_shoppingCart-- 
-.-- 
-	ClearCart-- '
-(--' (
-)--( )
-;--) *
-return.. 
-RedirectToAction.. '
-(..' (
-$str..( :
-)..: ;
-;..; <
-}// 
-return00 
-View00 
-(00 
-order00 
-)00 
-;00 
-}11 	
-public33 
-IActionResult33 
-CheckoutComplete33 -
-(33- .
-)33. /
-{44 	
-ViewBag55 
-.55 #
-CheckoutCompleteMessage55 +
-=55, -
-$str55. n
-;55n o
-return77 
-View77 
-(77 
-)77 
-;77 
-}88 	
-}99 
-}:: «
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs
-	namespace 	
-	FlowerApp
- 
-. 
-Controllers 
-{ 
-public 
-
-class "
-OrderHistoryController '
-:( )
-
-Controller* 4
-{ 
-private 
-readonly 
-IOrderRepository )
-_orderRepository* :
-;: ;
-private 
-readonly 
-SignInManager &
-<& '
-ApplicationUser' 6
->6 7
-_signInManager8 F
-;F G
-public "
-OrderHistoryController %
-(% &
-IOrderRepository& 6
-orderRepository7 F
-,F G
-SignInManagerH U
-<U V
-ApplicationUserV e
->e f
-signInManagerg t
-)t u
-{ 	
-_orderRepository 
-= 
-orderRepository .
-;. /
-_signInManager 
-= 
-signInManager *
-;* +
-} 	
-public 
-
-ViewResult 
-Index 
-(  
-)  !
-{ 	
-IEnumerable 
-< (
-OrderHistoryDetailsViewModel 4
->4 5
-orders6 <
-== >
-null? C
-;C D
-if 
-( 
-_signInManager 
-. 
-
-IsSignedIn )
-() *
-User* .
-). /
-&&0 2
-User3 7
-.7 8
-IsInRole8 @
-(@ A
-$strA Q
-)Q R
-)R S
-{ 
-orders 
-= 
-_orderRepository )
-.) * 
-GetOrdersAsViewModel* >
-(> ?
-)? @
-;@ A
-} 
-else 
-{   
-orders!! 
-=!! 
-_orderRepository!! )
-.!!) * 
-GetOrdersAsViewModel!!* >
-(!!> ?
-User!!? C
-.!!C D
-Identity!!D L
-.!!L M
-Name!!M Q
-)!!Q R
-;!!R S
-}"" 
-return$$ 
-View$$ 
-($$ 
-new$$ !
-OrderHistoryViewModel$$ 1
-{%% 
-Orders&& 
-=&& 
-orders&& 
-}'' 
-)'' 
-;'' 
-}(( 	
-})) 
-}++ ¸'
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs
-	namespace
-
- 	
-	FlowerApp
-
-
- 
-.
-
- 
-Controllers
-
- 
-{ 
-public 
-
-class "
-ShoppingCartController '
-:( )
-
-Controller* 4
-{ 
-private 
-readonly 
-IFlowerRepository *
-_flowerRepository+ <
-;< =
-private 
-readonly 
-ShoppingCart %
-_shoppingCart& 3
-;3 4
-public "
-ShoppingCartController %
-(% &
-IFlowerRepository& 7
-flowerRepository8 H
-,H I
-ShoppingCartJ V
-shoppingCartW c
-)c d
-{ 	
-_flowerRepository 
-= 
-flowerRepository  0
-;0 1
-_shoppingCart 
-= 
-shoppingCart (
-;( )
-} 	
-public 
-
-ViewResult 
-Index 
-(  
-)  !
-{ 	
-var 
-items 
-= 
-_shoppingCart %
-.% & 
-GetShoppingCartItems& :
-(: ;
-); <
-;< =
-_shoppingCart 
-. 
-ShoppingCartItems +
-=, -
-items. 3
-;3 4
-var !
-shoppingCartViewModel %
-=& '
-new( +!
-ShoppingCartViewModel, A
-{ 
-ShoppingCart 
-= 
-_shoppingCart ,
-,, -
-ShoppingCartTotal !
-=" #
-_shoppingCart$ 1
-.1 2 
-GetShoppingCartTotal2 F
-(F G
-)G H
-}   
-;   
-return"" 
-View"" 
-("" !
-shoppingCartViewModel"" -
-)""- .
-;"". /
-}## 	
-public%% "
-RedirectToActionResult%% %
-AddToShoppingCart%%& 7
-(%%7 8
-int%%8 ;
-flowerId%%< D
-)%%D E
-{&& 	
-var'' 
-selectedFlower'' 
-=''  
-_flowerRepository''! 2
-.''2 3
-Flowers''3 :
-.'': ;
-FirstOrDefault''; I
-(''I J
-p''J K
-=>''L N
-p''O P
-.''P Q
-FlowerId''Q Y
-==''Z \
-flowerId''] e
-)''e f
-;''f g
-if)) 
-()) 
-selectedFlower)) 
-!=)) !
-null))" &
-)))& '
-{** 
-_shoppingCart++ 
-.++ 
-	AddToCart++ '
-(++' (
-selectedFlower++( 6
-,++6 7
-$num++8 9
-)++9 :
-;++: ;
-},, 
-return-- 
-RedirectToAction-- #
-(--# $
-$str--$ +
-)--+ ,
-;--, -
-}.. 	
-public00 "
-RedirectToActionResult00 %
-UpdateShoppingCart00& 8
-(008 9
-int009 <
-flowerId00= E
-,00E F
-bool00G K
-isAdding00L T
-)00T U
-{11 	
-var22 
-selectedFlower22 
-=22  
-_flowerRepository22! 2
-.222 3
-Flowers223 :
-.22: ;
-FirstOrDefault22; I
-(22I J
-p22J K
-=>22L N
-p22O P
-.22P Q
-FlowerId22Q Y
-==22Z \
-flowerId22] e
-)22e f
-;22f g
-if44 
-(44 
-selectedFlower44 
-!=44 !
-null44" &
-)44& '
-{55 
-if66 
-(66 
-isAdding66 
-)66 
-{77 
-_shoppingCart88 !
-.88! "
-	AddToCart88" +
-(88+ ,
-selectedFlower88, :
-,88: ;
-$num88< =
-)88= >
-;88> ?
-}99 
-else:: 
-{;; 
-_shoppingCart<< !
-.<<! "
-	AddToCart<<" +
-(<<+ ,
-selectedFlower<<, :
-,<<: ;
--<<< =
-$num<<= >
-)<<> ?
-;<<? @
-}== 
-}>> 
-return?? 
-RedirectToAction?? #
-(??# $
-$str??$ +
-)??+ ,
-;??, -
-}@@ 	
-publicBB "
-RedirectToActionResultBB %"
-RemoveFromShoppingCartBB& <
-(BB< =
-intBB= @
-flowerIdBBA I
-)BBI J
-{CC 	
-varDD 
-selectedFlowerDD 
-=DD  
-_flowerRepositoryDD! 2
-.DD2 3
-FlowersDD3 :
-.DD: ;
-FirstOrDefaultDD; I
-(DDI J
-pDDJ K
-=>DDL N
-pDDO P
-.DDP Q
-FlowerIdDDQ Y
-==DDZ \
-flowerIdDD] e
-)DDe f
-;DDf g
-ifFF 
-(FF 
-selectedFlowerFF 
-!=FF !
-nullFF" &
-)FF& '
-{GG 
-_shoppingCartHH 
-.HH 
-RemoveFromCartHH ,
-(HH, -
-selectedFlowerHH- ;
-)HH; <
-;HH< =
-}II 
-returnJJ 
-RedirectToActionJJ #
-(JJ# $
-$strJJ$ +
-)JJ+ ,
-;JJ, -
-}KK 	
-}LL 
-}MM Äœ
+var 
+items 
+= 
+_shoppingCart %
+.% & 
+GetShoppingCartItems& :
+(: ;
+); <
+;< =
+_shoppingCart 
+. 
+ShoppingCartItems +
+=, -
+items. 3
+;3 4
+var !
+shoppingCartViewModel %
+=& '
+new( +!
+ShoppingCartViewModel, A
+{ 
+ShoppingCart 
+= 
+_shoppingCart ,
+,, -
+ShoppingCartTotal !
+=" #
+_shoppingCart$ 1
+.1 2 
+GetShoppingCartTotal2 F
+(F G
+)G H
+} 
+; 
+return 
+View 
+( !
+shoppingCartViewModel -
+)- .
+;. /
+}   	
+public"" "
+RedirectToActionResult"" %
+AddToShoppingCart""& 7
+(""7 8
+int""8 ;
+flowerId""< D
+)""D E
+{## 	
+var$$ 
+selectedFlower$$ 
+=$$  
+_flowerRepository$$! 2
+.$$2 3
+Flowers$$3 :
+.$$: ;
+FirstOrDefault$$; I
+($$I J
+p$$J K
+=>$$L N
+p$$O P
+.$$P Q
+FlowerId$$Q Y
+==$$Z \
+flowerId$$] e
+)$$e f
+;$$f g
+if&& 
+(&& 
+selectedFlower&& 
+!=&& !
+null&&" &
+)&&& '
+{'' 
+_shoppingCart(( 
+.(( 
+	AddToCart(( '
+(((' (
+selectedFlower((( 6
+,((6 7
+$num((8 9
+)((9 :
+;((: ;
+})) 
+return** 
+RedirectToAction** #
+(**# $
+$str**$ +
+)**+ ,
+;**, -
+}++ 	
+public-- "
+RedirectToActionResult-- %
+UpdateShoppingCart--& 8
+(--8 9
+int--9 <
+flowerId--= E
+,--E F
+bool--G K
+isAdding--L T
+)--T U
+{.. 	
+var// 
+selectedFlower// 
+=//  
+_flowerRepository//! 2
+.//2 3
+Flowers//3 :
+.//: ;
+FirstOrDefault//; I
+(//I J
+p//J K
+=>//L N
+p//O P
+.//P Q
+FlowerId//Q Y
+==//Z \
+flowerId//] e
+)//e f
+;//f g
+if11 
+(11 
+selectedFlower11 
+!=11 !
+null11" &
+)11& '
+{22 
+if33 
+(33 
+isAdding33 
+)33 
+{44 
+_shoppingCart55 !
+.55! "
+	AddToCart55" +
+(55+ ,
+selectedFlower55, :
+,55: ;
+$num55< =
+)55= >
+;55> ?
+}66 
+else77 
+{88 
+_shoppingCart99 !
+.99! "
+	AddToCart99" +
+(99+ ,
+selectedFlower99, :
+,99: ;
+-99< =
+$num99= >
+)99> ?
+;99? @
+}:: 
+};; 
+return<< 
+RedirectToAction<< #
+(<<# $
+$str<<$ +
+)<<+ ,
+;<<, -
+}== 	
+public?? "
+RedirectToActionResult?? %"
+RemoveFromShoppingCart??& <
+(??< =
+int??= @
+flowerId??A I
+)??I J
+{@@ 	
+varAA 
+selectedFlowerAA 
+=AA  
+_flowerRepositoryAA! 2
+.AA2 3
+FlowersAA3 :
+.AA: ;
+FirstOrDefaultAA; I
+(AAI J
+pAAJ K
+=>AAL N
+pAAO P
+.AAP Q
+FlowerIdAAQ Y
+==AAZ \
+flowerIdAA] e
+)AAe f
+;AAf g
+ifCC 
+(CC 
+selectedFlowerCC 
+!=CC !
+nullCC" &
+)CC& '
+{DD 
+_shoppingCartEE 
+.EE 
+RemoveFromCartEE ,
+(EE, -
+selectedFlowerEE- ;
+)EE; <
+;EE< =
+}FF 
+returnGG 
+RedirectToActionGG #
+(GG# $
+$strGG$ +
+)GG+ ,
+;GG, -
+}HH 	
+}II 
+}JJ Äœ
 LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs
 	namespace 	
 	FlowerApp
@@ -10619,130 +10618,162 @@ DropColumn '
 } 
 } ∫
 AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs
-	namespace 	
-	FlowerApp
+	namespace 	
+	FlowerApp
  
-. 
-Models 
-{ 
-public 
+. 
+Models 
+{ 
+public 
 
-class 
-AppDbContext 
-: 
-IdentityDbContext  1
-<1 2
-ApplicationUser2 A
->A B
-{		 
-public
+class 
+AppDbContext 
+: 
+IdentityDbContext  1
+<1 2
+ApplicationUser2 A
+>A B
+{ 
+public		 
+AppDbContext		 
+(		 
+DbContextOptions		 ,
+<		, -
+AppDbContext		- 9
+>		9 :
+options		; B
+)		B C
+:		D E
+base		F J
+(		J K
+options		K R
+)		R S
+{
 
- 
-AppDbContext
-
- 
-(
-
- 
-DbContextOptions
-
- ,
-<
-
-, -
-AppDbContext
-
-- 9
->
-
-9 :
-options
-
-; B
-)
-
-B C
-:
-
-D E
-base
-
-F J
-(
-
-J K
-options
-
-K R
-)
-
-R S
-{ 	
-} 	
-public 
-DbSet 
-< 
-Category 
-> 
+ 	
+} 	
+public 
+DbSet 
+< 
+Category 
+> 
 
-Categories )
-{ 	
-get 
-; 
-set 
-; 
-} 	
-public 
-DbSet 
-< 
-Flower 
-> 
-Flowers $
-{ 	
-get 
-; 
-set 
-; 
-} 	
-public 
-DbSet 
-< 
-ShoppingCartItem %
->% &
-ShoppingCartItems' 8
-{ 	
-get 
-; 
-set 
-; 
-} 	
-public!! 
-DbSet!! 
-<!! 
-Order!! 
->!! 
-Orders!! "
-{"" 	
-get## 
-;## 
-set$$ 
-;$$ 
-}%% 	
-public'' 
-DbSet'' 
-<'' 
-OrderDetail''  
->''  !
-OrderDetails''" .
-{(( 	
-get)) 
-;)) 
-set** 
-;** 
-}++ 	
-},, 
-}-- ®
+Categories )
+{ 	
+get 
+; 
+set 
+; 
+} 	
+public 
+DbSet 
+< 
+Flower 
+> 
+Flowers $
+{ 	
+get 
+; 
+set 
+; 
+} 	
+public 
+DbSet 
+< 
+ShoppingCartItem %
+>% &
+ShoppingCartItems' 8
+{ 	
+get 
+; 
+set 
+; 
+} 	
+public   
+DbSet   
+<   
+Order   
+>   
+Orders   "
+{!! 	
+get"" 
+;"" 
+set## 
+;## 
+}$$ 	
+public&& 
+DbSet&& 
+<&& 
+OrderDetail&&  
+>&&  !
+OrderDetails&&" .
+{'' 	
+get(( 
+;(( 
+set)) 
+;)) 
+}** 	
+}++ 
+},, ®
 =E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+Models 
+{ 
+public 
+
+class 
+Category 
+{ 
+public 
+int 
+
+CategoryId 
+{ 	
+get		 
+;		 
+set
+
+ 
+;
+
+ 
+} 	
+public 
+string 
+CategoryName "
+{ 	
+get 
+; 
+set 
+; 
+} 	
+public 
+string 
+Description !
+{ 	
+get 
+; 
+set 
+; 
+} 	
+public 
+List 
+< 
+Flower 
+> 
+Flowers #
+{ 	
+get 
+; 
+set 
+; 
+} 	
+} 
+} ÷e
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs
 	namespace 	
 	FlowerApp
  
@@ -10750,351 +10781,298 @@ Categories )
 Models 
 { 
 public 
-
-class 
-Category 
+
+static 
+class 
+DbInitializer %
 {		 
 public
 
- 
-int
-
- 
-
-CategoryId
-
- 
-{ 	
-get 
-; 
-set 
-; 
-} 	
-public 
-string 
-CategoryName "
-{ 	
-get 
-; 
-set 
-; 
-} 	
-public 
-string 
-Description !
-{ 	
-get 
-; 
-set 
-; 
-} 	
-public 
-List 
-< 
-Flower 
-> 
-Flowers #
-{ 	
-get 
-; 
-set 
-; 
-}   	
-}!! 
-}"" Ãe
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs
-	namespace 	
-	FlowerApp
- 
-. 
-Models 
-{		 
-public
-
- 
-
+ 
 static
 
- 
-class
+ 
+void
 
- 
-DbInitializer
+ 
+Seed
 
- %
-{ 
-public 
-static 
-void 
-Seed 
-(  
-IApplicationBuilder  3
-applicationBuilder4 F
-)F G
-{ 	
-using 
-( 
-var 
-serviceScope #
-=$ %
-applicationBuilder& 8
-.8 9
-ApplicationServices9 L
-.L M
-CreateScopeM X
-(X Y
-)Y Z
-)Z [
-{ 
-AppDbContext 
-context $
-=% &
-serviceScope' 3
-.3 4
-ServiceProvider4 C
-.C D
+ 
+(
+
+  
+IApplicationBuilder
+
+  3
+applicationBuilder
+
+4 F
+)
+
+F G
+{ 	
+using 
+( 
+var 
+serviceScope #
+=$ %
+applicationBuilder& 8
+.8 9
+ApplicationServices9 L
+.L M
+CreateScopeM X
+(X Y
+)Y Z
+)Z [
+{ 
+AppDbContext 
+context $
+=% &
+serviceScope' 3
+.3 4
+ServiceProvider4 C
+.C D
 
-GetServiceD N
-<N O
-AppDbContextO [
->[ \
-(\ ]
-)] ^
-;^ _
-if 
-( 
-! 
-context 
-. 
+GetServiceD N
+<N O
+AppDbContextO [
+>[ \
+(\ ]
+)] ^
+;^ _
+if 
+( 
+! 
+context 
+. 
 
-Categories '
-.' (
-Any( +
-(+ ,
-), -
-)- .
-{ 
-context 
-. 
+Categories '
+.' (
+Any( +
+(+ ,
+), -
+)- .
+{ 
+context 
+. 
 
-Categories &
-.& '
-AddRange' /
-(/ 0
+Categories &
+.& '
+AddRange' /
+(/ 0
 
-Categories0 :
-.: ;
-Select; A
-(A B
-cB C
-=>D F
-cG H
-.H I
-ValueI N
-)N O
-)O P
-;P Q
-} 
-if 
-( 
-! 
-context 
-. 
-Flowers $
-.$ %
-Any% (
-(( )
-)) *
-)* +
-{ 
-context 
-. 
-AddRange $
-( 
-new 
-Flower "
-{ 
-Name  
-=! "
-$str# )
-,) *
-Price !
-=" #
-$num$ *
-,* +
-ShortDescription ,
-=- .
-$str/ =
-,= >
-LongDescription   +
-=  , -
-$str $. R
-,$$R S
-Category%% $
-=%%% &
+Categories0 :
+.: ;
+Select; A
+(A B
+cB C
+=>D F
+cG H
+.H I
+ValueI N
+)N O
+)O P
+;P Q
+} 
+if 
+( 
+! 
+context 
+. 
+Flowers $
+.$ %
+Any% (
+(( )
+)) *
+)* +
+{ 
+context 
+. 
+AddRange $
+( 
+new 
+Flower "
+{ 
+Name  
+=! "
+$str# )
+,) *
+Price !
+=" #
+$num$ *
+,* +
+ShortDescription ,
+=- .
+$str/ =
+,= >
+LongDescription +
+=, -
+$str". R
+,""R S
+Category## $
+=##% &
 
-Categories%%' 1
-[%%1 2
-$str%%2 A
-]%%A B
-,%%B C
-ImageUrl&& $
-=&&% &
-$str	&&' É
+Categories##' 1
+[##1 2
+$str##2 A
+]##A B
+,##B C
+ImageUrl$$ $
+=$$% &
+$str	$$' É
 ,
-&&É Ñ
-InStock'' #
-=''$ %
-true''& *
-,''* +
-ImageThumbnailUrl(( -
-=((. /
-$str	((0 å
+$$É Ñ
+InStock%% #
+=%%$ %
+true%%& *
+,%%* +
+ImageThumbnailUrl&& -
+=&&. /
+$str	&&0 å
 ,
-((å ç 
-IsFlowerPresentation)) 0
-=))1 2
-true))3 7
-}** 
-,** 
-new++ 
-Flower++ "
-{,, 
-Name--  
-=--! "
-$str--# )
-,--) *
-Price.. !
-=.." #
-$num..$ *
-,..* +
-ShortDescription// ,
-=//- .
-$str/// D
-,//D E
-LongDescription00 +
-=00, -
-$str01. p
-,11p q
-Category22 $
-=22% &
+&&å ç 
+IsFlowerPresentation'' 0
+=''1 2
+true''3 7
+}(( 
+,(( 
+new)) 
+Flower)) "
+{** 
+Name++  
+=++! "
+$str++# )
+,++) *
+Price,, !
+=,," #
+$num,,$ *
+,,,* +
+ShortDescription-- ,
+=--- .
+$str--/ D
+,--D E
+LongDescription.. +
+=.., -
+$str./. p
+,//p q
+Category00 $
+=00% &
 
-Categories22' 1
-[221 2
-$str222 A
-]22A B
-,22B C
-ImageUrl33 $
-=33% &
-$str33' v
-,33v w
-InStock44 #
-=44$ %
-true44& *
-,44* +
-ImageThumbnailUrl55 -
-=55. /
-$str550 
-,	55 Ä 
-IsFlowerPresentation66 0
-=661 2
-false663 8
-}77 
-,77 
-new88 
-Flower88 "
-{99 
-Name::  
-=::! "
-$str::# *
-,::* +
-Price;; !
-=;;" #
-$num;;$ *
-,;;* +
-ShortDescription<< ,
-=<<- .
-$str<</ C
-,<<C D
-LongDescription== +
-===, -
-$str	=>. Ç
+Categories00' 1
+[001 2
+$str002 A
+]00A B
+,00B C
+ImageUrl11 $
+=11% &
+$str11' v
+,11v w
+InStock22 #
+=22$ %
+true22& *
+,22* +
+ImageThumbnailUrl33 -
+=33. /
+$str330 
+,	33 Ä 
+IsFlowerPresentation44 0
+=441 2
+false443 8
+}55 
+,55 
+new66 
+Flower66 "
+{77 
+Name88  
+=88! "
+$str88# *
+,88* +
+Price99 !
+=99" #
+$num99$ *
+,99* +
+ShortDescription:: ,
+=::- .
+$str::/ C
+,::C D
+LongDescription;; +
+=;;, -
+$str	;<. Ç
 ,
->>Ç É
-Category?? $
-=??% &
+<<Ç É
+Category== $
+===% &
 
-Categories??' 1
-[??1 2
-$str??2 A
-]??A B
-,??B C
-ImageUrl@@ $
-=@@% &
-$str@@' u
-,@@u v
-InStockAA #
-=AA$ %
-trueAA& *
-,AA* +
-ImageThumbnailUrlAA, =
-=AA> ?
-$str	AA@ é
+Categories==' 1
+[==1 2
+$str==2 A
+]==A B
+,==B C
+ImageUrl>> $
+=>>% &
+$str>>' u
+,>>u v
+InStock?? #
+=??$ %
+true??& *
+,??* +
+ImageThumbnailUrl@@ -
+=@@. /
+$str@@0 ~
+,@@~  
+IsFlowerPresentationAA 0
+=AA1 2
+falseAA3 8
+}BB 
+,BB 
+newCC 
+FlowerCC "
+{DD 
+NameEE  
+=EE! "
+$strEE# 5
+,EE5 6
+PriceFF !
+=FF" #
+$numFF$ *
+,FF* +
+ShortDescriptionGG ,
+=GG- .
+$strGG/ :
+,GG: ;
+LongDescriptionHH +
+=HH, -
+$str	HP. Å
 ,
-AAé è 
-IsFlowerPresentationBB 0
-=BB1 2
-falseBB3 8
-}CC 
-,CC 
-newDD 
-FlowerDD "
-{EE 
-NameFF  
-=FF! "
-$strFF# 5
-,FF5 6
-PriceGG !
-=GG" #
-$numGG$ *
-,GG* +
-ShortDescriptionHH ,
-=HH- .
-$strHH/ :
-,HH: ;
-LongDescriptionII +
-=II, -
-$str	IQ. Å
-,
-QQÅ Ç
-CategoryRR $
-=RR% &
+PPÅ Ç
+CategoryQQ $
+=QQ% &
 
-CategoriesRR' 1
-[RR1 2
-$strRR2 F
-]RRF G
-,RRG H
-ImageUrlSS $
-=SS% &
-$strSS' j
-,SSj k
-InStockTT #
-=TT$ %
-trueTT& *
-,TT* +
-ImageThumbnailUrlUU -
-=UU. /
-$strUU0 s
-,UUs t 
-IsFlowerPresentationVV 0
-=VV1 2
-trueVV3 7
-}WW 
-,WW 
-newYY 
-FlowerYY "
-{YY# $
+CategoriesQQ' 1
+[QQ1 2
+$strQQ2 F
+]QQF G
+,QQG H
+ImageUrlRR $
+=RR% &
+$strRR' j
+,RRj k
+InStockSS #
+=SS$ %
+trueSS& *
+,SS* +
+ImageThumbnailUrlTT -
+=TT. /
+$strTT0 s
+,TTs t 
+IsFlowerPresentationUU 0
+=UU1 2
+trueUU3 7
+}VV 
+,VV 
+newXX 
+FlowerXX "
+{YY 
 NameZZ  
 =ZZ! "
 $strZZ# -
@@ -11138,683 +11116,688 @@ Categoriesaa' 1
 ,ff 
 newhh 
 Flowerhh "
-{hh# $
-Nameii  
-=ii! "
-$strii# *
-,ii* +
-Pricejj !
-=jj" #
-$numjj$ *
-,jj* +
-ShortDescriptionkk ,
-=kk- .
-$strkk/ >
-,kk> ?
-LongDescriptionll +
-=ll, -
-$strls. x
-,ssx y
-Categorytt $
-=tt% &
+{ii 
+Namejj  
+=jj! "
+$strjj# *
+,jj* +
+Pricekk !
+=kk" #
+$numkk$ *
+,kk* +
+ShortDescriptionll ,
+=ll- .
+$strll/ >
+,ll> ?
+LongDescriptionmm +
+=mm, -
+$strmt. x
+,ttx y
+Categoryuu $
+=uu% &
 
-Categoriestt' 1
-[tt1 2
-$strtt2 D
-]ttD E
-,ttE F
-ImageUrluu $
-=uu% &
-$struu' N
-,uuN O
-InStockvv #
-=vv$ %
-truevv& *
-,vv* +
-ImageThumbnailUrlww -
-=ww. /
-$strww0 W
-,wwW X 
-IsFlowerPresentationxx 0
-=xx1 2
-falsexx3 8
-}yy 
-,yy 
-new{{ 
-Flower{{ "
-{{{# $
-Name||  
-=||! "
-$str||# =
-,||= >
-Price}} !
-=}}" #
-$num}}$ *
-,}}* +
-ShortDescription~~ ,
-=~~- .
-$str~~/ >
-,~~> ?
-LongDescription +
-=, -
-$str
-Å. É
-,ÅÅÉ Ñ
-Category
-ÇÇ $
-=
-ÇÇ% &
-
-Categories
-ÇÇ' 1
-[
-ÇÇ1 2
-$str
-ÇÇ2 F
-]
-ÇÇF G
-,
-ÇÇG H
-ImageUrl
-ÉÉ $
-=
-ÉÉ% &
-$str
-ÉÉ' g
-,
-ÉÉg h
-InStock
-ÑÑ #
-=
-ÑÑ$ %
-true
-ÑÑ& *
-,
-ÑÑ* +
-ImageThumbnailUrl
-ÖÖ -
-=
-ÖÖ. /
-$str
-ÖÖ0 p
-,
-ÖÖp q"
-IsFlowerPresentation
-ÜÜ 0
-=
-ÜÜ1 2
-true
-ÜÜ3 7
-}
-áá 
-,
-áá 
-new
-ââ 
-Flower
-ââ "
-{
-ââ# $
-Name
-ää  
-=
-ää! "
-$str
-ää# *
-,
-ää* +
-Price
-ãã !
-=
-ãã" #
-$num
-ãã$ *
-,
-ãã* +
+Categoriesuu' 1
+[uu1 2
+$struu2 D
+]uuD E
+,uuE F
+ImageUrlvv $
+=vv% &
+$strvv' N
+,vvN O
+InStockww #
+=ww$ %
+trueww& *
+,ww* +
+ImageThumbnailUrlxx -
+=xx. /
+$strxx0 W
+,xxW X 
+IsFlowerPresentationyy 0
+=yy1 2
+falseyy3 8
+}zz 
+,zz 
+new|| 
+Flower|| "
+{}} 
+Name~~  
+=~~! "
+$str~~# =
+,~~= >
+Price !
+=" #
+$num$ *
+,* +
 ShortDescription
-åå ,
+ÄÄ ,
 =
-åå- .
+ÄÄ- .
 $str
-åå/ E
+ÄÄ/ >
 ,
-ååE F
+ÄÄ> ?
 LongDescription
-çç +
+ÅÅ +
 =
-çç, -
-$str
-çë. a
-,
-ëëa b
+ÅÅ, -
+$strÅÉ. É
+,ÉÉÉ Ñ
 Category
-íí $
+ÑÑ $
 =
-íí% &
+ÑÑ% &
 
 Categories
-íí' 1
+ÑÑ' 1
 [
-íí1 2
+ÑÑ1 2
 $str
-íí2 D
+ÑÑ2 F
 ]
-ííD E
+ÑÑF G
 ,
-ííE F
+ÑÑG H
 ImageUrl
-ìì $
+ÖÖ $
 =
-ìì% &
-$strìì' ì
-,ììì î
-InStock
-îî #
-=
-îî$ %
-true
-îî& *
+ÖÖ% &
+$str
+ÖÖ' g
 ,
-îî* +
-ImageThumbnailUrl
-ïï -
+ÖÖg h
+InStock
+ÜÜ #
 =
-ïï. /
-$strïï0 ú
-,ïïú ù"
-IsFlowerPresentation
-ññ 0
-=
-ññ1 2
+ÜÜ$ %
 true
-ññ3 7
+ÜÜ& *
+,
+ÜÜ* +
+ImageThumbnailUrl
+áá -
+=
+áá. /
+$str
+áá0 p
+,
+ááp q"
+IsFlowerPresentation
+àà 0
+=
+àà1 2
+true
+àà3 7
 }
-óó 
+ââ 
 ,
-óó 
+ââ 
 new
-ôô 
+ãã 
 Flower
-ôô "
+ãã "
 {
-ôô# $
+åå 
 Name
-öö  
+çç  
 =
-öö! "
+çç! "
 $str
-öö# 2
+çç# *
 ,
-öö2 3
+çç* +
 Price
-õõ !
+éé !
 =
-õõ" #
+éé" #
 $num
-õõ$ *
+éé$ *
 ,
-õõ* +
+éé* +
 ShortDescription
-úú ,
+èè ,
 =
-úú- .
+èè- .
 $str
-úú/ J
+èè/ E
 ,
-úúJ K
+èèE F
 LongDescription
-ùù +
+êê +
 =
-ùù, -
-$strù†. ü
-,††ü †
+êê, -
+$str
+êî. a
+,
+îîa b
 Category
-°° $
+ïï $
 =
-°°% &
+ïï% &
 
 Categories
-°°' 1
+ïï' 1
 [
-°°1 2
+ïï1 2
 $str
-°°2 F
+ïï2 D
 ]
-°°F G
+ïïD E
 ,
-°°G H
+ïïE F
 ImageUrl
-¢¢ $
+ññ $
 =
-¢¢% &
-$str¢¢' ì
-,¢¢ì î
+ññ% &
+$strññ' ì
+,ññì î
 InStock
-££ #
+óó #
 =
-££$ %
+óó$ %
 true
-££& *
+óó& *
 ,
-££* +
+óó* +
 ImageThumbnailUrl
-§§ -
+òò -
 =
-§§. /
-$str§§0 ú
-,§§ú ù"
+òò. /
+$stròò0 ú
+,òòú ù"
 IsFlowerPresentation
-•• 0
+ôô 0
 =
-••1 2
+ôô1 2
+true
+ôô3 7
+}
+öö 
+,
+öö 
+new
+úú 
+Flower
+úú "
+{
+ùù 
+Name
+ûû  
+=
+ûû! "
+$str
+ûû# 2
+,
+ûû2 3
+Price
+üü !
+=
+üü" #
+$num
+üü$ *
+,
+üü* +
+ShortDescription
+†† ,
+=
+††- .
+$str
+††/ J
+,
+††J K
+LongDescription
+°° +
+=
+°°, -
+$str°§. ü
+,§§ü †
+Category
+•• $
+=
+••% &
+
+Categories
+••' 1
+[
+••1 2
+$str
+••2 F
+]
+••F G
+,
+••G H
+ImageUrl
+¶¶ $
+=
+¶¶% &
+$str¶¶' ì
+,¶¶ì î
+InStock
+ßß #
+=
+ßß$ %
+true
+ßß& *
+,
+ßß* +
+ImageThumbnailUrl
+®® -
+=
+®®. /
+$str®®0 ú
+,®®ú ù"
+IsFlowerPresentation
+©© 0
+=
+©©1 2
 false
-••3 8
+©©3 8
 }
-¶¶ 
+™™ 
 ,
-¶¶ 
+™™ 
 new
-ßß 
+´´ 
 Flower
-ßß "
+´´ "
 {
-ßß# $
+¨¨ 
 Name
-®®  
+≠≠  
 =
-®®! "
+≠≠! "
 $str
-®®# 6
+≠≠# 6
 ,
-®®6 7
+≠≠6 7
 Price
-©© !
+ÆÆ !
 =
-©©" #
+ÆÆ" #
 $num
-©©$ *
+ÆÆ$ *
 ,
-©©* +
+ÆÆ* +
 ShortDescription
-™™ ,
+ØØ ,
 =
-™™- .
+ØØ- .
 $str
-™™/ >
+ØØ/ >
 ,
-™™> ?
+ØØ> ?
 LongDescription
-´´ +
+∞∞ +
 =
-´´, -
+∞∞, -
 $str
-´Ø. k
+∞¥. k
 ,
-ØØk l
+¥¥k l
 Category
-∞∞ $
+µµ $
 =
-∞∞% &
+µµ% &
 
 Categories
-∞∞' 1
+µµ' 1
 [
-∞∞1 2
+µµ1 2
 $str
-∞∞2 F
+µµ2 F
 ]
-∞∞F G
+µµF G
 ,
-∞∞G H
+µµG H
 ImageUrl
-±± $
+∂∂ $
 =
-±±% &
-$str±±' ß
-,±±ß ®
+∂∂% &
+$str∂∂' ß
+,∂∂ß ®
 InStock
-≤≤ #
+∑∑ #
 =
-≤≤$ %
+∑∑$ %
 true
-≤≤& *
+∑∑& *
 ,
-≤≤* +
+∑∑* +
 ImageThumbnailUrl
-≥≥ -
+∏∏ -
 =
-≥≥. /
-$str≥≥0 ∞
-,≥≥∞ ±"
+∏∏. /
+$str∏∏0 ∞
+,∏∏∞ ±"
 IsFlowerPresentation
-¥¥ 0
+ππ 0
 =
-¥¥1 2
+ππ1 2
 false
-¥¥3 8
+ππ3 8
 }
-µµ 
+∫∫ 
 ,
-µµ 
+∫∫ 
 new
-∑∑ 
+ºº 
 Flower
-∑∑ "
+ºº "
 {
-∑∑# $
+ΩΩ 
 Name
-∏∏  
+ææ  
 =
-∏∏! "
+ææ! "
 $str
-∏∏# 2
+ææ# 2
 ,
-∏∏2 3
+ææ2 3
 Price
-ππ !
+øø !
 =
-ππ" #
+øø" #
 $num
-ππ$ *
+øø$ *
 ,
-ππ* +
+øø* +
 ShortDescription
-∫∫ ,
+¿¿ ,
 =
-∫∫- .
+¿¿- .
 $str
-∫∫/ G
+¿¿/ G
 ,
-∫∫G H
+¿¿G H
 LongDescription
-ªª +
+¡¡ +
 =
-ªª, -
+¡¡, -
 $str
-ªƒ. `
+¡ . `
 ,
-ƒƒ` a
+  ` a
 Category
-≈≈ $
+ÀÀ $
 =
-≈≈% &
+ÀÀ% &
 
 Categories
-≈≈' 1
+ÀÀ' 1
 [
-≈≈1 2
+ÀÀ1 2
 $str
-≈≈2 A
+ÀÀ2 A
 ]
-≈≈A B
+ÀÀA B
 ,
-≈≈B C
+ÀÀB C
 ImageUrl
-∆∆ $
+ÃÃ $
 =
-∆∆% &
+ÃÃ% &
 $str
-∆∆' w
+ÃÃ' w
 ,
-∆∆w x
+ÃÃw x
 InStock
-«« #
+ÕÕ #
 =
-««$ %
+ÕÕ$ %
 true
-««& *
+ÕÕ& *
 ,
-««* +
+ÕÕ* +
 ImageThumbnailUrl
-»» -
+ŒŒ -
 =
-»». /
-$str»»0 Ä
-,»»Ä Å"
+ŒŒ. /
+$strŒŒ0 Ä
+,ŒŒÄ Å"
 IsFlowerPresentation
-…… 0
+œœ 0
 =
-……1 2
+œœ1 2
 false
-……3 8
+œœ3 8
 }
-   
+–– 
 )
-ÀÀ 
+—— 
 ;
-ÀÀ 
+—— 
 }
-ÃÃ 
+““ 
 context
-ŒŒ 
+‘‘ 
 .
-ŒŒ 
+‘‘ 
 SaveChanges
-ŒŒ #
+‘‘ #
 (
-ŒŒ# $
+‘‘# $
 )
-ŒŒ$ %
+‘‘$ %
 ;
-ŒŒ% &
+‘‘% &
 }
-œœ 
+’’ 
 }
-–– 	
+÷÷ 	
 private
-““ 
+ÿÿ 
 static
-““ 
+ÿÿ 
 
 Dictionary
-““ !
+ÿÿ !
 <
-““! "
+ÿÿ! "
 string
-““" (
+ÿÿ" (
 ,
-““( )
+ÿÿ( )
 Category
-““* 2
+ÿÿ* 2
 >
-““2 3
+ÿÿ2 3
 
 categories
-““4 >
+ÿÿ4 >
 ;
-““> ?
+ÿÿ> ?
 public
-”” 
+ŸŸ 
 static
-”” 
+ŸŸ 
 
 Dictionary
-””  
+ŸŸ  
 <
-””  !
+ŸŸ  !
 string
-””! '
+ŸŸ! '
 ,
-””' (
-Category
-””) 1
->
-””1 2
-
-Categories
-””3 =
-{
-‘‘ 	
-get
-’’ 
-{
-÷÷ 
-if
-◊◊ 
-(
-◊◊ 
-
-categories
-◊◊ 
-==
-◊◊ !
-null
-◊◊" &
-)
-◊◊& '
-{
-ÿÿ 
-var
-ŸŸ 
-
-genresList
-ŸŸ "
-=
-ŸŸ# $
-new
-ŸŸ% (
+ŸŸ' (
 Category
 ŸŸ) 1
-[
-ŸŸ1 2
-]
-ŸŸ2 3
+>
+ŸŸ1 2
+
+Categories
+ŸŸ3 =
 {
-⁄⁄ 
-new
-€€ 
-Category
-€€ $
+⁄⁄ 	
+get
+€€ 
 {
-€€% &
-CategoryName
-€€' 3
-=
-€€4 5
-$str
-€€6 E
-}
-€€F G
-,
-€€G H
-new
-‹‹ 
-Category
-‹‹ $
-{
-‹‹% &
-CategoryName
-‹‹' 3
-=
-‹‹4 5
-$str
-‹‹6 J
-}
-‹‹K L
-,
-‹‹L M
-new
-›› 
-Category
-›› $
-{
-››% &
-CategoryName
-››' 3
-=
-››4 5
-$str
-››6 H
-}
-››I J
-}
-ﬁﬁ 
-;
-ﬁﬁ 
+‹‹ 
+if
+›› 
+(
+›› 
 
 categories
-‡‡ 
-=
-‡‡  
-new
-‡‡! $
-
-Dictionary
-‡‡% /
-<
-‡‡/ 0
-string
-‡‡0 6
-,
-‡‡6 7
-Category
-‡‡8 @
->
-‡‡@ A
-(
-‡‡A B
+›› 
+==
+›› !
+null
+››" &
 )
-‡‡B C
-;
-‡‡C D
-foreach
-‚‚ 
-(
-‚‚ 
-Category
-‚‚ %
-genre
-‚‚& +
-in
-‚‚, .
+››& '
+{
+ﬁﬁ 
+var
+ﬂﬂ 
 
 genresList
-‚‚/ 9
-)
-‚‚9 :
+ﬂﬂ "
+=
+ﬂﬂ# $
+new
+ﬂﬂ% (
+Category
+ﬂﬂ) 1
+[
+ﬂﬂ1 2
+]
+ﬂﬂ2 3
 {
-„„ 
-
-categories
-‰‰ "
-.
-‰‰" #
-Add
-‰‰# &
-(
-‰‰& '
-genre
-‰‰' ,
-.
-‰‰, -
+‡‡ 
+new
+·· 
+Category
+·· $
+{
+··% &
 CategoryName
-‰‰- 9
+··' 3
+=
+··4 5
+$str
+··6 E
+}
+··F G
 ,
-‰‰9 :
-genre
-‰‰; @
-)
-‰‰@ A
+··G H
+new
+‚‚ 
+Category
+‚‚ $
+{
+‚‚% &
+CategoryName
+‚‚' 3
+=
+‚‚4 5
+$str
+‚‚6 J
+}
+‚‚K L
+,
+‚‚L M
+new
+„„ 
+Category
+„„ $
+{
+„„% &
+CategoryName
+„„' 3
+=
+„„4 5
+$str
+„„6 H
+}
+„„I J
+}
+‰‰ 
 ;
-‰‰A B
-}
-ÂÂ 
-}
-ÊÊ 
-return
-ËË 
+‰‰ 
 
 categories
-ËË !
+ÊÊ 
+=
+ÊÊ  
+new
+ÊÊ! $
+
+Dictionary
+ÊÊ% /
+<
+ÊÊ/ 0
+string
+ÊÊ0 6
+,
+ÊÊ6 7
+Category
+ÊÊ8 @
+>
+ÊÊ@ A
+(
+ÊÊA B
+)
+ÊÊB C
 ;
-ËË! "
+ÊÊC D
+foreach
+ËË 
+(
+ËË 
+Category
+ËË %
+genre
+ËË& +
+in
+ËË, .
+
+genresList
+ËË/ 9
+)
+ËË9 :
+{
+ÈÈ 
+
+categories
+ÍÍ "
+.
+ÍÍ" #
+Add
+ÍÍ# &
+(
+ÍÍ& '
+genre
+ÍÍ' ,
+.
+ÍÍ, -
+CategoryName
+ÍÍ- 9
+,
+ÍÍ9 :
+genre
+ÍÍ; @
+)
+ÍÍ@ A
+;
+ÍÍA B
 }
-ÈÈ 
+ÎÎ 
 }
-ÍÍ 	
+ÏÏ 
+return
+ÓÓ 
+
+categories
+ÓÓ !
+;
+ÓÓ! "
 }
-ÎÎ 
-}ÏÏ ˚
+ÔÔ 
+}
+ 	
+}
+ÒÒ 
+}ÚÚ ˚
 ;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs
 	namespace 	
 	FlowerApp
@@ -12349,721 +12332,747 @@ CardNumberOO  
 }TT Â
 
 @E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs
-	namespace 	
-	FlowerApp
+	namespace 	
+	FlowerApp
  
-. 
-Models 
-{ 
-public 
+. 
+Models 
+{ 
+public 
 
-class 
-OrderDetail 
-{		 
-public
-
- 
-int
-
- 
-OrderDetailId
-
-  
-{
-
-! "
-get
-
-# &
-;
-
-& '
-set
-
-( +
-;
-
-+ ,
-}
-
-- .
-public 
-int 
-OrderId 
-{ 
-get  
-;  !
-set" %
-;% &
-}' (
-public 
-int 
-FlowerId 
-{ 
-get !
-;! "
-set# &
-;& '
-}( )
-public 
-int 
-Amount 
-{ 
-get 
-;  
-set! $
-;$ %
-}& '
-public 
-decimal 
-Price 
-{ 
-get "
-;" #
-set$ '
-;' (
-}) *
-public 
-virtual 
-Flower 
-Flower $
-{% &
-get' *
-;* +
-set, /
-;/ 0
-}1 2
-public 
-virtual 
-Order 
-Order "
-{# $
-get% (
-;( )
-set* -
-;- .
-}/ 0
-} 
-} ˚E
+class 
+OrderDetail 
+{ 
+public 
+int 
+OrderDetailId  
+{! "
+get# &
+;& '
+set( +
+;+ ,
+}- .
+public 
+int 
+OrderId 
+{ 
+get  
+;  !
+set" %
+;% &
+}' (
+public		 
+int		 
+FlowerId		 
+{		 
+get		 !
+;		! "
+set		# &
+;		& '
+}		( )
+public 
+int 
+Amount 
+{ 
+get 
+;  
+set! $
+;$ %
+}& '
+public 
+decimal 
+Price 
+{ 
+get "
+;" #
+set$ '
+;' (
+}) *
+public 
+virtual 
+Flower 
+Flower $
+{% &
+get' *
+;* +
+set, /
+;/ 0
+}1 2
+public 
+virtual 
+Order 
+Order "
+{# $
+get% (
+;( )
+set* -
+;- .
+}/ 0
+} 
+} ˘E
 AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs
-	namespace		 	
-	FlowerApp		
+	namespace 	
+	FlowerApp
  
-.		 
-Models		 
-{
-
- 
-public 
-
-class 
-ShoppingCart 
-{ 
-private 
-readonly 
-AppDbContext %
-_appDbContext& 3
-;3 4
-private 
-ShoppingCart 
-( 
-AppDbContext )
-appDbContext* 6
-)6 7
-{ 	
-_appDbContext 
-= 
-appDbContext (
-;( )
-} 	
-public 
-string 
-ShoppingCartId $
-{% &
-get' *
-;* +
-set, /
-;/ 0
-}1 2
-public 
-List 
-< 
-ShoppingCartItem $
->$ %
-ShoppingCartItems& 7
-{8 9
-get: =
-;= >
-set? B
-;B C
-}D E
-public 
-static 
-ShoppingCart "
-GetCart# *
-(* +
-IServiceProvider+ ;
-services< D
-)D E
-{ 	
-ISession 
-session 
-= 
-services '
-.' (
-GetRequiredService( :
-<: ; 
-IHttpContextAccessor; O
->O P
-(P Q
-)Q R
-?R S
-. 
-HttpContext 
-. 
-Session $
-;$ %
-var 
-context 
-= 
-services "
-." #
-
-GetService# -
-<- .
-AppDbContext. :
->: ;
-(; <
-)< =
-;= >
-string 
-cartId 
-= 
-session #
-.# $
-	GetString$ -
-(- .
-$str. 6
-)6 7
-??8 :
-Guid; ?
-.? @
-NewGuid@ G
-(G H
-)H I
-.I J
-ToStringJ R
-(R S
-)S T
-;T U
-session 
-. 
-	SetString 
-( 
-$str &
-,& '
-cartId( .
-). /
-;/ 0
-return!! 
-new!! 
-ShoppingCart!! #
-(!!# $
-context!!$ +
-)!!+ ,
-{!!- .
-ShoppingCartId!!/ =
-=!!> ?
-cartId!!@ F
-}!!G H
-;!!H I
-}"" 	
-public$$ 
-void$$ 
-	AddToCart$$ 
-($$ 
-Flower$$ $
-flower$$% +
-,$$+ ,
-int$$- 0
-amount$$1 7
-)$$7 8
-{%% 	
-var&& 
-shoppingCartItem&&  
-=&&! "
-_appDbContext'' !
-.''! "
-ShoppingCartItems''" 3
-.''3 4
-SingleOrDefault''4 C
-(''C D
-s(( 
-=>(( 
-s(( 
-.(( 
-Flower(( %
-.((% &
-FlowerId((& .
-==((/ 1
-flower((2 8
-.((8 9
-FlowerId((9 A
-&&((B D
-s((E F
-.((F G
-ShoppingCartId((G U
-==((V X
-ShoppingCartId((Y g
-)((g h
-;((h i
-if** 
-(** 
-shoppingCartItem**  
-==**! #
-null**$ (
-)**( )
-{++ 
-shoppingCartItem,,  
-=,,! "
-new,,# &
-ShoppingCartItem,,' 7
-{-- 
-ShoppingCartId.. "
-=..# $
-ShoppingCartId..% 3
-,..3 4
-Flower// 
-=// 
-flower// #
-,//# $
-Amount00 
-=00 
-$num00 
-}11 
-;11 
-_appDbContext33 
-.33 
-ShoppingCartItems33 /
-.33/ 0
-Add330 3
-(333 4
-shoppingCartItem334 D
-)33D E
-;33E F
-}44 
-else55 
-{66 
-if== 
-(== 
-shoppingCartItem== #
-.==# $
-Amount==$ *
-<==+ ,
-$num==- .
-)==/ 0
-{>> 
-shoppingCartItem?? $
-.??$ %
-Amount??% +
-=??, -
-amount??. 4
-+??5 6
-$num??7 8
-;??8 9
-}@@ 
-elseAA 
-ifAA 
-(AA 
-shoppingCartItemAA (
-.AA( )
-AmountAA) /
->AA0 1
-$numAA2 3
-)AA4 5
-{BB 
-shoppingCartItemCC $
-.CC$ %
-AmountCC% +
-=CC, -
-amountCC. 4
-;CC4 5
-}DD 
-elseEE 
-shoppingCartItemFF $
-.FF$ %
-AmountFF% +
-+=FF, .
-amountFF/ 5
-;FF5 6
-}GG 
-_appDbContextHH 
-.HH 
-SaveChangesHH %
-(HH% &
-)HH& '
-;HH' (
-}II 	
-publicKK 
-intKK 
-RemoveFromCartKK !
-(KK! "
-FlowerKK" (
-flowerKK) /
-)KK/ 0
-{LL 	
-varMM 
-shoppingCartItemMM  
-=MM! "
-_appDbContextNN !
-.NN! "
-ShoppingCartItemsNN" 3
-.NN3 4
-SingleOrDefaultNN4 C
-(NNC D
-sOO 
-=>OO 
-sOO 
-.OO 
-FlowerOO %
-.OO% &
-FlowerIdOO& .
-==OO/ 1
-flowerOO2 8
-.OO8 9
-FlowerIdOO9 A
-&&OOB D
-sOOE F
-.OOF G
-ShoppingCartIdOOG U
-==OOV X
-ShoppingCartIdOOY g
-)OOg h
-;OOh i
-varQQ 
-localAmountQQ 
-=QQ 
-$numQQ 
-;QQ  
-ifSS 
-(SS 
-shoppingCartItemSS  
-!=SS! #
-nullSS$ (
-)SS( )
-{TT 
-ifUU 
-(UU 
-shoppingCartItemUU $
-.UU$ %
-AmountUU% +
->UU, -
-$numUU. /
-)UU/ 0
-{VV 
-shoppingCartItemWW $
-.WW$ %
-AmountWW% +
---WW+ -
-;WW- .
-localAmountXX 
-=XX  !
-shoppingCartItemXX" 2
-.XX2 3
-AmountXX3 9
-;XX9 :
-}YY 
-elseZZ 
-{[[ 
-_appDbContext\\ !
-.\\! "
-ShoppingCartItems\\" 3
-.\\3 4
-Remove\\4 :
-(\\: ;
-shoppingCartItem\\; K
-)\\K L
-;\\L M
-}]] 
-}^^ 
-_appDbContext`` 
-.`` 
-SaveChanges`` %
-(``% &
-)``& '
-;``' (
-returnbb 
-localAmountbb 
-;bb 
-}cc 	
-publicee 
-Listee 
-<ee 
-ShoppingCartItemee $
->ee$ % 
-GetShoppingCartItemsee& :
-(ee: ;
-)ee; <
-{ff 	
-returngg 
-ShoppingCartItemsgg $
-??gg% '
-(hh 
-ShoppingCartItemshh %
-=hh& '
-_appDbContextii $
-.ii$ %
-ShoppingCartItemsii% 6
-.ii6 7
-Whereii7 <
-(ii< =
-cii= >
-=>ii? A
-ciiB C
-.iiC D
-ShoppingCartIdiiD R
-==iiS U
-ShoppingCartIdiiV d
-)iid e
-.jj 
-Includejj #
-(jj# $
-sjj$ %
-=>jj& (
-sjj) *
-.jj* +
-Flowerjj+ 1
-)jj1 2
-.kk 
-ToListkk "
-(kk" #
-)kk# $
-)kk$ %
-;kk% &
-}ll 	
-publicnn 
-voidnn 
-	ClearCartnn 
-(nn 
-)nn 
-{oo 	
-varpp 
-	cartItemspp 
-=pp 
-_appDbContextpp )
-.qq 
-ShoppingCartItemsqq "
-.rr 
-Whererr 
-(rr 
-cartrr 
-=>rr 
-cartrr #
-.rr# $
-ShoppingCartIdrr$ 2
-==rr3 5
-ShoppingCartIdrr6 D
-)rrD E
-;rrE F
-_appDbContexttt 
-.tt 
-ShoppingCartItemstt +
-.tt+ ,
-RemoveRangett, 7
-(tt7 8
-	cartItemstt8 A
-)ttA B
-;ttB C
-_appDbContextvv 
-.vv 
-SaveChangesvv %
-(vv% &
-)vv& '
-;vv' (
-}ww 	
-public{{ 
-decimal{{  
-GetShoppingCartTotal{{ +
-({{+ ,
-){{, -
-{|| 	
-var}} 
-total}} 
-=}} 
-_appDbContext}} %
-.}}% &
-ShoppingCartItems}}& 7
-.}}7 8
-Where}}8 =
-(}}= >
-c}}> ?
-=>}}@ B
-c}}C D
-.}}D E
-ShoppingCartId}}E S
-==}}T V
-ShoppingCartId}}W e
-)}}e f
-.~~ 
-Select~~ 
-(~~ 
-c~~ 
-=>~~ 
-c~~ 
-.~~ 
-Flower~~ %
-.~~% &
-Price~~& +
-*~~, -
-c~~. /
-.~~/ 0
-Amount~~0 6
-)~~6 7
-.~~7 8
-Sum~~8 ;
-(~~; <
-)~~< =
-;~~= >
-return 
-total 
-; 
-}
-ÄÄ 	
-}
-ÅÅ 
-}ÇÇ â
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs
-	namespace 	
-	FlowerApp
- 
-. 
-Models 
-{ 
-public 
-
-class 
-ShoppingCartItem !
-{		 
+. 
+Models 
+{		 
 public
 
- 
-int
-
- 
-ShoppingCartItemId
-
- %
-{
-
-& '
-get
-
-( +
-;
-
-+ ,
-set
-
-- 0
-;
-
-0 1
-}
-
-2 3
-public 
-Flower 
-Flower 
-{ 
-get "
-;" #
-set$ '
-;' (
-}) *
-public 
-int 
-Amount 
-{ 
-get 
-;  
-set! $
-;$ %
-}& '
-public 
-string 
-ShoppingCartId $
-{% &
-get' *
-;* +
-set, /
-;/ 0
-}1 2
-} 
-} ¡
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs
-	namespace 	
-	FlowerApp
- 
-{ 
-public 
+ 
 
-class 
-Program 
-{ 
-public 
-static 
-void 
-Main 
-(  
-string  &
-[& '
-]' (
-args) -
-)- .
-{ 	
-BuildWebHost 
-( 
-args 
-) 
-. 
-Run "
-(" #
-)# $
-;$ %
-} 	
-public 
-static 
-IWebHost 
-BuildWebHost +
-(+ ,
-string, 2
-[2 3
-]3 4
-args5 9
-)9 :
-=>; =
-WebHost 
-.  
-CreateDefaultBuilder (
-(( )
-args) -
-)- .
-. 
+class
+
+ 
+ShoppingCart
+
+ 
+{ 
+private 
+readonly 
+AppDbContext %
+_appDbContext& 3
+;3 4
+private 
+ShoppingCart 
+( 
+AppDbContext )
+appDbContext* 6
+)6 7
+{ 	
+_appDbContext 
+= 
+appDbContext (
+;( )
+} 	
+public 
+string 
+ShoppingCartId $
+{% &
+get' *
+;* +
+set, /
+;/ 0
+}1 2
+public 
+List 
+< 
+ShoppingCartItem $
+>$ %
+ShoppingCartItems& 7
+{8 9
+get: =
+;= >
+set? B
+;B C
+}D E
+public 
+static 
+ShoppingCart "
+GetCart# *
+(* +
+IServiceProvider+ ;
+services< D
+)D E
+{ 	
+ISession 
+session 
+= 
+services '
+.' (
+GetRequiredService( :
+<: ; 
+IHttpContextAccessor; O
+>O P
+(P Q
+)Q R
+?R S
+. 
+HttpContext 
+. 
+Session $
+;$ %
+var 
+context 
+= 
+services "
+." #
 
-UseStartup 
-< 
-Startup #
-># $
-($ %
-)% &
-. 
-Build 
-( 
-) 
-; 
-}!! 
-}"" è
+GetService# -
+<- .
+AppDbContext. :
+>: ;
+(; <
+)< =
+;= >
+string 
+cartId 
+= 
+session #
+.# $
+	GetString$ -
+(- .
+$str. 6
+)6 7
+??8 :
+Guid; ?
+.? @
+NewGuid@ G
+(G H
+)H I
+.I J
+ToStringJ R
+(R S
+)S T
+;T U
+session 
+. 
+	SetString 
+( 
+$str &
+,& '
+cartId( .
+). /
+;/ 0
+return   
+new   
+ShoppingCart   #
+(  # $
+context  $ +
+)  + ,
+{  - .
+ShoppingCartId  / =
+=  > ?
+cartId  @ F
+}  G H
+;  H I
+}!! 	
+public## 
+void## 
+	AddToCart## 
+(## 
+Flower## $
+flower##% +
+,##+ ,
+int##- 0
+amount##1 7
+)##7 8
+{$$ 	
+var%% 
+shoppingCartItem%%  
+=%%! "
+_appDbContext&& !
+.&&! "
+ShoppingCartItems&&" 3
+.&&3 4
+SingleOrDefault&&4 C
+(&&C D
+s'' 
+=>'' 
+s'' 
+.'' 
+Flower'' %
+.''% &
+FlowerId''& .
+==''/ 1
+flower''2 8
+.''8 9
+FlowerId''9 A
+&&''B D
+s''E F
+.''F G
+ShoppingCartId''G U
+==''V X
+ShoppingCartId''Y g
+)''g h
+;''h i
+if)) 
+()) 
+shoppingCartItem))  
+==))! #
+null))$ (
+)))( )
+{** 
+shoppingCartItem++  
+=++! "
+new++# &
+ShoppingCartItem++' 7
+{,, 
+ShoppingCartId-- "
+=--# $
+ShoppingCartId--% 3
+,--3 4
+Flower.. 
+=.. 
+flower.. #
+,..# $
+Amount// 
+=// 
+$num// 
+}00 
+;00 
+_appDbContext22 
+.22 
+ShoppingCartItems22 /
+.22/ 0
+Add220 3
+(223 4
+shoppingCartItem224 D
+)22D E
+;22E F
+}33 
+else44 
+{55 
+if<< 
+(<< 
+shoppingCartItem<< $
+.<<$ %
+Amount<<% +
+<<<, -
+$num<<. /
+)<</ 0
+{== 
+shoppingCartItem>> $
+.>>$ %
+Amount>>% +
+=>>, -
+amount>>. 4
++>>5 6
+$num>>7 8
+;>>8 9
+}?? 
+else@@ 
+if@@ 
+(@@ 
+shoppingCartItem@@ )
+.@@) *
+Amount@@* 0
+>@@1 2
+$num@@3 4
+)@@4 5
+{AA 
+shoppingCartItemBB $
+.BB$ %
+AmountBB% +
+=BB, -
+amountBB. 4
+;BB4 5
+}CC 
+elseDD 
+shoppingCartItemEE $
+.EE$ %
+AmountEE% +
++=EE, .
+amountEE/ 5
+;EE5 6
+}FF 
+_appDbContextGG 
+.GG 
+SaveChangesGG %
+(GG% &
+)GG& '
+;GG' (
+}HH 	
+publicJJ 
+intJJ 
+RemoveFromCartJJ !
+(JJ! "
+FlowerJJ" (
+flowerJJ) /
+)JJ/ 0
+{KK 	
+varLL 
+shoppingCartItemLL  
+=LL! "
+_appDbContextMM !
+.MM! "
+ShoppingCartItemsMM" 3
+.MM3 4
+SingleOrDefaultMM4 C
+(MMC D
+sNN 
+=>NN 
+sNN 
+.NN 
+FlowerNN %
+.NN% &
+FlowerIdNN& .
+==NN/ 1
+flowerNN2 8
+.NN8 9
+FlowerIdNN9 A
+&&NNB D
+sNNE F
+.NNF G
+ShoppingCartIdNNG U
+==NNV X
+ShoppingCartIdNNY g
+)NNg h
+;NNh i
+varPP 
+localAmountPP 
+=PP 
+$numPP 
+;PP  
+ifRR 
+(RR 
+shoppingCartItemRR  
+!=RR! #
+nullRR$ (
+)RR( )
+{SS 
+ifTT 
+(TT 
+shoppingCartItemTT $
+.TT$ %
+AmountTT% +
+>TT, -
+$numTT. /
+)TT/ 0
+{UU 
+shoppingCartItemVV $
+.VV$ %
+AmountVV% +
+--VV+ -
+;VV- .
+localAmountWW 
+=WW  !
+shoppingCartItemWW" 2
+.WW2 3
+AmountWW3 9
+;WW9 :
+}XX 
+elseYY 
+{ZZ 
+_appDbContext[[ !
+.[[! "
+ShoppingCartItems[[" 3
+.[[3 4
+Remove[[4 :
+([[: ;
+shoppingCartItem[[; K
+)[[K L
+;[[L M
+}\\ 
+}]] 
+_appDbContext__ 
+.__ 
+SaveChanges__ %
+(__% &
+)__& '
+;__' (
+returnaa 
+localAmountaa 
+;aa 
+}bb 	
+publicdd 
+Listdd 
+<dd 
+ShoppingCartItemdd $
+>dd$ % 
+GetShoppingCartItemsdd& :
+(dd: ;
+)dd; <
+{ee 	
+returnff 
+ShoppingCartItemsff $
+??ff% '
+(gg 
+ShoppingCartItemsgg %
+=gg& '
+_appDbContexthh $
+.hh$ %
+ShoppingCartItemshh% 6
+.hh6 7
+Wherehh7 <
+(hh< =
+chh= >
+=>hh? A
+chhB C
+.hhC D
+ShoppingCartIdhhD R
+==hhS U
+ShoppingCartIdhhV d
+)hhd e
+.ii 
+Includeii #
+(ii# $
+sii$ %
+=>ii& (
+sii) *
+.ii* +
+Flowerii+ 1
+)ii1 2
+.jj 
+ToListjj "
+(jj" #
+)jj# $
+)jj$ %
+;jj% &
+}kk 	
+publicmm 
+voidmm 
+	ClearCartmm 
+(mm 
+)mm 
+{nn 	
+varoo 
+	cartItemsoo 
+=oo 
+_appDbContextoo )
+.pp 
+ShoppingCartItemspp "
+.qq 
+Whereqq 
+(qq 
+cartqq 
+=>qq 
+cartqq #
+.qq# $
+ShoppingCartIdqq$ 2
+==qq3 5
+ShoppingCartIdqq6 D
+)qqD E
+;qqE F
+_appDbContextss 
+.ss 
+ShoppingCartItemsss +
+.ss+ ,
+RemoveRangess, 7
+(ss7 8
+	cartItemsss8 A
+)ssA B
+;ssB C
+_appDbContextuu 
+.uu 
+SaveChangesuu %
+(uu% &
+)uu& '
+;uu' (
+}vv 	
+publiczz 
+decimalzz  
+GetShoppingCartTotalzz +
+(zz+ ,
+)zz, -
+{{{ 	
+var|| 
+total|| 
+=|| 
+_appDbContext|| %
+.||% &
+ShoppingCartItems||& 7
+.||7 8
+Where||8 =
+(||= >
+c||> ?
+=>||@ B
+c||C D
+.||D E
+ShoppingCartId||E S
+==||T V
+ShoppingCartId||W e
+)||e f
+.}} 
+Select}} 
+(}} 
+c}} 
+=>}} 
+c}} 
+.}} 
+Flower}} %
+.}}% &
+Price}}& +
+*}}, -
+c}}. /
+.}}/ 0
+Amount}}0 6
+)}}6 7
+.}}7 8
+Sum}}8 ;
+(}}; <
+)}}< =
+;}}= >
+return~~ 
+total~~ 
+;~~ 
+} 	
+}
+ÄÄ 
+}ÅÅ â
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+Models 
+{ 
+public 
+
+class 
+ShoppingCartItem !
+{ 
+public 
+int 
+ShoppingCartItemId %
+{& '
+get( +
+;+ ,
+set- 0
+;0 1
+}2 3
+public 
+Flower 
+Flower 
+{ 
+get "
+;" #
+set$ '
+;' (
+}) *
+public		 
+int		 
+Amount		 
+{		 
+get		 
+;		  
+set		! $
+;		$ %
+}		& '
+public 
+string 
+ShoppingCartId $
+{% &
+get' *
+;* +
+set, /
+;/ 0
+}1 2
+} 
+} ¡
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs
+	namespace 	
+	FlowerApp
+ 
+{ 
+public 
+
+class 
+Program 
+{ 
+public 
+static 
+void 
+Main 
+(  
+string  &
+[& '
+]' (
+args) -
+)- .
+{		 	
+BuildWebHost 
+( 
+args 
+) 
+. 
+Run "
+(" #
+)# $
+;$ %
+} 	
+public 
+static 
+IWebHost 
+BuildWebHost +
+(+ ,
+string, 2
+[2 3
+]3 4
+args5 9
+)9 :
+=>; =
+WebHost 
+.  
+CreateDefaultBuilder (
+(( )
+args) -
+)- .
+. 
+
+UseStartup 
+< 
+Startup #
+># $
+($ %
+)% &
+. 
+Build 
+( 
+) 
+; 
+} 
+} è
 KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+Repository 
+{ 
+public 
+
+class 
+CategoryRepository #
+:$ %
+ICategoryRepository& 9
+{ 
+private 
+readonly 
+AppDbContext %
+_appDbContext& 3
+;3 4
+public
+
+ 
+CategoryRepository
+
+ !
+(
+
+! "
+AppDbContext
+
+" .
+appDbContext
+
+/ ;
+)
+
+; <
+{ 	
+_appDbContext 
+= 
+appDbContext (
+;( )
+} 	
+public 
+IEnumerable 
+< 
+Category #
+># $
+
+Categories% /
+=>0 2
+_appDbContext3 @
+.@ A
+
+CategoriesA K
+;K L
+} 
+} π3
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs
 	namespace 	
 	FlowerApp
  
@@ -13073,10 +13082,10 @@ Repository 
 { 
 public		 
 
-class		 
-CategoryRepository		 #
-:		$ %
-ICategoryRepository		& 9
+class		 
+FlowerRepository		 !
+:		" #
+IFlowerRepository		$ 5
 {
 
  
@@ -13085,12 +13094,12 @@ Repository 
 AppDbContext %
 _appDbContext& 3
 ;3 4
-public 
-CategoryRepository !
-(! "
-AppDbContext" .
-appDbContext/ ;
-); <
+public 
+FlowerRepository 
+(  
+AppDbContext  ,
+appDbContext- 9
+)9 :
 { 	
 _appDbContext 
 = 
@@ -13099,2446 +13108,1919 @@ Repository 
 } 	
 public 
 IEnumerable 
-< 
-Category #
-># $
-
-Categories% /
-=>0 2
-_appDbContext3 @
-.@ A
-
-CategoriesA K
-;K L
-} 
-} π3
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs
-	namespace		 	
-	FlowerApp		
- 
-.		 
-
-Repository		 
-{
-
- 
-public 
-
-class 
-FlowerRepository !
-:" #
-IFlowerRepository$ 5
-{ 
-private 
-readonly 
-AppDbContext %
-_appDbContext& 3
-;3 4
-public 
-FlowerRepository 
-(  
-AppDbContext  ,
-appDbContext- 9
-)9 :
-{ 	
-_appDbContext 
-= 
-appDbContext (
-;( )
-} 	
-public 
-IEnumerable 
-< 
-Flower !
->! "
-Flowers# *
-{ 	
-get 
-{ 
-return 
-_appDbContext $
-.$ %
-Flowers% ,
-., -
-Include- 4
-(4 5
-c5 6
-=>7 9
-c: ;
-.; <
-Category< D
-)D E
-;E F
-} 
-} 	
-public 
-IEnumerable 
-< 
-string !
->! "
-FlowersNames# /
-{ 	
-get 
-{ 
-return   
-_appDbContext   $
-.  $ %
-Flowers  % ,
-.  , -
-Select  - 3
-(  3 4
-x  4 5
-=>  6 8
-x  9 :
-.  : ;
-Name  ; ?
-)  ? @
-.  @ A
-ToList  A G
-(  G H
-)  H I
-;  I J
-}!! 
-}"" 	
-public$$ 
-IEnumerable$$ 
-<$$ 
-Flower$$ !
->$$! "
-FlowerPresentation$$# 5
-{%% 	
-get&& 
-{'' 
-return(( 
-_appDbContext(( $
-.(($ %
-Flowers((% ,
-.((, -
-Include((- 4
-(((4 5
-c((5 6
-=>((7 9
-c((: ;
-.((; <
-Category((< D
-)((D E
-.((E F
-Where((F K
-(((K L
-p((L M
-=>((N P
-p((Q R
-.((R S 
-IsFlowerPresentation((S g
-)((g h
-;((h i
-})) 
-}** 	
-public,, 
-Flower,, 
-GetFlowerById,, #
-(,,# $
-int,,$ '
-flowerId,,( 0
-),,0 1
-{-- 	
-return.. 
-_appDbContext..  
-...  !
-Flowers..! (
-...( )
-FirstOrDefault..) 7
-(..7 8
-f..8 9
-=>..: <
-f..= >
-...> ?
-FlowerId..? G
-==..H J
-flowerId..K S
-)..S T
-;..T U
-}// 	
-public11 
-IEnumerable11 
-<11 
-FlowerViewModel11 *
->11* +
-FlowersAsViewModel11, >
-{22 	
-get33 
-{44 
-List55 
-<55 
-FlowerViewModel55 $
->55$ %
-flowers55& -
-=55. /
-new550 3
-List554 8
-<558 9
-FlowerViewModel559 H
->55H I
-(55I J
-)55J K
-;55K L
-foreach77 
-(77 
-var77 
-dbFlower77 %
-in77& (
-Flowers77) 0
-)770 1
-{88 
-flowers99 
-.99 
-Add99 
-(99  (
-MapDbFlowerToFlowerViewModel99  <
-(99< =
-dbFlower99= E
-)99E F
-)99F G
-;99G H
-}:: 
-return<< 
-flowers<< 
-;<< 
-}== 
-}>> 	
-public@@ 
-bool@@ 
-	AddFlower@@ 
-(@@ 
-Flower@@ $
-flower@@% +
-)@@+ ,
-{AA 	
-varBB 
-resultBB 
-=BB 
-_appDbContextBB &
-.BB& '
-AddBB' *
-(BB* +
-flowerBB+ 1
-)BB1 2
-;BB2 3
-_appDbContextDD 
-.DD 
-SaveChangesDD %
-(DD% &
-)DD& '
-;DD' (
-returnFF 
-resultFF 
-.FF 
-StateFF 
-==FF  "
-EntityStateFF# .
-.FF. /
-AddedFF/ 4
-||FF5 7
-resultFF8 >
-.FF> ?
-StateFF? D
-==FFE G
-EntityStateFFH S
-.FFS T
-	UnchangedFFT ]
-?FF^ _
-trueFF` d
-:FFe f
-falseFFg l
-;FFl m
-}GG 	
-publicII 
-boolII 
-DeleteFlowerII  
-(II  !
-FlowerII! '
-flowerII( .
-)II. /
-{JJ 	
-varKK 
-resultKK 
-=KK 
-_appDbContextKK &
-.KK& '
-RemoveKK' -
-(KK- .
-flowerKK. 4
-)KK4 5
-;KK5 6
-_appDbContextMM 
-.MM 
-SaveChangesMM %
-(MM% &
-)MM& '
-;MM' (
-returnOO 
-resultOO 
-.OO 
-StateOO 
-==OO  "
-EntityStateOO# .
-.OO. /
-DeletedOO/ 6
-||OO7 9
-resultOO: @
-.OO@ A
-StateOOA F
-==OOG I
-EntityStateOOJ U
-.OOU V
-	UnchangedOOV _
-?OO` a
-trueOOb f
-:OOg h
-falseOOi n
-;OOn o
-}PP 	
-privateRR 
-FlowerViewModelRR (
-MapDbFlowerToFlowerViewModelRR  <
-(RR< =
-FlowerRR= C
-dbFlowerRRD L
-)RRL M
-{SS 	
-returnTT 
-newTT 
-FlowerViewModelTT &
-(TT& '
-)TT' (
-{UU 
-FlowerIdVV 
-=VV 
-dbFlowerVV #
-.VV# $
-FlowerIdVV$ ,
-,VV, -
-NameWW 
-=WW 
-dbFlowerWW 
-.WW  
-NameWW  $
-,WW$ %
-PriceXX 
-=XX 
-dbFlowerXX  
-.XX  !
-PriceXX! &
-,XX& '
-ShortDescriptionYY  
-=YY! "
-dbFlowerYY# +
-.YY+ ,
-ShortDescriptionYY, <
-,YY< =
-ImageThumbnailUrlZZ !
-=ZZ" #
-dbFlowerZZ$ ,
-.ZZ, -
-ImageThumbnailUrlZZ- >
-}[[ 
-;[[ 
-}\\ 	
-public^^ 
-bool^^ 
-UpdateFlower^^  
-(^^  !
-Flower^^! '
-flower^^( .
-)^^. /
-{__ 	
-_appDbContext`` 
-.`` 
-Update``  
-(``  !
-flower``! '
-)``' (
-;``( )
-_appDbContextbb 
-.bb 
-SaveChangesbb %
-(bb% &
-)bb& '
-;bb' (
-returndd 
-truedd 
-;dd 
-}ee 	
-}ff 
-}gg »
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ICategoryRepository.cs
-	namespace 	
-	FlowerApp
- 
-. 
-
-Repository 
-{ 
-public		 
-
-	interface		 
-ICategoryRepository		 (
-{
-
- 
-IEnumerable 
-< 
-Category 
-> 
-
-Categories (
-{) *
-get+ .
-;. /
-}0 1
-} 
-} ¿
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\IFlowerRepository.cs
-	namespace 	
-	FlowerApp
- 
-. 
-
-Repository 
-{		 
-public
-
- 
-
-	interface
-
- 
-IFlowerRepository
-
- &
-{ 
-IEnumerable 
-< 
-Flower 
-> 
-Flowers #
-{$ %
-get& )
-;) *
-}+ ,
-IEnumerable 
-< 
-Flower 
-> 
-FlowerPresentation .
-{/ 0
-get1 4
-;4 5
-}6 7
-IEnumerable 
-< 
-FlowerViewModel #
-># $
-FlowersAsViewModel% 7
-{ 	
-get 
-; 
-} 	
-IEnumerable 
-< 
-string 
-> 
-FlowersNames (
-{ 	
-get 
-; 
+< 
+Flower !
+>! "
+Flowers# *
+{ 	
+get 
+{ 
+return 
+_appDbContext $
+.$ %
+Flowers% ,
+., -
+Include- 4
+(4 5
+c5 6
+=>7 9
+c: ;
+.; <
+Category< D
+)D E
+;E F
+} 
 } 	
-Flower 
-GetFlowerById 
-( 
-int  
-flowerId! )
-)) *
-;* +
-bool 
-	AddFlower 
-( 
-Flower 
-flower $
-)$ %
-;% &
-bool 
-DeleteFlower 
-( 
-Flower  
-flower! '
-)' (
-;( )
-bool   
-UpdateFlower   
-(   
-Flower    
-flower  ! '
-)  ' (
-;  ( )
-}!! 
-}"" ò
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\IOrderRepository.cs
-	namespace 	
-	FlowerApp
- 
-. 
-
-Repository 
-{		 
-public
-
- 
-
-	interface
-
- 
-IOrderRepository
-
- %
-{ 
-void 
-CreateOrder 
-( 
-Order 
-order $
-)$ %
-;% &
-IEnumerable 
-< (
-OrderHistoryDetailsViewModel 0
->0 1 
-GetOrdersAsViewModel2 F
-(F G
-stringG M
-userNameN V
-=W X
-$strY [
-)[ \
-;\ ]
-} 
-} à
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs
-	namespace 	
-	FlowerApp
- 
-. 
-
-Repository 
-{ 
-public		 
-
-class		 #
-ModelCategoryRepository		 (
-:		) *
-ICategoryRepository		+ >
-{
-
- 
-public 
-IEnumerable 
-< 
-Category #
-># $
-
-Categories% /
-{ 	
-get 
-{ 
-return 
-new 
-List 
-<  
-Category  (
->( )
-{ 
-new 
-Category  
-{  !
-
-CategoryId "
-=# $
-$num$ %
-,% &
-CategoryName $
-=% &
-$str& 5
-,5 6
-Description #
-=$ %
-$str% 9
-} 
-, 
-new 
-Category  
-{  !
-
-CategoryId "
-=# $
-$num$ %
-,% &
-CategoryName $
-=% &
-$str& :
-,: ;
-Description #
-=$ %
-$str% 3
-} 
-, 
-new 
-Category  
-{  !
-
-CategoryId "
-=# $
-$num$ %
-,% &
-CategoryName $
-=% &
-$str& 8
-,8 9
-Description   #
-=  $ %
-$str  % M
-}!! 
-}"" 
-;"" 
-}## 
-}$$ 	
-}%% 
-}&& ï2
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs
-	namespace 	
-	FlowerApp
- 
-. 
-
-Repository 
-{		 
-public
-
- 
-
-class
-
- !
-ModelFlowerRepository
-
- &
-:
-
-' (
-IFlowerRepository
-
-) :
-{ 
-private 
-readonly 
-ICategoryRepository ,
-_categoryRepository- @
-=A B
-newC F#
-ModelCategoryRepositoryG ^
-(^ _
-)_ `
-;` a
-public 
-IEnumerable 
-< 
-Flower !
->! "
-Flowers# *
-{ 	
-get 
-{ 
-return 
-new 
-List 
-<  
-Flower  &
->& '
-{ 
-new 
-Flower 
-{  
-FlowerId  (
-=) *
-$num+ ,
-,, -
-Name. 2
-=2 3
-$str3 ;
-,; <
-Price= B
-=B C
-$numC I
-,I J
-ShortDescriptionK [
-=[ \
-$str\ j
-,j k
-LongDescriptionl {
-={ |
-$str	| É
-,
-É Ñ
-Category
-Ö ç
-=
-é è!
-_categoryRepository
-ê £
-.
-£ §
-
-Categories
-§ Æ
-.
-Æ Ø
-ToList
-Ø µ
-(
-µ ∂
-)
-∂ ∑
-[
-∑ ∏
-$num
-∏ π
-]
-π ∫
-,
-∫ ª
-ImageUrl  
-=! "
-$str" g
-,g h
-InStocki p
-=p q
-trueq u
-,u v
-ImageThumbnailUrl )
-=* +
-$str+ p
-}p q
-,q r
-new 
-Flower 
-{  
-FlowerId  (
-=) *
-$num+ ,
-,, -
-Name. 2
-=2 3
-$str3 <
-,< =
-Price> C
-=C D
-$numD J
-,J K
-ShortDescriptionL \
-=\ ]
-$str] k
-,k l
-LongDescriptionm |
-=| }
-$str	} Ü
-,
-Ü á
-Category
-à ê
-=
-ë í!
-_categoryRepository
-ì ¶
-.
-¶ ß
-
-Categories
-ß ±
-.
-± ≤
-ToList
-≤ ∏
-(
-∏ π
-)
-π ∫
-[
-∫ ª
-$num
-ª º
-]
-º Ω
-,
-Ω æ
-ImageUrl  
-=! "
-$str	" Ä
-,
-Ä Å
-InStock
-Ç â
-=
-â ä
-true
-ä é
-,
-é è
-ImageThumbnailUrl )
-=* +
-$str	+ â
-}
-â ä
-,
-ä ã
-new 
-Flower 
-{  
-FlowerId  (
-=) *
-$num+ ,
-,, -
-Name. 2
-=2 3
-$str3 :
-,: ;
-Price< A
-=A B
-$numB H
-,H I
-ShortDescriptionJ Z
-=Z [
-$str[ f
-,f g
-LongDescriptionh w
-=w x
-$str	x É
-,
-É Ñ
-Category
-Ö ç
-=
-é è!
-_categoryRepository
-ê £
-.
-£ §
-
-Categories
-§ Æ
-.
-Æ Ø
-ToList
-Ø µ
-(
-µ ∂
-)
-∂ ∑
-[
-∑ ∏
-$num
-∏ π
-]
-π ∫
-,
-∫ ª
-ImageUrl  
-=! "
-$str" s
-,s t
-InStocku |
-=| }
-true	} Å
-,
-Å Ç
-ImageThumbnailUrl )
-=* +
-$str+ |
-}| }
-,} ~
-new!! 
-Flower!! 
-{!!  
-FlowerId!!  (
-=!!) *
-$num!!+ ,
-,!!, -
-Name!!. 2
-=!!2 3
-$str!!3 ;
-,!!; <
-Price!!= B
-=!!B C
-$num!!C I
-,!!I J
-ShortDescription!!K [
-=!![ \
-$str!!\ k
-,!!k l
-LongDescription!!m |
-=!!| }
-$str	!!} Ö
-,
-!!Ö Ü
-Category
-!!á è
-=
-!!ê ë!
-_categoryRepository
-!!í •
-.
-!!• ¶
-
-Categories
-!!¶ ∞
-.
-!!∞ ±
-ToList
-!!± ∑
-(
-!!∑ ∏
-)
-!!∏ π
-[
-!!π ∫
-$num
-!!∫ ª
-]
-!!ª º
-,
-!!º Ω
-ImageUrl""  
-=""! "
-$str""" p
-,""p q
-InStock""r y
-=""y z
-true""z ~
-,""~ 
-ImageThumbnailUrl## )
-=##* +
-$str##+ y
-}##y z
-}$$ 
-;$$ 
-}%% 
-}&& 	
-public(( 
-IEnumerable(( 
-<(( 
-Flower(( !
->((! "
-FlowerPresentation((# 5
-{((6 7
-get((8 ;
-;((; <
-}((= >
-public** 
-IEnumerable** 
-<** 
-FlowerViewModel** *
->*** +
-FlowersAsViewModel**, >
-=>**? A
-throw**B G
-new**H K#
-NotImplementedException**L c
-(**c d
-)**d e
-;**e f
-public,, 
-IEnumerable,, 
-<,, 
-string,, !
->,,! "
-FlowersNames,,# /
-=>,,0 2
-throw,,3 8
-new,,9 <#
-NotImplementedException,,= T
-(,,T U
-),,U V
-;,,V W
-public.. 
-bool.. 
-	AddFlower.. 
-(.. 
-Flower.. $
-flower..% +
-)..+ ,
-{// 	
-throw00 
-new00 #
-NotImplementedException00 -
-(00- .
-)00. /
-;00/ 0
-}11 	
-public33 
-bool33 
-DeleteFlower33  
-(33  !
-Flower33! '
-flower33( .
-)33. /
-{44 	
-throw55 
-new55 #
-NotImplementedException55 -
-(55- .
-)55. /
-;55/ 0
-}66 	
-public88 
-Flower88 
-GetFlowerById88 #
-(88# $
-int88$ '
-flowerId88( 0
-)880 1
-{99 	
-throw:: 
-new:: 
-System:: 
-.:: #
-NotImplementedException:: 4
-(::4 5
-)::5 6
-;::6 7
-};; 	
-public== 
-bool== 
-UpdateFlower==  
-(==  !
-Flower==! '
-flower==( .
-)==. /
-{>> 	
-throw?? 
-new?? #
-NotImplementedException?? -
-(??- .
-)??. /
-;??/ 0
-}@@ 	
-}AA 
-}BB ˝-
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs
-	namespace 	
-	FlowerApp
- 
-. 
-
-Repository 
-{		 
-public
-
- 
-
-class
-
- 
-OrderRepository
-
-  
-:
-
-! "
-IOrderRepository
-
-# 3
-{ 
-private 
-readonly 
-AppDbContext %
-_appDbContext& 3
-;3 4
-private 
-readonly 
-ShoppingCart %
-_shoppingCart& 3
-;3 4
-public 
-OrderRepository 
-( 
-AppDbContext +
-appDbContext, 8
-,8 9
-ShoppingCart: F
-shoppingCartG S
-)S T
-{ 	
-_appDbContext 
-= 
-appDbContext (
-;( )
-_shoppingCart 
-= 
-shoppingCart (
-;( )
-} 	
-public 
-IEnumerable 
-< (
-OrderHistoryDetailsViewModel 7
->7 8 
-GetOrdersAsViewModel9 M
-(M N
-stringN T
-userNameU ]
-=^ _
-$str` b
-)b c
-{ 	
-List 
-< 
-Order 
-> 
-orders 
-=  
-null! %
-;% &
-if 
-( 
-string 
-. 
-IsNullOrEmpty $
-($ %
-userName% -
-)- .
-). /
-{ 
-orders 
-= 
-_appDbContext &
-.& '
-Orders' -
-.- .
-ToList. 4
-(4 5
-)5 6
-;6 7
-} 
-else 
+public 
+IEnumerable 
+< 
+string !
+>! "
+FlowersNames# /
+{ 	
+get 
 { 
-orders 
-= 
-_appDbContext &
-.& '
-Orders' -
-.- .
-Where. 3
+return 
+_appDbContext $
+.$ %
+Flowers% ,
+., -
+Select- 3
 (3 4
 x4 5
 =>6 8
 x9 :
-.: ;
-Email; @
-==A C
-userNameD L
-)L M
-.M N
-ToListN T
-(T U
-)U V
-;V W
-} 
-var!! #
-orderHistoryDetailsList!! '
-=!!( )
-new!!* -
-List!!. 2
-<!!2 3(
-OrderHistoryDetailsViewModel!!3 O
->!!O P
-(!!P Q
-)!!Q R
-;!!R S
-foreach"" 
-("" 
-var"" 
-order"" 
-in"" !
-orders""" (
-)""( )
-{## #
-orderHistoryDetailsList$$ '
-.$$' (
-Add$$( +
-($$+ ,&
-MapDbOrderToOrderViewModel$$, F
-($$F G
-order$$G L
-)$$L M
-)$$M N
-;$$N O
-}%% 
-return'' #
-orderHistoryDetailsList'' *
-;''* +
+.: ;
+Name; ?
+)? @
+.@ A
+ToListA G
+(G H
+)H I
+;I J
+} 
+}   	
+public"" 
+IEnumerable"" 
+<"" 
+Flower"" !
+>""! "
+FlowerPresentation""# 5
+{## 	
+get$$ 
+{%% 
+return&& 
+_appDbContext&& $
+.&&$ %
+Flowers&&% ,
+.&&, -
+Include&&- 4
+(&&4 5
+c&&5 6
+=>&&7 9
+c&&: ;
+.&&; <
+Category&&< D
+)&&D E
+.&&E F
+Where&&F K
+(&&K L
+p&&L M
+=>&&N P
+p&&Q R
+.&&R S 
+IsFlowerPresentation&&S g
+)&&g h
+;&&h i
+}'' 
 }(( 	
-public** 
-void** 
-CreateOrder** 
-(**  
-Order**  %
-order**& +
-)**+ ,
-{++ 	
-order,, 
-.,, 
-OrderPlaced,, 
-=,, 
-DateTime,,  (
-.,,( )
-Now,,) ,
-;,,, -
-_appDbContext.. 
-... 
-Orders..  
-...  !
-Add..! $
-(..$ %
-order..% *
-)..* +
-;..+ ,
-var00 
-shoppingCartItems00 !
-=00" #
-_shoppingCart00$ 1
-.001 2
-ShoppingCartItems002 C
-;00C D
-foreach22 
-(22 
-var22 
-shoppingCartItem22 )
-in22* ,
-shoppingCartItems22- >
-)22> ?
-{33 
-var44 
-orderDetail44 
-=44  !
-new44" %
-OrderDetail44& 1
-(441 2
-)442 3
-{55 
-Amount66 
-=66 
-shoppingCartItem66 -
-.66- .
-Amount66. 4
-,664 5
-FlowerId77 
-=77 
-shoppingCartItem77 /
-.77/ 0
-Flower770 6
-.776 7
-FlowerId777 ?
-,77? @
-OrderId88 
-=88 
-order88 #
-.88# $
-OrderId88$ +
-,88+ ,
-Price99 
-=99 
-shoppingCartItem99 ,
-.99, -
-Flower99- 3
-.993 4
-Price994 9
-}:: 
-;:: 
-_appDbContext<< 
-.<< 
-OrderDetails<< *
-.<<* +
-Add<<+ .
-(<<. /
-orderDetail<</ :
-)<<: ;
-;<<; <
-}== 
-_appDbContext?? 
-.?? 
-SaveChanges?? %
-(??% &
-)??& '
-;??' (
-}@@ 	
-privateBB (
-OrderHistoryDetailsViewModelBB ,&
-MapDbOrderToOrderViewModelBB- G
-(BBG H
-OrderBBH M
-dbOrderBBN U
-)BBU V
-{CC 	
-returnDD 
-newDD (
-OrderHistoryDetailsViewModelDD 3
-(DD3 4
-)DD4 5
-{EE 
-OrderIdFF 
-=FF 
-dbOrderFF !
-.FF! "
-OrderIdFF" )
-,FF) *
-AddressGG 
-=GG 
-dbOrderGG !
-.GG! "
-AddressLine1GG" .
-+GG/ 0
-$strGG1 4
-+GG5 6
-dbOrderGG7 >
-.GG> ?
-AddressLine2GG? K
-,GGK L
-CityHH 
-=HH 
-dbOrderHH 
-.HH 
-CityHH #
-,HH# $
-	FirstNameII 
-=II 
-dbOrderII #
-.II# $
-	FirstNameII$ -
-,II- .
-LastNameJJ 
-=JJ 
-dbOrderJJ "
-.JJ" #
-LastNameJJ# +
-,JJ+ ,
-	PayMethodKK 
-=KK 
-dbOrderKK #
-.KK# $
-	PayMethodKK$ -
-,KK- .
-PhoneNumberLL 
-=LL 
-dbOrderLL %
-.LL% &
-PhoneNumberLL& 1
-,LL1 2
-ShippingMethodMM 
-=MM  
-dbOrderMM! (
-.MM( )
-ShippingMethodMM) 7
-}NN 
-;NN 
-}OO 	
-}PP 
-}QQ ’.
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs
-	namespace 	
-	FlowerApp
- 
-{ 
-public 
-
-class 
-Startup 
-{ 
-private 
-IConfigurationRoot "
-_configurationRoot# 5
-;5 6
-public 
-Startup 
-( 
-IHostingEnvironment *
-hostingEnvironment+ =
-)= >
-{ 	
-_configurationRoot 
-=  
-new! $ 
-ConfigurationBuilder% 9
-(9 :
-): ;
-. 
-SetBasePath '
-(' (
-hostingEnvironment( :
-.: ;
-ContentRootPath; J
-)J K
-. 
-AddJsonFile '
-(' (
-$str( :
-): ;
-. 
-Build !
-(! "
-)" #
-;# $
-} 	
-public"" 
-void"" 
-ConfigureServices"" %
-(""% &
-IServiceCollection""& 8
-services""9 A
-)""A B
-{## 	
-services$$ 
-.$$ 
-AddDbContext$$ !
-<$$! "
-AppDbContext$$" .
->$$. /
-($$/ 0
-options$$0 7
-=>$$8 :
-options%%, 3
-.%%3 4
-UseSqlServer%%4 @
-(%%@ A
-_configurationRoot%%A S
-.%%S T
-GetConnectionString%%T g
-(%%g h
-$str%%h {
-)%%{ |
-)%%| }
-)%%} ~
-;%%~ 
-services'' 
-.'' 
-AddIdentity''  
-<''  !
-ApplicationUser''! 0
-,''0 1
-IdentityRole''2 >
->''> ?
-(''? @
-options''@ G
-=>''H J
-{(( 
-options)) 
-.)) 
-Password))  
-.))  !
-RequireDigit))! -
-=)). /
-true))0 4
-;))4 5
-options** 
-.** 
-Password**  
-.**  !
-RequireLowercase**! 1
-=**2 3
-true**4 8
-;**8 9
-options++ 
-.++ 
-Password++  
-.++  !
-RequireUppercase++! 1
-=++2 3
-true++4 8
-;++8 9
-options,, 
-.,, 
-Password,,  
-.,,  !"
-RequireNonAlphanumeric,,! 7
-=,,8 9
-false,,: ?
-;,,? @
-options-- 
-.-- 
-User-- 
-.-- 
-RequireUniqueEmail-- /
-=--0 1
-false--2 7
-;--7 8
-}.. 
-).. 
-.// $
-AddEntityFrameworkStores// )
-<//) *
-AppDbContext//* 6
->//6 7
-(//7 8
-)//8 9
-;//9 :
-services11 
-.11 
-AddTransient11 !
-<11! "
-ICategoryRepository11" 5
-,115 6
-CategoryRepository117 I
->11I J
-(11J K
-)11K L
-;11L M
-services22 
-.22 
-AddTransient22 !
-<22! "
-IFlowerRepository22" 3
-,223 4
-FlowerRepository225 E
->22E F
-(22F G
-)22G H
-;22H I
-services33 
-.33 
-AddSingleton33 !
-<33! " 
-IHttpContextAccessor33" 6
-,336 7
-HttpContextAccessor338 K
->33K L
-(33L M
-)33M N
-;33N O
-services44 
-.44 
-	AddScoped44 
-<44 
-ShoppingCart44 +
->44+ ,
-(44, -
-sp44- /
-=>440 2
-ShoppingCart443 ?
-.44? @
-GetCart44@ G
-(44G H
-sp44H J
-)44J K
-)44K L
-;44L M
-services55 
-.55 
-AddTransient55 !
-<55! "
-IOrderRepository55" 2
-,552 3
-OrderRepository554 C
->55C D
-(55D E
-)55E F
-;55F G
-services77 
-.77 
-AddMvc77 
-(77 
-)77 
-;77 
-services99 
-.99 
-AddMemoryCache99 #
-(99# $
-)99$ %
-;99% &
-services:: 
-.:: 
-
-AddSession:: 
-(::  
-)::  !
-;::! "
-};; 	
+public** 
+Flower** 
+GetFlowerById** #
+(**# $
+int**$ '
+flowerId**( 0
+)**0 1
+{++ 	
+return,, 
+_appDbContext,,  
+.,,  !
+Flowers,,! (
+.,,( )
+FirstOrDefault,,) 7
+(,,7 8
+f,,8 9
+=>,,: <
+f,,= >
+.,,> ?
+FlowerId,,? G
+==,,H J
+flowerId,,K S
+),,S T
+;,,T U
+}-- 	
+public// 
+IEnumerable// 
+<// 
+FlowerViewModel// *
+>//* +
+FlowersAsViewModel//, >
+{00 	
+get11 
+{22 
+List33 
+<33 
+FlowerViewModel33 $
+>33$ %
+flowers33& -
+=33. /
+new330 3
+List334 8
+<338 9
+FlowerViewModel339 H
+>33H I
+(33I J
+)33J K
+;33K L
+foreach55 
+(55 
+var55 
+dbFlower55 %
+in55& (
+Flowers55) 0
+)550 1
+{66 
+flowers77 
+.77 
+Add77 
+(77  (
+MapDbFlowerToFlowerViewModel77  <
+(77< =
+dbFlower77= E
+)77E F
+)77F G
+;77G H
+}88 
+return:: 
+flowers:: 
+;:: 
+};; 
+}<< 	
 public>> 
-void>> 
-	Configure>> 
-(>> 
-IApplicationBuilder>> 1
-app>>2 5
-,>>5 6
-IHostingEnvironment>>7 J
-env>>K N
-,>>N O
-ILoggerFactory>>P ^
-loggerFactory>>_ l
-)>>l m
+bool>> 
+	AddFlower>> 
+(>> 
+Flower>> $
+flower>>% +
+)>>+ ,
 {?? 	
-app@@ 
-.@@ %
-UseDeveloperExceptionPage@@ )
-(@@) *
-)@@* +
-;@@+ ,
-appAA 
-.AA 
-UseStatusCodePagesAA "
-(AA" #
-)AA# $
-;AA$ %
-appBB 
-.BB 
-UseStaticFilesBB 
-(BB 
-)BB  
-;BB  !
-appCC 
-.CC 
-
-UseSessionCC 
-(CC 
-)CC 
-;CC 
-appDD 
-.DD 
-UseIdentityDD 
-(DD 
-)DD 
-;DD 
-appGG 
-.GG 
-UseMvcGG 
-(GG 
-routesGG 
-=>GG  
-{HH 
-routesII 
-.II 
-MapRouteII 
-(II  
-nameJJ 
-:JJ 
-$strJJ *
-,JJ* +
-templateKK 
-:KK 
-$strKK ;
-,KK; <
-defaultsLL 
-:LL 
-newLL !
-{LL" #
-
-ControllerLL$ .
-=LL/ 0
-$strLL1 9
-,LL9 :
-actionLL; A
-=LLB C
-$strLLD J
-}LLK L
-)LLL M
-;LLM N
-routesNN 
-.NN 
-MapRouteNN 
-(NN  
-nameOO 
-:OO 
-$strOO #
-,OO# $
-templatePP 
-:PP 
-$strPP F
-)PPF G
-;PPG H
-}QQ 
-)QQ 
-;QQ 
-DbInitializerSS 
-.SS 
-SeedSS 
-(SS 
-appSS "
-)SS" #
-;SS# $
-}TT 	
-}UU 
-}VV ‰
-
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs
-	namespace 	
-	FlowerApp
+var@@ 
+result@@ 
+=@@ 
+_appDbContext@@ &
+.@@& '
+Add@@' *
+(@@* +
+flower@@+ 1
+)@@1 2
+;@@2 3
+_appDbContextBB 
+.BB 
+SaveChangesBB %
+(BB% &
+)BB& '
+;BB' (
+returnDD 
+resultDD 
+.DD 
+StateDD 
+==DD  "
+EntityStateDD# .
+.DD. /
+AddedDD/ 4
+||DD5 7
+resultDD8 >
+.DD> ?
+StateDD? D
+==DDE G
+EntityStateDDH S
+.DDS T
+	UnchangedDDT ]
+?DD^ _
+trueDD` d
+:DDe f
+falseDDg l
+;DDl m
+}EE 	
+publicGG 
+boolGG 
+DeleteFlowerGG  
+(GG  !
+FlowerGG! '
+flowerGG( .
+)GG. /
+{HH 	
+varII 
+resultII 
+=II 
+_appDbContextII &
+.II& '
+RemoveII' -
+(II- .
+flowerII. 4
+)II4 5
+;II5 6
+_appDbContextKK 
+.KK 
+SaveChangesKK %
+(KK% &
+)KK& '
+;KK' (
+returnMM 
+resultMM 
+.MM 
+StateMM 
+==MM  "
+EntityStateMM# .
+.MM. /
+DeletedMM/ 6
+||MM7 9
+resultMM: @
+.MM@ A
+StateMMA F
+==MMG I
+EntityStateMMJ U
+.MMU V
+	UnchangedMMV _
+?MM` a
+trueMMb f
+:MMg h
+falseMMi n
+;MMn o
+}NN 	
+privatePP 
+FlowerViewModelPP (
+MapDbFlowerToFlowerViewModelPP  <
+(PP< =
+FlowerPP= C
+dbFlowerPPD L
+)PPL M
+{QQ 	
+returnRR 
+newRR 
+FlowerViewModelRR &
+(RR& '
+)RR' (
+{SS 
+FlowerIdTT 
+=TT 
+dbFlowerTT #
+.TT# $
+FlowerIdTT$ ,
+,TT, -
+NameUU 
+=UU 
+dbFlowerUU 
+.UU  
+NameUU  $
+,UU$ %
+PriceVV 
+=VV 
+dbFlowerVV  
+.VV  !
+PriceVV! &
+,VV& '
+ShortDescriptionWW  
+=WW! "
+dbFlowerWW# +
+.WW+ ,
+ShortDescriptionWW, <
+,WW< =
+ImageThumbnailUrlXX !
+=XX" #
+dbFlowerXX$ ,
+.XX, -
+ImageThumbnailUrlXX- >
+}YY 
+;YY 
+}ZZ 	
+public\\ 
+bool\\ 
+UpdateFlower\\  
+(\\  !
+Flower\\! '
+flower\\( .
+)\\. /
+{]] 	
+_appDbContext^^ 
+.^^ 
+Update^^  
+(^^  !
+flower^^! '
+)^^' (
+;^^( )
+_appDbContext`` 
+.`` 
+SaveChanges`` %
+(``% &
+)``& '
+;``' (
+returnbb 
+truebb 
+;bb 
+}cc 	
+}dd 
+}ee »
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ICategoryRepository.cs
+	namespace 	
+	FlowerApp
  
-. 
+. 
 
-TagHelpers 
-{ 
-public		 
-
-class		 
-EmailTagHelper		 
-:		  !
-	TagHelper		" +
-{
+Repository 
+{ 
+public 
+
+	interface 
+ICategoryRepository (
+{ 
+IEnumerable 
+< 
+Category 
+> 
+
+Categories (
+{) *
+get+ .
+;. /
+}0 1
+}		 
+}
 
- 
-public 
-string 
-Address 
-{ 
-get  #
-;# $
-set% (
-;( )
-}* +
-public 
-string 
-Content 
-{ 
-get  #
-;# $
-set% (
-;( )
-}* +
-public 
-override 
-void 
-Process $
-($ %
-TagHelperContext% 5
-context6 =
-,= >
-TagHelperOutput? N
-outputO U
-)U V
-{ 	
-output 
-. 
-TagName 
-= 
-$str  
-;  !
-output 
-. 
-
-Attributes 
-. 
-SetAttribute *
-(* +
-$str+ 1
-,1 2
-$str3 <
-+= >
-Address? F
-)F G
-;G H
-output 
-. 
-Content 
-. 
-
-SetContent %
-(% &
-Content& -
-)- .
-;. /
-} 	
-} 
-} ≥
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs
-	namespace 	
-	FlowerApp
+ ¿
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\IFlowerRepository.cs
+	namespace 	
+	FlowerApp
  
-. 
+. 
 
-ViewModels 
-{ 
-public 
+Repository 
+{ 
+public 
+
+	interface 
+IFlowerRepository &
+{ 
+IEnumerable		 
+<		 
+Flower		 
+>		 
+Flowers		 #
+{		$ %
+get		& )
+;		) *
+}		+ ,
+IEnumerable 
+< 
+Flower 
+> 
+FlowerPresentation .
+{/ 0
+get1 4
+;4 5
+}6 7
+IEnumerable 
+< 
+FlowerViewModel #
+># $
+FlowersAsViewModel% 7
+{ 	
+get 
+; 
+} 	
+IEnumerable 
+< 
+string 
+> 
+FlowersNames (
+{ 	
+get 
+; 
+} 	
+Flower 
+GetFlowerById 
+( 
+int  
+flowerId! )
+)) *
+;* +
+bool 
+	AddFlower 
+( 
+Flower 
+flower $
+)$ %
+;% &
+bool 
+DeleteFlower 
+( 
+Flower  
+flower! '
+)' (
+;( )
+bool 
+UpdateFlower 
+( 
+Flower  
+flower! '
+)' (
+;( )
+} 
+} ò
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\IOrderRepository.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+Repository 
+{ 
+public 
+
+	interface 
+IOrderRepository %
+{ 
+void		 
+CreateOrder		 
+(		 
+Order		 
+order		 $
+)		$ %
+;		% &
+IEnumerable 
+< (
+OrderHistoryDetailsViewModel 0
+>0 1 
+GetOrdersAsViewModel2 F
+(F G
+stringG M
+userNameN V
+=W X
+$strY [
+)[ \
+;\ ]
+} 
+} à
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+Repository 
+{ 
+public 
 
-class 
-AddFlowerViewModel #
-{		 
-public
-
- 
-string
-
- 
-Name
-
- 
-{
-
- 
+class #
+ModelCategoryRepository (
+:) *
+ICategoryRepository+ >
+{ 
+public 
+IEnumerable 
+< 
+Category #
+># $
+
+Categories% /
+{		 	
 get
 
-  
-;
-
-  !
-set
-
-" %
-;
-
-% &
-}
-
-' (
-public 
-string 
-ShortDescription &
-{' (
-get) ,
-;, -
-set. 1
-;1 2
-}3 4
-public 
-string 
-LongDescription %
-{& '
-get( +
-;+ ,
-set- 0
-;0 1
-}2 3
-public 
-decimal 
-Price 
-{ 
-get "
-;" #
-set$ '
-;' (
-}) *
-public 
-string 
-ImageUrl 
-{  
-get! $
-;$ %
-set& )
-;) *
-}+ ,
-public 
-string 
-ImageThumbnailUrl '
-{( )
-get* -
-;- .
-set/ 2
-;2 3
-}4 5
-public 
-bool  
-IsFlowerPresentation (
-{( )
-get* -
-;- .
-set/ 2
-;2 3
-}4 5
-public 
-bool 
-InStock 
-{ 
-get !
-;! "
-set# &
-;& '
-}( )
-public 
-int 
+ 
+{ 
+return 
+new 
+List 
+<  
+Category  (
+>( )
+{ 
+new 
+Category  
+{  !
 
-CategoryId 
-{ 
-get  #
-;# $
-set% (
-;( )
-}* +
-} 
-} Ô
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs
+CategoryId "
+=# $
+$num$ %
+,% &
+CategoryName $
+=% &
+$str& 5
+,5 6
+Description #
+=$ %
+$str% 9
+} 
+, 
+new 
+Category  
+{  !
+
+CategoryId "
+=# $
+$num$ %
+,% &
+CategoryName $
+=% &
+$str& :
+,: ;
+Description #
+=$ %
+$str% 3
+} 
+, 
+new 
+Category  
+{  !
+
+CategoryId "
+=# $
+$num$ %
+,% &
+CategoryName $
+=% &
+$str& 8
+,8 9
+Description #
+=$ %
+$str% M
+} 
+} 
+; 
+}   
+}!! 	
+}"" 
+}## ï2
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs
 	namespace 	
 	FlowerApp
  
 . 
 
-ViewModels 
+Repository 
 { 
 public		 
 
-class		 
-AddRoleViewModel		 !
+class		 !
+ModelFlowerRepository		 &
+:		' (
+IFlowerRepository		) :
 {
 
- 
-[ 	
-Required	 
-] 
-[ 	
-Display	 
-( 
-Name 
-= 
-$str #
-)# $
-]$ %
-public 
-string 
-RoleName 
-{  
-get! $
-;$ %
-set& )
-;) *
-}+ ,
-} 
-} π
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs
-	namespace 	
-	FlowerApp
- 
-. 
-
-ViewModels 
-{ 
-public		 
-
-class		 
-AddUserViewModel		 !
-{
-
- 
-[ 	
-Required	 
-] 
-[ 	
-Display	 
-( 
-Name 
-= 
-$str #
-)# $
-]$ %
-public 
-string 
-UserName 
-{  
-get! $
-;$ %
-set& )
-;) *
-}+ ,
-[ 	
-Required	 
-] 
-[ 	
-DataType	 
-( 
-DataType 
-. 
-EmailAddress '
-)' (
-]( )
-[ 	
-RegularExpression	 
-( 
-$str	  
+ 
+private 
+readonly 
+ICategoryRepository ,
+_categoryRepository- @
+=A B
+newC F#
+ModelCategoryRepositoryG ^
+(^ _
+)_ `
+;` a
+public 
+IEnumerable 
+< 
+Flower !
+>! "
+Flowers# *
+{ 	
+get 
+{ 
+return 
+new 
+List 
+<  
+Flower  &
+>& '
+{ 
+new 
+Flower 
+{  
+FlowerId  (
+=) *
+$num+ ,
+,, -
+Name. 2
+=2 3
+$str3 ;
+,; <
+Price= B
+=B C
+$numC I
+,I J
+ShortDescriptionK [
+=[ \
+$str\ j
+,j k
+LongDescriptionl {
+={ |
+$str	| É
 ,
-  À
-ErrorMessage 
-= 
-$str Q
-)Q R
-]R S
-public 
-string 
-Email 
+É Ñ
+Category
+Ö ç
+=
+é è!
+_categoryRepository
+ê £
+.
+£ §
+
+Categories
+§ Æ
+.
+Æ Ø
+ToList
+Ø µ
+(
+µ ∂
+)
+∂ ∑
+[
+∑ ∏
+$num
+∏ π
+]
+π ∫
+,
+∫ ª
+ImageUrl  
+=! "
+$str" g
+,g h
+InStocki p
+=p q
+trueq u
+,u v
+ImageThumbnailUrl )
+=* +
+$str+ p
+}p q
+,q r
+new 
+Flower 
+{  
+FlowerId  (
+=) *
+$num+ ,
+,, -
+Name. 2
+=2 3
+$str3 <
+,< =
+Price> C
+=C D
+$numD J
+,J K
+ShortDescriptionL \
+=\ ]
+$str] k
+,k l
+LongDescriptionm |
+=| }
+$str	} Ü
+,
+Ü á
+Category
+à ê
+=
+ë í!
+_categoryRepository
+ì ¶
+.
+¶ ß
+
+Categories
+ß ±
+.
+± ≤
+ToList
+≤ ∏
+(
+∏ π
+)
+π ∫
+[
+∫ ª
+$num
+ª º
+]
+º Ω
+,
+Ω æ
+ImageUrl  
+=! "
+$str	" Ä
+,
+Ä Å
+InStock
+Ç â
+=
+â ä
+true
+ä é
+,
+é è
+ImageThumbnailUrl )
+=* +
+$str	+ â
+}
+â ä
+,
+ä ã
+new 
+Flower 
+{  
+FlowerId  (
+=) *
+$num+ ,
+,, -
+Name. 2
+=2 3
+$str3 :
+,: ;
+Price< A
+=A B
+$numB H
+,H I
+ShortDescriptionJ Z
+=Z [
+$str[ f
+,f g
+LongDescriptionh w
+=w x
+$str	x É
+,
+É Ñ
+Category
+Ö ç
+=
+é è!
+_categoryRepository
+ê £
+.
+£ §
+
+Categories
+§ Æ
+.
+Æ Ø
+ToList
+Ø µ
+(
+µ ∂
+)
+∂ ∑
+[
+∑ ∏
+$num
+∏ π
+]
+π ∫
+,
+∫ ª
+ImageUrl  
+=! "
+$str" s
+,s t
+InStocku |
+=| }
+true	} Å
+,
+Å Ç
+ImageThumbnailUrl )
+=* +
+$str+ |
+}| }
+,} ~
+new   
+Flower   
+{    
+FlowerId    (
+=  ) *
+$num  + ,
+,  , -
+Name  . 2
+=  2 3
+$str  3 ;
+,  ; <
+Price  = B
+=  B C
+$num  C I
+,  I J
+ShortDescription  K [
+=  [ \
+$str  \ k
+,  k l
+LongDescription  m |
+=  | }
+$str	  } Ö
+,
+  Ö Ü
+Category
+  á è
+=
+  ê ë!
+_categoryRepository
+  í •
+.
+  • ¶
+
+Categories
+  ¶ ∞
+.
+  ∞ ±
+ToList
+  ± ∑
+(
+  ∑ ∏
+)
+  ∏ π
+[
+  π ∫
+$num
+  ∫ ª
+]
+  ª º
+,
+  º Ω
+ImageUrl!!  
+=!!! "
+$str!!" p
+,!!p q
+InStock!!r y
+=!!y z
+true!!z ~
+,!!~ 
+ImageThumbnailUrl"" )
+=""* +
+$str""+ y
+}""y z
+}## 
+;## 
+}$$ 
+}%% 	
+public'' 
+IEnumerable'' 
+<'' 
+Flower'' !
+>''! "
+FlowerPresentation''# 5
+{''6 7
+get''8 ;
+;''; <
+}''= >
+public)) 
+IEnumerable)) 
+<)) 
+FlowerViewModel)) *
+>))* +
+FlowersAsViewModel)), >
+=>))? A
+throw))B G
+new))H K#
+NotImplementedException))L c
+())c d
+)))d e
+;))e f
+public++ 
+IEnumerable++ 
+<++ 
+string++ !
+>++! "
+FlowersNames++# /
+=>++0 2
+throw++3 8
+new++9 <#
+NotImplementedException++= T
+(++T U
+)++U V
+;++V W
+public-- 
+bool-- 
+	AddFlower-- 
+(-- 
+Flower-- $
+flower--% +
+)--+ ,
+{.. 	
+throw// 
+new// #
+NotImplementedException// -
+(//- .
+)//. /
+;/// 0
+}00 	
+public22 
+bool22 
+DeleteFlower22  
+(22  !
+Flower22! '
+flower22( .
+)22. /
+{33 	
+throw44 
+new44 #
+NotImplementedException44 -
+(44- .
+)44. /
+;44/ 0
+}55 	
+public77 
+Flower77 
+GetFlowerById77 #
+(77# $
+int77$ '
+flowerId77( 0
+)770 1
+{88 	
+throw99 
+new99 
+System99 
+.99 #
+NotImplementedException99 4
+(994 5
+)995 6
+;996 7
+}:: 	
+public<< 
+bool<< 
+UpdateFlower<<  
+(<<  !
+Flower<<! '
+flower<<( .
+)<<. /
+{== 	
+throw>> 
+new>> #
+NotImplementedException>> -
+(>>- .
+)>>. /
+;>>/ 0
+}?? 	
+}@@ 
+}AA ˝-
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+Repository 
+{ 
+public		 
+
+class		 
+OrderRepository		  
+:		! "
+IOrderRepository		# 3
+{
+
+ 
+private 
+readonly 
+AppDbContext %
+_appDbContext& 3
+;3 4
+private 
+readonly 
+ShoppingCart %
+_shoppingCart& 3
+;3 4
+public 
+OrderRepository 
+( 
+AppDbContext +
+appDbContext, 8
+,8 9
+ShoppingCart: F
+shoppingCartG S
+)S T
+{ 	
+_appDbContext 
+= 
+appDbContext (
+;( )
+_shoppingCart 
+= 
+shoppingCart (
+;( )
+} 	
+public 
+IEnumerable 
+< (
+OrderHistoryDetailsViewModel 7
+>7 8 
+GetOrdersAsViewModel9 M
+(M N
+stringN T
+userNameU ]
+=^ _
+$str` b
+)b c
+{ 	
+List 
+< 
+Order 
+> 
+orders 
+=  
+null! %
+;% &
+if 
+( 
+string 
+. 
+IsNullOrEmpty $
+($ %
+userName% -
+)- .
+). /
+{ 
+orders 
+= 
+_appDbContext &
+.& '
+Orders' -
+.- .
+ToList. 4
+(4 5
+)5 6
+;6 7
+} 
+else 
+{ 
+orders 
+= 
+_appDbContext &
+.& '
+Orders' -
+.- .
+Where. 3
+(3 4
+x4 5
+=>6 8
+x9 :
+.: ;
+Email; @
+==A C
+userNameD L
+)L M
+.M N
+ToListN T
+(T U
+)U V
+;V W
+} 
+var   #
+orderHistoryDetailsList   '
+=  ( )
+new  * -
+List  . 2
+<  2 3(
+OrderHistoryDetailsViewModel  3 O
+>  O P
+(  P Q
+)  Q R
+;  R S
+foreach!! 
+(!! 
+var!! 
+order!! 
+in!! !
+orders!!" (
+)!!( )
+{"" #
+orderHistoryDetailsList## '
+.##' (
+Add##( +
+(##+ ,&
+MapDbOrderToOrderViewModel##, F
+(##F G
+order##G L
+)##L M
+)##M N
+;##N O
+}$$ 
+return&& #
+orderHistoryDetailsList&& *
+;&&* +
+}'' 	
+public)) 
+void)) 
+CreateOrder)) 
+())  
+Order))  %
+order))& +
+)))+ ,
+{** 	
+order++ 
+.++ 
+OrderPlaced++ 
+=++ 
+DateTime++  (
+.++( )
+Now++) ,
+;++, -
+_appDbContext-- 
+.-- 
+Orders--  
+.--  !
+Add--! $
+(--$ %
+order--% *
+)--* +
+;--+ ,
+var// 
+shoppingCartItems// !
+=//" #
+_shoppingCart//$ 1
+.//1 2
+ShoppingCartItems//2 C
+;//C D
+foreach11 
+(11 
+var11 
+shoppingCartItem11 )
+in11* ,
+shoppingCartItems11- >
+)11> ?
+{22 
+var33 
+orderDetail33 
+=33  !
+new33" %
+OrderDetail33& 1
+(331 2
+)332 3
+{44 
+Amount55 
+=55 
+shoppingCartItem55 -
+.55- .
+Amount55. 4
+,554 5
+FlowerId66 
+=66 
+shoppingCartItem66 /
+.66/ 0
+Flower660 6
+.666 7
+FlowerId667 ?
+,66? @
+OrderId77 
+=77 
+order77 #
+.77# $
+OrderId77$ +
+,77+ ,
+Price88 
+=88 
+shoppingCartItem88 ,
+.88, -
+Flower88- 3
+.883 4
+Price884 9
+}99 
+;99 
+_appDbContext;; 
+.;; 
+OrderDetails;; *
+.;;* +
+Add;;+ .
+(;;. /
+orderDetail;;/ :
+);;: ;
+;;;; <
+}<< 
+_appDbContext>> 
+.>> 
+SaveChanges>> %
+(>>% &
+)>>& '
+;>>' (
+}?? 	
+privateAA (
+OrderHistoryDetailsViewModelAA ,&
+MapDbOrderToOrderViewModelAA- G
+(AAG H
+OrderAAH M
+dbOrderAAN U
+)AAU V
+{BB 	
+returnCC 
+newCC (
+OrderHistoryDetailsViewModelCC 3
+(CC3 4
+)CC4 5
+{DD 
+OrderIdEE 
+=EE 
+dbOrderEE !
+.EE! "
+OrderIdEE" )
+,EE) *
+AddressFF 
+=FF 
+dbOrderFF !
+.FF! "
+AddressLine1FF" .
++FF/ 0
+$strFF1 4
++FF5 6
+dbOrderFF7 >
+.FF> ?
+AddressLine2FF? K
+,FFK L
+CityGG 
+=GG 
+dbOrderGG 
+.GG 
+CityGG #
+,GG# $
+	FirstNameHH 
+=HH 
+dbOrderHH #
+.HH# $
+	FirstNameHH$ -
+,HH- .
+LastNameII 
+=II 
+dbOrderII "
+.II" #
+LastNameII# +
+,II+ ,
+	PayMethodJJ 
+=JJ 
+dbOrderJJ #
+.JJ# $
+	PayMethodJJ$ -
+,JJ- .
+PhoneNumberKK 
+=KK 
+dbOrderKK %
+.KK% &
+PhoneNumberKK& 1
+,KK1 2
+ShippingMethodLL 
+=LL  
+dbOrderLL! (
+.LL( )
+ShippingMethodLL) 7
+}MM 
+;MM 
+}NN 	
+}OO 
+}PP ’.
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs
+	namespace 	
+	FlowerApp
+ 
+{ 
+public 
+
+class 
+Startup 
+{ 
+private 
+IConfigurationRoot "
+_configurationRoot# 5
+;5 6
+public 
+Startup 
+( 
+IHostingEnvironment *
+hostingEnvironment+ =
+)= >
+{ 	
+_configurationRoot 
+=  
+new! $ 
+ConfigurationBuilder% 9
+(9 :
+): ;
+. 
+SetBasePath '
+(' (
+hostingEnvironment( :
+.: ;
+ContentRootPath; J
+)J K
+. 
+AddJsonFile '
+(' (
+$str( :
+): ;
+. 
+Build !
+(! "
+)" #
+;# $
+} 	
+public 
+void 
+ConfigureServices %
+(% &
+IServiceCollection& 8
+services9 A
+)A B
+{ 	
+services 
+. 
+AddDbContext !
+<! "
+AppDbContext" .
+>. /
+(/ 0
+options0 7
+=>8 :
+options, 3
+.3 4
+UseSqlServer4 @
+(@ A
+_configurationRootA S
+.S T
+GetConnectionStringT g
+(g h
+$strh {
+){ |
+)| }
+)} ~
+;~ 
+services!! 
+.!! 
+AddIdentity!!  
+<!!  !
+ApplicationUser!!! 0
+,!!0 1
+IdentityRole!!2 >
+>!!> ?
+(!!? @
+options!!@ G
+=>!!H J
+{"" 
+options## 
+.## 
+Password##  
+.##  !
+RequireDigit##! -
+=##. /
+true##0 4
+;##4 5
+options$$ 
+.$$ 
+Password$$  
+.$$  !
+RequireLowercase$$! 1
+=$$2 3
+true$$4 8
+;$$8 9
+options%% 
+.%% 
+Password%%  
+.%%  !
+RequireUppercase%%! 1
+=%%2 3
+true%%4 8
+;%%8 9
+options&& 
+.&& 
+Password&&  
+.&&  !"
+RequireNonAlphanumeric&&! 7
+=&&8 9
+false&&: ?
+;&&? @
+options'' 
+.'' 
+User'' 
+.'' 
+RequireUniqueEmail'' /
+=''0 1
+false''2 7
+;''7 8
+}(( 
+)(( 
+.)) $
+AddEntityFrameworkStores)) )
+<))) *
+AppDbContext))* 6
+>))6 7
+())7 8
+)))8 9
+;))9 :
+services++ 
+.++ 
+AddTransient++ !
+<++! "
+ICategoryRepository++" 5
+,++5 6
+CategoryRepository++7 I
+>++I J
+(++J K
+)++K L
+;++L M
+services,, 
+.,, 
+AddTransient,, !
+<,,! "
+IFlowerRepository,," 3
+,,,3 4
+FlowerRepository,,5 E
+>,,E F
+(,,F G
+),,G H
+;,,H I
+services-- 
+.-- 
+AddSingleton-- !
+<--! " 
+IHttpContextAccessor--" 6
+,--6 7
+HttpContextAccessor--8 K
+>--K L
+(--L M
+)--M N
+;--N O
+services.. 
+... 
+	AddScoped.. 
+<.. 
+ShoppingCart.. +
+>..+ ,
+(.., -
+sp..- /
+=>..0 2
+ShoppingCart..3 ?
+...? @
+GetCart..@ G
+(..G H
+sp..H J
+)..J K
+)..K L
+;..L M
+services// 
+.// 
+AddTransient// !
+<//! "
+IOrderRepository//" 2
+,//2 3
+OrderRepository//4 C
+>//C D
+(//D E
+)//E F
+;//F G
+services11 
+.11 
+AddMvc11 
+(11 
+)11 
+;11 
+services33 
+.33 
+AddMemoryCache33 #
+(33# $
+)33$ %
+;33% &
+services44 
+.44 
+
+AddSession44 
+(44  
+)44  !
+;44! "
+}55 	
+public88 
+void88 
+	Configure88 
+(88 
+IApplicationBuilder88 1
+app882 5
+,885 6
+IHostingEnvironment887 J
+env88K N
+,88N O
+ILoggerFactory88P ^
+loggerFactory88_ l
+)88l m
+{99 	
+app:: 
+.:: %
+UseDeveloperExceptionPage:: )
+(::) *
+)::* +
+;::+ ,
+app;; 
+.;; 
+UseStatusCodePages;; "
+(;;" #
+);;# $
+;;;$ %
+app<< 
+.<< 
+UseStaticFiles<< 
+(<< 
+)<<  
+;<<  !
+app== 
+.== 
+
+UseSession== 
+(== 
+)== 
+;== 
+app>> 
+.>> 
+UseIdentity>> 
+(>> 
+)>> 
+;>> 
+appAA 
+.AA 
+UseMvcAA 
+(AA 
+routesAA 
+=>AA  
+{BB 
+routesCC 
+.CC 
+MapRouteCC 
+(CC  
+nameDD 
+:DD 
+$strDD *
+,DD* +
+templateEE 
+:EE 
+$strEE ;
+,EE; <
+defaultsFF 
+:FF 
+newFF !
+{FF" #
+
+ControllerFF$ .
+=FF/ 0
+$strFF1 9
+,FF9 :
+actionFF; A
+=FFB C
+$strFFD J
+}FFK L
+)FFL M
+;FFM N
+routesHH 
+.HH 
+MapRouteHH 
+(HH  
+nameII 
+:II 
+$strII #
+,II# $
+templateJJ 
+:JJ 
+$strJJ F
+)JJF G
+;JJG H
+}KK 
+)KK 
+;KK 
+DbInitializerMM 
+.MM 
+SeedMM 
+(MM 
+appMM "
+)MM" #
+;MM# $
+}NN 	
+}OO 
+}PP ‰
+
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+TagHelpers 
+{ 
+public 
+
+class 
+EmailTagHelper 
+:  !
+	TagHelper" +
+{ 
+public 
+string 
+Address 
+{ 
+get  #
+;# $
+set% (
+;( )
+}* +
+public		 
+string		 
+Content		 
+{		 
+get		  #
+;		# $
+set		% (
+;		( )
+}		* +
+public 
+override 
+void 
+Process $
+($ %
+TagHelperContext% 5
+context6 =
+,= >
+TagHelperOutput? N
+outputO U
+)U V
+{ 	
+output 
+. 
+TagName 
+= 
+$str  
+;  !
+output 
+. 
+
+Attributes 
+. 
+SetAttribute *
+(* +
+$str+ 1
+,1 2
+$str3 <
++= >
+Address? F
+)F G
+;G H
+output 
+. 
+Content 
+. 
+
+SetContent %
+(% &
+Content& -
+)- .
+;. /
+} 	
+} 
+} ≥
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+ViewModels 
+{ 
+public 
+
+class 
+AddFlowerViewModel #
+{ 
+public 
+string 
+Name 
+{ 
+get  
+;  !
+set" %
+;% &
+}' (
+public 
+string 
+ShortDescription &
+{' (
+get) ,
+;, -
+set. 1
+;1 2
+}3 4
+public		 
+string		 
+LongDescription		 %
+{		& '
+get		( +
+;		+ ,
+set		- 0
+;		0 1
+}		2 3
+public 
+decimal 
+Price 
+{ 
+get "
+;" #
+set$ '
+;' (
+}) *
+public 
+string 
+ImageUrl 
+{  
+get! $
+;$ %
+set& )
+;) *
+}+ ,
+public 
+string 
+ImageThumbnailUrl '
+{( )
+get* -
+;- .
+set/ 2
+;2 3
+}4 5
+public 
+bool  
+IsFlowerPresentation (
+{) *
+get+ .
+;. /
+set0 3
+;3 4
+}5 6
+public 
+bool 
+InStock 
 { 
 get !
 ;! "
 set# &
 ;& '
-}( )
-[ 	
-Required	 
-] 
-[ 	
-DataType	 
-( 
-DataType 
-. 
-Password #
-)# $
-]$ %
-public 
-string 
-Password 
-{  
-get! $
-;$ %
-set& )
-;) *
-}+ ,
-[ 	
-Required	 
-( 
-ErrorMessage 
-=  
-$str! >
-)> ?
-]? @
-[ 	
-Display	 
-( 
-Name 
-= 
-$str $
-)$ %
-]% &
-[ 	
-DataType	 
-( 
-DataType 
-. 
-Date 
-)  
-]  !
-[ 	
-DisplayFormat	 
-( 
-DataFormatString '
-=( )
-$str* :
-,: ;!
-ApplyFormatInEditMode< Q
-=R S
-trueT X
-)X Y
-]Y Z
-public 
-DateTime 
-	Birthdate !
-{" #
-get$ '
-;' (
-set) ,
-;, -
-}. /
-public 
-string 
-City 
-{ 
-get  
-;  !
-set" %
-;% &
-}' (
-public!! 
-string!! 
-Country!! 
-{!! 
-get!!  #
-;!!# $
-set!!% (
-;!!( )
-}!!* +
-}"" 
-}## ’
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs
-	namespace 	
-	FlowerApp
+}( )
+public 
+int 
+
+CategoryId 
+{ 
+get  #
+;# $
+set% (
+;( )
+}* +
+} 
+} Ô
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs
+	namespace 	
+	FlowerApp
  
-. 
+. 
 
-ViewModels 
-{ 
-public 
+ViewModels 
+{ 
+public 
 
-class 
-CategoryViewModel "
-{		 
-public
-
- 
-int
-
- 
-
-CategoryId
-
- 
-{
-
- 
-get
-
-  #
-;
-
-# $
-set
-
-% (
-;
-
-( )
+class 
+AddRoleViewModel !
+{ 
+[ 	
+Required	 
+] 
+[ 	
+Display	 
+( 
+Name 
+= 
+$str #
+)# $
+]$ %
+public		 
+string		 
+RoleName		 
+{		  
+get		! $
+;		$ %
+set		& )
+;		) *
+}		+ ,
 }
 
-* +
-public 
-int 
-CategoryName 
-{  !
-get" %
-;% &
-set' *
-;* +
-}, -
-} 
-} ≥
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs
-	namespace 	
-	FlowerApp
+ 
+} π
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs
+	namespace 	
+	FlowerApp
  
-. 
+. 
 
-ViewModels 
-{ 
-public 
+ViewModels 
+{ 
+public 
 
-class %
-ClaimsManagementViewModel *
-{		 
+class 
+AddUserViewModel !
+{ 
+[ 	
+Required	 
+] 
+[		 	
+Display			 
+(		 
+Name		 
+=		 
+$str		 #
+)		# $
+]		$ %
 public
 
  
 string
 
- 
-UserId
+ 
+UserName
 
- 
+ 
 {
 
- 
+  
 get
 
- "
+! $
 ;
 
-" #
+$ %
 set
 
-$ '
+& )
 ;
 
-' (
+) *
 }
 
-) *
-public 
-string 
-ClaimId 
-{ 
-get  #
-;# $
-set% (
-;( )
-}* +
-public 
-List 
-< 
-string 
-> 
-AllClaimsList )
-{* +
-get, /
-;/ 0
-set1 4
-;4 5
-}6 7
-} 
-} »
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs
-	namespace 	
-	FlowerApp
- 
-. 
-
-ViewModels 
-{ 
-public 
-
-class 
-EditFlowerViewModel $
-{		 
-public
-
- 
-int
-
- 
-Id
-
- 
-{
-
- 
-get
-
- 
-;
-
- 
-set
-
-  
-;
-
-  !
-}
-
-" #
-public 
-string 
-Name 
-{ 
-get  
-;  !
-set" %
-;% &
-}' (
-public 
-string 
-ShortDescription &
-{' (
-get) ,
-;, -
-set. 1
-;1 2
-}3 4
++ ,
+[ 	
+Required	 
+] 
+[ 	
+DataType	 
+( 
+DataType 
+. 
+EmailAddress '
+)' (
+]( )
+[ 	
+RegularExpression	 
+( 
+$str	  
+,
+  À
+ErrorMessage 
+= 
+$str Q
+)Q R
+]R S
 public 
-string 
-LongDescription %
-{& '
-get( +
-;+ ,
-set- 0
-;0 1
-}2 3
-public 
-decimal 
-Price 
-{ 
-get "
-;" #
-set$ '
-;' (
-}) *
+string 
+Email 
+{ 
+get !
+;! "
+set# &
+;& '
+}( )
+[ 	
+Required	 
+] 
+[ 	
+DataType	 
+( 
+DataType 
+. 
+Password #
+)# $
+]$ %
 public 
 string 
-ImageUrl 
+Password 
 {  
 get! $
 ;$ %
 set& )
 ;) *
-}+ ,
-public 
-string 
-ImageThumbnailUrl '
-{( )
-get* -
-;- .
-set/ 2
-;2 3
-}4 5
-public 
-bool  
-IsFlowerPresentation (
-{) *
-get+ .
-;. /
-set0 3
-;3 4
-}5 6
-public 
-bool 
-InStock 
-{ 
-get !
-;! "
-set# &
-;& '
-}( )
-public 
-int 
-
-CategoryId 
-{ 
-get  #
-;# $
-set% (
-;( )
-}* +
-} 
-} ©
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditRoleViewModel.cs
-	namespace 	
-	FlowerApp
- 
-. 
-
-ViewModels 
-{ 
-public		 
-
-class		 
-EditRoleViewModel		 "
-{
-
- 
-public 
-string 
-Id 
-{ 
-get 
-; 
-set  #
-;# $
-}% &
-[ 	
-Required	 
-( 
-ErrorMessage 
-=  
-$str! =
-)= >
-]> ?
-[ 	
-Display	 
-( 
-Name 
-= 
-$str #
-)# $
-]$ %
-public 
-string 
-RoleName 
-{  
-get! $
-;$ %
-set& )
-;) *
-}+ ,
-public 
-List 
-< 
-string 
-> 
-Users !
-{" #
-get$ '
-;' (
-set) ,
-;, -
-}. /
-} 
-} ©
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs
-	namespace 	
-	FlowerApp
- 
-. 
-
-ViewModels 
-{ 
-public		 
-
-class		 
-EditUserViewModel		 "
-{
-
- 
-public 
-string 
-Id 
-{ 
-get 
-; 
-set  #
-;# $
-}% &
-[ 	
-Required	 
-( 
-ErrorMessage 
-=  
-$str! =
-)= >
-]> ?
-[ 	
-Display	 
-( 
-Name 
-= 
-$str #
-)# $
-]$ %
-public 
-string 
-UserName 
-{  
-get! $
-;$ %
-set& )
-;) *
-}+ ,
-[ 	
-Required	 
-( 
-ErrorMessage 
-=  
-$str! >
-)> ?
-]? @
-public 
-string 
-Email 
-{ 
-get !
-;! "
-set# &
-;& '
-}( )
-public 
-List 
-< 
-string 
-> 
-
-UserClaims &
-{' (
-get) ,
-;, -
-set. 1
-;1 2
-}3 4
+}+ ,
 [ 	
 Required	 
 ( 
@@ -15603,208 +15085,301 @@ UserClaims &
 ;( )
 }* +
 } 
-}   ø
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerDetailViewModel.cs
-	namespace 	
-	FlowerApp
+}   ’
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs
+	namespace 	
+	FlowerApp
  
-. 
+. 
 
-ViewModels 
-{ 
-public		 
+ViewModels 
+{ 
+public 
 
-class		 !
-FlowerDetailViewModel		 &
-{
-
- 
-public 
-Flower 
-Flower 
-{ 
-get "
-;" #
-set$ '
-;' (
-}) *
-} 
-} ñ
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs
-	namespace 	
-	FlowerApp
+class 
+CategoryViewModel "
+{ 
+public 
+int 
+
+CategoryId 
+{ 
+get  #
+;# $
+set% (
+;( )
+}* +
+public 
+int 
+CategoryName 
+{  !
+get" %
+;% &
+set' *
+;* +
+}, -
+} 
+}		 ≥
+RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs
+	namespace 	
+	FlowerApp
  
-. 
+. 
 
-ViewModels 
-{ 
-public		 
+ViewModels 
+{ 
+public 
 
-class		 
-FlowerListViewModel		 $
-{
-
- 
-public 
-IEnumerable 
-< 
-Flower !
->! "
-Flowers# *
-{+ ,
-get- 0
-;0 1
-set2 5
-;5 6
-}7 8
-public 
-string 
-CurrentCategory %
-{& '
-get( +
-;+ ,
-set- 0
-;0 1
-}2 3
-} 
-} ≠
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs
-	namespace 	
-	FlowerApp
- 
-. 
-
-ViewModels 
-{ 
-public 
-
-class 
-FlowerViewModel  
-{		 
-public
-
- 
-int
-
- 
-FlowerId
-
- 
-{
-
- 
-get
-
- !
-;
-
-! "
-set
-
-# &
-;
-
-& '
+class %
+ClaimsManagementViewModel *
+{ 
+public 
+string 
+UserId 
+{ 
+get "
+;" #
+set$ '
+;' (
+}) *
+public 
+string 
+ClaimId 
+{ 
+get  #
+;# $
+set% (
+;( )
+}* +
+public		 
+List		 
+<		 
+string		 
+>		 
+AllClaimsList		 )
+{		* +
+get		, /
+;		/ 0
+set		1 4
+;		4 5
+}		6 7
 }
 
-( )
+ 
+} »
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+ViewModels 
+{ 
+public 
+
+class 
+EditFlowerViewModel $
+{ 
+public 
+int 
+Id 
+{ 
+get 
+; 
+set  
+;  !
+}" #
+public 
+string 
+Name 
+{ 
+get  
+;  !
+set" %
+;% &
+}' (
+public		 
+string		 
+ShortDescription		 &
+{		' (
+get		) ,
+;		, -
+set		. 1
+;		1 2
+}		3 4
+public 
+string 
+LongDescription %
+{& '
+get( +
+;+ ,
+set- 0
+;0 1
+}2 3
+public 
+decimal 
+Price 
+{ 
+get "
+;" #
+set$ '
+;' (
+}) *
+public 
+string 
+ImageUrl 
+{  
+get! $
+;$ %
+set& )
+;) *
+}+ ,
+public 
+string 
+ImageThumbnailUrl '
+{( )
+get* -
+;- .
+set/ 2
+;2 3
+}4 5
+public 
+bool  
+IsFlowerPresentation (
+{) *
+get+ .
+;. /
+set0 3
+;3 4
+}5 6
+public 
+bool 
+InStock 
+{ 
+get !
+;! "
+set# &
+;& '
+}( )
+public 
+int 
+
+CategoryId 
+{ 
+get  #
+;# $
+set% (
+;( )
+}* +
+} 
+} ©
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditRoleViewModel.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+ViewModels 
+{ 
+public 
+
+class 
+EditRoleViewModel "
+{ 
+public 
+string 
+Id 
+{ 
+get 
+; 
+set  #
+;# $
+}% &
+[
+
+ 	
+Required
+
+	 
+(
+
+ 
+ErrorMessage
+
+ 
+=
+
+  
+$str
+
+! =
+)
+
+= >
+]
+
+> ?
+[ 	
+Display	 
+( 
+Name 
+= 
+$str #
+)# $
+]$ %
 public 
-string 
-Name 
-{ 
-get  
-;  !
-set" %
-;% &
-}' (
-public 
-string 
-ShortDescription &
-{' (
-get) ,
-;, -
-set. 1
-;1 2
-}3 4
-public 
-decimal 
-Price 
-{ 
-get "
-;" #
-set$ '
-;' (
-}) *
-public 
-string 
-ImageThumbnailUrl '
-{( )
-get* -
-;- .
-set/ 2
-;2 3
-}4 5
-} 
-} »
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\HomeViewModel.cs
-	namespace 	
-	FlowerApp
+string 
+RoleName 
+{  
+get! $
+;$ %
+set& )
+;) *
+}+ ,
+public 
+List 
+< 
+string 
+> 
+Users !
+{" #
+get$ '
+;' (
+set) ,
+;, -
+}. /
+} 
+} ©
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs
+	namespace 	
+	FlowerApp
  
-. 
+. 
 
-ViewModels 
-{ 
-public		 
+ViewModels 
+{ 
+public 
 
-class		 
-HomeViewModel		 
-{
-
- 
-public 
-IEnumerable 
-< 
-Flower !
->! "
-FlowerPresentation# 5
-{6 7
-get8 ;
-;; <
-set= @
-;@ A
-}B C
-public 
-IEnumerable 
-< 
-string !
->! "
-FlowersName# .
-{/ 0
-get1 4
-;4 5
-set6 9
-;9 :
-}; <
-} 
-} Â
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs
-	namespace 	
-	FlowerApp
- 
-. 
-
-ViewModels 
-{ 
-public		 
-
-class		 
-LoginViewModel		 
-{
-
- 
+class 
+EditUserViewModel "
+{ 
+public		 
+string		 
+Id		 
+{		 
+get		 
+;		 
+set		  #
+;		# $
+}		% &
 [ 	
 Required	 
-] 
+( 
+ErrorMessage 
+=  
+$str! =
+)= >
+]> ?
 [ 	
 Display	 
 ( 
@@ -15824,153 +15399,262 @@ ViewModels 
 }+ ,
 [ 	
 Required	 
-] 
-[ 	
-DataType	 
-( 
-DataType 
-. 
-Password #
-)# $
-]$ %
-public 
-string 
-Password 
-{  
-get! $
-;$ %
-set& )
-;) *
-}+ ,
-public 
-string 
-	ReturnUrl 
-{  !
-get" %
-;% &
-set' *
-;* +
-}, -
-} 
-} ï
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
-	namespace 	
-	FlowerApp
- 
-. 
+( 
+ErrorMessage 
+=  
+$str! >
+)> ?
+]? @
+public 
+string 
+Email 
+{ 
+get !
+;! "
+set# &
+;& '
+}( )
+public 
+List 
+< 
+string 
+> 
 
-ViewModels 
-{ 
-public 
+UserClaims &
+{' (
+get) ,
+;, -
+set. 1
+;1 2
+}3 4
+[ 	
+Required	 
+( 
+ErrorMessage 
+=  
+$str! >
+)> ?
+]? @
+[ 	
+Display	 
+( 
+Name 
+= 
+$str $
+)$ %
+]% &
+[ 	
+DataType	 
+( 
+DataType 
+. 
+Date 
+)  
+]  !
+[ 	
+DisplayFormat	 
+( 
+DataFormatString '
+=( )
+$str* :
+,: ;!
+ApplyFormatInEditMode< Q
+=R S
+trueT X
+)X Y
+]Y Z
+public 
+DateTime 
+	Birthdate !
+{" #
+get$ '
+;' (
+set) ,
+;, -
+}. /
+public 
+string 
+City 
+{ 
+get  
+;  !
+set" %
+;% &
+}' (
+public 
+string 
+Country 
+{ 
+get  #
+;# $
+set% (
+;( )
+}* +
+} 
+} ø
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerDetailViewModel.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+ViewModels 
+{ 
+public 
 
-class (
-OrderHistoryDetailsViewModel -
-{		 
+class !
+FlowerDetailViewModel &
+{ 
+public 
+Flower 
+Flower 
+{ 
+get "
+;" #
+set$ '
+;' (
+}) *
+} 
+}		 ñ
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+ViewModels 
+{ 
+public 
+
+class 
+FlowerListViewModel $
+{ 
+public 
+IEnumerable 
+< 
+Flower !
+>! "
+Flowers# *
+{+ ,
+get- 0
+;0 1
+set2 5
+;5 6
+}7 8
 public
 
- 
-int
+ 
+string
 
- 
-OrderId
+ 
+CurrentCategory
 
- 
+ %
 {
 
- 
+& '
 get
 
-  
+( +
 ;
 
-  !
++ ,
 set
 
-" %
+- 0
 ;
 
-% &
+0 1
 }
 
-' (
-public 
-string 
-	FirstName 
-{  
-get! $
-;$ %
-set& )
-;) *
-}+ ,
-public 
-string 
-LastName 
-{ 
-get  #
-;# $
-set% (
-;( )
-}* +
-public 
-string 
-Address 
-{ 
-get "
-;" #
-set$ '
-;' (
-}) *
-public 
-string 
-City 
-{ 
-get 
-;  
-set! $
-;$ %
-}& '
-public 
-string 
-ShippingMethod $
-{% &
-get' *
-;* +
-set, /
-;/ 0
-}1 2
-public 
-string 
-PhoneNumber !
-{" #
-get$ '
-;' (
-set) ,
-;, -
-}. /
-public 
-string 
-	PayMethod 
-{  !
-get" %
-;% &
-set' *
-;* +
-}, -
-} 
-} å
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.cs
-	namespace 	
-	FlowerApp
+2 3
+} 
+} ≠
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs
+	namespace 	
+	FlowerApp
  
-. 
+. 
 
-ViewModels 
-{ 
-public 
+ViewModels 
+{ 
+public 
 
-class !
-OrderHistoryViewModel &
-{		 
+class 
+FlowerViewModel  
+{ 
+public 
+int 
+FlowerId 
+{ 
+get !
+;! "
+set# &
+;& '
+}( )
+public 
+string 
+Name 
+{ 
+get  
+;  !
+set" %
+;% &
+}' (
+public		 
+string		 
+ShortDescription		 &
+{		' (
+get		) ,
+;		, -
+set		. 1
+;		1 2
+}		3 4
+public 
+decimal 
+Price 
+{ 
+get "
+;" #
+set$ '
+;' (
+}) *
+public 
+string 
+ImageThumbnailUrl '
+{( )
+get* -
+;- .
+set/ 2
+;2 3
+}4 5
+} 
+} »
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\HomeViewModel.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+ViewModels 
+{ 
+public 
+
+class 
+HomeViewModel 
+{ 
+public 
+IEnumerable 
+< 
+Flower !
+>! "
+FlowerPresentation# 5
+{6 7
+get8 ;
+;; <
+set= @
+;@ A
+}B C
 public
 
  
@@ -15979,131 +15663,345 @@ ViewModels 
  
 <
 
- (
-OrderHistoryDetailsViewModel
+ 
+string
 
- 7
+ !
 >
 
-7 8
-Orders
+! "
+FlowersName
 
-9 ?
+# .
 {
 
-@ A
+/ 0
 get
 
-B E
+1 4
 ;
 
-E F
+4 5
 set
 
-G J
+6 9
 ;
 
-J K
+9 :
 }
 
-L M
+; <
 } 
-} Ò
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs
-	namespace 	
-	FlowerApp
+} Â
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs
+	namespace 	
+	FlowerApp
  
-. 
+. 
 
-ViewModels 
-{ 
-public		 
+ViewModels 
+{ 
+public 
 
-class		 !
-ShoppingCartViewModel		 &
-{
-
- 
-public 
-ShoppingCart 
-ShoppingCart (
-{) *
-get+ .
-;. /
-set0 3
-;3 4
-}5 6
-public 
-decimal 
-ShoppingCartTotal (
-{) *
-get+ .
-;. /
-set0 3
-;3 4
-}5 6
-} 
-} π
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs
-	namespace 	
-	FlowerApp
- 
-. 
-
-ViewModels 
-{ 
-public		 
-
-class		 
-UserRoleViewModel		 "
-{
-
- 
-public 
-UserRoleViewModel  
-(  !
-)! "
-{ 	
-Users 
-= 
-new 
-List 
-< 
-IdentityUser )
->) *
-(* +
-)+ ,
-;, -
-} 	
+class 
+LoginViewModel 
+{ 
+[ 	
+Required	 
+] 
+[ 	
+Display	 
+( 
+Name 
+= 
+$str #
+)# $
+]$ %
+public		 
+string		 
+UserName		 
+{		  
+get		! $
+;		$ %
+set		& )
+;		) *
+}		+ ,
+[ 	
+Required	 
+] 
+[ 	
+DataType	 
+( 
+DataType 
+. 
+Password #
+)# $
+]$ %
+public 
+string 
+Password 
+{  
+get! $
+;$ %
+set& )
+;) *
+}+ ,
 public 
-string 
-UserId 
-{ 
-get "
-;" #
-set$ '
-;' (
-}) *
-public 
-string 
-RoleId 
-{ 
-get "
-;" #
-set$ '
-;' (
-}) *
-public 
-List 
-< 
-IdentityUser  
->  !
-Users" '
-{( )
-get* -
-;- .
-set/ 2
-;2 3
-}4 5
-} 
-} 
+string 
+	ReturnUrl 
+{  !
+get" %
+;% &
+set' *
+;* +
+}, -
+} 
+} ï
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+ViewModels 
+{ 
+public 
+
+class (
+OrderHistoryDetailsViewModel -
+{ 
+public 
+int 
+OrderId 
+{ 
+get  
+;  !
+set" %
+;% &
+}' (
+public 
+string 
+	FirstName 
+{  !
+get" %
+;% &
+set' *
+;* +
+}, -
+public 
+string 
+LastName 
+{  
+get! $
+;$ %
+set& )
+;) *
+}+ ,
+public 
+string 
+Address 
+{ 
+get  #
+;# $
+set% (
+;( )
+}* +
+public		 
+string		 
+City		 
+{		 
+get		  
+;		  !
+set		" %
+;		% &
+}		' (
+public
+
+ 
+string
+
+ 
+ShippingMethod
+
+ $
+{
+
+% &
+get
+
+' *
+;
+
+* +
+set
+
+, /
+;
+
+/ 0
+}
+
+1 2
+public 
+string 
+PhoneNumber !
+{" #
+get$ '
+;' (
+set) ,
+;, -
+}. /
+public 
+string 
+	PayMethod 
+{  !
+get" %
+;% &
+set' *
+;* +
+}, -
+} 
+} å
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+ViewModels 
+{ 
+public 
+
+class !
+OrderHistoryViewModel &
+{ 
+public 
+IEnumerable 
+< (
+OrderHistoryDetailsViewModel 7
+>7 8
+Orders9 ?
+{@ A
+getB E
+;E F
+setG J
+;J K
+}L M
+} 
+}		 Ò
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+ViewModels 
+{ 
+public 
+
+class !
+ShoppingCartViewModel &
+{ 
+public 
+ShoppingCart 
+ShoppingCart (
+{) *
+get+ .
+;. /
+set0 3
+;3 4
+}5 6
+public		 
+decimal		 
+ShoppingCartTotal		 (
+{		) *
+get		+ .
+;		. /
+set		0 3
+;		3 4
+}		5 6
+}
+
+ 
+} π
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs
+	namespace 	
+	FlowerApp
+ 
+. 
+
+ViewModels 
+{ 
+public 
+
+class 
+UserRoleViewModel "
+{ 
+public 
+UserRoleViewModel  
+(  !
+)! "
+{		 	
+Users
+
+ 
+=
+
+ 
+new
+
+ 
+List
+
+ 
+<
+
+ 
+IdentityUser
+
+ )
+>
+
+) *
+(
+
+* +
+)
+
++ ,
+;
+
+, -
+} 	
+public 
+string 
+UserId 
+{ 
+get "
+;" #
+set$ '
+;' (
+}) *
+public 
+string 
+RoleId 
+{ 
+get "
+;" #
+set$ '
+;' (
+}) *
+public 
+List 
+< 
+IdentityUser  
+>  !
+Users" '
+{( )
+get* -
+;- .
+set/ 2
+;2 3
+}4 5
+} 
+} 

@@ -1,17 +1,18 @@
 
-(FlowerApp.Models.Category.CategoryId.getG
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs ("0*¸
-0G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (‘
-Ž
-G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (	
-%0int"__id*2*0
-FlowerApp.Models.Category"
-
-CategoryIdint"V
-G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (
-	
-%0intB
-FlowerApp.Models.Category
+1FlowerApp.ViewModels.FlowerViewModel.FlowerId.setR
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs# (&"0*–
+0R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs' ('¨
+¥
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs# ('9&
+$FlowerApp.ViewModels.FlowerViewModel"
+FlowerIdint"__id*
+
+valueint"‘
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs# (';*9&
+$FlowerApp.ViewModels.FlowerViewModel"
+FlowerIdint:
+valueintB(&
+$FlowerApp.ViewModels.FlowerViewModel

@@ -1,20 +1,18 @@
 
-%FlowerApp.Models.Order.OrderTotal.setD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csD) D(,"0*ß
+&FlowerApp.Models.Order.PhoneNumber.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9) 9(,"0*Þ
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csD- D(-–
-“
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9- 9(-•
+’
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csD) D(-1
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9) 9(-1
 FlowerApp.Models.Order"
-
-OrderTotaldecimal"__id*
-
-valuedecimal"{
+PhoneNumberstring"__id*
+
+valuestring"{
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csD) D(-3*1
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9) 9(-3*1
 FlowerApp.Models.Order"
-
-OrderTotaldecimal:
-valuedecimalB
+PhoneNumberstring:
+valuestringB
 FlowerApp.Models.Order

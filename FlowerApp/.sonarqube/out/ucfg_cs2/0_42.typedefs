@@ -1,21 +1,3 @@
-…
-FlowerApp.Models.OrderDetailobject;
-OrderDetail()*FlowerApp.Models.OrderDetail.OrderDetail()C
-OrderDetailId.get.FlowerApp.Models.OrderDetail.OrderDetailId.getC
-OrderDetailId.set.FlowerApp.Models.OrderDetail.OrderDetailId.set7
-OrderId.get(FlowerApp.Models.OrderDetail.OrderId.get7
-OrderId.set(FlowerApp.Models.OrderDetail.OrderId.set9
-FlowerId.get)FlowerApp.Models.OrderDetail.FlowerId.get9
-FlowerId.set)FlowerApp.Models.OrderDetail.FlowerId.set5
-
-Amount.get'FlowerApp.Models.OrderDetail.Amount.get5
-
-Amount.set'FlowerApp.Models.OrderDetail.Amount.set3
-	Price.get&FlowerApp.Models.OrderDetail.Price.get3
-	Price.set&FlowerApp.Models.OrderDetail.Price.set5
-
-Flower.get'FlowerApp.Models.OrderDetail.Flower.get5
-
-Flower.set'FlowerApp.Models.OrderDetail.Flower.set3
-	Order.get&FlowerApp.Models.OrderDetail.Order.get3
-	Order.set&FlowerApp.Models.OrderDetail.Order.set
+®
+2FlowerApp.Controllers.FlowerController.FlowerStockSystem.EnumSystem.ValueTypeobjectQ
+FlowerStock()@FlowerApp.Controllers.FlowerController.FlowerStock.FlowerStock()

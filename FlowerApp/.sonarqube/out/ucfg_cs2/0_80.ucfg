@@ -1,24 +1,16 @@
 
-=FlowerApp.ViewModels.OrderHistoryDetailsViewModel.OrderId.get_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
- 
-( "0*•
+AFlowerApp.ViewModels.OrderHistoryDetailsViewModel.PhoneNumber.get_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs$ ('"0*¢
 0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
-! 
-(!¾
-»
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs( ((È
+Å
 _
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
- 
-(!	
-%0int"__id*G*E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-OrderIdint"n
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs$ ((
+%0string"__id*N*L3
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
+PhoneNumberstring"q
 _
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
- 
-(!
-	
-%0intB53
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs$ ((
+
+%0stringB53
 1FlowerApp.ViewModels.OrderHistoryDetailsViewModel

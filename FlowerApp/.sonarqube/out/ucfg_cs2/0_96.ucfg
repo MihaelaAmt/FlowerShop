@@ -1,16 +1,124 @@
 
-:FlowerApp.ViewModels.OrderHistoryDetailsViewModel.City.get_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs ("0*õ
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs  ( ¡
-æ
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs ( 
-%0string"__id*G*E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-Citystring"q
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs ( 
-
-%0stringB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+$!razor_component_ShoppingCartSummaryV
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs$ (*"0*ô
+0V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs ()Ê
+„
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (%#
+%0FlowerApp.Models.ShoppingCart"__id*^*\*
+(FlowerApp.Components.ShoppingCartSummary".
+_shoppingCartFlowerApp.Models.ShoppingCart‚
+ﬂ
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (<(
+%1"System.Collections.Generic.List<T>"4FlowerApp.Models.ShoppingCart.GetShoppingCartItems()*%
+#
+%0FlowerApp.Models.ShoppingCart∫
+∑
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (<+
+items"System.Collections.Generic.List<T>"__id**
+(
+%1"System.Collections.Generic.List<T>Ê
+„
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (#
+%2FlowerApp.Models.ShoppingCart"__id*^*\*
+(FlowerApp.Components.ShoppingCartSummary".
+_shoppingCartFlowerApp.Models.ShoppingCartê
+ç
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (3(
+%3"System.Collections.Generic.List<T>"3FlowerApp.Models.ShoppingCart.ShoppingCartItems.set*%
+#
+%2FlowerApp.Models.ShoppingCart*-
++
+items"System.Collections.Generic.List<T>π∂
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs$ (0
+%4*FlowerApp.ViewModels.ShoppingCartViewModel"*FlowerApp.ViewModels.ShoppingCartViewModelﬂ
+‹
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs( (=
+
+%5void"BFlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartViewModel()*2
+0
+%4*FlowerApp.ViewModels.ShoppingCartViewModelÏ
+È
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (,#
+%6FlowerApp.Models.ShoppingCart"__id*d*b
+0
+%4*FlowerApp.ViewModels.ShoppingCartViewModel".
+_shoppingCartFlowerApp.Models.ShoppingCartò
+ï
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (,#
+%7FlowerApp.Models.ShoppingCart";FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.set*2
+0
+%4*FlowerApp.ViewModels.ShoppingCartViewModel*%
+#
+%6FlowerApp.Models.ShoppingCartÊ
+„
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs$ (1#
+%8FlowerApp.Models.ShoppingCart"__id*^*\*
+(FlowerApp.Components.ShoppingCartSummary".
+_shoppingCartFlowerApp.Models.ShoppingCart«
+ƒ
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs$ (H
+%9decimal"4FlowerApp.Models.ShoppingCart.GetShoppingCartTotal()*%
+#
+%8FlowerApp.Models.ShoppingCartÚ
+Ô
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (H
+%10decimal"@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.set*2
+0
+%4*FlowerApp.ViewModels.ShoppingCartViewModel*
+
+%9decimal÷
+”
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (?
+shoppingViewModel*FlowerApp.ViewModels.ShoppingCartViewModel"__id*2
+0
+%4*FlowerApp.ViewModels.ShoppingCartViewModel¢
+ü
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (*
+%11void"=flowerapp/views/shared/components/shoppingcartsummary/default*
+
+%12*A
+?
+shoppingViewModel*FlowerApp.ViewModels.ShoppingCartViewModel*
+
+ViewBagDataAllobject*
+
+ViewBagDataHtmlobject*
+
+TempDataAllobject*
+
+TempDataHtmlobject*
+
+HttpContextItemsAllobject* 
+
+HttpContextItemsHtmlobject"g
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (+
+
+%11void* 
+1V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs	 (	"m
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (	
+implicit return:
+ViewBagDataAllobject:
+ViewBagDataHtmlobject:
+TempDataAllobject:
+TempDataHtmlobject:
+HttpContextItemsAllobject:
+HttpContextItemsHtmlobjectB,*
+(FlowerApp.Components.ShoppingCartSummary

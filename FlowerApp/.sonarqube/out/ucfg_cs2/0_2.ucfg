@@ -1,9 +1,13 @@
 
-2FlowerApp.Components.AdminMenuItem.AdminMenuItem()P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs% %("0*¾
-0P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs) )("g
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs% )(
-implicit returnB&$
-"FlowerApp.Components.AdminMenuItem
+0FlowerApp.Auth.ApplicationUser.ApplicationUser()L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs ( "0*±
+0L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs (y
+w
+
+%0void"9Microsoft.AspNetCore.Identity.IdentityUser.IdentityUser()*.,
+*Microsoft.AspNetCore.Identity.IdentityUser"c
+L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs (
+implicit returnB" 
+FlowerApp.Auth.ApplicationUser

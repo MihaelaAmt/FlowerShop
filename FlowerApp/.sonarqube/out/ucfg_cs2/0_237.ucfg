@@ -1,60 +1,39 @@
 
-KFlowerApp.Startup.Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment)?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs ("1*I
-1?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs	 (	*
-0*ƒ
-0?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (:ºπ
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (;=
-%07Microsoft.Extensions.Configuration.ConfigurationBuilder"7Microsoft.Extensions.Configuration.ConfigurationBuilder·
-ﬁ
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs% (9
-
-%1void"NMicrosoft.Extensions.Configuration.ConfigurationBuilder.ConfigurationBuilder()*?
-=
-%07Microsoft.Extensions.Configuration.ConfigurationBuilder˜Ù
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs( (J
-%2string"DMicrosoft.AspNetCore.Hosting.IHostingEnvironment.ContentRootPath.get*H
-F
-hostingEnvironment0Microsoft.AspNetCore.Hosting.IHostingEnvironment2ContentRootPath.get®
-•
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (K>
-%38Microsoft.Extensions.Configuration.IConfigurationBuilder"åMicrosoft.Extensions.Configuration.FileConfigurationExtensions.SetBasePath(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
->Microsoft.Extensions.Configuration.FileConfigurationExtensions*?
-=
-%07Microsoft.Extensions.Configuration.ConfigurationBuilder*
-
-%2stringØ
-¨
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (;>
-%48Microsoft.Extensions.Configuration.IConfigurationBuilder"åMicrosoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
->Microsoft.Extensions.Configuration.JsonConfigurationExtensions*@
->
-%38Microsoft.Extensions.Configuration.IConfigurationBuilder*
-appsettings.jsonéã
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (#;
-%55Microsoft.Extensions.Configuration.IConfigurationRoot"@Microsoft.Extensions.Configuration.IConfigurationBuilder.Build()*@
->
-%48Microsoft.Extensions.Configuration.IConfigurationBuilder2Build()Ì
-Í
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (#b
-FlowerApp.Startup"K
-_configurationRoot5Microsoft.Extensions.Configuration.IConfigurationRoot"__id*=
-;
-%55Microsoft.Extensions.Configuration.IConfigurationRoot*
-2*ú
-2?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs	 (	"V
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (	
-implicit return:F
-hostingEnvironment0Microsoft.AspNetCore.Hosting.IHostingEnvironmentB
-FlowerApp.Startup
+0FlowerApp.Controllers.AccountController.Logout()U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csT) T(/"2*–
+0U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csV W(3è
+å
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csV V( 8
+%02Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*s*q)
+'FlowerApp.Controllers.AccountController"D
+_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>åâ
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csV V(/!
+%1System.Threading.Tasks.Task"AMicrosoft.AspNetCore.Identity.SignInManager<TUser>.SignOutAsync()*:
+8
+%02Microsoft.AspNetCore.Identity.SignInManager<TUser>2SignOutAsync()øº
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csW W(45
+%2/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*	
+Index*
+Home2 RedirectToAction(string, string)"ê
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csW W(57
+5
+%2/Microsoft.AspNetCore.Mvc.RedirectToActionResult*»
+1U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csX	 X(	"l
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csX X(	
+implicit return*Œ
+2U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csT1 T(1m
+k
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csT) T(/
+%3"__entrypoint*
+0B+)
+'FlowerApp.Controllers.AccountController

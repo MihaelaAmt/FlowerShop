@@ -4,7 +4,6 @@ using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace FlowerApp.Models
 {
@@ -58,11 +57,11 @@ namespace FlowerApp.Models
                 //}
                 //else
                 //    shoppingCartItem.Amount = amount;
-                if(shoppingCartItem.Amount < 1 )
+                if (shoppingCartItem.Amount < 1)
                 {
                     shoppingCartItem.Amount = amount + 1;
                 }
-                else if(shoppingCartItem.Amount > 8 )
+                else if (shoppingCartItem.Amount > 8)
                 {
                     shoppingCartItem.Amount = amount;
                 }

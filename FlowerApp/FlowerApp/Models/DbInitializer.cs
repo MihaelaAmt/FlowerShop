@@ -1,9 +1,7 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace FlowerApp.Models
 {
@@ -62,7 +60,8 @@ namespace FlowerApp.Models
                                                 White and yellow dasies accented with buplerum, greens, and a lovely yellow bow. ",
                             Category = Categories["Single flower"],
                             ImageUrl = "https://i.pinimg.com/originals/17/a5/d1/17a5d17b2f30c1ad24b6fd182dc89c59.jpg",
-                            InStock = true, ImageThumbnailUrl = "https://i.pinimg.com/originals/17/a5/d1/17a5d17b2f30c1ad24b6fd182dc89c59.jpg",
+                            InStock = true,
+                            ImageThumbnailUrl = "https://i.pinimg.com/originals/17/a5/d1/17a5d17b2f30c1ad24b6fd182dc89c59.jpg",
                             IsFlowerPresentation = false
                         },
                         new Flower
@@ -86,7 +85,8 @@ namespace FlowerApp.Models
                             IsFlowerPresentation = true
                         },
 
-                        new Flower {
+                        new Flower
+                        {
                             Name = "Hyacinth",
                             Price = 13.95M,
                             ShortDescription = "Spring flower",
@@ -101,7 +101,8 @@ namespace FlowerApp.Models
                             IsFlowerPresentation = false
                         },
 
-                        new Flower {
+                        new Flower
+                        {
                             Name = "Tulip",
                             Price = 17.95M,
                             ShortDescription = "Spring flower",
@@ -120,7 +121,8 @@ namespace FlowerApp.Models
                             IsFlowerPresentation = false
                         },
 
-                        new Flower {
+                        new Flower
+                        {
                             Name = "Bouquet of field flowers",
                             Price = 15.95M,
                             ShortDescription = "Field flowers",
@@ -134,7 +136,8 @@ namespace FlowerApp.Models
                             IsFlowerPresentation = true
                         },
 
-                        new Flower {
+                        new Flower
+                        {
                             Name = "Pearl",
                             Price = 12.95M,
                             ShortDescription = "For lovers of spring",
@@ -150,7 +153,8 @@ namespace FlowerApp.Models
                             IsFlowerPresentation = true
                         },
 
-                        new Flower {
+                        new Flower
+                        {
                             Name = "Peony bouquet",
                             Price = 15.95M,
                             ShortDescription = "King in the spring garden",
@@ -164,7 +168,8 @@ namespace FlowerApp.Models
                             ImageThumbnailUrl = "https://s12emagst.akamaized.net/products/6085/6084226/images/res_b401ee11c47ba7fb3762c91794496f22_full.jpg",
                             IsFlowerPresentation = false
                         },
-                        new Flower {
+                        new Flower
+                        {
                             Name = "Bouquet of lilies",
                             Price = 15.95M,
                             ShortDescription = "Strong flower",
@@ -180,7 +185,8 @@ namespace FlowerApp.Models
                             IsFlowerPresentation = false
                         },
 
-                        new Flower {
+                        new Flower
+                        {
                             Name = "Chrysanthemum",
                             Price = 18.95M,
                             ShortDescription = "A happy looking flower",

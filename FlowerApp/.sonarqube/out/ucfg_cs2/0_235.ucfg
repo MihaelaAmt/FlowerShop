@@ -1,31 +1,46 @@
 
-rFlowerApp.Repository.OrderRepository.OrderRepository(FlowerApp.Models.AppDbContext, FlowerApp.Models.ShoppingCart)R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs ("1*\
-1R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs	 (	*
-0*²
-0R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs ((è
-å
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs ((X&
-$FlowerApp.Repository.OrderRepository".
-_appDbContextFlowerApp.Models.AppDbContext"__id*/
--
-appDbContextFlowerApp.Models.AppDbContextè
-å
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs ((X&
-$FlowerApp.Repository.OrderRepository".
-_shoppingCartFlowerApp.Models.ShoppingCart"__id*/
--
-shoppingCartFlowerApp.Models.ShoppingCart*
-2*Â
-2R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs	 (	"i
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs (	
-implicit return:-
-appDbContextFlowerApp.Models.AppDbContext:-
-shoppingCartFlowerApp.Models.ShoppingCartB(&
-$FlowerApp.Repository.OrderRepository
+‰FlowerApp.Controllers.FlowerController.FlowerController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs ("3*É
+1T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs	 (	i
+g
+
+%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
+#Microsoft.AspNetCore.Mvc.Controller*
+0*ø
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (4†
+ƒ
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (0g(
+&FlowerApp.Controllers.FlowerController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepository"__id*<
+:
+flowerRepository&FlowerApp.Repository.IFlowerRepositoryŽ
+‹
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (4k(
+&FlowerApp.Controllers.FlowerController"?
+_categoryRepository(FlowerApp.Repository.ICategoryRepository"__id*@
+>
+categoryRepository(FlowerApp.Repository.ICategoryRepository*
+2*Æ
+2T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs	 (	"k
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (	
+implicit return*Î
+3T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk (kí
+ê
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (
+%1"__entrypoint*<
+:
+flowerRepository&FlowerApp.Repository.IFlowerRepository*@
+>
+categoryRepository(FlowerApp.Repository.ICategoryRepository*
+1::
+flowerRepository&FlowerApp.Repository.IFlowerRepository:>
+categoryRepository(FlowerApp.Repository.ICategoryRepositoryB*(
+&FlowerApp.Controllers.FlowerController

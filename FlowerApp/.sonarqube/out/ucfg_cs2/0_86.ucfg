@@ -1,18 +1,18 @@
 
-3FlowerApp.Models.AppDbContext.ShoppingCartItems.setK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs ("0*€
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (õ
-ò
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (d
-FlowerApp.Models.AppDbContext"A
-ShoppingCartItems,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
-5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"µ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (f*d
-FlowerApp.Models.AppDbContext"A
-ShoppingCartItems,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
-FlowerApp.Models.AppDbContext
+0FlowerApp.ViewModels.LoginViewModel.UserName.setQ
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs	& 	()"0*š
+0Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs	* 	(*¬
+©
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs	& 	(*;%
+#FlowerApp.ViewModels.LoginViewModel"
+UserNamestring"__id*
+
+valuestring"’
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs	& 	(*=*;%
+#FlowerApp.ViewModels.LoginViewModel"
+UserNamestring:
+valuestringB'%
+#FlowerApp.ViewModels.LoginViewModel

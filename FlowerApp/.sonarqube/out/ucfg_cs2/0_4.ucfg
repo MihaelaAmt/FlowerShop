@@ -1,9 +1,13 @@
 
-:FlowerApp.Auth.FlowerShopClaimTypes.FlowerShopClaimTypes()Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs (%"0*À
-0Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs ("h
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs (
-implicit returnB'%
-#FlowerApp.Auth.FlowerShopClaimTypes
+;FlowerApp.Controllers.ContactController.ContactController()U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ContactController.cs (""0*³
+0U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ContactController.cs (i
+g
+
+%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
+#Microsoft.AspNetCore.Mvc.Controller"l
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ContactController.cs (
+implicit returnB+)
+'FlowerApp.Controllers.ContactController

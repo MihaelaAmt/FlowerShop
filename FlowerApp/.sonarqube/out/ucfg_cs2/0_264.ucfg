@@ -1,115 +1,16 @@
 
-;FlowerApp.Repository.ModelCategoryRepository.Categories.getZ
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs ("0*·
-0Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs  (M­ª
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs "((
-%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>Â
-¿
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs ()
-
-%1void")System.Collections.Generic.List<T>.List()**
-(
-%0"System.Collections.Generic.List<T>›˜
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs (
-%2FlowerApp.Models.Category"FlowerApp.Models.Category´
-±
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs ( 
-
-%3void"$FlowerApp.Models.Category.Category()*!
-
-%2FlowerApp.Models.Category½
-º
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs (%	
-%4int"(FlowerApp.Models.Category.CategoryId.set*!
-
-%2FlowerApp.Models.Category*2Ï
-Ì
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs (5
-%5string"*FlowerApp.Models.Category.CategoryName.set*!
-
-%2FlowerApp.Models.Category*
-Single flowerÓ
-Ð
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs (9
-%6string")FlowerApp.Models.Category.Description.set*!
-
-%2FlowerApp.Models.Category*
-All single flowers›˜
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs (
-%7FlowerApp.Models.Category"FlowerApp.Models.Category´
-±
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs ( 
-
-%8void"$FlowerApp.Models.Category.Category()*!
-
-%7FlowerApp.Models.Category½
-º
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs (%	
-%9int"(FlowerApp.Models.Category.CategoryId.set*!
-
-%7FlowerApp.Models.Category*2Õ
-Ò
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs (:
-%10string"*FlowerApp.Models.Category.CategoryName.set*!
-
-%7FlowerApp.Models.Category*
-Bouquet of flowersÎ
-Ë
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs (3
-%11string")FlowerApp.Models.Category.Description.set*!
-
-%7FlowerApp.Models.Category*
-More flowersœ™
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs !( 
-%12FlowerApp.Models.Category"FlowerApp.Models.Category¶
-³
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs ( 
-%13void"$FlowerApp.Models.Category.Category()*"
- 
-%12FlowerApp.Models.Category¿
-¼
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs (%
-
-%14int"(FlowerApp.Models.Category.CategoryId.set*"
- 
-%12FlowerApp.Models.Category*2Ô
-Ñ
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs (8
-%15string"*FlowerApp.Models.Category.CategoryName.set*"
- 
-%12FlowerApp.Models.Category*
-Seasonal flowersé
-æ
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs   (M
-%16string")FlowerApp.Models.Category.Description.set*"
- 
-%12FlowerApp.Models.Category**(
-&Get in the mood for a seasonal flowers"ˆ
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs "(*
-(
-%0"System.Collections.Generic.List<T>*Ò
-1Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs# #("q
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs# #(
-implicit returnB0.
-,FlowerApp.Repository.ModelCategoryRepository
+'FlowerApp.Models.OrderDetail.Flower.getJ
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs' (*"0*ü
+0J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs+ (+»
+¸
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs' (+
+%0FlowerApp.Models.Flower"__id*E*C
+FlowerApp.Models.OrderDetail"!
+FlowerFlowerApp.Models.Flower"m
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs' (+
+
+%0FlowerApp.Models.FlowerB 
+FlowerApp.Models.OrderDetail

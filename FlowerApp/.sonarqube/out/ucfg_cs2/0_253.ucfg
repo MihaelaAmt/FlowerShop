@@ -1,16 +1,16 @@
 
-AFlowerApp.Repository.ModelFlowerRepository.FlowerPresentation.getX
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs(8 ((;"0*˜
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs(< ((<á
-Ñ
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs(8 ((</
-%0)System.Collections.Generic.IEnumerable<T>"__id*q*o,
-*FlowerApp.Repository.ModelFlowerRepository"?
-FlowerPresentation)System.Collections.Generic.IEnumerable<T>"ç
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs(8 ((<1
-/
-%0)System.Collections.Generic.IEnumerable<T>B.,
-*FlowerApp.Repository.ModelFlowerRepository
+)FlowerApp.Models.AppDbContext.Flowers.getK
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs ("0*¡
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (Ë
+Â
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*\*Z
+FlowerApp.Models.AppDbContext"7
+Flowers,Microsoft.EntityFrameworkCore.DbSet<TEntity>"É
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
+FlowerApp.Models.AppDbContext

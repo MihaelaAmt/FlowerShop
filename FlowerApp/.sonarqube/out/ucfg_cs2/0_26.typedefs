@@ -1,4 +1,5 @@
-è
-'FlowerApp.Controllers.ContactController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject:
-Index()/FlowerApp.Controllers.ContactController.Index()R
-ContactController();FlowerApp.Controllers.ContactController.ContactController()
+÷
+'FlowerApp.Repository.CategoryRepositoryobjecté
+1CategoryRepository(FlowerApp.Models.AppDbContext)YFlowerApp.Repository.CategoryRepository.CategoryRepository(FlowerApp.Models.AppDbContext)H
+Categories.get6FlowerApp.Repository.CategoryRepository.Categories.getH
+Categories.set6FlowerApp.Repository.CategoryRepository.Categories.set

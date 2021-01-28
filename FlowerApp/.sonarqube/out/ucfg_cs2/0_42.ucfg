@@ -1,24 +1,17 @@
 
-8FlowerApp.Models.ShoppingCartItem.ShoppingCartItemId.getO
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs
-( 
-(+"0*à
-0O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs
-, 
-(,©
-¦
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs
-( 
-(,	
-%0int"__id*B*@#
-!FlowerApp.Models.ShoppingCartItem"
-ShoppingCartItemIdint"^
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs
-( 
-(,
-	
-%0intB%#
-!FlowerApp.Models.ShoppingCartItem
+2FlowerApp.Auth.FlowerShopClaimTypes.ClaimsList.getQ
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs0 (3"0*½
+0Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs4 (4ã
+à
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs0 (4(
+%0"System.Collections.Generic.List<T>"__id*[*Y%
+#FlowerApp.Auth.FlowerShopClaimTypes"0
+
+ClaimsList"System.Collections.Generic.List<T>"
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs0 (4*
+(
+%0"System.Collections.Generic.List<T>B'"%
+#FlowerApp.Auth.FlowerShopClaimTypes

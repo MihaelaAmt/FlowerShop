@@ -1,36 +1,16 @@
 
-gFlowerApp.Controllers.FlowerDataController.FlowerDataController(FlowerApp.Repository.IFlowerRepository)X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs (#"3*Í
-1X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs	 (	i
-g
+&FlowerApp.Models.OrderDetail.Price.getJ
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs (""0*Ë
+0J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs# (#š
+—
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs (#
+%0decimal"__id*4*2
+FlowerApp.Models.OrderDetail"
+Pricedecimal"]
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs (#
 
-%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
-#Microsoft.AspNetCore.Mvc.Controller*
-0*ó
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs (0Ž
-‹
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs (0k,
-*FlowerApp.Controllers.FlowerDataController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepository"__id*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository*
-2*Î
-2X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs	 (	"o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs (	
-implicit return*”
-3X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.csG (G¯
-¬
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs (#
-%1"__entrypoint*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository*
-1::
-flowerRepository&FlowerApp.Repository.IFlowerRepositoryB.,
-*FlowerApp.Controllers.FlowerDataController
+%0decimalB 
+FlowerApp.Models.OrderDetail

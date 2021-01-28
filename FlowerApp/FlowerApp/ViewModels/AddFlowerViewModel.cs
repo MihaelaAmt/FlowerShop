@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace FlowerApp.ViewModels
+﻿namespace FlowerApp.ViewModels
 {
     public class AddFlowerViewModel
     {
@@ -19,7 +14,7 @@ namespace FlowerApp.ViewModels
 
         public string ImageThumbnailUrl { get; set; }
 
-        public bool IsFlowerPresentation{ get; set; }
+        public bool IsFlowerPresentation { get; set; }
 
         public bool InStock { get; set; }
 

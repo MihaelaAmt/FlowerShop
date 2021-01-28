@@ -1,7 +1,13 @@
-¯
-&FlowerApp.ViewModels.CategoryViewModelobjectQ
-CategoryViewModel():FlowerApp.ViewModels.CategoryViewModel.CategoryViewModel()G
-CategoryId.get5FlowerApp.ViewModels.CategoryViewModel.CategoryId.getG
-CategoryId.set5FlowerApp.ViewModels.CategoryViewModel.CategoryId.setK
-CategoryName.get7FlowerApp.ViewModels.CategoryViewModel.CategoryName.getK
-CategoryName.set7FlowerApp.ViewModels.CategoryViewModel.CategoryName.set
+…
+&FlowerApp.ViewModels.UserRoleViewModelobjectQ
+UserRoleViewModel():FlowerApp.ViewModels.UserRoleViewModel.UserRoleViewModel()?
+
+UserId.get1FlowerApp.ViewModels.UserRoleViewModel.UserId.get?
+
+UserId.set1FlowerApp.ViewModels.UserRoleViewModel.UserId.set?
+
+RoleId.get1FlowerApp.ViewModels.UserRoleViewModel.RoleId.get?
+
+RoleId.set1FlowerApp.ViewModels.UserRoleViewModel.RoleId.set=
+	Users.get0FlowerApp.ViewModels.UserRoleViewModel.Users.get=
+	Users.set0FlowerApp.ViewModels.UserRoleViewModel.Users.set

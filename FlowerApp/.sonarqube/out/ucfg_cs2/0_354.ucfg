@@ -1,93 +1,18 @@
 
-mFlowerApp.Migrations.ShippingAndPaymentMethods1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs  (""0*ç
-0l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs	 (!ÉÄ
-l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs	 (!d
-%0^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"ÌMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-ZipCode*
-
-Orders*
-""*
-""*2
-*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*2
-*
-""*
-""*
-""*
-""*
-""*
-""*
-""2≥AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)ÉÄ
-l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs (!d
-%1^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"ÌMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-Country*
-
-Orders*
-""*
-""*22*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*22*
-""*
-""*
-""*
-""*
-""*
-""*
-""2≥AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)àÖ
-l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs ("d
-%2^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"ÌMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AddressLine1*
-
-Orders*
-""*
-""*2d*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*2d*
-""*
-""*
-""*
-""*
-""*
-""*
-""2≥AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*
-1*˜
-1l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs 	  (	"É
-l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs   (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB31
-/FlowerApp.Migrations.ShippingAndPaymentMethods1
+0FlowerApp.Models.Flower.IsFlowerPresentation.getE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (."0*Ω
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs/ (/ô
+ñ
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (/
+
+%0bool"__id*;*9
+FlowerApp.Models.Flower"
+IsFlowerPresentationbool"U
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (/
+
+
+%0boolB
+FlowerApp.Models.Flower

@@ -1,16 +1,18 @@
 
-!FlowerApp.Models.Flower.Price.getE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs (""0*∑
+ FlowerApp.Models.Flower.Name.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs" (%"0*’
 0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# (#ê
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& (&ê
 ç
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs (#
-%0decimal"__id*/*-
-FlowerApp.Models.Flower"
-Pricedecimal"X
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs" (&+
+FlowerApp.Models.Flower"
+Namestring"__id*
+
+valuestring"v
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs (#
-
-%0decimalB
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs" (&-*+
+FlowerApp.Models.Flower"
+Namestring:
+valuestringB
 FlowerApp.Models.Flower

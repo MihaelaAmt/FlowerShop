@@ -1,18 +1,18 @@
 
-0FlowerApp.Models.Flower.IsFlowerPresentation.setE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs0 (3"0*
+#FlowerApp.Models.Flower.InStock.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# (&"0*’
 0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs4 (4ú
-ô
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs' ('è
+å
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs0 (49
-FlowerApp.Models.Flower"
-IsFlowerPresentationbool"__id*
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# (',
+FlowerApp.Models.Flower"
+InStockbool"__id*
 
-valuebool"Ñ
+valuebool"w
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs0 (4;*9
-FlowerApp.Models.Flower"
-IsFlowerPresentationbool:
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# ('.*,
+FlowerApp.Models.Flower"
+InStockbool:
 valueboolB
 FlowerApp.Models.Flower

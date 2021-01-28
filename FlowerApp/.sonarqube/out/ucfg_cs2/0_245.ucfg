@@ -1,46 +1,18 @@
 
-∑FlowerApp.Controllers.OrderHistoryController.OrderHistoryController(FlowerApp.Repository.IOrderRepository, Microsoft.AspNetCore.Identity.SignInManager<FlowerApp.Auth.ApplicationUser>)Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (%"3*œ
-1Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs	 (	i
-g
-
-%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
-#Microsoft.AspNetCore.Mvc.Controller*
-0*ú
-0Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (*é
-ã
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (.k.
-,FlowerApp.Controllers.OrderHistoryController"9
-_orderRepository%FlowerApp.Repository.IOrderRepository"__id*:
-8
-orderRepository%FlowerApp.Repository.IOrderRepository§
-°
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (*v.
-,FlowerApp.Controllers.OrderHistoryController"D
-_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*E
-C
-signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>*
-2*“
-2Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs	 (	"q
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (	
-implicit return*›
-3Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.csu (uˆ
-Û
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (%
-%1"__entrypoint*:
-8
-orderRepository%FlowerApp.Repository.IOrderRepository*E
-C
-signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>*
-1:8
-orderRepository%FlowerApp.Repository.IOrderRepository:C
-signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>B0.
-,FlowerApp.Controllers.OrderHistoryController
+.FlowerApp.Models.OrderDetail.OrderDetailId.setJ
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs( (+"0*¯
+0J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs, (,ù
+ö
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs( (,6
+FlowerApp.Models.OrderDetail"
+OrderDetailIdint"__id*
+
+valueint"Ü
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs( (,8*6
+FlowerApp.Models.OrderDetail"
+OrderDetailIdint:
+valueintB 
+FlowerApp.Models.OrderDetail

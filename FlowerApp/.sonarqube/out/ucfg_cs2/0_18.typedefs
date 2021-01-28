@@ -1,4 +1,6 @@
-Å
-.FlowerApp.Migrations.AppDbContextModelSnapshot:Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshotobjectü
-6BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)eFlowerApp.Migrations.AppDbContextModelSnapshot.BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)i
-AppDbContextModelSnapshot()JFlowerApp.Migrations.AppDbContextModelSnapshot.AppDbContextModelSnapshot()
+‰
+FlowerApp.Migrations.Order22Microsoft.EntityFrameworkCore.Migrations.Migrationobjectö
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)YFlowerApp.Migrations.Order2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)û
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)[FlowerApp.Migrations.Order2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ò
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)XFlowerApp.Migrations.Order2.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)0
+Order2()$FlowerApp.Migrations.Order2.Order2()

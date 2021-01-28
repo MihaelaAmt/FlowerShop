@@ -1,35 +1,18 @@
 
-1FlowerApp.Repository.FlowerRepository.Flowers.getS
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ("0*Â	
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (Dà
-Ý
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ($#
-%0FlowerApp.Models.AppDbContext"__id*[*Y'
-%FlowerApp.Repository.FlowerRepository".
-_appDbContextFlowerApp.Models.AppDbContextÞ
-Û
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (,2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>")FlowerApp.Models.AppDbContext.Flowers.get*%
-#
-%0FlowerApp.Models.AppDbContextõ
-ò
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (ER
-%2LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"ÂMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*D"B
-@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-"""«
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (FT
-R
-%2LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*Ä
-1S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ("j
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (
-implicit returnB)'
-%FlowerApp.Repository.FlowerRepository
+'FlowerApp.Models.OrderDetail.Flower.setJ
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs, (/"0*¦
+0J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs0 (0¾
+»
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs, (0C
+FlowerApp.Models.OrderDetail"!
+FlowerFlowerApp.Models.Flower"__id*"
+ 
+valueFlowerApp.Models.Flower"“
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs, (0E*C
+FlowerApp.Models.OrderDetail"!
+FlowerFlowerApp.Models.Flower: 
+valueFlowerApp.Models.FlowerB 
+FlowerApp.Models.OrderDetail

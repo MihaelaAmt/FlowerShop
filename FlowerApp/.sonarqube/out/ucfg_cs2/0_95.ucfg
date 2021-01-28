@@ -1,18 +1,16 @@
 
-.FlowerApp.Models.AppDbContext.OrderDetails.setK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs* *("0*ö
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs* *(ð
-í
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs* *(_
-FlowerApp.Models.AppDbContext"<
-OrderDetails,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
-5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"°
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs* *(a*_
-FlowerApp.Models.AppDbContext"<
-OrderDetails,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
-FlowerApp.Models.AppDbContext
+1FlowerApp.ViewModels.FlowerViewModel.FlowerId.getR
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs (!"0*â
+0R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs" ("¥
+¢
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs ("	
+%0int"__id*;*9&
+$FlowerApp.ViewModels.FlowerViewModel"
+FlowerIdint"a
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs ("
+	
+%0intB(&
+$FlowerApp.ViewModels.FlowerViewModel

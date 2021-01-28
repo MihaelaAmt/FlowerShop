@@ -1,16 +1,18 @@
 
-;FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.getX
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs+ (."0*Õ
+5FlowerApp.ViewModels.OrderHistoryViewModel.Orders.setX
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csG (J"0*¢
 0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs/ (/È
-Ê
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csK (K˛
+˚
 X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs+ (/#
-%0FlowerApp.Models.ShoppingCart"__id*_*],
-*FlowerApp.ViewModels.ShoppingCartViewModel"-
-ShoppingCartFlowerApp.Models.ShoppingCart"Å
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csG (Kc,
+*FlowerApp.ViewModels.OrderHistoryViewModel"3
+Orders)System.Collections.Generic.IEnumerable<T>"__id*4
+2
+value)System.Collections.Generic.IEnumerable<T>"¡
 X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs+ (/%
-#
-%0FlowerApp.Models.ShoppingCartB.,
-*FlowerApp.ViewModels.ShoppingCartViewModel
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csG (Ke*c,
+*FlowerApp.ViewModels.OrderHistoryViewModel"3
+Orders)System.Collections.Generic.IEnumerable<T>:2
+value)System.Collections.Generic.IEnumerable<T>B.,
+*FlowerApp.ViewModels.OrderHistoryViewModel

@@ -1,16 +1,18 @@
 
->FlowerApp.ViewModels.EditFlowerViewModel.ImageThumbnailUrl.getV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs* (-"0*„
-0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs. (.¼
-¹
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs* (.
-%0string"__id*K*I*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-ImageThumbnailUrlstring"h
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs* (.
-
-%0stringB,*
-(FlowerApp.ViewModels.EditFlowerViewModel
+3FlowerApp.ViewModels.AddUserViewModel.Birthdate.setS
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs) (,"0*Á
+0S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs- (-Ã
+À
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs) (-G'
+%FlowerApp.ViewModels.AddUserViewModel"
+	BirthdateSystem.DateTime"__id*
+
+valueSystem.DateTime" 
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs) (-I*G'
+%FlowerApp.ViewModels.AddUserViewModel"
+	BirthdateSystem.DateTime:
+valueSystem.DateTimeB)'
+%FlowerApp.ViewModels.AddUserViewModel

@@ -1,16 +1,66 @@
 
-2FlowerApp.Components.AdminMenuItem.ActionValue.getP
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs($ (('"0*æ
-0P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs(( (((ª
-§
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs($ (((
-%0string"__id*?*=$
-"FlowerApp.Components.AdminMenuItem"
-ActionValuestring"b
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs($ (((
-
-%0stringB&$
-"FlowerApp.Components.AdminMenuItem
+¬FlowerApp.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment, Microsoft.Extensions.Logging.ILoggerFactory)?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs8 8("0*µ
+0?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs: M("†
+ƒ
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs: :(+6
+%00Microsoft.AspNetCore.Builder.IApplicationBuilder"‰Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
+=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderð
+í
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs; ;($6
+%10Microsoft.AspNetCore.Builder.IApplicationBuilder"{Microsoft.AspNetCore.Builder.StatusCodePagesExtensions.UseStatusCodePages(Microsoft.AspNetCore.Builder.IApplicationBuilder)*:"8
+6Microsoft.AspNetCore.Builder.StatusCodePagesExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderâ
+ß
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs< <( 6
+%20Microsoft.AspNetCore.Builder.IApplicationBuilder"rMicrosoft.AspNetCore.Builder.StaticFileExtensions.UseStaticFiles(Microsoft.AspNetCore.Builder.IApplicationBuilder)*5"3
+1Microsoft.AspNetCore.Builder.StaticFileExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderì
+é
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs= =(6
+%30Microsoft.AspNetCore.Builder.IApplicationBuilder"uMicrosoft.AspNetCore.Builder.SessionMiddlewareExtensions.UseSession(Microsoft.AspNetCore.Builder.IApplicationBuilder)*<":
+8Microsoft.AspNetCore.Builder.SessionMiddlewareExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderÙ
+Ö
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs> >(6
+%40Microsoft.AspNetCore.Builder.IApplicationBuilder"lMicrosoft.AspNetCore.Builder.BuilderExtensions.UseIdentity(Microsoft.AspNetCore.Builder.IApplicationBuilder)*2"0
+.Microsoft.AspNetCore.Builder.BuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder´
+±
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.csA K(6
+%50Microsoft.AspNetCore.Builder.IApplicationBuilder"°Microsoft.AspNetCore.Builder.MvcApplicationBuilderExtensions.UseMvc(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IRouteBuilder>)*@">
+<Microsoft.AspNetCore.Builder.MvcApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""†
+ƒ
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.csM M(#
+
+%6void"UFlowerApp.Models.DbInitializer.Seed(Microsoft.AspNetCore.Builder.IApplicationBuilder)*"" 
+FlowerApp.Models.DbInitializer*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+1*œ
+1?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.csN	 N(	"V
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.csN N(	
+implicit return:7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
+env0Microsoft.AspNetCore.Hosting.IHostingEnvironment:<
+loggerFactory+Microsoft.Extensions.Logging.ILoggerFactoryB
+FlowerApp.Startup

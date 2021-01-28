@@ -3,7 +3,6 @@ using FlowerApp.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace FlowerApp.Repository
 {
@@ -23,7 +22,7 @@ namespace FlowerApp.Repository
             List<Order> orders = null;
             if (string.IsNullOrEmpty(userName))
             {
-                orders = _appDbContext.Orders.ToList();         
+                orders = _appDbContext.Orders.ToList();
             }
             else
             {

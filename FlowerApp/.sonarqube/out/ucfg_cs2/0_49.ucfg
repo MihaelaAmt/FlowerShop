@@ -1,18 +1,26 @@
 
-1FlowerApp.ViewModels.UserRoleViewModel.UserId.setT
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs$ ('"0*¥
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs( ((°
-­
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs$ ((<(
-&FlowerApp.ViewModels.UserRoleViewModel"
-UserIdstring"__id*
+'FlowerApp.Auth.ApplicationUser.City.setL
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs
+" 
+(%"0*ù
+0L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs
+& 
+(&ž
+›
+L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs
+" 
+(&2 
+FlowerApp.Auth.ApplicationUser"
+Citystring"__id*
 
-valuestring"–
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs$ ((>*<(
-&FlowerApp.ViewModels.UserRoleViewModel"
-UserIdstring:
-valuestringB*(
-&FlowerApp.ViewModels.UserRoleViewModel
+valuestring"„
+L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs
+" 
+(&4*2 
+FlowerApp.Auth.ApplicationUser"
+Citystring:
+valuestringB" 
+FlowerApp.Auth.ApplicationUser

@@ -1,46 +1,27 @@
 
-—FlowerApp.Controllers.AccountController.AccountController(Microsoft.AspNetCore.Identity.UserManager<FlowerApp.Auth.ApplicationUser>, Microsoft.AspNetCore.Identity.SignInManager<FlowerApp.Auth.ApplicationUser>)U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs ( "3* 
-1U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs	 (	i
-g
+XFlowerApp.Components.CategoryMenu.CategoryMenu(FlowerApp.Repository.ICategoryRepository)O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs ("1*Õ
+1O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs	 (	r
+p
 
-%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
-#Microsoft.AspNetCore.Mvc.Controller*
-0*ë
-0U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs (*í
-è
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs (&m)
-'FlowerApp.Controllers.AccountController"@
-_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*A
-?
-userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>ö
-ó
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs (*q)
-'FlowerApp.Controllers.AccountController"D
-_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*E
-C
-signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>*
-2*»
-2U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs	 (	"l
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs (	
-implicit return*⁄
-3U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs9 (9¯
-ı
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs ( 
-%1"__entrypoint*A
-?
-userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*E
-C
-signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>*
-1:?
-userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>:C
-signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>B+)
-'FlowerApp.Controllers.AccountController
+%0void"6Microsoft.AspNetCore.Mvc.ViewComponent.ViewComponent()**(
+&Microsoft.AspNetCore.Mvc.ViewComponent*
+0*‡
+0O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (4Ñ
+Å
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (4f#
+!FlowerApp.Components.CategoryMenu"?
+_categoryRepository(FlowerApp.Repository.ICategoryRepository"__id*@
+>
+categoryRepository(FlowerApp.Repository.ICategoryRepository*
+2*º
+2O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs	 (	"f
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (	
+implicit return:>
+categoryRepository(FlowerApp.Repository.ICategoryRepositoryB%#
+!FlowerApp.Components.CategoryMenu

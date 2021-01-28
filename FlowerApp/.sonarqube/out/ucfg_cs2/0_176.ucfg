@@ -1,17 +1,18 @@
 
-7FlowerApp.ViewModels.EditFlowerViewModel.CategoryId.getV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs  (#"0*ô
-0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs$ ($¯
-¬
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs  ($	
-%0int"__id*A*?*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-
-CategoryIdint"e
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs  ($
-	
-%0intB,*
-(FlowerApp.ViewModels.EditFlowerViewModel
+2FlowerApp.ViewModels.AddRoleViewModel.RoleName.setS
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs	& 	()"0*¤
+0S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs	* 	(*°
+­
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs	& 	(*='
+%FlowerApp.ViewModels.AddRoleViewModel"
+RoleNamestring"__id*
+
+valuestring"–
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs	& 	(*?*='
+%FlowerApp.ViewModels.AddRoleViewModel"
+RoleNamestring:
+valuestringB)'
+%FlowerApp.ViewModels.AddRoleViewModel
