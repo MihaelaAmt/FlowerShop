@@ -1,13 +1,9 @@
 
-.FlowerApp.Migrations.AddFavorite.AddFavorite()]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs ($"0*â
-0]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs (‡
-„
-
-%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*64
-2Microsoft.EntityFrameworkCore.Migrations.Migration"t
-]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs (
-implicit returnB$"
- FlowerApp.Migrations.AddFavorite
+ FlowerApp.Models.Flower.Flower()E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs ("0*¨
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs ("\
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs (
+implicit returnB
+FlowerApp.Models.Flower

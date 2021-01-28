@@ -1,18 +1,18 @@
 
-AFlowerApp.ViewModels.EditFlowerViewModel.IsFlowerPresentation.getV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs+ (."0*Å
-0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs/ (/ª
-∏
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs+ (/
-
-%0bool"__id*L*J*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-IsFlowerPresentationbool"f
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs+ (/
-
-
-%0boolB,*
-(FlowerApp.ViewModels.EditFlowerViewModel
+:FlowerApp.ViewModels.ClaimsManagementViewModel.ClaimId.set\
+RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs% (("0*œ
+0\
+RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs) ()¡
+æ
+\
+RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs% ()E0
+.FlowerApp.ViewModels.ClaimsManagementViewModel"
+ClaimIdstring"__id*
+
+valuestring"ß
+\
+RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs% ()G*E0
+.FlowerApp.ViewModels.ClaimsManagementViewModel"
+ClaimIdstring:
+valuestringB20
+.FlowerApp.ViewModels.ClaimsManagementViewModel

@@ -1,18 +1,18 @@
 
-:FlowerApp.ViewModels.FlowerViewModel.ImageThumbnailUrl.setR
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs/ (2"0*±
-0R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs3 (3∑
-¥
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs/ (3E&
-$FlowerApp.ViewModels.FlowerViewModel"
-ImageThumbnailUrlstring"__id*
-
-valuestring"ù
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs/ (3G*E&
-$FlowerApp.ViewModels.FlowerViewModel"
-ImageThumbnailUrlstring:
-valuestringB(&
-$FlowerApp.ViewModels.FlowerViewModel
+,FlowerApp.Auth.ApplicationUser.Birthdate.setL
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs	) 	(,"0*û
+0L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs	- 	(-µ
+≤
+L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs	) 	(-@ 
+FlowerApp.Auth.ApplicationUser"
+	BirthdateSystem.DateTime"__id*
+
+valueSystem.DateTime"í
+L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs	) 	(-B*@ 
+FlowerApp.Auth.ApplicationUser"
+	BirthdateSystem.DateTime:
+valueSystem.DateTimeB" 
+FlowerApp.Auth.ApplicationUser

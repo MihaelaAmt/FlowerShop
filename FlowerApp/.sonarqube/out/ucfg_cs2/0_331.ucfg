@@ -1,17 +1,18 @@
 
-&FlowerApp.Models.Flower.CategoryId.getE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs  (#"0*∞
+$FlowerApp.Models.Flower.ImageUrl.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& ()"0*›
 0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$ ($ç
-ä
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs* (*î
+ë
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs  ($	
-%0int"__id*0*.
-FlowerApp.Models.Flower"
-
-CategoryIdint"T
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& (*/
+FlowerApp.Models.Flower"
+ImageUrlstring"__id*
+
+valuestring"z
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs  ($
-	
-%0intB
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& (*1*/
+FlowerApp.Models.Flower"
+ImageUrlstring:
+valuestringB
 FlowerApp.Models.Flower

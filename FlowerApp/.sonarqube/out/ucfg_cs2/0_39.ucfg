@@ -1,12 +1,16 @@
 
-BFlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartViewModel()X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs (&"0*Î
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs
- 
-("o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs 
-(
-implicit returnB.,
-*FlowerApp.ViewModels.ShoppingCartViewModel
+8FlowerApp.Models.ShoppingCartItem.ShoppingCartItemId.getO
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs( (+"0*à
+0O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs, (,©
+¦
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs( (,	
+%0int"__id*B*@#
+!FlowerApp.Models.ShoppingCartItem"
+ShoppingCartItemIdint"^
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs( (,
+	
+%0intB%#
+!FlowerApp.Models.ShoppingCartItem

@@ -1,18 +1,18 @@
 
-$FlowerApp.Models.Flower.FlowerId.setE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# (&"0*‘
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs' ('é
-ã
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# (',
-FlowerApp.Models.Flower"
-FlowerIdint"__id*
-
-valueint"w
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# ('.*,
-FlowerApp.Models.Flower"
-FlowerIdint:
-valueintB
-FlowerApp.Models.Flower
+$FlowerApp.Models.Order.PayMethod.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ' Q(*"0*⁄
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ+ Q(+ì
+ê
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ' Q(+/
+FlowerApp.Models.Order"
+	PayMethodstring"__id*
+
+valuestring"y
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ' Q(+1*/
+FlowerApp.Models.Order"
+	PayMethodstring:
+valuestringB
+FlowerApp.Models.Order

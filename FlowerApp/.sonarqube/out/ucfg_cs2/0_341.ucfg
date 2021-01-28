@@ -1,18 +1,18 @@
 
-AFlowerApp.Repository.ModelFlowerRepository.FlowerPresentation.setX
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs<8 <(;"0*º
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs<< <(<Š
-‡
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs<8 <(<o,
-*FlowerApp.Repository.ModelFlowerRepository"?
-FlowerPresentation)System.Collections.Generic.IEnumerable<T>"__id*4
-2
-value)System.Collections.Generic.IEnumerable<T>"Í
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs<8 <(<q*o,
-*FlowerApp.Repository.ModelFlowerRepository"?
-FlowerPresentation)System.Collections.Generic.IEnumerable<T>:2
-value)System.Collections.Generic.IEnumerable<T>B.,
-*FlowerApp.Repository.ModelFlowerRepository
+0FlowerApp.Models.Flower.IsFlowerPresentation.getE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (."0*½
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs/ (/™
+–
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (/
+
+%0bool"__id*;*9
+FlowerApp.Models.Flower"
+IsFlowerPresentationbool"U
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (/
+
+
+%0boolB
+FlowerApp.Models.Flower

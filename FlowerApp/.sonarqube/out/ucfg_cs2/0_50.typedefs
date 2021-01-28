@@ -1,7 +1,7 @@
-«
-"FlowerApp.ViewModels.HomeViewModelobjectE
-HomeViewModel()2FlowerApp.ViewModels.HomeViewModel.HomeViewModel()S
-FlowerPresentation.get9FlowerApp.ViewModels.HomeViewModel.FlowerPresentation.getS
-FlowerPresentation.set9FlowerApp.ViewModels.HomeViewModel.FlowerPresentation.setE
-FlowersName.get2FlowerApp.ViewModels.HomeViewModel.FlowersName.getE
-FlowersName.set2FlowerApp.ViewModels.HomeViewModel.FlowersName.set
+ë
+*FlowerApp.ViewModels.ShoppingCartViewModelobject]
+ShoppingCartViewModel()BFlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartViewModel()O
+ShoppingCart.get;FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.getO
+ShoppingCart.set;FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.setY
+ShoppingCartTotal.get@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.getY
+ShoppingCartTotal.set@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.set

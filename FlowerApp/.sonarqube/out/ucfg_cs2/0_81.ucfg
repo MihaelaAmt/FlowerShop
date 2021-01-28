@@ -1,18 +1,18 @@
 
-;FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.setX
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs0 (3"0*Š
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs4 (4ì
-é
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs0 (4],
-*FlowerApp.ViewModels.ShoppingCartViewModel"-
-ShoppingCartFlowerApp.Models.ShoppingCart"__id*(
-&
-valueFlowerApp.Models.ShoppingCart"»
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs0 (4_*],
-*FlowerApp.ViewModels.ShoppingCartViewModel"-
-ShoppingCartFlowerApp.Models.ShoppingCart:&
-valueFlowerApp.Models.ShoppingCartB.,
-*FlowerApp.ViewModels.ShoppingCartViewModel
+:FlowerApp.ViewModels.OrderHistoryDetailsViewModel.City.set_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	" 	(%"0*Ø
+0_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	& 	(&Ä
+Á
+_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	" 	(&E3
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
+Citystring"__id*
+
+valuestring"ª
+_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	" 	(&G*E3
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
+Citystring:
+valuestringB53
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel

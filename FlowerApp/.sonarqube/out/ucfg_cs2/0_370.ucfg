@@ -1,118 +1,33 @@
 
-;FlowerApp.Controllers.FlowerController.AutocompleteSearch()V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs«( «(:"4*c
+5FlowerApp.Controllers.FlowerController.FlowersNames()V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs»# »(/"2*ð
 0V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¸	 ¸(	*
-1
-2*ˆ
-1V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¯ ²(î
-ë
-V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¯ ¯()+
-%0%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
-'Microsoft.AspNetCore.Mvc.ControllerBaseê
-ç
-V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¯ ¯(1+
-%1%Microsoft.AspNetCore.Http.HttpRequest"1Microsoft.AspNetCore.Http.HttpContext.Request.get*-
-+
-%0%Microsoft.AspNetCore.Http.HttpContextí
-ê
-V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¯ ¯(70
-%2*Microsoft.AspNetCore.Http.IQueryCollection"/Microsoft.AspNetCore.Http.HttpRequest.Query.get*-
-+
-%1%Microsoft.AspNetCore.Http.HttpRequestœ™
-V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¯ ¯(?2
-%3,Microsoft.Extensions.Primitives.StringValues";Microsoft.AspNetCore.Http.IQueryCollection.this[string].get*2
-0
-%2*Microsoft.AspNetCore.Http.IQueryCollection*
-term2this[string].getØ
-Õ
-V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¯ ¯(J
-%4string"7Microsoft.Extensions.Primitives.StringValues.ToString()*4
-2
-%3,Microsoft.Extensions.Primitives.StringValues€
-~
-V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¯ ¯(J
-termstring"__id*
-
-%4stringú
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs½ ½(1ú
 ÷
 V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs° °(-,
-%5&FlowerApp.Repository.IFlowerRepository"__id*i*g(
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs½ ½($,
+%0&FlowerApp.Repository.IFlowerRepository"__id*i*g(
 &FlowerApp.Controllers.FlowerController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepositoryýú
+_flowerRepository&FlowerApp.Repository.IFlowerRepository‡„
 V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs° °(5/
-%6)System.Collections.Generic.IEnumerable<T>"2FlowerApp.Repository.IFlowerRepository.Flowers.get*.
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs½ ½(1/
+%1)System.Collections.Generic.IEnumerable<T>"7FlowerApp.Repository.IFlowerRepository.FlowersNames.get*.
 ,
-%5&FlowerApp.Repository.IFlowerRepository2Flowers.get×
-Ô
+%0&FlowerApp.Repository.IFlowerRepository2FlowersNames.get"‹
 V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs° °(W/
-%7)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
-System.Linq.Enumerable*1
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs½ ½(21
 /
-%6)System.Collections.Generic.IEnumerable<T>*
-""ä
-á
+%1)System.Collections.Generic.IEnumerable<T>*Ê
+1V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¾	 ¾(	"m
 V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs° °(k/
-%8)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
-System.Linq.Enumerable*1
-/
-%7)System.Collections.Generic.IEnumerable<T>*
-""­
-ª
-V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs° °(t(
-%9"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*1
-/
-%8)System.Collections.Generic.IEnumerable<T>º
-·
-V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs° °(t+
-names"System.Collections.Generic.List<T>"__id**
-(
-%9"System.Collections.Generic.List<T>§¤
-V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs² ²( .
-%10'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*-
-+
-names"System.Collections.Generic.List<T>2
-Ok(object)"Š
-V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs² ²(!0
-.
-%10'Microsoft.AspNetCore.Mvc.OkObjectResult*ë
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¾ ¾(	
+implicit return*Ð
 2V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¶ ¶(#þû
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs»1 »(1n
+l
 V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¶ ¶(#0
-%11)Microsoft.AspNetCore.Mvc.BadRequestResult"4Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest()*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase2BadRequest()"Œ
-V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¶ ¶($2
-0
-%11)Microsoft.AspNetCore.Mvc.BadRequestResult*Ê
-3V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¸	 ¸(	"m
-V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs¸ ¸(	
-implicit return*Ñ
-4V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs«< «(<o
-m
-V
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs«( «(:
-%12"__entrypoint*
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs»# »(/
+%2"__entrypoint*
 0B*(
 &FlowerApp.Controllers.FlowerController

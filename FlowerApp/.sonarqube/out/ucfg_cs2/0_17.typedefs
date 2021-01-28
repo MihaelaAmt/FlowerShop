@@ -1,6 +1,4 @@
-ð
-/FlowerApp.Migrations.ShippingAndPaymentMethods12Microsoft.EntityFrameworkCore.Migrations.Migrationobject®
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)mFlowerApp.Migrations.ShippingAndPaymentMethods1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)²
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)oFlowerApp.Migrations.ShippingAndPaymentMethods1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¬
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)lFlowerApp.Migrations.ShippingAndPaymentMethods1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)l
-ShippingAndPaymentMethods1()LFlowerApp.Migrations.ShippingAndPaymentMethods1.ShippingAndPaymentMethods1()
+Í
+$FlowerApp.Controllers.HomeController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject•
+6HomeController(FlowerApp.Repository.IFlowerRepository)[FlowerApp.Controllers.HomeController.HomeController(FlowerApp.Repository.IFlowerRepository)7
+Index(),FlowerApp.Controllers.HomeController.Index()

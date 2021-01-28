@@ -1,9 +1,7 @@
-˝
-&FlowerApp.ViewModels.EditRoleViewModelobjectQ
-EditRoleViewModel():FlowerApp.ViewModels.EditRoleViewModel.EditRoleViewModel()7
-Id.get-FlowerApp.ViewModels.EditRoleViewModel.Id.get7
-Id.set-FlowerApp.ViewModels.EditRoleViewModel.Id.setC
-RoleName.get3FlowerApp.ViewModels.EditRoleViewModel.RoleName.getC
-RoleName.set3FlowerApp.ViewModels.EditRoleViewModel.RoleName.set=
-	Users.get0FlowerApp.ViewModels.EditRoleViewModel.Users.get=
-	Users.set0FlowerApp.ViewModels.EditRoleViewModel.Users.set
+ù
+*FlowerApp.ViewModels.FlowerDetailViewModelobject]
+FlowerDetailViewModel()BFlowerApp.ViewModels.FlowerDetailViewModel.FlowerDetailViewModel()C
+
+Flower.get5FlowerApp.ViewModels.FlowerDetailViewModel.Flower.getC
+
+Flower.set5FlowerApp.ViewModels.FlowerDetailViewModel.Flower.set

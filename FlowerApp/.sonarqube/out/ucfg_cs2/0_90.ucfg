@@ -1,18 +1,18 @@
 
-3FlowerApp.Components.AdminMenuItem.DisplayValue.setP
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,* ,(-"0*
-0P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,. ,(.®
-«
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,* ,(.>$
-"FlowerApp.Components.AdminMenuItem"
-DisplayValuestring"__id*
+0FlowerApp.ViewModels.LoginViewModel.Password.setQ
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs& ()"0*š
+0Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs* (*¬
+©
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs& (*;%
+#FlowerApp.ViewModels.LoginViewModel"
+Passwordstring"__id*
 
-valuestring"”
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,* ,(.@*>$
-"FlowerApp.Components.AdminMenuItem"
-DisplayValuestring:
-valuestringB&$
-"FlowerApp.Components.AdminMenuItem
+valuestring"’
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs& (*=*;%
+#FlowerApp.ViewModels.LoginViewModel"
+Passwordstring:
+valuestringB'%
+#FlowerApp.ViewModels.LoginViewModel

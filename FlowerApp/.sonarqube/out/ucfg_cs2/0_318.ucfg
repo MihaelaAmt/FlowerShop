@@ -1,16 +1,20 @@
 
-,FlowerApp.Models.Flower.ShortDescription.getE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs	) 	(,"0*¿
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs	- 	(-™
-–
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs	) 	(-
-%0string"__id*9*7
-FlowerApp.Models.Flower"
-ShortDescriptionstring"W
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs	) 	(-
-
-%0stringB
-FlowerApp.Models.Flower
+%FlowerApp.Models.Order.CardNumber.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT( T(+"0*Ü
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT, T(,”
+‘
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT( T(,0
+FlowerApp.Models.Order"
+
+CardNumberstring"__id*
+
+valuestring"z
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT( T(,2*0
+FlowerApp.Models.Order"
+
+CardNumberstring:
+valuestringB
+FlowerApp.Models.Order

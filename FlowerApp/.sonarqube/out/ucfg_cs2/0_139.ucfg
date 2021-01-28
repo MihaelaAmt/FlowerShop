@@ -1,18 +1,18 @@
 
--FlowerApp.ViewModels.EditUserViewModel.Id.setT
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	  	(#"0*ù
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	$ 	($¨
-©
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	  	($8(
-&FlowerApp.ViewModels.EditUserViewModel"
-Idstring"__id*
+*FlowerApp.Auth.ApplicationUser.Country.setL
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs% (("0*ˇ
+0L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs) ()°
+û
+L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs% ()5 
+FlowerApp.Auth.ApplicationUser"
+Countrystring"__id*
 
-valuestring"í
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	  	($:*8(
-&FlowerApp.ViewModels.EditUserViewModel"
-Idstring:
-valuestringB*(
-&FlowerApp.ViewModels.EditUserViewModel
+valuestring"á
+L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs% ()7*5 
+FlowerApp.Auth.ApplicationUser"
+Countrystring:
+valuestringB" 
+FlowerApp.Auth.ApplicationUser

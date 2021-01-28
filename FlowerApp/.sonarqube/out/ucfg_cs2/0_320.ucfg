@@ -1,18 +1,16 @@
 
-,FlowerApp.Models.Flower.ShortDescription.setE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs	. 	(1"0*î
+$FlowerApp.Models.Flower.FlowerId.getE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs (!"0*®
 0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs	2 	(2œ
-™
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs" ("‹
+ˆ
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs	. 	(27
-FlowerApp.Models.Flower"
-ShortDescriptionstring"__id*
-
-valuestring"‚
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs ("	
+%0int"__id*.*,
+FlowerApp.Models.Flower"
+FlowerIdint"T
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs	. 	(29*7
-FlowerApp.Models.Flower"
-ShortDescriptionstring:
-valuestringB
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs ("
+	
+%0intB
 FlowerApp.Models.Flower

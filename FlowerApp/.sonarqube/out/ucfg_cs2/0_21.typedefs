@@ -1,5 +1,6 @@
-ª
-FlowerApp.Startupobjectˆ
-9Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment)KFlowerApp.Startup.Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment)²
-NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)`FlowerApp.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)Ì
-šConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment, Microsoft.Extensions.Logging.ILoggerFactory)¬FlowerApp.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment, Microsoft.Extensions.Logging.ILoggerFactory)
+é
+.FlowerApp.Migrations.ShippingAndPaymentMethods2Microsoft.EntityFrameworkCore.Migrations.Migrationobject­
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)lFlowerApp.Migrations.ShippingAndPaymentMethods.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)±
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)nFlowerApp.Migrations.ShippingAndPaymentMethods.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)«
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)kFlowerApp.Migrations.ShippingAndPaymentMethods.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)i
+ShippingAndPaymentMethods()JFlowerApp.Migrations.ShippingAndPaymentMethods.ShippingAndPaymentMethods()

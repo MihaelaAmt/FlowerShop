@@ -1,13 +1,12 @@
 
-0FlowerApp.Auth.ApplicationUser.ApplicationUser()L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs ( "0*±
-0L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs (y
-w
-
-%0void"9Microsoft.AspNetCore.Identity.IdentityUser.IdentityUser()*.,
-*Microsoft.AspNetCore.Identity.IdentityUser"c
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs (
-implicit returnB" 
-FlowerApp.Auth.ApplicationUser
+:FlowerApp.Auth.FlowerShopClaimTypes.FlowerShopClaimTypes()Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs (%"0*À
+0Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs
+ 
+("h
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs 
+(
+implicit returnB'%
+#FlowerApp.Auth.FlowerShopClaimTypes

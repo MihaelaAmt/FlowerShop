@@ -1,16 +1,16 @@
 
->FlowerApp.ViewModels.OrderHistoryDetailsViewModel.LastName.get_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs! ($"0*Ÿ
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs% (%Å
-Â
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs! (%
-%0string"__id*K*I3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-LastNamestring"q
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs! (%
-
-%0stringB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+1FlowerApp.ViewModels.FlowerViewModel.FlowerId.getR
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs (!"0*â
+0R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs" ("¥
+¢
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs ("	
+%0int"__id*;*9&
+$FlowerApp.ViewModels.FlowerViewModel"
+FlowerIdint"a
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs ("
+	
+%0intB(&
+$FlowerApp.ViewModels.FlowerViewModel

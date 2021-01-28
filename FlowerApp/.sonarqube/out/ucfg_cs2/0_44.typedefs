@@ -1,7 +1,7 @@
-
-*FlowerApp.ViewModels.FlowerDetailViewModelobject]
-FlowerDetailViewModel()BFlowerApp.ViewModels.FlowerDetailViewModel.FlowerDetailViewModel()C
-
-Flower.get5FlowerApp.ViewModels.FlowerDetailViewModel.Flower.getC
-
-Flower.set5FlowerApp.ViewModels.FlowerDetailViewModel.Flower.set
+¿
+(FlowerApp.ViewModels.FlowerListViewModelobjectW
+FlowerListViewModel()>FlowerApp.ViewModels.FlowerListViewModel.FlowerListViewModel()C
+Flowers.get4FlowerApp.ViewModels.FlowerListViewModel.Flowers.getC
+Flowers.set4FlowerApp.ViewModels.FlowerListViewModel.Flowers.setS
+CurrentCategory.get<FlowerApp.ViewModels.FlowerListViewModel.CurrentCategory.getS
+CurrentCategory.set<FlowerApp.ViewModels.FlowerListViewModel.CurrentCategory.set

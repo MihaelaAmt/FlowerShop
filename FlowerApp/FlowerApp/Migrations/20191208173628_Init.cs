@@ -6,10 +6,17 @@ namespace FlowerApp.Migrations
 {
     public partial class Init : Migration
     {
+        private const string AspNetRoles = "AspNetRoles";
+        private const string AspNetUsers = "AspNetUsers";
+        private const string ValueGenerationStrategy = "SqlServer:ValueGenerationStrategy";
+        private const string Flowers = "Flowers";
+        private const string OrderDetails = "OrderDetails";
+        private const string Flower_Id = "FlowerId";
         protected override void Up(MigrationBuilder migrationBuilder)
         {
+
             migrationBuilder.CreateTable(
-                name: "AspNetRoles",
+                name: AspNetRoles,
                 columns: table => new
                 {
                     Id = table.Column<string>(nullable: false),
@@ -23,7 +30,7 @@ namespace FlowerApp.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "AspNetUsers",
+                name: AspNetRoles,
                 columns: table => new
                 {
                     Id = table.Column<string>(nullable: false),
@@ -55,7 +62,7 @@ namespace FlowerApp.Migrations
                 columns: table => new
                 {
                     CategoryId = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation(ValueGenerationStrategy, SqlServerValueGenerationStrategy.IdentityColumn),
                     CategoryName = table.Column<string>(nullable: true),
                     Description = table.Column<string>(nullable: true)
                 },
@@ -69,7 +76,7 @@ namespace FlowerApp.Migrations
                 columns: table => new
                 {
                     OrderId = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation(ValueGenerationStrategy, SqlServerValueGenerationStrategy.IdentityColumn),
                     FirstName = table.Column<string>(maxLength: 50, nullable: false),
                     LastName = table.Column<string>(maxLength: 50, nullable: false),
                     AddressLine1 = table.Column<string>(maxLength: 100, nullable: false),
@@ -93,7 +100,7 @@ namespace FlowerApp.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation(ValueGenerationStrategy, SqlServerValueGenerationStrategy.IdentityColumn),
                     RoleId = table.Column<string>(nullable: false),
                     ClaimType = table.Column<string>(nullable: true),
                     ClaimValue = table.Column<string>(nullable: true)
@@ -104,7 +111,7 @@ namespace FlowerApp.Migrations
                     table.ForeignKey(
                         name: "FK_AspNetRoleClaims_AspNetRoles_RoleId",
                         column: x => x.RoleId,
-                        principalTable: "AspNetRoles",
+                        principalTable: AspNetRoles,
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -114,7 +121,7 @@ namespace FlowerApp.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation(ValueGenerationStrategy, SqlServerValueGenerationStrategy.IdentityColumn),
                     UserId = table.Column<string>(nullable: false),
                     ClaimType = table.Column<string>(nullable: true),
                     ClaimValue = table.Column<string>(nullable: true)
@@ -125,7 +132,7 @@ namespace FlowerApp.Migrations
                     table.ForeignKey(
                         name: "FK_AspNetUserClaims_AspNetUsers_UserId",
                         column: x => x.UserId,
-                        principalTable: "AspNetUsers",
+                        principalTable: AspNetUsers,
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -145,7 +152,7 @@ namespace FlowerApp.Migrations
                     table.ForeignKey(
                         name: "FK_AspNetUserLogins_AspNetUsers_UserId",
                         column: x => x.UserId,
-                        principalTable: "AspNetUsers",
+                        principalTable: AspNetUsers,
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -163,13 +170,13 @@ namespace FlowerApp.Migrations
                     table.ForeignKey(
                         name: "FK_AspNetUserRoles_AspNetRoles_RoleId",
                         column: x => x.RoleId,
-                        principalTable: "AspNetRoles",
+                        principalTable: AspNetRoles,
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_AspNetUserRoles_AspNetUsers_UserId",
                         column: x => x.UserId,
-                        principalTable: "AspNetUsers",
+                        principalTable: AspNetUsers,
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -189,17 +196,17 @@ namespace FlowerApp.Migrations
                     table.ForeignKey(
                         name: "FK_AspNetUserTokens_AspNetUsers_UserId",
                         column: x => x.UserId,
-                        principalTable: "AspNetUsers",
+                        principalTable: AspNetUsers,
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Flowers",
+                name: Flowers,
                 columns: table => new
                 {
                     FlowerId = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation(ValueGenerationStrategy, SqlServerValueGenerationStrategy.IdentityColumn),
                     Name = table.Column<string>(nullable: true),
                     ShortDescription = table.Column<string>(nullable: true),
                     LongDescription = table.Column<string>(nullable: true),
@@ -222,11 +229,11 @@ namespace FlowerApp.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "OrderDetails",
+                name: OrderDetails,
                 columns: table => new
                 {
                     OrderDetailId = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation(ValueGenerationStrategy, SqlServerValueGenerationStrategy.IdentityColumn),
                     OrderId = table.Column<int>(nullable: false),
                     FlowerId = table.Column<int>(nullable: false),
                     Amount = table.Column<int>(nullable: false),
@@ -238,7 +245,7 @@ namespace FlowerApp.Migrations
                     table.ForeignKey(
                         name: "FK_OrderDetails_Flowers_FlowerId",
                         column: x => x.FlowerId,
-                        principalTable: "Flowers",
+                        principalTable: Flowers,
                         principalColumn: "FlowerId",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
@@ -254,7 +261,7 @@ namespace FlowerApp.Migrations
                 columns: table => new
                 {
                     ShoppingCartItemId = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation(ValueGenerationStrategy, SqlServerValueGenerationStrategy.IdentityColumn),
                     FlowerId = table.Column<int>(nullable: true),
                     Amount = table.Column<int>(nullable: false),
                     ShoppingCartId = table.Column<string>(nullable: true)
@@ -265,8 +272,8 @@ namespace FlowerApp.Migrations
                     table.ForeignKey(
                         name: "FK_ShoppingCartItems_Flowers_FlowerId",
                         column: x => x.FlowerId,
-                        principalTable: "Flowers",
-                        principalColumn: "FlowerId",
+                        principalTable: Flowers,
+                        principalColumn: Flower_Id,
                         onDelete: ReferentialAction.Restrict);
                 });
 
@@ -277,7 +284,7 @@ namespace FlowerApp.Migrations
 
             migrationBuilder.CreateIndex(
                 name: "RoleNameIndex",
-                table: "AspNetRoles",
+                table: AspNetRoles,
                 column: "NormalizedName",
                 unique: true,
                 filter: "[NormalizedName] IS NOT NULL");
@@ -299,35 +306,35 @@ namespace FlowerApp.Migrations
 
             migrationBuilder.CreateIndex(
                 name: "EmailIndex",
-                table: "AspNetUsers",
+                table: AspNetUsers,
                 column: "NormalizedEmail");
 
             migrationBuilder.CreateIndex(
                 name: "UserNameIndex",
-                table: "AspNetUsers",
+                table: AspNetUsers,
                 column: "NormalizedUserName",
                 unique: true,
                 filter: "[NormalizedUserName] IS NOT NULL");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Flowers_CategoryId",
-                table: "Flowers",
+                table: Flowers,
                 column: "CategoryId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_OrderDetails_FlowerId",
-                table: "OrderDetails",
-                column: "FlowerId");
+                table: OrderDetails,
+                column: Flower_Id);
 
             migrationBuilder.CreateIndex(
                 name: "IX_OrderDetails_OrderId",
-                table: "OrderDetails",
+                table: OrderDetails,
                 column: "OrderId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_ShoppingCartItems_FlowerId",
                 table: "ShoppingCartItems",
-                column: "FlowerId");
+                column: Flower_Id);
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
@@ -348,22 +355,22 @@ namespace FlowerApp.Migrations
                 name: "AspNetUserTokens");
 
             migrationBuilder.DropTable(
-                name: "OrderDetails");
+                name: OrderDetails);
 
             migrationBuilder.DropTable(
                 name: "ShoppingCartItems");
 
             migrationBuilder.DropTable(
-                name: "AspNetRoles");
+                name: AspNetRoles);
 
             migrationBuilder.DropTable(
-                name: "AspNetUsers");
+                name: AspNetUsers);
 
             migrationBuilder.DropTable(
                 name: "Orders");
 
             migrationBuilder.DropTable(
-                name: "Flowers");
+                name: Flowers);
 
             migrationBuilder.DropTable(
                 name: "Categories");

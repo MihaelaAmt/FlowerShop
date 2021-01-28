@@ -1,18 +1,17 @@
 
-4FlowerApp.ViewModels.EditFlowerViewModel.InStock.setV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs# (&"0*«
-0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs' ('±
-®
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs# ('=*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-InStockbool"__id*
+5FlowerApp.ViewModels.CategoryViewModel.CategoryId.getT
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs  (#"0*ì
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs$ ($«
+¨
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs  ($	
+%0int"__id*?*=(
+&FlowerApp.ViewModels.CategoryViewModel"
 
-valuebool"™
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs# ('?*=*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-InStockbool:
-valueboolB,*
-(FlowerApp.ViewModels.EditFlowerViewModel
+CategoryIdint"c
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs  ($
+	
+%0intB*(
+&FlowerApp.ViewModels.CategoryViewModel

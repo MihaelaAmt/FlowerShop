@@ -1,18 +1,18 @@
 
--FlowerApp.Models.Flower.ImageThumbnailUrl.setE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs/ (2"0*
++FlowerApp.Models.Flower.LongDescription.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs- (0"0*Ï
 0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs3 (3ù
-ö
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs1 (1õ
+ò
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs/ (38
-FlowerApp.Models.Flower"
-ImageThumbnailUrlstring"__id*
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs- (16
+FlowerApp.Models.Flower"
+LongDescriptionstring"__id*
 
-valuestring"É
+valuestring"Å
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs/ (3:*8
-FlowerApp.Models.Flower"
-ImageThumbnailUrlstring:
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs- (18*6
+FlowerApp.Models.Flower"
+LongDescriptionstring:
 valuestringB
 FlowerApp.Models.Flower

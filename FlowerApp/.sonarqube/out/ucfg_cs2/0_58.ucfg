@@ -1,18 +1,46 @@
 
-1FlowerApp.ViewModels.UserRoleViewModel.UserId.setT
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs$ ('"0*¥
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs( ((°
-­
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs$ ((<(
-&FlowerApp.ViewModels.UserRoleViewModel"
-UserIdstring"__id*
-
-valuestring"–
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs$ ((>*<(
-&FlowerApp.ViewModels.UserRoleViewModel"
-UserIdstring:
-valuestringB*(
-&FlowerApp.ViewModels.UserRoleViewModel
+ŠFlowerApp.Controllers.ShoppingCartController.ShoppingCartController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Models.ShoppingCart)Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (%"3*Ï
+1Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs	 (	i
+g
+
+%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
+#Microsoft.AspNetCore.Mvc.Controller*
+0*ô
+0Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs ((’
+
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (0m.
+,FlowerApp.Controllers.ShoppingCartController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepository"__id*<
+:
+flowerRepository&FlowerApp.Repository.IFlowerRepositoryø
+õ
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs ((`.
+,FlowerApp.Controllers.ShoppingCartController".
+_shoppingCartFlowerApp.Models.ShoppingCart"__id*/
+-
+shoppingCartFlowerApp.Models.ShoppingCart*
+2*Ò
+2Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs	 (	"q
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (	
+implicit return*É
+3Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csd (dâ
+ß
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (%
+%1"__entrypoint*<
+:
+flowerRepository&FlowerApp.Repository.IFlowerRepository*/
+-
+shoppingCartFlowerApp.Models.ShoppingCart*
+1::
+flowerRepository&FlowerApp.Repository.IFlowerRepository:-
+shoppingCartFlowerApp.Models.ShoppingCartB0.
+,FlowerApp.Controllers.ShoppingCartController

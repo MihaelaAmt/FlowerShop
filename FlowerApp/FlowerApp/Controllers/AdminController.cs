@@ -14,6 +14,9 @@ namespace FlowerApp.Controllers
     [Authorize(Roles = "Administrators")]
     public class AdminController : Controller
     {
+        private const string UManagement = "UserManagement";
+        private const string RManagement = "RoleManagement";
+        private const string FManagement = "FlowerManagement";
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly RoleManager<IdentityRole> _roleManager;
         private readonly IFlowerRepository _flowerRepository;
@@ -67,7 +70,7 @@ namespace FlowerApp.Controllers
 
             if (result.Succeeded)
             {
-                return RedirectToAction("UserManagement", _userManager.Users);
+                return RedirectToAction(UManagement, _userManager.Users);
             }
 
             foreach (IdentityError error in result.Errors)
@@ -82,7 +85,7 @@ namespace FlowerApp.Controllers
             var user = await _userManager.FindByIdAsync(id);
 
             if (user == null)
-                return RedirectToAction("UserManagement", _userManager.Users);
+                return RedirectToAction(UManagement, _userManager.Users);
             var claims = await _userManager.GetClaimsAsync(user);
             var vm = new EditUserViewModel()
             {
@@ -111,14 +114,14 @@ namespace FlowerApp.Controllers
                 var result = await _userManager.UpdateAsync(user);
 
                 if (result.Succeeded)
-                    return RedirectToAction("UserManagement", _userManager.Users);
+                    return RedirectToAction(UManagement, _userManager.Users);
 
                 ModelState.AddModelError("", "User not updated, something went wrong.");
 
                 return View(editUserViewModel);
             }
 
-            return RedirectToAction("UserManagement", _userManager.Users);
+            return RedirectToAction(UManagement, _userManager.Users);
         }
 
         [HttpPost]
@@ -130,7 +133,7 @@ namespace FlowerApp.Controllers
             {
                 IdentityResult result = await _userManager.DeleteAsync(user);
                 if (result.Succeeded)
-                    return RedirectToAction("UserManagement");
+                    return RedirectToAction(UManagement);
                 else
                     ModelState.AddModelError("", "Something went wrong while deleting this user.");
             }
@@ -138,7 +141,7 @@ namespace FlowerApp.Controllers
             {
                 ModelState.AddModelError("", "This user can't be found");
             }
-            return View("UserManagement", _userManager.Users);
+            return View(UManagement, _userManager.Users);
         }
 
         //Roles management
@@ -166,7 +169,7 @@ namespace FlowerApp.Controllers
 
             if (result.Succeeded)
             {
-                return RedirectToAction("RoleManagement", _roleManager.Roles);
+                return RedirectToAction(RManagement, _roleManager.Roles);
             }
 
             foreach (IdentityError error in result.Errors)
@@ -181,7 +184,7 @@ namespace FlowerApp.Controllers
             var role = await _roleManager.FindByIdAsync(id);
 
             if (role == null)
-                return RedirectToAction("RoleManagement", _roleManager.Roles);
+                return RedirectToAction(RManagement, _roleManager.Roles);
 
             var editRoleViewModel = new EditRoleViewModel
             {
@@ -212,14 +215,14 @@ namespace FlowerApp.Controllers
                 var result = await _roleManager.UpdateAsync(role);
 
                 if (result.Succeeded)
-                    return RedirectToAction("RoleManagement", _roleManager.Roles);
+                    return RedirectToAction(RManagement, _roleManager.Roles);
 
                 ModelState.AddModelError("", "Role not updated, something went wrong.");
 
                 return View(editRoleViewModel);
             }
 
-            return RedirectToAction("RoleManagement", _roleManager.Roles);
+            return RedirectToAction(RManagement, _roleManager.Roles);
         }
 
         [HttpPost]
@@ -230,14 +233,14 @@ namespace FlowerApp.Controllers
             {
                 var result = await _roleManager.DeleteAsync(role);
                 if (result.Succeeded)
-                    return RedirectToAction("RoleManagement", _roleManager.Roles);
+                    return RedirectToAction(RManagement, _roleManager.Roles);
                 ModelState.AddModelError("", "Something went wrong while deleting this role.");
             }
             else
             {
                 ModelState.AddModelError("", "This role can't be found.");
             }
-            return View("RoleManagement", _roleManager.Roles);
+            return View(RManagement, _roleManager.Roles);
         }
 
         //Users in roles
@@ -247,7 +250,7 @@ namespace FlowerApp.Controllers
             var role = await _roleManager.FindByIdAsync(roleId);
 
             if (role == null)
-                return RedirectToAction("RoleManagement", _roleManager.Roles);
+                return RedirectToAction(RManagement, _roleManager.Roles);
 
             var addUserToRoleViewModel = new UserRoleViewModel { RoleId = role.Id };
 
@@ -272,7 +275,7 @@ namespace FlowerApp.Controllers
 
             if (result.Succeeded)
             {
-                return RedirectToAction("RoleManagement", _roleManager.Roles);
+                return RedirectToAction(RManagement, _roleManager.Roles);
             }
 
             foreach (IdentityError error in result.Errors)
@@ -288,7 +291,7 @@ namespace FlowerApp.Controllers
             var role = await _roleManager.FindByIdAsync(roleId);
 
             if (role == null)
-                return RedirectToAction("RoleManagement", _roleManager.Roles);
+                return RedirectToAction(RManagement, _roleManager.Roles);
 
             var addUserToRoleViewModel = new UserRoleViewModel { RoleId = role.Id };
 
@@ -313,7 +316,7 @@ namespace FlowerApp.Controllers
 
             if (result.Succeeded)
             {
-                return RedirectToAction("RoleManagement", _roleManager.Roles);
+                return RedirectToAction(RManagement, _roleManager.Roles);
             }
 
             foreach (IdentityError error in result.Errors)
@@ -368,7 +371,7 @@ namespace FlowerApp.Controllers
 
             _flowerRepository.AddFlower(flower);
 
-            return RedirectToAction("FlowerManagement", _flowerRepository.Flowers);
+            return RedirectToAction(FManagement, _flowerRepository.Flowers);
         }
 
         [HttpPost]
@@ -379,14 +382,14 @@ namespace FlowerApp.Controllers
             {
                 _flowerRepository.DeleteFlower(flower);
 
-                return View("FlowerManagement", _flowerRepository.FlowersAsViewModel);
+                return View(FManagement, _flowerRepository.FlowersAsViewModel);
             }
             else
             {
                 ModelState.AddModelError("", "This flower can't be found.");
             }
 
-            return View("FlowerManagement", _flowerRepository.FlowersAsViewModel);
+            return View(FManagement, _flowerRepository.FlowersAsViewModel);
         }
 
         public IActionResult EditFlower(int id)
@@ -396,7 +399,7 @@ namespace FlowerApp.Controllers
             var flower = _flowerRepository.GetFlowerById(id);
 
             if (flower == null)
-                return View("FlowerManagement", _flowerRepository.FlowersAsViewModel);
+                return View(FManagement, _flowerRepository.FlowersAsViewModel);
 
             var editFlowerViewModel = new EditFlowerViewModel
             {
@@ -435,10 +438,10 @@ namespace FlowerApp.Controllers
 
                 _flowerRepository.UpdateFlower(flower);
 
-                return RedirectToAction("FlowerManagement", _flowerRepository.FlowersAsViewModel);
+                return RedirectToAction(FManagement, _flowerRepository.FlowersAsViewModel);
             }
 
-            return RedirectToAction("FlowerManagement", _flowerRepository.FlowersAsViewModel);
+            return RedirectToAction(FManagement, _flowerRepository.FlowersAsViewModel);
         }
 
         private FlowerViewModel MapDbFlowerToFlowerViewModel(Flower dbFlower)

@@ -1,27 +1,18 @@
 
-[FlowerApp.Components.ShoppingCartSummary.ShoppingCartSummary(FlowerApp.Models.ShoppingCart)V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (""1*‘
-1V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs	 (	r
-p
-
-%0void"6Microsoft.AspNetCore.Mvc.ViewComponent.ViewComponent()**(
-&Microsoft.AspNetCore.Mvc.ViewComponent*
-0*”
-0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs ((
-Ì
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs ((\*
-(FlowerApp.Components.ShoppingCartSummary".
-_shoppingCartFlowerApp.Models.ShoppingCart"__id*/
--
-shoppingCartFlowerApp.Models.ShoppingCart*
-2* 
-2V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs	 (	"m
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs (	
-implicit return:-
-shoppingCartFlowerApp.Models.ShoppingCartB,*
-(FlowerApp.Components.ShoppingCartSummary
+,FlowerApp.Models.ShoppingCartItem.Flower.setO
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs$ ('"0*ø
+0O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs( ((»
+≈
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs$ ((H#
+!FlowerApp.Models.ShoppingCartItem"!
+FlowerFlowerApp.Models.Flower"__id*"
+ 
+valueFlowerApp.Models.Flower"ù
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs$ ((J*H#
+!FlowerApp.Models.ShoppingCartItem"!
+FlowerFlowerApp.Models.Flower: 
+valueFlowerApp.Models.FlowerB%#
+!FlowerApp.Models.ShoppingCartItem

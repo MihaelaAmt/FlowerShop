@@ -1,8 +1,5 @@
-À
-#FlowerApp.TagHelpers.EmailTagHelper/Microsoft.AspNetCore.Razor.TagHelpers.TagHelperobject•
-vProcess(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput)šFlowerApp.TagHelpers.EmailTagHelper.Process(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput)H
-EmailTagHelper()4FlowerApp.TagHelpers.EmailTagHelper.EmailTagHelper()>
-Address.get/FlowerApp.TagHelpers.EmailTagHelper.Address.get>
-Address.set/FlowerApp.TagHelpers.EmailTagHelper.Address.set>
-Content.get/FlowerApp.TagHelpers.EmailTagHelper.Content.get>
-Content.set/FlowerApp.TagHelpers.EmailTagHelper.Content.set
+¹
+,FlowerApp.Repository.ModelCategoryRepositoryobjectc
+ModelCategoryRepository()FFlowerApp.Repository.ModelCategoryRepository.ModelCategoryRepository()M
+Categories.get;FlowerApp.Repository.ModelCategoryRepository.Categories.getM
+Categories.set;FlowerApp.Repository.ModelCategoryRepository.Categories.set

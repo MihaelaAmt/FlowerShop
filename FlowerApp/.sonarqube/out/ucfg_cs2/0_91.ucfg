@@ -1,46 +1,16 @@
 
-—FlowerApp.Controllers.AccountController.AccountController(Microsoft.AspNetCore.Identity.UserManager<FlowerApp.Auth.ApplicationUser>, Microsoft.AspNetCore.Identity.SignInManager<FlowerApp.Auth.ApplicationUser>)U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs ( "3* 
-1U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs	 (	i
-g
-
-%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
-#Microsoft.AspNetCore.Mvc.Controller*
-0*ë
-0U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs (*í
-è
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs (&m)
-'FlowerApp.Controllers.AccountController"@
-_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*A
-?
-userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>ö
-ó
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs (*q)
-'FlowerApp.Controllers.AccountController"D
-_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*E
-C
-signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>*
-2*»
-2U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs	 (	"l
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs (	
-implicit return*⁄
-3U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs9 (9¯
-ı
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs ( 
-%1"__entrypoint*A
-?
-userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*E
-C
-signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>*
-1:?
-userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>:C
-signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>B+)
-'FlowerApp.Controllers.AccountController
+1FlowerApp.ViewModels.LoginViewModel.ReturnUrl.getQ
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs" (%"0*Ë
+0Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs& (&™
+ß
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs" (&
+%0string"__id*>*<%
+#FlowerApp.ViewModels.LoginViewModel"
+	ReturnUrlstring"c
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs" (&
+
+%0stringB'%
+#FlowerApp.ViewModels.LoginViewModel

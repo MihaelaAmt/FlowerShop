@@ -7,6 +7,9 @@ namespace FlowerApp.Models
 {
     public static class DbInitializer
     {
+        private const string SingleFlower = "Single flower";
+        private const string BouquetOfFlowers = "Bouquet of flowers";
+        private const string SeasonalFlowers = "Seasonal flowers";
         public static void Seed(IApplicationBuilder applicationBuilder)
         {
             using (var serviceScope = applicationBuilder.ApplicationServices.CreateScope())
@@ -32,7 +35,7 @@ namespace FlowerApp.Models
                                                 They grow from scaly bulbs.
                                                 Many of the species are highly fragrant and typically range in height from 30cm − 120cm,
                                                 although some can be much taller.",
-                            Category = Categories["Single flower"],
+                            Category = Categories[SingleFlower],
                             ImageUrl = "https://www.florariaaly.ro/image/cache/data/Flori%20la%20fir/Crin%20imperial-500x500_0.jpg",
                             InStock = true,
                             ImageThumbnailUrl = "" +
@@ -47,7 +50,7 @@ namespace FlowerApp.Models
                             LongDescription = @"If the red rose's exquisite beauty isn't reason enough to make 
                                                 it the ideal choice to express your love,
                                                 its symbolism of magic and passion adds a message beyond words.",
-                            Category = Categories["Single flower"],
+                            Category = Categories[SingleFlower],
                             ImageUrl = "http://www.buchetetrandafiri.ro/poze/flori/un-fir-de-trandafir-rosu-OBIdz.jpg",
                             InStock = true,
                             ImageThumbnailUrl = "http://www.buchetetrandafiri.ro/poze/flori/un-fir-de-trandafir-rosu-OBIdz.jpg",
@@ -60,7 +63,7 @@ namespace FlowerApp.Models
                             ShortDescription = "White daisy flower",
                             LongDescription = @"The perfect bouquet to brighten someon'es day!
                                                 White and yellow dasies accented with buplerum, greens, and a lovely yellow bow. ",
-                            Category = Categories["Single flower"],
+                            Category = Categories[SingleFlower],
                             ImageUrl = "https://i.pinimg.com/originals/17/a5/d1/17a5d17b2f30c1ad24b6fd182dc89c59.jpg",
                             InStock = true,
                             ImageThumbnailUrl = "https://i.pinimg.com/originals/17/a5/d1/17a5d17b2f30c1ad24b6fd182dc89c59.jpg",
@@ -82,7 +85,7 @@ namespace FlowerApp.Models
                                                 full of charm, elegance and distinction, communicating clearly the feelings of the giver.
                                                 When you wish to declare your love in a stylish way offer an impressive bouquet of red roses
                                                 that will overwhelm the senses through the beauty of its petals and sweet scent.",
-                            Category = Categories["Bouquet of flowers"],
+                            Category = Categories[BouquetOfFlowers],
                             ImageUrl = "https://florariadevis.ro/1493-large_default/buchet-trandafiri.jpg",
                             InStock = true,
                             ImageThumbnailUrl = "https://florariadevis.ro/1493-large_default/buchet-trandafiri.jpg",
@@ -101,7 +104,7 @@ namespace FlowerApp.Models
                                                 in some cases they may be in the form of buds.
                                                 They will open within 24 hours if in the room are between 23 and 25 Celsius degrees.
                                                 In this case you can enjoy the freshness even more!",
-                            Category = Categories["Seasonal flowers"],
+                            Category = Categories[SeasonalFlowers],
                             ImageUrl = "https://www.giftidea.ro/wp-content/uploads/2017/02/3-1.jpg",
                             InStock = true,
                             ImageThumbnailUrl = "https://www.giftidea.ro/wp-content/uploads/2017/02/3-1.jpg",
@@ -122,7 +125,7 @@ namespace FlowerApp.Models
                                                 In any season the tulips remains one of the most appreciated flowers,
                                                 so who would not enjoy a surprise which contain colourful tulips?
                                                 Order online this wonderful bouquet and someone you love will be happy!",
-                            Category = Categories["Seasonal flowers"],
+                            Category = Categories[SeasonalFlowers],
                             ImageUrl = "https://floridebrasov.ro/pics/6/0.jpg",
                             InStock = true,
                             ImageThumbnailUrl = "https://floridebrasov.ro/pics/6/0.jpg",
@@ -154,7 +157,7 @@ namespace FlowerApp.Models
                                                 As beautiful and graceful as they are,
                                                 they are fair and graceful.For this reason,
                                                 their use in floral arrangements is less common.",
-                            Category = Categories["Seasonal flowers"],
+                            Category = Categories[SeasonalFlowers],
                             ImageUrl =
                             "https://s12emagst.akamaized.net/products/3599/3598987/images/res_6664a230d1124f1cbe0eb246f0c7a477_full.jpg",
                             InStock = true,
@@ -173,7 +176,7 @@ namespace FlowerApp.Models
                                                 Matthiola and Brunia is absolutely charming.
                                                 The pastel colors and the perfume give  the bouquet a romantic 
                                                 look and it is suitable for a sensitive person.",
-                            Category = Categories["Bouquet of flowers"],
+                            Category = Categories[BouquetOfFlowers],
                             ImageUrl =
                             "https://s12emagst.akamaized.net/products/6085/6084226/images/res_b401ee11c47ba7fb3762c91794496f22_full.jpg",
                             InStock = true,
@@ -192,7 +195,7 @@ namespace FlowerApp.Models
                                                 Imagine your recipient's delight as each day their bouquet 
                                                 of lilies grows brighter and bigger,
                                                 reminding them of your thoughtfulness for at least a week.",
-                            Category = Categories["Bouquet of flowers"],
+                            Category = Categories[BouquetOfFlowers],
                             ImageUrl =
                             "http://www.iflori.ro/image/cache/data/" +
                             "Buchete%20corporate/BC66%20Buchet%20flori%20crin%20alb%20pret%20%20235%20lei-500x500.jpg",
@@ -219,7 +222,7 @@ namespace FlowerApp.Models
                                                 They may come in a daisy like flower, a button flower, or even resembling a pom pom.
                                                 You will find that you can get them in traditional colors like white and yellow,
                                                 but they also come in reds and pinks today too.",
-                            Category = Categories["Single flower"],
+                            Category = Categories[SingleFlower],
                             ImageUrl = "https://www.robertorossi.ro/images/produse/crizantema-75-cm-galben-87017-1.jpg",
                             InStock = true,
                             ImageThumbnailUrl = "https://www.robertorossi.ro/images/produse/crizantema-75-cm-galben-87017-1.jpg",
@@ -241,9 +244,9 @@ namespace FlowerApp.Models
                 {
                     var genresList = new Category[]
                     {
-                        new Category { CategoryName = "Single flower" },
-                        new Category { CategoryName = "Bouquet of flowers" },
-                        new Category { CategoryName = "Seasonal flowers" }
+                        new Category { CategoryName = SingleFlower },
+                        new Category { CategoryName = BouquetOfFlowers },
+                        new Category { CategoryName = SeasonalFlowers }
                     };
 
                     categories = new Dictionary<string, Category>();

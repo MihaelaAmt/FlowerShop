@@ -1,20 +1,17 @@
 
-%FlowerApp.Models.Order.CardNumber.setD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT( T(+"0*‹
+%FlowerApp.Models.Order.OrderTotal.getD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI$ I('"0*∏
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT, T(,î
-ë
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI( I((ì
+ê
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT( T(,0
-FlowerApp.Models.Order"
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI$ I((
+%0decimal"__id*3*1
+FlowerApp.Models.Order"
 
-CardNumberstring"__id*
-
-valuestring"z
+OrderTotaldecimal"W
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT( T(,2*0
-FlowerApp.Models.Order"
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI$ I((
 
-CardNumberstring:
-valuestringB
+%0decimalB
 FlowerApp.Models.Order

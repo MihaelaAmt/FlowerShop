@@ -1,16 +1,20 @@
 
-2FlowerApp.ViewModels.AddUserViewModel.Password.getS
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs! ($"0*ï
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs% (%­
-ª
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs! (%
-%0string"__id*?*='
-%FlowerApp.ViewModels.AddUserViewModel"
-Passwordstring"e
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs! (%
-
-%0stringB)'
-%FlowerApp.ViewModels.AddUserViewModel
+,FlowerApp.Models.AppDbContext.Categories.setK
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs ("0*ò
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (î
+ë
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (]
+FlowerApp.Models.AppDbContext":
+
+Categories,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"®
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (_*]
+FlowerApp.Models.AppDbContext":
+
+Categories,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
+FlowerApp.Models.AppDbContext

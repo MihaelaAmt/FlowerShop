@@ -1,7 +1,13 @@
-ù
-*FlowerApp.ViewModels.OrderHistoryViewModelobject]
-OrderHistoryViewModel()BFlowerApp.ViewModels.OrderHistoryViewModel.OrderHistoryViewModel()C
+Ö
+&FlowerApp.ViewModels.UserRoleViewModelobjectQ
+UserRoleViewModel():FlowerApp.ViewModels.UserRoleViewModel.UserRoleViewModel()?
 
-Orders.get5FlowerApp.ViewModels.OrderHistoryViewModel.Orders.getC
+UserId.get1FlowerApp.ViewModels.UserRoleViewModel.UserId.get?
 
-Orders.set5FlowerApp.ViewModels.OrderHistoryViewModel.Orders.set
+UserId.set1FlowerApp.ViewModels.UserRoleViewModel.UserId.set?
+
+RoleId.get1FlowerApp.ViewModels.UserRoleViewModel.RoleId.get?
+
+RoleId.set1FlowerApp.ViewModels.UserRoleViewModel.RoleId.set=
+	Users.get0FlowerApp.ViewModels.UserRoleViewModel.Users.get=
+	Users.set0FlowerApp.ViewModels.UserRoleViewModel.Users.set

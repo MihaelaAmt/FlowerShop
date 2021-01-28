@@ -3,5 +3,5 @@ projectKey=MihaelaAmt_FlowerShop
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.16759
 dashboardUrl=https://sonarcloud.io/dashboard?id=MihaelaAmt_FlowerShop
-ceTaskId=AXdJK4lyUh8MOodU7rhB
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXdJK4lyUh8MOodU7rhB
+ceTaskId=AXdJTxNwUh8MOodU7r6X
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXdJTxNwUh8MOodU7r6X

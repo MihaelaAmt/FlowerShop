@@ -1,46 +1,16 @@
 
-äFlowerApp.Controllers.ShoppingCartController.ShoppingCartController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Models.ShoppingCart)Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (%"3*œ
-1Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs	 (	i
-g
-
-%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
-#Microsoft.AspNetCore.Mvc.Controller*
-0*Ù
-0Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs ((í
-è
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (0m.
-,FlowerApp.Controllers.ShoppingCartController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepository"__id*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository¯
-ı
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs ((`.
-,FlowerApp.Controllers.ShoppingCartController".
-_shoppingCartFlowerApp.Models.ShoppingCart"__id*/
--
-shoppingCartFlowerApp.Models.ShoppingCart*
-2*“
-2Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs	 (	"q
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (	
-implicit return*…
-3Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.csd (d‚
-ﬂ
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (%
-%1"__entrypoint*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository*/
--
-shoppingCartFlowerApp.Models.ShoppingCart*
-1::
-flowerRepository&FlowerApp.Repository.IFlowerRepository:-
-shoppingCartFlowerApp.Models.ShoppingCartB0.
-,FlowerApp.Controllers.ShoppingCartController
+,FlowerApp.Models.ShoppingCartItem.Amount.getO
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs	 	("0*‘
+0O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs	  	( ù
+ö
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs	 	( 	
+%0int"__id*6*4#
+!FlowerApp.Models.ShoppingCartItem"
+Amountint"^
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs	 	( 
+	
+%0intB%#
+!FlowerApp.Models.ShoppingCartItem

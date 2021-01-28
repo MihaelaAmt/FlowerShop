@@ -1,18 +1,16 @@
 
-:FlowerApp.ViewModels.OrderHistoryDetailsViewModel.City.set_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	" 	(%"0*Ø
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	& 	(&Ä
-Á
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	" 	(&E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-Citystring"__id*
-
-valuestring"ª
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	" 	(&G*E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-Citystring:
-valuestringB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+.FlowerApp.ViewModels.FlowerViewModel.Price.getR
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs (""0*ë
+0R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs# (#ª
+§
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs (#
+%0decimal"__id*<*:&
+$FlowerApp.ViewModels.FlowerViewModel"
+Pricedecimal"e
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs (#
+
+%0decimalB(&
+$FlowerApp.ViewModels.FlowerViewModel

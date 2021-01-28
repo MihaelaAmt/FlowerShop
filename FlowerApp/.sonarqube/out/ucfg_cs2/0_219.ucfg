@@ -1,28 +1,18 @@
 
- FlowerApp.Program.Main(string[])?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs ("0*£
-0?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (Æ
-Ã
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (+
-%0%Microsoft.AspNetCore.Hosting.IWebHost"(FlowerApp.Program.BuildWebHost(string[])*"
-FlowerApp.Program*
-
-argsstring[]Ž
-‹
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs ($
+@FlowerApp.ViewModels.AddFlowerViewModel.IsFlowerPresentation.getU
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs+ (."0*ý
+0U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs/ (/¹
+¶
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs+ (/
 
-%1void"YMicrosoft.AspNetCore.Hosting.WebHostExtensions.Run(Microsoft.AspNetCore.Hosting.IWebHost)*2"0
-.Microsoft.AspNetCore.Hosting.WebHostExtensions*-
-+
-%0%Microsoft.AspNetCore.Hosting.IWebHost*
-1*œ
-1?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs	 (	"V
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (	
-implicit return:
-argsstring[]B"
-FlowerApp.Program
+%0bool"__id*K*I)
+'FlowerApp.ViewModels.AddFlowerViewModel"
+IsFlowerPresentationbool"e
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs+ (/
+
+
+%0boolB+)
+'FlowerApp.ViewModels.AddFlowerViewModel

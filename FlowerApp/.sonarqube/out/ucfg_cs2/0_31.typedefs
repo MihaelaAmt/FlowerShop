@@ -1,5 +1,4 @@
-π
-,FlowerApp.Repository.ModelCategoryRepositoryobjectc
-ModelCategoryRepository()FFlowerApp.Repository.ModelCategoryRepository.ModelCategoryRepository()M
-Categories.get;FlowerApp.Repository.ModelCategoryRepository.Categories.getM
-Categories.set;FlowerApp.Repository.ModelCategoryRepository.Categories.set
+è
+,FlowerApp.Controllers.OrderHistoryController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject«
+äOrderHistoryController(FlowerApp.Repository.IOrderRepository, Microsoft.AspNetCore.Identity.SignInManager<FlowerApp.Auth.ApplicationUser>)∑FlowerApp.Controllers.OrderHistoryController.OrderHistoryController(FlowerApp.Repository.IOrderRepository, Microsoft.AspNetCore.Identity.SignInManager<FlowerApp.Auth.ApplicationUser>)?
+Index()4FlowerApp.Controllers.OrderHistoryController.Index()

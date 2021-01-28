@@ -1,16 +1,18 @@
 
-:FlowerApp.ViewModels.OrderHistoryDetailsViewModel.City.get_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	 	( "0*›
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	! 	(!Á
-¾
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	 	(!
-%0string"__id*G*E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-Citystring"q
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	 	(!
-
-%0stringB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+9FlowerApp.ViewModels.FlowerViewModel.ShortDescription.setR
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs	. 	(1"0*¯
+0R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs	2 	(2¶
+³
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs	. 	(2D&
+$FlowerApp.ViewModels.FlowerViewModel"
+ShortDescriptionstring"__id*
+
+valuestring"œ
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs	. 	(2F*D&
+$FlowerApp.ViewModels.FlowerViewModel"
+ShortDescriptionstring:
+valuestringB(&
+$FlowerApp.ViewModels.FlowerViewModel

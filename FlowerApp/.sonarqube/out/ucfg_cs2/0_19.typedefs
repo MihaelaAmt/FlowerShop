@@ -1,12 +1,5 @@
-¡	
-&FlowerApp.Controllers.FlowerController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobjectð
-bFlowerController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)‰FlowerApp.Controllers.FlowerController.FlowerController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)à
-ZList(string, decimal, decimal, string, FlowerApp.Controllers.FlowerController.FlowerStock)FlowerApp.Controllers.FlowerController.List(string, decimal, decimal, string, FlowerApp.Controllers.FlowerController.FlowerStock)?
-
-Favorite()1FlowerApp.Controllers.FlowerController.Favorite()O
-AddToFavorite(int)9FlowerApp.Controllers.FlowerController.AddToFavorite(int)Y
-RemoveFromFavorite(int)>FlowerApp.Controllers.FlowerController.RemoveFromFavorite(int){
-(Search(string, decimal, decimal, string)OFlowerApp.Controllers.FlowerController.Search(string, decimal, decimal, string)S
-AutocompleteSearch();FlowerApp.Controllers.FlowerController.AutocompleteSearch()G
-FlowersNames()5FlowerApp.Controllers.FlowerController.FlowersNames()C
-Details(int)3FlowerApp.Controllers.FlowerController.Details(int)
+›
+*FlowerApp.Controllers.FlowerDataController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject§
+<FlowerDataController(FlowerApp.Repository.IFlowerRepository)gFlowerApp.Controllers.FlowerDataController.FlowerDataController(FlowerApp.Repository.IFlowerRepository)Q
+LoadMoreFlowers()<FlowerApp.Controllers.FlowerDataController.LoadMoreFlowers()™
+5MapDbFlowerToFlowerViewModel(FlowerApp.Models.Flower)`FlowerApp.Controllers.FlowerDataController.MapDbFlowerToFlowerViewModel(FlowerApp.Models.Flower)

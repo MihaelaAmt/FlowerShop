@@ -1,16 +1,24 @@
 
-/FlowerApp.ViewModels.AddUserViewModel.Email.getS
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs (!"0*ì
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs" ("ª
-§
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs ("
-%0string"__id*<*:'
-%FlowerApp.ViewModels.AddUserViewModel"
-Emailstring"e
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs ("
-
-%0stringB)'
-%FlowerApp.ViewModels.AddUserViewModel
+yFlowerApp.Models.AppDbContext.AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<FlowerApp.Models.AppDbContext>)K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	 	("1*U
+1K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	 (	*
+0*Ú
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	D 	(R‚
+ÿ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	D 	(S
+
+%0void"ŒMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>.IdentityDbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*NL
+JMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*
+2*´
+2K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	 (	"b
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>B!
+FlowerApp.Models.AppDbContext

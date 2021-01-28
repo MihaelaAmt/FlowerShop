@@ -1,7 +1,7 @@
-¿
-(FlowerApp.ViewModels.FlowerListViewModelobjectW
-FlowerListViewModel()>FlowerApp.ViewModels.FlowerListViewModel.FlowerListViewModel()C
-Flowers.get4FlowerApp.ViewModels.FlowerListViewModel.Flowers.getC
-Flowers.set4FlowerApp.ViewModels.FlowerListViewModel.Flowers.setS
-CurrentCategory.get<FlowerApp.ViewModels.FlowerListViewModel.CurrentCategory.getS
-CurrentCategory.set<FlowerApp.ViewModels.FlowerListViewModel.CurrentCategory.set
+«
+"FlowerApp.ViewModels.HomeViewModelobjectE
+HomeViewModel()2FlowerApp.ViewModels.HomeViewModel.HomeViewModel()S
+FlowerPresentation.get9FlowerApp.ViewModels.HomeViewModel.FlowerPresentation.getS
+FlowerPresentation.set9FlowerApp.ViewModels.HomeViewModel.FlowerPresentation.setE
+FlowersName.get2FlowerApp.ViewModels.HomeViewModel.FlowersName.getE
+FlowersName.set2FlowerApp.ViewModels.HomeViewModel.FlowersName.set

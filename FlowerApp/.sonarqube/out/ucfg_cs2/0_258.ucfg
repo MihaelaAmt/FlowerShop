@@ -1,30 +1,16 @@
 
-YFlowerApp.Migrations.Order2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs  (""0*Á
+AFlowerApp.Repository.ModelFlowerRepository.FlowerPresentation.getX
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs<8 <(;"0*˜
 0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs	 (Çˇ
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs<< <(<á
+Ñ
 X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs	 (_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"ûMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-SecurityCode*
-
-Orders*
-""*
-""*22*
-""*
-""*
-""*
-""*
-""*
-""*
-""2dAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?)*
-1*Œ
-1X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs	 (	"o
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs<8 <(</
+%0)System.Collections.Generic.IEnumerable<T>"__id*q*o,
+*FlowerApp.Repository.ModelFlowerRepository"?
+FlowerPresentation)System.Collections.Generic.IEnumerable<T>"ç
 X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB
-FlowerApp.Migrations.Order2
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs<8 <(<1
+/
+%0)System.Collections.Generic.IEnumerable<T>B.,
+*FlowerApp.Repository.ModelFlowerRepository

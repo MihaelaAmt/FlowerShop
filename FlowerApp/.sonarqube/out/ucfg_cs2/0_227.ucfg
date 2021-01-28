@@ -1,18 +1,20 @@
 
-/FlowerApp.TagHelpers.EmailTagHelper.Content.setQ
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs	% 	(("0*˜
-0Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs	) 	()«
-¨
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs	% 	():%
-#FlowerApp.TagHelpers.EmailTagHelper"
-Contentstring"__id*
-
-valuestring"‘
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs	% 	()<*:%
-#FlowerApp.TagHelpers.EmailTagHelper"
-Contentstring:
-valuestringB'%
-#FlowerApp.TagHelpers.EmailTagHelper
+6FlowerApp.ViewModels.AddFlowerViewModel.CategoryId.setU
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs% (("0*©
+0U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs) ()°
+­
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs% ()>)
+'FlowerApp.ViewModels.AddFlowerViewModel"
+
+CategoryIdint"__id*
+
+valueint"™
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs% ()@*>)
+'FlowerApp.ViewModels.AddFlowerViewModel"
+
+CategoryIdint:
+valueintB+)
+'FlowerApp.ViewModels.AddFlowerViewModel

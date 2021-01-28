@@ -1,16 +1,18 @@
 
-0FlowerApp.ViewModels.EditRoleViewModel.Users.getT
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditRoleViewModel.cs$ ('"0*Å
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditRoleViewModel.cs( ((ä
-á
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditRoleViewModel.cs$ (((
-%0"System.Collections.Generic.List<T>"__id*Y*W(
-&FlowerApp.ViewModels.EditRoleViewModel"+
-Users"System.Collections.Generic.List<T>"‚
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditRoleViewModel.cs$ ((*
-(
-%0"System.Collections.Generic.List<T>B*(
-&FlowerApp.ViewModels.EditRoleViewModel
+5FlowerApp.ViewModels.EditFlowerViewModel.ImageUrl.setV
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs& ()"0*³
+0V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs* (*¶
+³
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs& (*@*
+(FlowerApp.ViewModels.EditFlowerViewModel"
+ImageUrlstring"__id*
+
+valuestring"œ
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs& (*B*@*
+(FlowerApp.ViewModels.EditFlowerViewModel"
+ImageUrlstring:
+valuestringB,*
+(FlowerApp.ViewModels.EditFlowerViewModel

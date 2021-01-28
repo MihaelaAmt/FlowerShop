@@ -1,18 +1,108 @@
 
-&FlowerApp.Models.Order.PhoneNumber.setD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9) 9(,"0*Þ
-0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9- 9(-•
-’
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9) 9(-1
-FlowerApp.Models.Order"
-PhoneNumberstring"__id*
-
-valuestring"{
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9) 9(-3*1
-FlowerApp.Models.Order"
-PhoneNumberstring:
-valuestringB
-FlowerApp.Models.Order
+oFlowerApp.Migrations.ShippingAndPaymentMethods1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs#  #($"0*™
+0l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs% >(!…
+‚
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs' '(
+%0"__id*
+""ÿü
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs% ,("d
+%1^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"íMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+ZipCode*
+
+%0*
+""*
+""*2
+*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*2
+*
+""*
+""*
+""*
+""*
+""*
+""*
+""2³AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)…
+‚
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs0 0(
+%2"__id*
+""ÿü
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs. 5("d
+%3^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"íMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+Country*
+
+%2*
+""*
+""*22*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*22*
+""*
+""*
+""*
+""*
+""*
+""*
+""2³AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)…
+‚
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs9 9(
+%4"__id*
+""„
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs7 >("d
+%5^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"íMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AddressLine1*
+
+%4*
+""*
+""*2d*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*2d*
+""*
+""*
+""*
+""*
+""*
+""*
+""2³AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*
+1*÷
+1l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs?	 ?(	"ƒ
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs? ?(	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB31
+/FlowerApp.Migrations.ShippingAndPaymentMethods1

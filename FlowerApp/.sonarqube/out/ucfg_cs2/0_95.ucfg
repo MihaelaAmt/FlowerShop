@@ -1,18 +1,24 @@
 
-=FlowerApp.ViewModels.OrderHistoryDetailsViewModel.OrderId.set_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (%"0*Õ
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs& (&Á
-¾
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (&E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-OrderIdint"__id*
-
-valueint"ª
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (&G*E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-OrderIdint:
-valueintB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+2FlowerApp.ViewModels.HomeViewModel.FlowersName.getP
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\HomeViewModel.cs
+1 
+(4"0*Ð
+0P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\HomeViewModel.cs
+5 
+(5ð
+í
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\HomeViewModel.cs
+1 
+(5/
+%0)System.Collections.Generic.IEnumerable<T>"__id*b*`$
+"FlowerApp.ViewModels.HomeViewModel"8
+FlowersName)System.Collections.Generic.IEnumerable<T>"…
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\HomeViewModel.cs
+1 
+(51
+/
+%0)System.Collections.Generic.IEnumerable<T>B&$
+"FlowerApp.ViewModels.HomeViewModel

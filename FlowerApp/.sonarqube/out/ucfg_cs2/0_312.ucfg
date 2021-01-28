@@ -1,18 +1,16 @@
 
-'FlowerApp.Models.Order.SecurityCode.setD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csW* W(-"0*à
+&FlowerApp.Models.Order.OrderPlaced.getD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM& M()"0*Ñ
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csW. W(.–
-“
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM* M(*¤
+¡
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csW* W(.2
-FlowerApp.Models.Order"
-SecurityCodestring"__id*
-
-valuestring"|
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM& M(*
+%0System.DateTime"__id*<*:
+FlowerApp.Models.Order"
+OrderPlacedSystem.DateTime"_
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csW* W(.4*2
-FlowerApp.Models.Order"
-SecurityCodestring:
-valuestringB
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM& M(*
+
+%0System.DateTimeB
 FlowerApp.Models.Order
