@@ -1,18 +1,70 @@
 
-<FlowerApp.ViewModels.AddFlowerViewModel.ShortDescription.setU
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs. (1"0*¾
-0U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs2 (2¼
-¹
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs. (2G)
-'FlowerApp.ViewModels.AddFlowerViewModel"
-ShortDescriptionstring"__id*
-
-valuestring"¢
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs. (2I*G)
-'FlowerApp.ViewModels.AddFlowerViewModel"
-ShortDescriptionstring:
-valuestringB+)
-'FlowerApp.ViewModels.AddFlowerViewModel
+!razor_component_CategoryMenuO
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs$ (*"0*Ü
+0O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs ("ô
+ñ
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (0.
+%0(FlowerApp.Repository.ICategoryRepository"__id*h*f#
+!FlowerApp.Components.CategoryMenu"?
+_categoryRepository(FlowerApp.Repository.ICategoryRepository€ý
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (;/
+%1)System.Collections.Generic.IEnumerable<T>"7FlowerApp.Repository.ICategoryRepository.Categories.get*0
+.
+%0(FlowerApp.Repository.ICategoryRepository2Categories.get×
+Ô
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (X.
+%2(System.Linq.IOrderedEnumerable<TElement>"zSystem.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)*"
+System.Linq.Enumerable*1
+/
+%1)System.Collections.Generic.IEnumerable<T>*
+""Ä
+Á
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (X6
+
+categories(System.Linq.IOrderedEnumerable<TElement>"__id*0
+.
+%2(System.Linq.IOrderedEnumerable<TElement>‰
+†
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (#
+
+%3void"6flowerapp/views/shared/components/categorymenu/default*
+
+%4*8
+6
+
+categories(System.Linq.IOrderedEnumerable<TElement>*
+
+ViewBagDataAllobject*
+
+ViewBagDataHtmlobject*
+
+TempDataAllobject*
+
+TempDataHtmlobject*
+
+HttpContextItemsAllobject* 
+
+HttpContextItemsHtmlobject"_
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs ($
+
+
+%3void*¼
+1O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs	 (	"f
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (	
+implicit return:
+ViewBagDataAllobject:
+ViewBagDataHtmlobject:
+TempDataAllobject:
+TempDataHtmlobject:
+HttpContextItemsAllobject:
+HttpContextItemsHtmlobjectB%#
+!FlowerApp.Components.CategoryMenu

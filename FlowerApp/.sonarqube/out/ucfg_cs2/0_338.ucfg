@@ -1,18 +1,19 @@
 
-!FlowerApp.Models.Flower.Price.setE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$ ('"0*⁄
+&FlowerApp.Models.Flower.IsFavorite.getE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs! ($"0*≥
 0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs( ((ì
-ê
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% (%è
+å
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$ ((-
-FlowerApp.Models.Flower"
-Pricedecimal"__id*
-
-valuedecimal"x
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs! (%
+
+%0bool"__id*1*/
+FlowerApp.Models.Flower"
+
+IsFavoritebool"U
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$ ((/*-
-FlowerApp.Models.Flower"
-Pricedecimal:
-valuedecimalB
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs! (%
+
+
+%0boolB
 FlowerApp.Models.Flower

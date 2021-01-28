@@ -1,16 +1,18 @@
 
-'FlowerApp.Models.Order.SecurityCode.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csR% R(("0*∑
-0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csR) R()ì
-ê
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csR% R()
-%0string"__id*4*2
-FlowerApp.Models.Order"
-SecurityCodestring"V
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csR% R()
-
-%0stringB
-FlowerApp.Models.Order
+-FlowerApp.Models.Flower.ImageThumbnailUrl.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs/ (2"0*
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs3 (3ù
+ö
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs/ (38
+FlowerApp.Models.Flower"
+ImageThumbnailUrlstring"__id*
+
+valuestring"É
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs/ (3:*8
+FlowerApp.Models.Flower"
+ImageThumbnailUrlstring:
+valuestringB
+FlowerApp.Models.Flower

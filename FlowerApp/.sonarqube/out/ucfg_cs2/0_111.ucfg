@@ -1,18 +1,31 @@
 
-0FlowerApp.ViewModels.LoginViewModel.Password.setQ
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs& ()"0*š
-0Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs* (*¬
-©
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs& (*;%
-#FlowerApp.ViewModels.LoginViewModel"
-Passwordstring"__id*
-
-valuestring"’
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs& (*=*;%
-#FlowerApp.ViewModels.LoginViewModel"
-Passwordstring:
-valuestringB'%
-#FlowerApp.ViewModels.LoginViewModel
+^FlowerApp.Migrations.AddFavorite.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)]
+SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs  (""0*ò
+0]
+SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs	 (#ˆ…
+]
+SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs	 ($_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"žMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+IsFavorite*	
+Flowers*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2dAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?)*
+1*Ø
+1]
+SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs	 (	"t
+]
+SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs (	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB$"
+ FlowerApp.Migrations.AddFavorite

@@ -1,22 +1,9 @@
 
-;FlowerApp.Repository.ModelFlowerRepository.FlowersNames.getX
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs+# +(/"0*Ö
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs+9 +(V£ 
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs+9 +(V$
-%0System.NotImplementedException"System.NotImplementedExceptionË
-È
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs+= +(T
-
-%1void"8System.NotImplementedException.NotImplementedException()*&
-$
-%0System.NotImplementedException*
-1*Î
-1X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs+W +(W"o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs+V +(W
-implicit returnB.,
-*FlowerApp.Repository.ModelFlowerRepository
+:FlowerApp.ViewModels.CategoryViewModel.CategoryViewModel()T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs (""0*Æ
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs ("k
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs (
+implicit returnB*(
+&FlowerApp.ViewModels.CategoryViewModel

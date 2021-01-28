@@ -1,18 +1,26 @@
 
-3FlowerApp.Components.AdminMenuItem.DisplayValue.setP
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,* ,(-"0*
-0P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,. ,(.®
-«
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,* ,(.>$
-"FlowerApp.Components.AdminMenuItem"
-DisplayValuestring"__id*
+DFlowerApp.ViewModels.OrderHistoryDetailsViewModel.ShippingMethod.set_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
+, 
+(/"0*ì
+0_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
+0 
+(0Î
+Ë
+_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
+, 
+(0O3
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
+ShippingMethodstring"__id*
 
-valuestring"”
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,* ,(.@*>$
-"FlowerApp.Components.AdminMenuItem"
-DisplayValuestring:
-valuestringB&$
-"FlowerApp.Components.AdminMenuItem
+valuestring"´
+_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
+, 
+(0Q*O3
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
+ShippingMethodstring:
+valuestringB53
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel

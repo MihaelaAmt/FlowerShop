@@ -1,9 +1,13 @@
 
-$FlowerApp.Models.Category.Category()G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs ("0*¬
-0G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs ("^
-G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (
-implicit returnB
-FlowerApp.Models.Category
+LFlowerApp.Migrations.ShippingAndPaymentMethods1.ShippingAndPaymentMethods1()l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs (3"0*
+0l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs? ?(‡
+„
+
+%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*64
+2Microsoft.EntityFrameworkCore.Migrations.Migration"ƒ
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs ?(
+implicit returnB31
+/FlowerApp.Migrations.ShippingAndPaymentMethods1

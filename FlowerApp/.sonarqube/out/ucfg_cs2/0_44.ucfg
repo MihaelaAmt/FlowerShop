@@ -1,18 +1,24 @@
 
-8FlowerApp.Models.ShoppingCartItem.ShoppingCartItemId.setO
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs- (0"0*›
-0O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs1 (1¬
-©
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs- (1@#
-!FlowerApp.Models.ShoppingCartItem"
-ShoppingCartItemIdint"__id*
-
-valueint"•
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs- (1B*@#
-!FlowerApp.Models.ShoppingCartItem"
-ShoppingCartItemIdint:
-valueintB%#
-!FlowerApp.Models.ShoppingCartItem
+yFlowerApp.Models.AppDbContext.AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<FlowerApp.Models.AppDbContext>)K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	 	("1*U
+1K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	 (	*
+0*Ú
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	D 	(R‚
+ÿ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	D 	(S
+
+%0void"ŒMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>.IdentityDbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*NL
+JMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*
+2*´
+2K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	 (	"b
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>B!
+FlowerApp.Models.AppDbContext

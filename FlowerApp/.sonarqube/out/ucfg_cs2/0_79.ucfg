@@ -1,18 +1,27 @@
 
-?FlowerApp.ViewModels.OrderHistoryDetailsViewModel.FirstName.set_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs' (*"0*â
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs+ (+É
-Æ
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs' (+J3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-	FirstNamestring"__id*
-
-valuestring"¯
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs' (+L*J3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-	FirstNamestring:
-valuestringB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+XFlowerApp.Components.CategoryMenu.CategoryMenu(FlowerApp.Repository.ICategoryRepository)O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs ("1*Í
+1O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs	 (	r
+p
+
+%0void"6Microsoft.AspNetCore.Mvc.ViewComponent.ViewComponent()**(
+&Microsoft.AspNetCore.Mvc.ViewComponent*
+0*à
+0O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (4„
+
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (4f#
+!FlowerApp.Components.CategoryMenu"?
+_categoryRepository(FlowerApp.Repository.ICategoryRepository"__id*@
+>
+categoryRepository(FlowerApp.Repository.ICategoryRepository*
+2*¼
+2O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs	 (	"f
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (	
+implicit return:>
+categoryRepository(FlowerApp.Repository.ICategoryRepositoryB%#
+!FlowerApp.Components.CategoryMenu

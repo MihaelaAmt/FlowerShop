@@ -20,7 +20,11 @@ namespace FlowerApp.Controllers
             _categoryRepository = categoryRepository;
         }
 
-        public ViewResult List(string category, decimal lowPrice = 0, decimal highPrice = 0, string sorting = "", FlowerStock availability = 0)
+        public ViewResult List(string category,
+            decimal lowPrice = 0,
+            decimal highPrice = 0,
+            string sorting = "",
+            FlowerStock availability = 0)
         {
             IEnumerable<Flower> flowers;
             string currentCategory = string.Empty;

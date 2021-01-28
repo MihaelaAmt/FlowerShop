@@ -1,26 +1,9 @@
 
-BFlowerApp.Repository.ModelFlowerRepository.ModelFlowerRepository()X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs	 	(&"0*‡
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs@ @(¿¼
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csC (`2
-%0,FlowerApp.Repository.ModelCategoryRepository",FlowerApp.Repository.ModelCategoryRepositoryç
-ä
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csG (^
-
-%1void"FFlowerApp.Repository.ModelCategoryRepository.ModelCategoryRepository()*4
-2
-%0,FlowerApp.Repository.ModelCategoryRepositoryŠ
-‡
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs- (`o,
-*FlowerApp.Repository.ModelFlowerRepository"?
-_categoryRepository(FlowerApp.Repository.ICategoryRepository"__id*4
-2
-%0,FlowerApp.Repository.ModelCategoryRepository"o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs	 @(
-implicit returnB.,
-*FlowerApp.Repository.ModelFlowerRepository
+6FlowerApp.ViewModels.FlowerViewModel.FlowerViewModel()R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs ( "0*Â
+0R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs ("i
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs (
+implicit returnB(&
+$FlowerApp.ViewModels.FlowerViewModel

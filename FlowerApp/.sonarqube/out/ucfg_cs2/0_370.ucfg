@@ -1,99 +1,118 @@
 
-YFlowerApp.Migrations.Init.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÕ  Õ($"0*Ω'
-0X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csœ Ò("ùö
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csœ –()_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetRoleClaims*
-""2DropTable(string, string)ùö
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs“ ”()_
-%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUserClaims*
-""2DropTable(string, string)ùö
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs’ ÷()_
-%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUserLogins*
-""2DropTable(string, string)úô
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÿ Ÿ((_
-%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUserRoles*
-""2DropTable(string, string)ùö
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs€ ‹()_
-%4YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUserTokens*
-""2DropTable(string, string)ôñ
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csﬁ ﬂ(%_
-%5YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-OrderDetails*
-""2DropTable(string, string)ûõ
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs· ‚(*_
-%6YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-ShoppingCartItems*
-""2DropTable(string, string)òï
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs‰ Â($_
-%7YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetRoles*
-""2DropTable(string, string)òï
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÁ Ë($_
-%8YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUsers*
-""2DropTable(string, string)ìê
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÍ Î(_
-%9YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-Orders*
-""2DropTable(string, string)ïí
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÌ Ó( `
-%10YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-Flowers*
-""2DropTable(string, string)òï
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs Ò(#`
-%11YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-Categories*
-""2DropTable(string, string)*
-1*Œ
-1X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÚ	 Ú(	"o
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÚ Ú(	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB
-FlowerApp.Migrations.Init
+;FlowerApp.Controllers.FlowerController.AutocompleteSearch()V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs´( ´(:"4*c
+0V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs∏	 ∏(	*
+1
+2*à
+1V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csØ ≤(Ó
+Î
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csØ Ø()+
+%0%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseÍ
+Á
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csØ Ø(1+
+%1%Microsoft.AspNetCore.Http.HttpRequest"1Microsoft.AspNetCore.Http.HttpContext.Request.get*-
++
+%0%Microsoft.AspNetCore.Http.HttpContextÌ
+Í
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csØ Ø(70
+%2*Microsoft.AspNetCore.Http.IQueryCollection"/Microsoft.AspNetCore.Http.HttpRequest.Query.get*-
++
+%1%Microsoft.AspNetCore.Http.HttpRequestúô
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csØ Ø(?2
+%3,Microsoft.Extensions.Primitives.StringValues";Microsoft.AspNetCore.Http.IQueryCollection.this[string].get*2
+0
+%2*Microsoft.AspNetCore.Http.IQueryCollection*
+term2this[string].getÿ
+’
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csØ Ø(J
+%4string"7Microsoft.Extensions.Primitives.StringValues.ToString()*4
+2
+%3,Microsoft.Extensions.Primitives.StringValuesÄ
+~
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csØ Ø(J
+termstring"__id*
+
+%4string˙
+˜
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs∞ ∞(-,
+%5&FlowerApp.Repository.IFlowerRepository"__id*i*g(
+&FlowerApp.Controllers.FlowerController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepository˝˙
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs∞ ∞(5/
+%6)System.Collections.Generic.IEnumerable<T>"2FlowerApp.Repository.IFlowerRepository.Flowers.get*.
+,
+%5&FlowerApp.Repository.IFlowerRepository2Flowers.get◊
+‘
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs∞ ∞(W/
+%7)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*1
+/
+%6)System.Collections.Generic.IEnumerable<T>*
+""‰
+·
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs∞ ∞(k/
+%8)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*1
+/
+%7)System.Collections.Generic.IEnumerable<T>*
+""≠
+™
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs∞ ∞(t(
+%9"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%8)System.Collections.Generic.IEnumerable<T>∫
+∑
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs∞ ∞(t+
+names"System.Collections.Generic.List<T>"__id**
+(
+%9"System.Collections.Generic.List<T>ß§
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs≤ ≤( .
+%10'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*-
++
+names"System.Collections.Generic.List<T>2
+Ok(object)"ä
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs≤ ≤(!0
+.
+%10'Microsoft.AspNetCore.Mvc.OkObjectResult*Î
+2V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs∂ ∂(#˛˚
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs∂ ∂(#0
+%11)Microsoft.AspNetCore.Mvc.BadRequestResult"4Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest()*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase2BadRequest()"å
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs∂ ∂($2
+0
+%11)Microsoft.AspNetCore.Mvc.BadRequestResult* 
+3V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs∏	 ∏(	"m
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs∏ ∏(	
+implicit return*—
+4V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs´< ´(<o
+m
+V
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs´( ´(:
+%12"__entrypoint*
+0B*(
+&FlowerApp.Controllers.FlowerController

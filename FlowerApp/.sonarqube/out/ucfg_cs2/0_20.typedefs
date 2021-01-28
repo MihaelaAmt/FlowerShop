@@ -1,12 +1,4 @@
-°	
-&FlowerApp.Controllers.FlowerController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject
-bFlowerController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)âFlowerApp.Controllers.FlowerController.FlowerController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)‡
-ZList(string, decimal, decimal, string, FlowerApp.Controllers.FlowerController.FlowerStock)ÅFlowerApp.Controllers.FlowerController.List(string, decimal, decimal, string, FlowerApp.Controllers.FlowerController.FlowerStock)?
-
-Favorite()1FlowerApp.Controllers.FlowerController.Favorite()O
-AddToFavorite(int)9FlowerApp.Controllers.FlowerController.AddToFavorite(int)Y
-RemoveFromFavorite(int)>FlowerApp.Controllers.FlowerController.RemoveFromFavorite(int){
-(Search(string, decimal, decimal, string)OFlowerApp.Controllers.FlowerController.Search(string, decimal, decimal, string)S
-AutocompleteSearch();FlowerApp.Controllers.FlowerController.AutocompleteSearch()G
-FlowersNames()5FlowerApp.Controllers.FlowerController.FlowersNames()C
-Details(int)3FlowerApp.Controllers.FlowerController.Details(int)
+Å
+.FlowerApp.Migrations.AppDbContextModelSnapshot:Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshotobjectü
+6BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)eFlowerApp.Migrations.AppDbContextModelSnapshot.BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)i
+AppDbContextModelSnapshot()JFlowerApp.Migrations.AppDbContextModelSnapshot.AppDbContextModelSnapshot()

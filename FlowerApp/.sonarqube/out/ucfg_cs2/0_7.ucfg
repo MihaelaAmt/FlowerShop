@@ -1,13 +1,9 @@
 
- FlowerApp.Migrations.Init.Init()V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs ("0*×
-0X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csó ó(‡
-„
-
-%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*64
-2Microsoft.EntityFrameworkCore.Migrations.Migration"n
-W
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs ó(
+$FlowerApp.Models.Category.Category()G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs ("0*¬
+0G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs ("^
+G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (
 implicit returnB
-FlowerApp.Migrations.Init
+FlowerApp.Models.Category

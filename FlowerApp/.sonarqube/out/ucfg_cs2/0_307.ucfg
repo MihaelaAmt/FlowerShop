@@ -1,16 +1,18 @@
 
-FlowerApp.Models.Order.City.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs, ,( "0*Ø
+$FlowerApp.Models.Order.PayMethod.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ' Q(*"0*⁄
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs,! ,(!ã
-à
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ+ Q(+ì
+ê
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs, ,(!
-%0string"__id*,**
-FlowerApp.Models.Order"
-Citystring"V
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ' Q(+/
+FlowerApp.Models.Order"
+	PayMethodstring"__id*
+
+valuestring"y
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs, ,(!
-
-%0stringB
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ' Q(+1*/
+FlowerApp.Models.Order"
+	PayMethodstring:
+valuestringB
 FlowerApp.Models.Order

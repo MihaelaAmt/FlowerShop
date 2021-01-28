@@ -1,16 +1,20 @@
 
->FlowerApp.ViewModels.EditFlowerViewModel.ImageThumbnailUrl.getV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs* (-"0*„
+7FlowerApp.ViewModels.EditFlowerViewModel.CategoryId.setV
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs% (("0*®
 0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs. (.¼
-¹
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs) ()²
+¯
 V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs* (.
-%0string"__id*K*I*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-ImageThumbnailUrlstring"h
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs* (.
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs% ()?*
+(FlowerApp.ViewModels.EditFlowerViewModel"
+
+CategoryIdint"__id*
 
-%0stringB,*
+valueint"›
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs% ()A*?*
+(FlowerApp.ViewModels.EditFlowerViewModel"
+
+CategoryIdint:
+valueintB,*
 (FlowerApp.ViewModels.EditFlowerViewModel

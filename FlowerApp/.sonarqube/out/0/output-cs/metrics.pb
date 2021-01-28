@@ -10,15 +10,15 @@ LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\ShoppingCartSummary.cs
  !"#Ç Ÿ
 KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs 8j
 &)47:=ACGNVZagimrM	 !"#$'*+,-.023589;<>?@BDEHIJKLOPQRSTUWX[\]^_bcdhjklnopqx
-Ç -.0258;<>BDKTWX[]bclnÛ
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csò 8:jáÍær◊	
- !"$%&()+,-.012346789:;<=?ABCDFGHIJKMNOQRSTVWYZ[\^_`abcdfhikmnpqstuvxyz{|}~ÄÅÇÉÑÖàâäãåéêëíîïóòôöúûü†°£§•¶ß®™´¨ÆØ±≤≥¥µ∂π∫ªºΩø¿¬√ƒ≈«»…ÀÕŒ–“”’÷ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÏÌÓÒÛıˆ˜¯˘˙˚˝˛ÄÅÇÉÑÜàâäãçéèêíìïñóôöúûü†°¢£§¶ß©™´¨≠Ø±≤≥¥∂∑∏πªºø¿¡√≈∆«» ÀÕŒœ—“‘’÷◊ÿ⁄€‹›ﬁﬂ‡·‚„‰ÊËÍÎÌÓÔÒÚÛıˆ˜¯˘˙¸˝ˇÄÅÉÖÜàâäãåçéèêëíìïñòôöõùü†°¢£§•¶ß®©´≠Æ∞±≥¥µ∂∑∏π∫ªºΩæøx,Ç∂!&(-3489:;<?ACFHJOQRSTV\^`abcdfhikmpvxz{|~ÇÑäãéîïôúû†£•ß¨ÆØ≥¥πªºø≈«…ÀÕŒ–“’€‹ﬁﬂ‡·ÂÁÓÒÛı˜˘˝ÉÑÜàäçèíóôöúû†¢¶¨≠Ø±≥∂∏ª¡≈« œ—◊ÿ‹›ﬁﬂ‡·‚„‰ËÍÒÛı˘¸ÅÉÖÜäãåçéèêëíïõùü°¢£§•¶ß®©´≠∞µ∑∏π∫ªj
+Ç -.0258;<>BDKTWX[]bclnå
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csò 8:j!êÛ«rË	
+"#$%'()+,./01345679:;<=>?@BDEFGIJKLMNPQRTUVWXYZ[\]_`bcdeghijklmoqrtvwyz|}~ÅÇÉÑÖÜáàâäãåçéëíìîïóôöõùû†°¢£•ß®©™¨≠ÆØ∞±≥¥µ∑∏∫ªºΩæø¬√ƒ≈∆»…ÀÃÕŒ–—“‘÷◊Ÿ€‹ﬁﬂ·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒıˆ˜˘˙¸˛ˇÄÅÇÉÑÜáâäãåçèëíìîñóòôõúûü†¢£•ß®©™´¨≠Ø∞≤≥¥µ∂∏∫ªºΩø¿¡¬ƒ≈»… ÃŒœ–—”‘÷◊ÿ⁄€›ﬁﬂ‡·„‰ÂÊÁËÈÍÎÏÌÔÒÛÙˆ˜¯˘˙˚¸˛ˇÄÅÇÉÖÜàâäåéèëíìîïñóòôöõúûü°¢£§¶®©™´¨≠ÆØ∞±≤¥∂∑π∫ºΩæø¿¡¬√ƒ≈∆«»x,Çæ$)+067;<=>?BDFIKMRTUVYZ[\_egijklmoqrtvyÅÉÑÖáãçìîóùû¢•ß©¨Æ∞µ∑∏ºΩ¬ƒ≈»Œ–“‘÷◊Ÿ€ﬁ‰ÂÁËÈÍÓ˜˘˙¸˛ÄÇÜåçèëìñòõ†¢£•ß©´Øµ∂∏∫ºø¡ƒ Œ–”ÿ⁄‡·ÂÊÁËÈÍÎÏÌÒÛ˘˙¸˛ÇÖäåéèìîïñóòôöõû§¶®™´¨≠ÆØ∞±≤¥∂πæ¿¡¬√ƒj
 KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ContactController.cs 8j	r
 Çp
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FavoriteFlowerController.cs 8r	Çó
+RE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FavoriteFlowerController.cs 8r	Ç°
 JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs? 
-8r‚
-!"#$%&(*+-./012356789;<=?@ACDEFGHJKLMNOQRSTUVXYZ\]^_`bcefgijklmoprstuvwxyz{|}~ÅÇÉÑÖÜàâäãåçêëíîñóòôöõúü†°¢£§¶ß®©™´¨ÆØ∞±≤≥¥∂∑∏π∫ºΩæ¿¡√ƒ≈∆«»…xÇY!%&(*-/0125789;<=?@CLMNQZ\^_bgiklotvwy{|~åçêëíîñòôöõü´¨Æ≤πæ¿¡√ñ
+8rÍ
+ !"#%&'()*,./12345679:;<=?@ACDEGHIJKLNOPQRSUVWXYZ\]^`abcdfgijkmnopqstvwxyz{|}~ÄÅÇÉÖÜáàâäåçéèêëîïñòöõúùûü†£§•¶ß®™´¨≠ÆØ∞≤≥¥µ∂∑∏∫ªºΩæ¿¡¬ƒ≈«»… ÀÃÕxÇ[ "#%)*,.134569;<=?@ACDGPQRU^`bcfkmopsxz{}ÄÇêëîïñòöúùûü£Ø∞≤∂Ω¬ƒ≈«ñ
 NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs 8jr)
  !"#$%'()*+,-./0123xÇ "$)+,-./r
 HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs 8r	Çó
@@ -41,12 +41,12 @@ NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs
 AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs 8r%	
  !"#$&'()*+,b
 =E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs 8r	
-∑
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs 8rœ	
- !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVXYZ[\]^_`abcdefhijklmnopqrstuvwxyz|}~ÄÅÇÉÑÖÜáàâãåçéèêëíìîïñóòôöúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“‘’÷ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÊËÈÍÎÏÓÔÒÚxÇ‘›‡ÊËÍÓW
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs 8r	à
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs $8$j%1r?	
- "#&'(*+,./2356789;<=>?@BCDFGHJKLNOQRSTW
+‹
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\DbInitializer.cs 8rÙ	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\]^_`abcdefghijklmopqrstuvwxyz{|}~ÄÅÇÑÖÜáàâäãåçéèêëìîïñóòôöõúùûü†°¢£§¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÁËÈÎÏÌÓÔÒÚÛÙıˆ˜˘˚¸˝˛ˇÅÇÉÑÖxÇÁÛ˘˚˝ÅW
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs 8r	ç
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs $8$j%1rD	
+ "#&'(*+,./2356789;<=>?@ABCDEGHIKLMOPQSTVWXYW
 @E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs 8r	‰
 AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs 8j68:;rg	
  !#$%&')*+,-./02345<=>?@ABCDEFGHJKLMNPRSTUVWXYZ[\]_abdefghijkmnopqsuvz{|}~ÄÅxÇ% &')+2<>@BEGMNRTVW[_afhioqsu|}~Y
@@ -64,9 +64,9 @@ i
 JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\IFlowerRepository.cs8r	Z
 IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\IOrderRepository.csr	Ä
 PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelCategoryRepository.cs 8r 	
- !"#Çö
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs 8r4	
- !"#$%')+-./02345789:<=>?@AÇ	 /49>∏
+ !"#ÇØ
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs 8rI	
+ !"#$%&')*+,-./123456789:<>@BCDEGHIJLMNOQRSTUVÇ	$-5DINS∏
 HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs 8rD	
  !"#$&')*+-/123456789;<>?ABCDEFGHIJKLMNOPxÇ!#&+-/15678;>CEFGHIJKL¶
 5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs 8j7@rB	
@@ -75,9 +75,9 @@ GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs 8
 KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs 8r	]
 IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs 8r
 	
-m
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs 8r	
- \
+s
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs 8r 	
+ "$%&\
 JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs 8r	f
 RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs 8r
 	

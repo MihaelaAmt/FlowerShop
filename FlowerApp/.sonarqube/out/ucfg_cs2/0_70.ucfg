@@ -1,18 +1,16 @@
 
-3FlowerApp.Models.ShoppingCart.ShoppingCartItems.setK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs? (B"0*â
+(FlowerApp.Models.AppDbContext.Orders.getK
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "("0*À
 0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csC (Cá
-Þ
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "(ç
+ä
 K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs? (CZ
-FlowerApp.Models.ShoppingCart"7
-ShoppingCartItems"System.Collections.Generic.List<T>"__id*-
-+
-value"System.Collections.Generic.List<T>"«
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "(2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*[*Y
+FlowerApp.Models.AppDbContext"6
+Orders,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ƒ
 K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs? (C\*Z
-FlowerApp.Models.ShoppingCart"7
-ShoppingCartItems"System.Collections.Generic.List<T>:+
-value"System.Collections.Generic.List<T>B!
-FlowerApp.Models.ShoppingCart
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "(4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
+FlowerApp.Models.AppDbContext

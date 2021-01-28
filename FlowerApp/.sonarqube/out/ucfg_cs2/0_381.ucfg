@@ -1,34 +1,16 @@
 
-6FlowerApp.Controllers.AdminController.UserManagement()S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs$ $(+"2*ª
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs& ((…
-‚
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs& &($6
-%00Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*m*k'
-%FlowerApp.Controllers.AdminController"@
-_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>ú÷
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs& &(*
-%1System.Linq.IQueryable<T>":Microsoft.AspNetCore.Identity.UserManager<TUser>.Users.get*8
-6
-%00Microsoft.AspNetCore.Identity.UserManager<TUser>2	Users.get¥
-¢
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs& &(*"
-usersSystem.Linq.IQueryable<T>"__id*!
-
-%1System.Linq.IQueryable<T>í
-ê
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs( ((
+2FlowerApp.Controllers.AccountController.Register()U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csI I(%"2*¾	
+0U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csK K(Ô
+Ñ
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csK K(
 
-%2void"$flowerapp/views/admin/usermanagement*
+%0void" flowerapp/views/account/register*
 
-%3*$
-"
-usersSystem.Linq.IQueryable<T>*
+%1*
+	{unknown}*
 
 %ViewBagDataAllobject*
 
@@ -40,16 +22,15 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs( (
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjectã
-à
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs( ((
+%HttpContextItemsHtmlobjectÎ
+Ë
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csK K(
 
-%4void"flowerapp/views/_viewstart*
+%2void"flowerapp/views/_viewstart*
 
-%5*$
-"
-usersSystem.Linq.IQueryable<T>*
+%3*
+	{unknown}*
 
 %ViewBagDataAllobject*
 
@@ -61,16 +42,15 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs( (
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjectç
-ä
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs( ((
+%HttpContextItemsHtmlobjectÒ
+Ï
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csK K(
 
-%6void"flowerapp/views/shared/_layout*
+%4void"flowerapp/views/shared/_layout*
 
-%7*$
-"
-usersSystem.Linq.IQueryable<T>*
+%5*
+	{unknown}*
 
 %ViewBagDataAllobject*
 
@@ -82,22 +62,22 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs( (
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobject"c
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs( ((
+%HttpContextItemsHtmlobject"e
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csK K(
 
 
-%6void*Ä
-1S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs)	 )(	"j
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs) )(	
-implicit return*Ê
-2S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs$- $(-k
-i
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs$ $(+
-%8"__entrypoint*
-0B)'
-%FlowerApp.Controllers.AdminController
+%4void*È
+1U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csL	 L(	"l
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csL L(	
+implicit return*Î
+2U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csI' I('m
+k
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csI I(%
+%6"__entrypoint*
+0B+)
+'FlowerApp.Controllers.AccountController

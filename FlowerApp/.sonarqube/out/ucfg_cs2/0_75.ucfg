@@ -1,18 +1,16 @@
 
-=FlowerApp.ViewModels.OrderHistoryDetailsViewModel.OrderId.set_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (%"0*Õ
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs& (&Á
-¾
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (&E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-OrderIdint"__id*
+'FlowerApp.Auth.ApplicationUser.City.getL
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs ( "0*Ï
+0L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs! (!›
+˜
+L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs (!
+%0string"__id*4*2 
+FlowerApp.Auth.ApplicationUser"
+Citystring"^
+L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs (!
 
-valueint"ª
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (&G*E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-OrderIdint:
-valueintB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+%0stringB" 
+FlowerApp.Auth.ApplicationUser

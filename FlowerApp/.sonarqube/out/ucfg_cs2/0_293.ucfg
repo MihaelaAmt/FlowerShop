@@ -1,16 +1,18 @@
 
-$FlowerApp.Models.Order.FirstName.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs" (%"0*¥
+FlowerApp.Models.Order.City.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs," ,(%"0*–
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs& (&ê
-ç
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs,& ,(&é
+ã
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs" (&
-%0string"__id*1*/
-FlowerApp.Models.Order"
-	FirstNamestring"V
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs," ,(&*
+FlowerApp.Models.Order"
+Citystring"__id*
+
+valuestring"t
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs" (&
-
-%0stringB
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs," ,(&,**
+FlowerApp.Models.Order"
+Citystring:
+valuestringB
 FlowerApp.Models.Order

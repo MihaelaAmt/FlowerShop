@@ -1,16 +1,46 @@
 
-&FlowerApp.Models.Order.PhoneNumber.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9$ 9('"0*∂
-0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9( 9((í
-è
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9$ 9((
-%0string"__id*3*1
-FlowerApp.Models.Order"
-PhoneNumberstring"V
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9$ 9((
-
-%0stringB
-FlowerApp.Models.Order
+âFlowerApp.Controllers.FlowerController.FlowerController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs ("3*…
+1T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs	 (	i
+g
+
+%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
+#Microsoft.AspNetCore.Mvc.Controller*
+0*¯
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (4Ü
+É
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (0g(
+&FlowerApp.Controllers.FlowerController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepository"__id*<
+:
+flowerRepository&FlowerApp.Repository.IFlowerRepositoryé
+ã
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (4k(
+&FlowerApp.Controllers.FlowerController"?
+_categoryRepository(FlowerApp.Repository.ICategoryRepository"__id*@
+>
+categoryRepository(FlowerApp.Repository.ICategoryRepository*
+2*∆
+2T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs	 (	"k
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (	
+implicit return*Œ
+3T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk (kÌ
+Í
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (
+%1"__entrypoint*<
+:
+flowerRepository&FlowerApp.Repository.IFlowerRepository*@
+>
+categoryRepository(FlowerApp.Repository.ICategoryRepository*
+1::
+flowerRepository&FlowerApp.Repository.IFlowerRepository:>
+categoryRepository(FlowerApp.Repository.ICategoryRepositoryB*(
+&FlowerApp.Controllers.FlowerController

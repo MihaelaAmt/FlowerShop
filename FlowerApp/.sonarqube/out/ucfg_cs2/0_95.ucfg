@@ -1,18 +1,18 @@
 
-)FlowerApp.Models.AppDbContext.Flowers.setK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs ("0*ì
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (ë
-è
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (Z
-FlowerApp.Models.AppDbContext"7
-Flowers,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
-5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"«
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (\*Z
-FlowerApp.Models.AppDbContext"7
-Flowers,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
-FlowerApp.Models.AppDbContext
+=FlowerApp.ViewModels.OrderHistoryDetailsViewModel.OrderId.set_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (%"0*Õ
+0_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs& (&Á
+¾
+_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (&E3
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
+OrderIdint"__id*
+
+valueint"ª
+_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (&G*E3
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
+OrderIdint:
+valueintB53
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel

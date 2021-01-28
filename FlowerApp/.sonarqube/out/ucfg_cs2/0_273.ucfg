@@ -1,18 +1,18 @@
 
-.FlowerApp.Models.OrderDetail.OrderDetailId.setJ
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs( (+"0*¯
+&FlowerApp.Models.OrderDetail.Price.setJ
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs$ ('"0*Ù
 0J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs, (,ù
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs( ((ù
 ö
 J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs( (,6
-FlowerApp.Models.OrderDetail"
-OrderDetailIdint"__id*
-
-valueint"Ü
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs$ ((2
+FlowerApp.Models.OrderDetail"
+Pricedecimal"__id*
+
+valuedecimal"Ç
 J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs( (,8*6
-FlowerApp.Models.OrderDetail"
-OrderDetailIdint:
-valueintB 
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs$ ((4*2
+FlowerApp.Models.OrderDetail"
+Pricedecimal:
+valuedecimalB 
 FlowerApp.Models.OrderDetail

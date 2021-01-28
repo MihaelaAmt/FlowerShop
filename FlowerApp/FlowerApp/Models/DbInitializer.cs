@@ -35,7 +35,8 @@ namespace FlowerApp.Models
                             Category = Categories["Single flower"],
                             ImageUrl = "https://www.florariaaly.ro/image/cache/data/Flori%20la%20fir/Crin%20imperial-500x500_0.jpg",
                             InStock = true,
-                            ImageThumbnailUrl = "https://www.florariaaly.ro/image/cache/data/Flori%20la%20fir/Crin%20imperial-500x500_0.jpg",
+                            ImageThumbnailUrl = "" +
+                            "https://www.florariaaly.ro/image/cache/data/Flori%20la%20fir/Crin%20imperial-500x500_0.jpg",
                             IsFlowerPresentation = true
                         },
                         new Flower
@@ -43,7 +44,8 @@ namespace FlowerApp.Models
                             Name = "Rose",
                             Price = 18.95M,
                             ShortDescription = "Roses is beautiful!",
-                            LongDescription = @"If the red rose's exquisite beauty isn't reason enough to make it the ideal choice to express your love,
+                            LongDescription = @"If the red rose's exquisite beauty isn't reason enough to make 
+                                                it the ideal choice to express your love,
                                                 its symbolism of magic and passion adds a message beyond words.",
                             Category = Categories["Single flower"],
                             ImageUrl = "http://www.buchetetrandafiri.ro/poze/flori/un-fir-de-trandafir-rosu-OBIdz.jpg",
@@ -71,9 +73,11 @@ namespace FlowerApp.Models
                             ShortDescription = "101 roses",
                             LongDescription = @"A huge bouquet of 101 red roses can only carry one message:
                                                 You are my only love.
-                                                The rose is the king of flowers when it comes to their association with beauty and feminine grace,
+                                                The rose is the king of flowers when it comes to 
+                                                their association with beauty and feminine grace,
                                                 passionate and eternal love, sincere devotion.
-                                                Appreciated since ancient times, the rose has been found in the paintings of artists as well as the pages of writers,
+                                                Appreciated since ancient times, the rose has been found in the paintings 
+                                                of artists as well as the pages of writers,
                                                 their romanticism being well known. The bouquet of red roses is a classical choice,
                                                 full of charm, elegance and distinction, communicating clearly the feelings of the giver.
                                                 When you wish to declare your love in a stylish way offer an impressive bouquet of red roses
@@ -90,8 +94,11 @@ namespace FlowerApp.Models
                             Name = "Hyacinth",
                             Price = 13.95M,
                             ShortDescription = "Spring flower",
-                            LongDescription = @"The delightful aroma of spring, in one bouquet: hyacinth and fresia notes, in a colorful spring bouquet. 
-                                                Important: The flowers we use are always fresh. Thus, in some cases they may be in the form of buds.
+                            LongDescription = @"The delightful aroma of spring, in one bouquet: 
+                                                hyacinth and fresia notes, 
+                                                in a colorful spring bouquet. 
+                                                Important: The flowers we use are always fresh. Thus, 
+                                                in some cases they may be in the form of buds.
                                                 They will open within 24 hours if in the room are between 23 and 25 Celsius degrees.
                                                 In this case you can enjoy the freshness even more!",
                             Category = Categories["Seasonal flowers"],
@@ -110,7 +117,8 @@ namespace FlowerApp.Models
                                                 They have a long history, their origin being in the Himalayas.
                                                 They were first brought to Europe by Turks in the sixteenth century,
                                                 when they became the favorite flowers at the court of Ottoman Empire`s Sultan.
-                                                The scientific name of the tulip , ""Tulipa"", means ""turban"" and relates to the shape of the flower.
+                                                The scientific name of the tulip , ""Tulipa"", means ""turban"" 
+                                                and relates to the shape of the flower.
                                                 In any season the tulips remains one of the most appreciated flowers,
                                                 so who would not enjoy a surprise which contain colourful tulips?
                                                 Order online this wonderful bouquet and someone you love will be happy!",
@@ -147,9 +155,11 @@ namespace FlowerApp.Models
                                                 they are fair and graceful.For this reason,
                                                 their use in floral arrangements is less common.",
                             Category = Categories["Seasonal flowers"],
-                            ImageUrl = "https://s12emagst.akamaized.net/products/3599/3598987/images/res_6664a230d1124f1cbe0eb246f0c7a477_full.jpg",
+                            ImageUrl =
+                            "https://s12emagst.akamaized.net/products/3599/3598987/images/res_6664a230d1124f1cbe0eb246f0c7a477_full.jpg",
                             InStock = true,
-                            ImageThumbnailUrl = "https://s12emagst.akamaized.net/products/3599/3598987/images/res_6664a230d1124f1cbe0eb246f0c7a477_full.jpg",
+                            ImageThumbnailUrl =
+                            "https://s12emagst.akamaized.net/products/3599/3598987/images/res_6664a230d1124f1cbe0eb246f0c7a477_full.jpg",
                             IsFlowerPresentation = true
                         },
 
@@ -161,11 +171,14 @@ namespace FlowerApp.Models
                             LongDescription = @"For a delicate lady, a delicate bouquet.
                                                 The combination of pink peony flowers, scented freesias,
                                                 Matthiola and Brunia is absolutely charming.
-                                                The pastel colors and the perfume give  the bouquet a romantic look and it is suitable for a sensitive person.",
+                                                The pastel colors and the perfume give  the bouquet a romantic 
+                                                look and it is suitable for a sensitive person.",
                             Category = Categories["Bouquet of flowers"],
-                            ImageUrl = "https://s12emagst.akamaized.net/products/6085/6084226/images/res_b401ee11c47ba7fb3762c91794496f22_full.jpg",
+                            ImageUrl =
+                            "https://s12emagst.akamaized.net/products/6085/6084226/images/res_b401ee11c47ba7fb3762c91794496f22_full.jpg",
                             InStock = true,
-                            ImageThumbnailUrl = "https://s12emagst.akamaized.net/products/6085/6084226/images/res_b401ee11c47ba7fb3762c91794496f22_full.jpg",
+                            ImageThumbnailUrl =
+                            "https://s12emagst.akamaized.net/products/6085/6084226/images/res_b401ee11c47ba7fb3762c91794496f22_full.jpg",
                             IsFlowerPresentation = false
                         },
                         new Flower
@@ -176,12 +189,17 @@ namespace FlowerApp.Models
                             LongDescription = @"Our Spring Lilies bouquet is shipped in bud form,
                                                 as most lilies are. Here's why this is a good thing:
                                                 watching these flowers open over the course of a few days is a gift in itself.
-                                                Imagine your recipient's delight as each day their bouquet of lilies grows brighter and bigger,
+                                                Imagine your recipient's delight as each day their bouquet 
+                                                of lilies grows brighter and bigger,
                                                 reminding them of your thoughtfulness for at least a week.",
                             Category = Categories["Bouquet of flowers"],
-                            ImageUrl = "http://www.iflori.ro/image/cache/data/Buchete%20corporate/BC66%20Buchet%20flori%20crin%20alb%20pret%20%20235%20lei-500x500.jpg",
+                            ImageUrl =
+                            "http://www.iflori.ro/image/cache/data/" +
+                            "Buchete%20corporate/BC66%20Buchet%20flori%20crin%20alb%20pret%20%20235%20lei-500x500.jpg",
                             InStock = true,
-                            ImageThumbnailUrl = "http://www.iflori.ro/image/cache/data/Buchete%20corporate/BC66%20Buchet%20flori%20crin%20alb%20pret%20%20235%20lei-500x500.jpg",
+                            ImageThumbnailUrl =
+                            "http://www.iflori.ro/image/cache/data/" +
+                            "Buchete%20corporate/BC66%20Buchet%20flori%20crin%20alb%20pret%20%20235%20lei-500x500.jpg",
                             IsFlowerPresentation = false
                         },
 
@@ -196,7 +214,8 @@ namespace FlowerApp.Models
                                                 so there are going to be a lot of different colors and styles.
                                                 Today, the chrysanthemums that are out there are far more flash than the ones in the past.
                                                 You will find that these flowers bloom often and they look great,
-                                                they have a lot of little petals that provide a lot of volume and take up a lot of space which is why a lot of people like the look.
+                                                they have a lot of little petals that provide a lot of volume and
+                                                take up a lot of space which is why a lot of people like the look.
                                                 They may come in a daisy like flower, a button flower, or even resembling a pom pom.
                                                 You will find that you can get them in traditional colors like white and yellow,
                                                 but they also come in reds and pinks today too.",

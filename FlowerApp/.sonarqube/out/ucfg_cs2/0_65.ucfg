@@ -1,16 +1,18 @@
 
-3FlowerApp.Models.ShoppingCart.ShoppingCartItems.getK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs: (="0*¬
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs> (>Þ
-Û
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs: (>(
-%0"System.Collections.Generic.List<T>"__id*\*Z
-FlowerApp.Models.ShoppingCart"7
-ShoppingCartItems"System.Collections.Generic.List<T>"y
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs: (>*
-(
-%0"System.Collections.Generic.List<T>B!
-FlowerApp.Models.ShoppingCart
+1FlowerApp.ViewModels.UserRoleViewModel.RoleId.setT
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs$ ('"0*¥
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs( ((°
+­
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs$ ((<(
+&FlowerApp.ViewModels.UserRoleViewModel"
+RoleIdstring"__id*
+
+valuestring"–
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs$ ((>*<(
+&FlowerApp.ViewModels.UserRoleViewModel"
+RoleIdstring:
+valuestringB*(
+&FlowerApp.ViewModels.UserRoleViewModel

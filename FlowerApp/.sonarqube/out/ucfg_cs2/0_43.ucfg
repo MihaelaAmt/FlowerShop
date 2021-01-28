@@ -1,20 +1,17 @@
 
-2FlowerApp.Auth.FlowerShopClaimTypes.ClaimsList.setQ
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs	5 	(8"0*ò
-0Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs	9 	(9æ
-ã
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs	5 	(9Y%
-#FlowerApp.Auth.FlowerShopClaimTypes"0
+,FlowerApp.Models.AppDbContext.Categories.getK
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs ("0*Ä
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (ë
+è
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*_*]
+FlowerApp.Models.AppDbContext":
 
-ClaimsList"System.Collections.Generic.List<T>"__id*-
-+
-value"System.Collections.Generic.List<T>"°
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs	5 	(9[*Y%
-#FlowerApp.Auth.FlowerShopClaimTypes"0
-
-ClaimsList"System.Collections.Generic.List<T>:+
-value"System.Collections.Generic.List<T>B'"%
-#FlowerApp.Auth.FlowerShopClaimTypes
+Categories,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ƒ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
+FlowerApp.Models.AppDbContext

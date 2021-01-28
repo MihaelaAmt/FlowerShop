@@ -1,16 +1,20 @@
 
-'FlowerApp.Models.Order.AddressLine2.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs#% #(("0*∑
+%FlowerApp.Models.Order.OrderTotal.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI) I(,"0*ﬂ
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs#) #()ì
-ê
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI- I(-ñ
+ì
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs#% #()
-%0string"__id*4*2
-FlowerApp.Models.Order"
-AddressLine2string"V
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI) I(-1
+FlowerApp.Models.Order"
+
+OrderTotaldecimal"__id*
+
+valuedecimal"{
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs#% #()
-
-%0stringB
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI) I(-3*1
+FlowerApp.Models.Order"
+
+OrderTotaldecimal:
+valuedecimalB
 FlowerApp.Models.Order

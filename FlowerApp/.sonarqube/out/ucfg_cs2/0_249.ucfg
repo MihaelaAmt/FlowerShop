@@ -1,25 +1,16 @@
 
-YFlowerApp.Repository.CategoryRepository.CategoryRepository(FlowerApp.Models.AppDbContext)U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs
- 
-(!"1*_
-1U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs	 (	*
-0*Ð
-0U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs ((î
-ë
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs (([)
-'FlowerApp.Repository.CategoryRepository".
-_appDbContextFlowerApp.Models.AppDbContext"__id*/
--
-appDbContextFlowerApp.Models.AppDbContext*
-2*È
-2U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs	 (	"l
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs (	
-implicit return:-
-appDbContextFlowerApp.Models.AppDbContextB+)
-'FlowerApp.Repository.CategoryRepository
+)FlowerApp.Models.Category.Description.getG
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs ("0*Â
+0G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (˜
+•
+G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (
+%0string"__id*6*4
+FlowerApp.Models.Category"
+Descriptionstring"Y
+G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (
+
+%0stringB
+FlowerApp.Models.Category

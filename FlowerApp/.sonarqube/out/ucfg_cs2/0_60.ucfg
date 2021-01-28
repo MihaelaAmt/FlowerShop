@@ -1,18 +1,16 @@
 
-;FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.setX
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs0 (3"0*Š
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs4 (4ì
-é
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs0 (4],
-*FlowerApp.ViewModels.ShoppingCartViewModel"-
-ShoppingCartFlowerApp.Models.ShoppingCart"__id*(
-&
-valueFlowerApp.Models.ShoppingCart"»
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs0 (4_*],
-*FlowerApp.ViewModels.ShoppingCartViewModel"-
-ShoppingCartFlowerApp.Models.ShoppingCart:&
-valueFlowerApp.Models.ShoppingCartB.,
-*FlowerApp.ViewModels.ShoppingCartViewModel
+0FlowerApp.Models.ShoppingCart.ShoppingCartId.getK
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs' (*"0*Õ
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs+ (+£
+ 
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs' (+
+%0string"__id*=*;
+FlowerApp.Models.ShoppingCart"
+ShoppingCartIdstring"]
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs' (+
+
+%0stringB!
+FlowerApp.Models.ShoppingCart

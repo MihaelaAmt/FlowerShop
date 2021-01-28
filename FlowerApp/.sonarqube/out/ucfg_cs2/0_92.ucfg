@@ -1,16 +1,16 @@
 
-)FlowerApp.Models.AppDbContext.Flowers.getK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs ("0*Á
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (è
-å
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*\*Z
-FlowerApp.Models.AppDbContext"7
-Flowers,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ƒ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
-FlowerApp.Models.AppDbContext
+=FlowerApp.ViewModels.OrderHistoryDetailsViewModel.OrderId.get_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs ( "0*•
+0_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs! (!¾
+»
+_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs (!	
+%0int"__id*G*E3
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
+OrderIdint"n
+_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs (!
+	
+%0intB53
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel

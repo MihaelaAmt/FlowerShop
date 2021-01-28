@@ -1,36 +1,93 @@
 
-gFlowerApp.Controllers.FlowerDataController.FlowerDataController(FlowerApp.Repository.IFlowerRepository)X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs (#"3*Í
-1X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs	 (	i
-g
-
-%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
-#Microsoft.AspNetCore.Mvc.Controller*
-0*ó
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs (0Ž
-‹
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs (0k,
-*FlowerApp.Controllers.FlowerDataController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepository"__id*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository*
-2*Î
-2X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs	 (	"o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs (	
-implicit return*”
-3X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.csG (G¯
-¬
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs (#
-%1"__entrypoint*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository*
-1::
-flowerRepository&FlowerApp.Repository.IFlowerRepositoryB.,
-*FlowerApp.Controllers.FlowerDataController
+oFlowerApp.Migrations.ShippingAndPaymentMethods1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs"  "($"0*
+0l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs$ =(!ƒ€
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs$ +("d
+%0^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"íMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+ZipCode*
+
+Orders*
+""*
+""*2
+*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*2
+*
+""*
+""*
+""*
+""*
+""*
+""*
+""2³AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)ƒ€
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs- 4("d
+%1^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"íMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+Country*
+
+Orders*
+""*
+""*22*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*22*
+""*
+""*
+""*
+""*
+""*
+""*
+""2³AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)ˆ…
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs6 =("d
+%2^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"íMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AddressLine1*
+
+Orders*
+""*
+""*2d*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*2d*
+""*
+""*
+""*
+""*
+""*
+""*
+""2³AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*
+1*÷
+1l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs>	 >(	"ƒ
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs> >(	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB31
+/FlowerApp.Migrations.ShippingAndPaymentMethods1

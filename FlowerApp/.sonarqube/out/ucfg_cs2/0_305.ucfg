@@ -1,16 +1,18 @@
 
-"FlowerApp.Models.Order.ZipCode.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs(  ((#"0*²
+&FlowerApp.Models.Order.OrderPlaced.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM+ M(."0*ú
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs($ (($Ž
-‹
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM/ M(/§
+¤
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs(  (($
-%0string"__id*/*-
-FlowerApp.Models.Order"
-ZipCodestring"V
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM+ M(/:
+FlowerApp.Models.Order"
+OrderPlacedSystem.DateTime"__id*
+
+valueSystem.DateTime"„
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs(  (($
-
-%0stringB
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM+ M(/<*:
+FlowerApp.Models.Order"
+OrderPlacedSystem.DateTime:
+valueSystem.DateTimeB
 FlowerApp.Models.Order

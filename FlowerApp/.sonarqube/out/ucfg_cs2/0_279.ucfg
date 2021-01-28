@@ -1,56 +1,20 @@
 
-4FlowerApp.Models.ShoppingCart.GetShoppingCartTotal()K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csz z(+"0*ã
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs| ~(Ð
-Í
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs| |(%#
-%0FlowerApp.Models.AppDbContext"__id*S*Q
-FlowerApp.Models.ShoppingCart".
-_appDbContextFlowerApp.Models.AppDbContextà
-Ý
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs| |(72
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"3FlowerApp.Models.AppDbContext.ShoppingCartItems.get*%
-#
-%0FlowerApp.Models.AppDbContextÒ
-Ï
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs| |(f
-%2System.Linq.IQueryable<T>"…System.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""Ì
-É
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs| }(7
-%3System.Linq.IQueryable<T>"’System.Linq.Queryable.Select<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TResult>>)*"
-System.Linq.Queryable*!
-
-%2System.Linq.IQueryable<T>*
-""Ù
-Ö
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs| }(=
-%4decimal":System.Linq.Queryable.Sum(System.Linq.IQueryable<decimal>)*"
-System.Linq.Queryable*!
-
-%3System.Linq.IQueryable<T>x
-v
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs| }(=
-totaldecimal"__id*
+%FlowerApp.Models.Order.OrderLines.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs3 (6"0*±
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs7 (7Ì
+É
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs3 (7L
+FlowerApp.Models.Order"0
 
-%4decimal"a
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs~ ~(
-
-totaldecimal*´
-1K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs	 (	"b
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (	
-implicit returnB!
-FlowerApp.Models.ShoppingCart
+OrderLines"System.Collections.Generic.List<T>"__id*-
++
+value"System.Collections.Generic.List<T>"–
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs3 (7N*L
+FlowerApp.Models.Order"0
+
+OrderLines"System.Collections.Generic.List<T>:+
+value"System.Collections.Generic.List<T>B
+FlowerApp.Models.Order

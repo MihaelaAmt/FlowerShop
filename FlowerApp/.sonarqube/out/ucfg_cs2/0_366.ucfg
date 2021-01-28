@@ -1,96 +1,103 @@
 
-ÖFlowerApp.Controllers.FlowerController.PriceFilter(decimal, decimal, System.Collections.Generic.IEnumerable<FlowerApp.Models.Flower>)T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csr+ r(6"0*a
+9FlowerApp.Controllers.FlowerController.AddToFavorite(int)T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs\ \()"4*»
 0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cst t(*
-1
-2*a
-1T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csv v("*
-3
-4*†
-3T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csw w(r⁄
-◊
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs^ `(¯
+ı
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csw w(Z/
-%0)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
-System.Linq.Enumerable*6
-4
-flowers)System.Collections.Generic.IEnumerable<T>*
-""‹
-Ÿ
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs^ ^(*,
+%0&FlowerApp.Repository.IFlowerRepository"__id*i*g(
+&FlowerApp.Controllers.FlowerController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepository˚¯
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csw w(s.
-%1(System.Linq.IOrderedEnumerable<TElement>"zSystem.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)*"
-System.Linq.Enumerable*1
-/
-%0)System.Collections.Generic.IEnumerable<T>*
-"""à
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs^ ^(2/
+%1)System.Collections.Generic.IEnumerable<T>"2FlowerApp.Repository.IFlowerRepository.Flowers.get*.
+,
+%0&FlowerApp.Repository.IFlowerRepository2Flowers.get’
+“
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csw w(t0
-.
-%1(System.Linq.IOrderedEnumerable<TElement>*†
-4T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csy y(Z⁄
-◊
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csy y(B/
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs^ ^(U/
 %2)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
-System.Linq.Enumerable*6
-4
-flowers)System.Collections.Generic.IEnumerable<T>*
-""‹
-Ÿ
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csy y([.
-%3(System.Linq.IOrderedEnumerable<TElement>"zSystem.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)*"
 System.Linq.Enumerable*1
 /
-%2)System.Collections.Generic.IEnumerable<T>*
-"""à
+%1)System.Collections.Generic.IEnumerable<T>*
+""®
+•
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csy y(\0
-.
-%3(System.Linq.IOrderedEnumerable<TElement>*a
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs^ ^(f
+%3FlowerApp.Models.Flower"_System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%2)System.Collections.Generic.IEnumerable<T>£
+†
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs^ ^(f!
+flowerFlowerApp.Models.Flower"__id*
+
+%3FlowerApp.Models.Flower¬
+ø
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs` `(
+
+%4bool""object.operator !=(object, object)*
+"
+object*#
+!
+flowerFlowerApp.Models.Flower*
+""*
+1
+2*»
+1T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb c(5∫
+∑
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb b((
+
+%5bool"&FlowerApp.Models.Flower.IsFavorite.set*#
+!
+flowerFlowerApp.Models.Flower*
+""¯
+ı
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csc c(!,
+%6&FlowerApp.Repository.IFlowerRepository"__id*i*g(
+&FlowerApp.Controllers.FlowerController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepositoryØ¨
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csc c(6
+
+%7bool"LFlowerApp.Repository.IFlowerRepository.UpdateFlower(FlowerApp.Models.Flower)*.
+,
+%6&FlowerApp.Repository.IFlowerRepository*#
+!
+flowerFlowerApp.Models.Flower2%UpdateFlower(FlowerApp.Models.Flower)*
+2*±
 2T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs{ {(#*
-5
-6*†
-5T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs| |(W⁄
-◊
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csf f(8√¿
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs| |(?/
-%4)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
-System.Linq.Enumerable*6
-4
-flowers)System.Collections.Generic.IEnumerable<T>*
-""‹
-Ÿ
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csf f(95
+%8/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+Favorite*
+
+Flower2 RedirectToAction(string, string)"è
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs| |(X.
-%5(System.Linq.IOrderedEnumerable<TElement>"zSystem.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)*"
-System.Linq.Enumerable*1
-/
-%4)System.Collections.Generic.IEnumerable<T>*
-"""à
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csf f(:7
+5
+%8/Microsoft.AspNetCore.Mvc.RedirectToActionResult*∆
+3T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csg	 g(	"k
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs| |(Y0
-.
-%5(System.Linq.IOrderedEnumerable<TElement>*Í
-6T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs~ ~("é
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csg g(	
+implicit return*‘
+4T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs\7 \(7t
+r
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs~ ~(6
-4
-flowers)System.Collections.Generic.IEnumerable<T>*∆
-7T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs	 (	"k
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (	
-implicit return:
-lowPricedecimal:
-	highPricedecimal:4
-flowers)System.Collections.Generic.IEnumerable<T>B*"(
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs\ \()
+%9"__entrypoint*
+""*
+0:
+flowerIdintB*(
 &FlowerApp.Controllers.FlowerController

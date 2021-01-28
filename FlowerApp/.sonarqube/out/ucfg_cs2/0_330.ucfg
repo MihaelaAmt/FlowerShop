@@ -1,18 +1,18 @@
 
-$FlowerApp.Models.Flower.FlowerId.setE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# (&"0*‘
+#FlowerApp.Models.Flower.InStock.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# (&"0*’
 0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs' ('é
-ã
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs' ('è
+å
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# (',
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# (',
 FlowerApp.Models.Flower"
-FlowerIdint"__id*
-
-valueint"w
+InStockbool"__id*
+
+valuebool"w
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# ('.*,
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# ('.*,
 FlowerApp.Models.Flower"
-FlowerIdint:
-valueintB
+InStockbool:
+valueboolB
 FlowerApp.Models.Flower

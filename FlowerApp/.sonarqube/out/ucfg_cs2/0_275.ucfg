@@ -1,18 +1,18 @@
 
-(FlowerApp.Models.OrderDetail.OrderId.setJ
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs" (%"0*ì
+&FlowerApp.Models.OrderDetail.Order.setJ
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs* (-"0*¡
 0J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs& (&—
-”
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs. (.»
+¸
 J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs" (&0
-FlowerApp.Models.OrderDetail"
-OrderIdint"__id*
-
-valueint"€
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs* (.A
+FlowerApp.Models.OrderDetail"
+OrderFlowerApp.Models.Order"__id*!
+
+valueFlowerApp.Models.Order"‘
 J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs" (&2*0
-FlowerApp.Models.OrderDetail"
-OrderIdint:
-valueintB 
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs* (.C*A
+FlowerApp.Models.OrderDetail"
+OrderFlowerApp.Models.Order:
+valueFlowerApp.Models.OrderB 
 FlowerApp.Models.OrderDetail

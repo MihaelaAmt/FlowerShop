@@ -1,20 +1,18 @@
 
-5FlowerApp.ViewModels.CategoryViewModel.CategoryId.setT
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs% (("0*¤
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs) ()®
-«
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs% ()=(
-&FlowerApp.ViewModels.CategoryViewModel"
-
-CategoryIdint"__id*
-
-valueint"—
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs% ()?*=(
-&FlowerApp.ViewModels.CategoryViewModel"
-
-CategoryIdint:
-valueintB*(
-&FlowerApp.ViewModels.CategoryViewModel
+2FlowerApp.ViewModels.AddUserViewModel.Password.setS
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs& ()"0*¤
+0S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs* (*°
+­
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs& (*='
+%FlowerApp.ViewModels.AddUserViewModel"
+Passwordstring"__id*
+
+valuestring"–
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs& (*?*='
+%FlowerApp.ViewModels.AddUserViewModel"
+Passwordstring:
+valuestringB)'
+%FlowerApp.ViewModels.AddUserViewModel

@@ -1,103 +1,39 @@
 
-9FlowerApp.Controllers.FlowerController.AddToFavorite(int)T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csX X()"4*»
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csZ \(¯
-ı
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csZ Z(*,
-%0&FlowerApp.Repository.IFlowerRepository"__id*i*g(
-&FlowerApp.Controllers.FlowerController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepository˚¯
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csZ Z(2/
-%1)System.Collections.Generic.IEnumerable<T>"2FlowerApp.Repository.IFlowerRepository.Flowers.get*.
-,
-%0&FlowerApp.Repository.IFlowerRepository2Flowers.get’
-“
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csZ Z(U/
-%2)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
-System.Linq.Enumerable*1
-/
-%1)System.Collections.Generic.IEnumerable<T>*
-""®
-•
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csZ Z(f
-%3FlowerApp.Models.Flower"_System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*1
-/
-%2)System.Collections.Generic.IEnumerable<T>£
-†
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csZ Z(f!
-flowerFlowerApp.Models.Flower"__id*
-
-%3FlowerApp.Models.Flower¬
-ø
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs\ \(
-
-%4bool""object.operator !=(object, object)*
-"
-object*#
+KFlowerApp.Repository.FlowerRepository.UpdateFlower(FlowerApp.Models.Flower)S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs\ \( "0*ú	
+0S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs^ b(‡
+›
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs^ ^(#
+%0FlowerApp.Models.AppDbContext"__id*[*Y'
+%FlowerApp.Repository.FlowerRepository".
+_appDbContextFlowerApp.Models.AppDbContext…∆
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs^ ^((G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"@Microsoft.EntityFrameworkCore.DbContext.Update<TEntity>(TEntity)*%
+#
+%0FlowerApp.Models.AppDbContext*#
 !
-flowerFlowerApp.Models.Flower*
-""*
-1
-2*»
-1T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs^ _(5∫
-∑
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs^ ^((
-
-%5bool"&FlowerApp.Models.Flower.IsFavorite.set*#
-!
-flowerFlowerApp.Models.Flower*
-""¯
-ı
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs_ _(!,
-%6&FlowerApp.Repository.IFlowerRepository"__id*i*g(
-&FlowerApp.Controllers.FlowerController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepositoryØ¨
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs_ _(6
-
-%7bool"LFlowerApp.Repository.IFlowerRepository.UpdateFlower(FlowerApp.Models.Flower)*.
-,
-%6&FlowerApp.Repository.IFlowerRepository*#
-!
-flowerFlowerApp.Models.Flower2%UpdateFlower(FlowerApp.Models.Flower)*
-2*±
-2T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb b(8√¿
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb b(95
-%8/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, string)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*
-
-Favorite*
-
-Flower2 RedirectToAction(string, string)"è
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb b(:7
-5
-%8/Microsoft.AspNetCore.Mvc.RedirectToActionResult*∆
-3T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csc	 c(	"k
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csc c(	
-implicit return*‘
-4T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csX7 X(7t
-r
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csX X()
-%9"__entrypoint*
-""*
-0:
-flowerIdintB*(
-&FlowerApp.Controllers.FlowerController
+flowerFlowerApp.Models.Flower2Update<TEntity>(TEntity)‡
+›
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs` `(#
+%2FlowerApp.Models.AppDbContext"__id*[*Y'
+%FlowerApp.Repository.FlowerRepository".
+_appDbContextFlowerApp.Models.AppDbContext–Õ
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs` `('	
+%3int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*%
+#
+%2FlowerApp.Models.AppDbContext2SaveChanges()"]
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csb b(
+""*ƒ
+1S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csc	 c(	"j
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csc c(	
+implicit return:!
+flowerFlowerApp.Models.FlowerB)'
+%FlowerApp.Repository.FlowerRepository

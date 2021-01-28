@@ -1,7 +1,7 @@
-¯
-&FlowerApp.ViewModels.CategoryViewModelobjectQ
-CategoryViewModel():FlowerApp.ViewModels.CategoryViewModel.CategoryViewModel()G
-CategoryId.get5FlowerApp.ViewModels.CategoryViewModel.CategoryId.getG
-CategoryId.set5FlowerApp.ViewModels.CategoryViewModel.CategoryId.setK
-CategoryName.get7FlowerApp.ViewModels.CategoryViewModel.CategoryName.getK
-CategoryName.set7FlowerApp.ViewModels.CategoryViewModel.CategoryName.set
+ë
+*FlowerApp.ViewModels.ShoppingCartViewModelobject]
+ShoppingCartViewModel()BFlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartViewModel()O
+ShoppingCart.get;FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.getO
+ShoppingCart.set;FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.setY
+ShoppingCartTotal.get@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.getY
+ShoppingCartTotal.set@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.set

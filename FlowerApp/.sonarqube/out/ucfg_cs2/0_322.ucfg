@@ -1,18 +1,18 @@
 
-&FlowerApp.Models.Order.OrderPlaced.setD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csH+ H(."0*ú
-0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csH/ H(/§
-¤
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csH+ H(/:
-FlowerApp.Models.Order"
-OrderPlacedSystem.DateTime"__id*
-
-valueSystem.DateTime"„
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csH+ H(/<*:
-FlowerApp.Models.Order"
-OrderPlacedSystem.DateTime:
-valueSystem.DateTimeB
-FlowerApp.Models.Order
++FlowerApp.Models.Flower.LongDescription.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs- (0"0*ì
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs1 (1›
+˜
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs- (16
+FlowerApp.Models.Flower"
+LongDescriptionstring"__id*
+
+valuestring"
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs- (18*6
+FlowerApp.Models.Flower"
+LongDescriptionstring:
+valuestringB
+FlowerApp.Models.Flower

@@ -19,7 +19,10 @@ namespace FlowerApp.Controllers
         private readonly IFlowerRepository _flowerRepository;
         private readonly ICategoryRepository _categoryRepository;
 
-        public AdminController(UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager, IFlowerRepository flowerRepository, ICategoryRepository categoryRepository)
+        public AdminController(UserManager<ApplicationUser> userManager,
+            RoleManager<IdentityRole> roleManager,
+            IFlowerRepository flowerRepository,
+            ICategoryRepository categoryRepository)
         {
             _userManager = userManager;
             _roleManager = roleManager;
@@ -81,7 +84,13 @@ namespace FlowerApp.Controllers
             if (user == null)
                 return RedirectToAction("UserManagement", _userManager.Users);
             var claims = await _userManager.GetClaimsAsync(user);
-            var vm = new EditUserViewModel() { Id = user.Id, Email = user.Email, UserName = user.UserName, UserClaims = claims.Select(c => c.Value).ToList() };
+            var vm = new EditUserViewModel()
+            {
+                Id = user.Id,
+                Email = user.Email,
+                UserName = user.UserName,
+                UserClaims = claims.Select(c => c.Value).ToList()
+            };
 
             return View(vm);
         }

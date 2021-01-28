@@ -1,93 +1,66 @@
 
-4FlowerApp.Models.ShoppingCart.GetShoppingCartItems()K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csd& d(:"0*‹
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csf f($Ò
-Ï
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csf f($(
-%3"System.Collections.Generic.List<T>"3FlowerApp.Models.ShoppingCart.ShoppingCartItems.get*!
-FlowerApp.Models.ShoppingCart¬
-©
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csf f($(
-%1"System.Collections.Generic.List<T>"__id**
-(
-%3"System.Collections.Generic.List<T>¬
-©
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csf f($(
-%0"System.Collections.Generic.List<T>"__id**
-(
-%1"System.Collections.Generic.List<T>*
-1
-2*ä
-1K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csg i(1Ð
-Í
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh h($#
-%4FlowerApp.Models.AppDbContext"__id*S*Q
-FlowerApp.Models.ShoppingCart".
-_appDbContextFlowerApp.Models.AppDbContextà
-Ý
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh h(62
-%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>"3FlowerApp.Models.AppDbContext.ShoppingCartItems.get*%
-#
-%4FlowerApp.Models.AppDbContextÒ
-Ï
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh h(e
-%6System.Linq.IQueryable<T>"…System.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
-2
-%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""Ú
-×
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh i(2R
-%7LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"ÂMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*D"B
-@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
-
-%6System.Linq.IQueryable<T>*
-""Å
-Â
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh j($(
-%8"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*T
-R
-%7LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>þ
-û
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csg j($(
-%9"System.Collections.Generic.List<T>"3FlowerApp.Models.ShoppingCart.ShoppingCartItems.set*!
-FlowerApp.Models.ShoppingCart**
-(
-%8"System.Collections.Generic.List<T>¬
-©
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csg j($(
-%2"System.Collections.Generic.List<T>"__id**
-(
-%9"System.Collections.Generic.List<T>¬
-©
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csg j($(
-%0"System.Collections.Generic.List<T>"__id**
-(
-%2"System.Collections.Generic.List<T>*
-2*Ë
-2K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csk	 k(	"y
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csf j(&*
-(
-%0"System.Collections.Generic.List<T>*´
-3K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csk	 k(	"b
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csk k(	
-implicit returnB!
-FlowerApp.Models.ShoppingCart
+¬FlowerApp.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment, Microsoft.Extensions.Logging.ILoggerFactory)?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs8 8("0*µ
+0?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs: M("†
+ƒ
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs: :(+6
+%00Microsoft.AspNetCore.Builder.IApplicationBuilder"‰Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
+=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderð
+í
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs; ;($6
+%10Microsoft.AspNetCore.Builder.IApplicationBuilder"{Microsoft.AspNetCore.Builder.StatusCodePagesExtensions.UseStatusCodePages(Microsoft.AspNetCore.Builder.IApplicationBuilder)*:"8
+6Microsoft.AspNetCore.Builder.StatusCodePagesExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderâ
+ß
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs< <( 6
+%20Microsoft.AspNetCore.Builder.IApplicationBuilder"rMicrosoft.AspNetCore.Builder.StaticFileExtensions.UseStaticFiles(Microsoft.AspNetCore.Builder.IApplicationBuilder)*5"3
+1Microsoft.AspNetCore.Builder.StaticFileExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderì
+é
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs= =(6
+%30Microsoft.AspNetCore.Builder.IApplicationBuilder"uMicrosoft.AspNetCore.Builder.SessionMiddlewareExtensions.UseSession(Microsoft.AspNetCore.Builder.IApplicationBuilder)*<":
+8Microsoft.AspNetCore.Builder.SessionMiddlewareExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderÙ
+Ö
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs> >(6
+%40Microsoft.AspNetCore.Builder.IApplicationBuilder"lMicrosoft.AspNetCore.Builder.BuilderExtensions.UseIdentity(Microsoft.AspNetCore.Builder.IApplicationBuilder)*2"0
+.Microsoft.AspNetCore.Builder.BuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder´
+±
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.csA K(6
+%50Microsoft.AspNetCore.Builder.IApplicationBuilder"°Microsoft.AspNetCore.Builder.MvcApplicationBuilderExtensions.UseMvc(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IRouteBuilder>)*@">
+<Microsoft.AspNetCore.Builder.MvcApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""†
+ƒ
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.csM M(#
+
+%6void"UFlowerApp.Models.DbInitializer.Seed(Microsoft.AspNetCore.Builder.IApplicationBuilder)*"" 
+FlowerApp.Models.DbInitializer*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+1*œ
+1?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.csN	 N(	"V
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.csN N(	
+implicit return:7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
+env0Microsoft.AspNetCore.Hosting.IHostingEnvironment:<
+loggerFactory+Microsoft.Extensions.Logging.ILoggerFactoryB
+FlowerApp.Startup

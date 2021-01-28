@@ -1,16 +1,3 @@
-å
-
-FlowerApp.Models.AppDbContextJMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>WMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser, TRole, TKey>’Microsoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser, TRole, TKey, TUserClaim, TUserRole, TUserLogin, TRoleClaim, TUserToken>vMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityUserContext<TUser, TKey, TUserClaim, TUserLogin, TUserToken>'Microsoft.EntityFrameworkCore.DbContextobjectØ
-[AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<FlowerApp.Models.AppDbContext>)yFlowerApp.Models.AppDbContext.AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<FlowerApp.Models.AppDbContext>)>
-Categories.get,FlowerApp.Models.AppDbContext.Categories.get>
-Categories.set,FlowerApp.Models.AppDbContext.Categories.set8
-Flowers.get)FlowerApp.Models.AppDbContext.Flowers.get8
-Flowers.set)FlowerApp.Models.AppDbContext.Flowers.setL
-ShoppingCartItems.get3FlowerApp.Models.AppDbContext.ShoppingCartItems.getL
-ShoppingCartItems.set3FlowerApp.Models.AppDbContext.ShoppingCartItems.set6
-
-Orders.get(FlowerApp.Models.AppDbContext.Orders.get6
-
-Orders.set(FlowerApp.Models.AppDbContext.Orders.setB
-OrderDetails.get.FlowerApp.Models.AppDbContext.OrderDetails.getB
-OrderDetails.set.FlowerApp.Models.AppDbContext.OrderDetails.set
+E
+FlowerApp.Programobject(
+	Program()FlowerApp.Program.Program()

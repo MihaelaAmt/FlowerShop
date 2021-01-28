@@ -1,9 +1,12 @@
 
-:FlowerApp.ViewModels.CategoryViewModel.CategoryViewModel()T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs (""0*Æ
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs ("k
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs (
-implicit returnB*(
-&FlowerApp.ViewModels.CategoryViewModel
+BFlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartViewModel()X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs (&"0*Î
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs
+ 
+("o
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs 
+(
+implicit returnB.,
+*FlowerApp.ViewModels.ShoppingCartViewModel

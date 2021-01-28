@@ -1,252 +1,305 @@
 
-WFlowerApp.Migrations.Init.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs	  	(""0*ƒÄ
-0W
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs  ("‹Ÿ
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs (_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"≠Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetRoles*
-""*
-""*
-""2ÛCreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)‹Ÿ
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs 3(_
-%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"≠Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUsers*
-""*
-""*
-""2ÛCreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)€ÿ
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs5 A(_
-%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"≠Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+ZFlowerApp.Controllers.AdminController.EditFlower(FlowerApp.ViewModels.EditFlowerViewModel)U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¢ ¢('"4*Õ
+0U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs§ ®(|z
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs§ §(
+%ViewBagDataAllobject"object}{
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs§ §(
+%ViewBagDataHtmlobject"object˛
+˚
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs§% §(8.
+%0(FlowerApp.Repository.ICategoryRepository"__id*l*j'
+%FlowerApp.Controllers.AdminController"?
+_categoryRepository(FlowerApp.Repository.ICategoryRepositoryÜÉ
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs§% §(C/
+%1)System.Collections.Generic.IEnumerable<T>"7FlowerApp.Repository.ICategoryRepository.Categories.get*0
+.
+%0(FlowerApp.Repository.ICategoryRepository2Categories.get¨
+©
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs§% §(L(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%1)System.Collections.Generic.IEnumerable<T>√
+¿
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs§ §(L
+%3"__mapSet*
+
+%ViewBagDataAllobject*
 
-Categories*
-""*
-""*
-""2ÛCreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)◊‘
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csC Y(_
-%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"≠Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-Orders*
-""*
-""*
-""2ÛCreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)·ﬁ
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs[ n(_
-%4YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"≠Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetRoleClaims*
-""*
-""*
-""2ÛCreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)‚ﬂ
-W
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csp É(_
-%5YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"≠Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUserClaims*
-""*
-""*
-""2ÛCreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)„‡
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÖ ó(_
-%6YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"≠Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUserLogins*
-""*
-""*
-""2ÛCreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)‚ﬂ
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csô Ø(_
-%7YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"≠Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUserRoles*
-""*
-""*
-""2ÛCreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)„‡
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs± √(_
-%8YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"≠Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUserTokens*
-""*
-""*
-""2ÛCreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)⁄◊
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs≈ ﬁ(_
-%9YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"≠Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-Flowers*
-""*
-""*
-""2ÛCreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)‡›
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs‡ ˙(`
-%10YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"≠Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-OrderDetails*
-""*
-""*
-""2ÛCreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)Â‚
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs¸ è(`
-%11YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"≠Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-ShoppingCartItems*
-""*
-""*
-""2ÛCreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>)öó
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csë î(!`
-%12YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_AspNetRoleClaims_RoleId*
-AspNetRoleClaims*
-
-RoleId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)™ß
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csñ õ(7`
-%13YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-RoleNameIndex*
-AspNetRoles*
-NormalizedName*
-""*
-""* 
-[NormalizedName] IS NOT NULL29CreateIndex(string, string, string, string, bool, string)öó
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csù †(!`
-%14YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_AspNetUserClaims_UserId*
-AspNetUserClaims*
-
-UserId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)öó
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs¢ •(!`
-%15YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_AspNetUserLogins_UserId*
-AspNetUserLogins*
-
-UserId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)òï
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csß ™(!`
-%16YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_AspNetUserRoles_RoleId*
-AspNetUserRoles*
-
-RoleId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)éã
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs¨ Ø(*`
-%17YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+categories**
+(
+%2"System.Collections.Generic.List<T>†
+ù
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs§ §(L
+%4"__mapSet*
+
+%ViewBagDataHtmlobject*
 
-EmailIndex*
-AspNetUsers*
-NormalizedEmail*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)≤Ø
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs± ∂(;`
-%18YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-UserNameIndex*
-AspNetUsers*
-NormalizedUserName*
-""*
-""*$"
- [NormalizedUserName] IS NOT NULL29CreateIndex(string, string, string, string, bool, string)êç
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs∏ ª(%`
-%19YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_Flowers_CategoryId*	
-Flowers*
+categories*
+""¯
+ı
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¶ ¶(*,
+%5&FlowerApp.Repository.IFlowerRepository"__id*h*f'
+%FlowerApp.Controllers.AdminController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepositoryŸ
+÷
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¶9 ¶(O	
+%6int"/FlowerApp.ViewModels.EditFlowerViewModel.Id.get*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModelÖÇ
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¶ ¶(P
+%7FlowerApp.Models.Flower"9FlowerApp.Repository.IFlowerRepository.GetFlowerById(int)*.
+,
+%5&FlowerApp.Repository.IFlowerRepository*
+	
+%6int2GetFlowerById(int)§
+°
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¶ ¶(P!
+flowerFlowerApp.Models.Flower"__id*
+
+%7FlowerApp.Models.Flower√
+¿
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs® ®(
 
-CategoryId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)ñì
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csΩ ¿(#`
-%20YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_OrderDetails_FlowerId*
-OrderDetails*
+%8bool""object.operator !=(object, object)*
+"
+object*#
+!
+flowerFlowerApp.Models.Flower*
+""*
+1
+2*+
+1U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs™ ∂(`ﬁ
+€
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs™ ™(6
+%9string"1FlowerApp.ViewModels.EditFlowerViewModel.Name.get*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModel¿
+Ω
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs™ ™(6
+%10string" FlowerApp.Models.Flower.Name.set*#
+!
+flowerFlowerApp.Models.Flower*
+
+%9stringÎ
+Ë
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs´* ´(N
+%11string"=FlowerApp.ViewModels.EditFlowerViewModel.ShortDescription.get*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModelÕ
+ 
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs´ ´(N
+%12string",FlowerApp.Models.Flower.ShortDescription.set*#
+!
+flowerFlowerApp.Models.Flower*
 
-FlowerId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)îë
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs¬ ≈("`
-%21YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_OrderDetails_OrderId*
-OrderDetails*	
-OrderId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)†ù
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs«  (#`
-%22YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*!
-IX_ShoppingCartItems_FlowerId*
-ShoppingCartItems*
+%11stringÍ
+Á
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¨) ¨(L
+%13string"<FlowerApp.ViewModels.EditFlowerViewModel.LongDescription.get*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModelÃ
+…
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¨ ¨(L
+%14string"+FlowerApp.Models.Flower.LongDescription.set*#
+!
+flowerFlowerApp.Models.Flower*
 
-FlowerId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)*
-1*Œ
-1X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÀ	 À(	"o
-X
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÀ À(	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB
-FlowerApp.Migrations.Init
+%13string·
+ﬁ
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs≠ ≠(8
+%15decimal"2FlowerApp.ViewModels.EditFlowerViewModel.Price.get*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModelƒ
+¡
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs≠ ≠(8
+%16decimal"!FlowerApp.Models.Flower.Price.set*#
+!
+flowerFlowerApp.Models.Flower*
+
+%15decimal„
+‡
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÆ" Æ(>
+%17string"5FlowerApp.ViewModels.EditFlowerViewModel.ImageUrl.get*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModel≈
+¬
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÆ Æ(>
+%18string"$FlowerApp.Models.Flower.ImageUrl.set*#
+!
+flowerFlowerApp.Models.Flower*
+
+%17stringÏ
+È
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csØ+ Ø(P
+%19string">FlowerApp.ViewModels.EditFlowerViewModel.ImageThumbnailUrl.get*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModelŒ
+À
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csØ Ø(P
+%20string"-FlowerApp.Models.Flower.ImageThumbnailUrl.set*#
+!
+flowerFlowerApp.Models.Flower*
+
+%19stringÌ
+Í
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs∞. ∞(V
+%21bool"AFlowerApp.ViewModels.EditFlowerViewModel.IsFlowerPresentation.get*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModelÕ
+ 
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs∞ ∞(V
+%22bool"0FlowerApp.Models.Flower.IsFlowerPresentation.set*#
+!
+flowerFlowerApp.Models.Flower*
+
+%21bool‡
+›
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs±! ±(<
+%23bool"4FlowerApp.ViewModels.EditFlowerViewModel.InStock.get*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModel¿
+Ω
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs± ±(<
+%24bool"#FlowerApp.Models.Flower.InStock.set*#
+!
+flowerFlowerApp.Models.Flower*
+
+%23bool‚
+ﬂ
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs≤$ ≤(B
+
+%25int"7FlowerApp.ViewModels.EditFlowerViewModel.CategoryId.get*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModel¡
+æ
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs≤ ≤(B
+
+%26int"&FlowerApp.Models.Flower.CategoryId.set*#
+!
+flowerFlowerApp.Models.Flower*
+
+
+%25int˘
+ˆ
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¥ ¥(!-
+%27&FlowerApp.Repository.IFlowerRepository"__id*h*f'
+%FlowerApp.Controllers.AdminController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepository≤Ø
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¥ ¥(6
+%28bool"LFlowerApp.Repository.IFlowerRepository.UpdateFlower(FlowerApp.Models.Flower)*/
+-
+%27&FlowerApp.Repository.IFlowerRepository*#
+!
+flowerFlowerApp.Models.Flower2%UpdateFlower(FlowerApp.Models.Flower)˘
+ˆ
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs∂< ∂(M-
+%29&FlowerApp.Repository.IFlowerRepository"__id*h*f'
+%FlowerApp.Controllers.AdminController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepositoryîë
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs∂< ∂(`0
+%30)System.Collections.Generic.IEnumerable<T>"=FlowerApp.Repository.IFlowerRepository.FlowersAsViewModel.get*/
+-
+%29&FlowerApp.Repository.IFlowerRepository2FlowersAsViewModel.getıÚ
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs∂ ∂(a6
+%31/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+FlowerManagement*2
+0
+%30)System.Collections.Generic.IEnumerable<T>2 RedirectToAction(string, object)"ë
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs∂ ∂(b8
+6
+%31/Microsoft.AspNetCore.Mvc.RedirectToActionResult*˘
+2U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csπ π(\˘
+ˆ
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csπ8 π(I-
+%32&FlowerApp.Repository.IFlowerRepository"__id*h*f'
+%FlowerApp.Controllers.AdminController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepositoryîë
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csπ8 π(\0
+%33)System.Collections.Generic.IEnumerable<T>"=FlowerApp.Repository.IFlowerRepository.FlowersAsViewModel.get*/
+-
+%32&FlowerApp.Repository.IFlowerRepository2FlowersAsViewModel.getıÚ
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csπ π(]6
+%34/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+FlowerManagement*2
+0
+%33)System.Collections.Generic.IEnumerable<T>2 RedirectToAction(string, object)"ë
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csπ π(^8
+6
+%34/Microsoft.AspNetCore.Mvc.RedirectToActionResult*»
+3U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs∫	 ∫(	"l
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs∫ ∫(	
+implicit return*¿
+4U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¢P ¢(P≤
+Ø
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¢ ¢('
+%35"__entrypoint*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModelÙ
+Ò
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs°	 °(
+%36"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*A
+?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModel≤
+Ø
+U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¢( ¢(O?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModel"__annotation*
+
+%36*
+0:?
+editFlowerViewModel(FlowerApp.ViewModels.EditFlowerViewModelB)'
+%FlowerApp.Controllers.AdminController

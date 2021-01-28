@@ -1,31 +1,99 @@
 
-^FlowerApp.Migrations.AddFavorite.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs  (""0*Ú
-0]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs	 (#àÖ
-]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs	 ($_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"ûMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?)*O
+YFlowerApp.Migrations.Init.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÕ  Õ($"0*Ω'
+0X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csœ Ò("ùö
+X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csœ –()_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AspNetRoleClaims*
+""2DropTable(string, string)ùö
+X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs“ ”()_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AspNetUserClaims*
+""2DropTable(string, string)ùö
+X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs’ ÷()_
+%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AspNetUserLogins*
+""2DropTable(string, string)úô
+X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÿ Ÿ((_
+%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AspNetUserRoles*
+""2DropTable(string, string)ùö
+X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs€ ‹()_
+%4YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AspNetUserTokens*
+""2DropTable(string, string)ôñ
+X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csﬁ ﬂ(%_
+%5YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+OrderDetails*
+""2DropTable(string, string)ûõ
+X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs· ‚(*_
+%6YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+ShoppingCartItems*
+""2DropTable(string, string)òï
+X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs‰ Â($_
+%7YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AspNetRoles*
+""2DropTable(string, string)òï
+X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÁ Ë($_
+%8YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AspNetUsers*
+""2DropTable(string, string)ìê
+X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÍ Î(_
+%9YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+Orders*
+""2DropTable(string, string)ïí
+X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÌ Ó( `
+%10YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+Flowers*
+""2DropTable(string, string)òï
+X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs Ò(#`
+%11YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
 M
 migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
 
-IsFavorite*	
-Flowers*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2dAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?)*
-1*ÿ
-1]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs	 (	"t
-]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs (	
+Categories*
+""2DropTable(string, string)*
+1*Œ
+1X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÚ	 Ú(	"o
+X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.csÚ Ú(	
 implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB$"
- FlowerApp.Migrations.AddFavorite
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB
+FlowerApp.Migrations.Init

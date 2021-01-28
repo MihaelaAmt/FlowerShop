@@ -1,6 +1,4 @@
-Ö
-FlowerApp.Migrations.Init2Microsoft.EntityFrameworkCore.Migrations.Migrationobject˜
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)WFlowerApp.Migrations.Init.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)œ
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)YFlowerApp.Migrations.Init.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)–
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)VFlowerApp.Migrations.Init.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)*
-Init() FlowerApp.Migrations.Init.Init()
+­
+(FlowerApp.Components.ShoppingCartSummary&Microsoft.AspNetCore.Mvc.ViewComponentobject‘
+2ShoppingCartSummary(FlowerApp.Models.ShoppingCart)[FlowerApp.Components.ShoppingCartSummary.ShoppingCartSummary(FlowerApp.Models.ShoppingCart)=
+Invoke()1FlowerApp.Components.ShoppingCartSummary.Invoke()

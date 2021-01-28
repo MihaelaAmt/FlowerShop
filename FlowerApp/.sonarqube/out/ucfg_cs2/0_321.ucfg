@@ -1,16 +1,16 @@
 
-&FlowerApp.Models.Order.OrderPlaced.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csH& H()"0*Ñ
-0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csH* H(*¤
-¡
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csH& H(*
-%0System.DateTime"__id*<*:
-FlowerApp.Models.Order"
-OrderPlacedSystem.DateTime"_
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csH& H(*
-
-%0System.DateTimeB
-FlowerApp.Models.Order
+!FlowerApp.Models.Flower.Price.getE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs (""0*·
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# (#
+
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs (#
+%0decimal"__id*/*-
+FlowerApp.Models.Flower"
+Pricedecimal"X
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs (#
+
+%0decimalB
+FlowerApp.Models.Flower

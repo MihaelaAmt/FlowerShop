@@ -1,13 +1,13 @@
 
-*FlowerApp.Components.AdminMenu.AdminMenu()P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs ("0*²
-0P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs& &(r
-p
+;FlowerApp.Controllers.ContactController.ContactController()U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ContactController.cs (""0*³
+0U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ContactController.cs (i
+g
 
-%0void"6Microsoft.AspNetCore.Mvc.ViewComponent.ViewComponent()**(
-&Microsoft.AspNetCore.Mvc.ViewComponent"g
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs &(
-implicit returnB" 
-FlowerApp.Components.AdminMenu
+%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
+#Microsoft.AspNetCore.Mvc.Controller"l
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ContactController.cs (
+implicit returnB+)
+'FlowerApp.Controllers.ContactController

@@ -1,24 +1,16 @@
 
-DFlowerApp.ViewModels.OrderHistoryDetailsViewModel.ShippingMethod.get_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
-' 
-(*"0*•
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
-+ 
-(+À
-»
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
-' 
-(+
-%0string"__id*Q*O3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-ShippingMethodstring"q
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
-' 
-(+
-
-%0stringB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+5FlowerApp.ViewModels.OrderHistoryViewModel.Orders.getX
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csB (E"0*Î
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csF (F˚
+¯
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csB (F/
+%0)System.Collections.Generic.IEnumerable<T>"__id*e*c,
+*FlowerApp.ViewModels.OrderHistoryViewModel"3
+Orders)System.Collections.Generic.IEnumerable<T>"ç
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csB (F1
+/
+%0)System.Collections.Generic.IEnumerable<T>B.,
+*FlowerApp.ViewModels.OrderHistoryViewModel

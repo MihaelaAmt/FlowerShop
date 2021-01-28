@@ -1,16 +1,17 @@
 
-#FlowerApp.Models.Order.LastName.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs! ($"0*≥
+%FlowerApp.Models.Order.OrderTotal.getD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI$ I('"0*∏
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs% (%è
-å
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI( I((ì
+ê
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs! (%
-%0string"__id*0*.
-FlowerApp.Models.Order"
-LastNamestring"V
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI$ I((
+%0decimal"__id*3*1
+FlowerApp.Models.Order"
+
+OrderTotaldecimal"W
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs! (%
-
-%0stringB
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI$ I((
+
+%0decimalB
 FlowerApp.Models.Order

@@ -1,16 +1,20 @@
 
-9FlowerApp.ViewModels.ClaimsManagementViewModel.UserId.get\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs (""0*‘
-0\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs# (#½
-º
-\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs (#
-%0string"__id*F*D0
-.FlowerApp.ViewModels.ClaimsManagementViewModel"
-UserIdstring"n
-\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs (#
+5FlowerApp.ViewModels.CategoryViewModel.CategoryId.setT
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs% (("0*¤
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs) ()®
+«
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs% ()=(
+&FlowerApp.ViewModels.CategoryViewModel"
+
+CategoryIdint"__id*
 
-%0stringB20
-.FlowerApp.ViewModels.ClaimsManagementViewModel
+valueint"—
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs% ()?*=(
+&FlowerApp.ViewModels.CategoryViewModel"
+
+CategoryIdint:
+valueintB*(
+&FlowerApp.ViewModels.CategoryViewModel

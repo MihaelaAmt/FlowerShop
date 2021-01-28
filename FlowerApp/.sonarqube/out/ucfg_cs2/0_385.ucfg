@@ -1,13 +1,13 @@
 
-2FlowerApp.Controllers.AccountController.Register()U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csI I(%"2*¾	
-0U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csK K(Ô
-Ñ
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csK K(
+/FlowerApp.Controllers.AdminController.AddUser()S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs. .($"2*±	
+0S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs0 0(Ï
+Ì
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs0 0(
 
-%0void" flowerapp/views/account/register*
+%0void"flowerapp/views/admin/adduser*
 
 %1*
 	{unknown}*
@@ -22,10 +22,10 @@ KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csK
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjectÎ
-Ë
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csK K(
+%HttpContextItemsHtmlobjectÌ
+É
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs0 0(
 
 %2void"flowerapp/views/_viewstart*
 
@@ -42,10 +42,10 @@ KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csK
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjectÒ
-Ï
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csK K(
+%HttpContextItemsHtmlobjectÐ
+Í
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs0 0(
 
 %4void"flowerapp/views/shared/_layout*
 
@@ -62,22 +62,22 @@ KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csK
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobject"e
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csK K(
+%HttpContextItemsHtmlobject"c
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs0 0(
 
 
-%4void*È
-1U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csL	 L(	"l
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csL L(	
-implicit return*Î
-2U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csI' I('m
-k
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csI I(%
+%4void*Ä
+1S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs1	 1(	"j
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs1 1(	
+implicit return*Ê
+2S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs.& .(&k
+i
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs. .($
 %6"__entrypoint*
-0B+)
-'FlowerApp.Controllers.AccountController
+0B)'
+%FlowerApp.Controllers.AdminController

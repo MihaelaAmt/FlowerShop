@@ -1,18 +1,18 @@
 
-:FlowerApp.ViewModels.OrderHistoryDetailsViewModel.City.set_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	" 	(%"0*Ø
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	& 	(&Ä
-Á
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	" 	(&E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-Citystring"__id*
-
-valuestring"ª
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	" 	(&G*E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-Citystring:
-valuestringB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.setX
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(3"0*Ò
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	4 	(4Å
+Â
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(4L,
+*FlowerApp.ViewModels.ShoppingCartViewModel"
+ShoppingCartTotaldecimal"__id*
+
+valuedecimal"ª
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(4N*L,
+*FlowerApp.ViewModels.ShoppingCartViewModel"
+ShoppingCartTotaldecimal:
+valuedecimalB.,
+*FlowerApp.ViewModels.ShoppingCartViewModel
