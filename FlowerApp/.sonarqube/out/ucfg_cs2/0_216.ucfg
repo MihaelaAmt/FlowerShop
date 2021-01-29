@@ -1,31 +1,16 @@
 
-^FlowerApp.Migrations.AddFavorite.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs  (""0*ò
-0]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs	 (#ˆ…
-]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs	 ($_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"žMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-IsFavorite*	
-Flowers*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2dAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?)*
-1*Ø
-1]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs	 (	"t
-]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB$"
- FlowerApp.Migrations.AddFavorite
+*FlowerApp.Auth.ApplicationUser.Country.getL
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs  (#"0*Ò
+0L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs$ ($ž
+›
+L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs  ($
+%0string"__id*7*5 
+FlowerApp.Auth.ApplicationUser"
+Countrystring"^
+L
+BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs  ($
+
+%0stringB" 
+FlowerApp.Auth.ApplicationUser

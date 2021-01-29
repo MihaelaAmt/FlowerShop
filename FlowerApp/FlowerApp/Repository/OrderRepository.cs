@@ -48,7 +48,7 @@ namespace FlowerApp.Repository
 
             foreach (var shoppingCartItem in shoppingCartItems)
             {
-                var orderDetail = new OrderDetail()
+                var orderDetail = new OrderDetail
                 {
                     Amount = shoppingCartItem.Amount,
                     FlowerId = shoppingCartItem.Flower.FlowerId,
@@ -64,7 +64,7 @@ namespace FlowerApp.Repository
 
         private OrderHistoryDetailsViewModel MapDbOrderToOrderViewModel(Order dbOrder)
         {
-            return new OrderHistoryDetailsViewModel()
+            return new OrderHistoryDetailsViewModel
             {
                 OrderId = dbOrder.OrderId,
                 Address = dbOrder.AddressLine1 + " " + dbOrder.AddressLine2,

@@ -79,7 +79,7 @@ namespace FlowerApp.Repository
 
         private FlowerViewModel MapDbFlowerToFlowerViewModel(Flower dbFlower)
         {
-            return new FlowerViewModel()
+            return new FlowerViewModel
             {
                 FlowerId = dbFlower.FlowerId,
                 Name = dbFlower.Name,

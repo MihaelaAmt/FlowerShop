@@ -1,18 +1,18 @@
 
-@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.setX
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(3"0*Ò
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	4 	(4Å
-Â
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(4L,
-*FlowerApp.ViewModels.ShoppingCartViewModel"
-ShoppingCartTotaldecimal"__id*
-
-valuedecimal"ª
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(4N*L,
-*FlowerApp.ViewModels.ShoppingCartViewModel"
-ShoppingCartTotaldecimal:
-valuedecimalB.,
-*FlowerApp.ViewModels.ShoppingCartViewModel
+0FlowerApp.ViewModels.UserRoleViewModel.Users.setT
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs/ (2"0*÷
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs3 (3ç
+ä
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs/ (3W(
+&FlowerApp.ViewModels.UserRoleViewModel"+
+Users"System.Collections.Generic.List<T>"__id*-
++
+value"System.Collections.Generic.List<T>"±
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs/ (3Y*W(
+&FlowerApp.ViewModels.UserRoleViewModel"+
+Users"System.Collections.Generic.List<T>:+
+value"System.Collections.Generic.List<T>B*(
+&FlowerApp.ViewModels.UserRoleViewModel

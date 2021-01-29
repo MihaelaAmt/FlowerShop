@@ -1,7 +1,11 @@
-é
-,FlowerApp.Controllers.ShoppingCartController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobjectì
-]ShoppingCartController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Models.ShoppingCart)ŠFlowerApp.Controllers.ShoppingCartController.ShoppingCartController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Models.ShoppingCart)?
-Index()4FlowerApp.Controllers.ShoppingCartController.Index()]
-AddToShoppingCart(int)CFlowerApp.Controllers.ShoppingCartController.AddToShoppingCart(int)k
-UpdateShoppingCart(int, bool)JFlowerApp.Controllers.ShoppingCartController.UpdateShoppingCart(int, bool)g
-RemoveFromShoppingCart(int)HFlowerApp.Controllers.ShoppingCartController.RemoveFromShoppingCart(int)
+ù
+.FlowerApp.ViewModels.ClaimsManagementViewModelobjecti
+ClaimsManagementViewModel()JFlowerApp.ViewModels.ClaimsManagementViewModel.ClaimsManagementViewModel()G
+
+UserId.get9FlowerApp.ViewModels.ClaimsManagementViewModel.UserId.getG
+
+UserId.set9FlowerApp.ViewModels.ClaimsManagementViewModel.UserId.setI
+ClaimId.get:FlowerApp.ViewModels.ClaimsManagementViewModel.ClaimId.getI
+ClaimId.set:FlowerApp.ViewModels.ClaimsManagementViewModel.ClaimId.setU
+AllClaimsList.get@FlowerApp.ViewModels.ClaimsManagementViewModel.AllClaimsList.getU
+AllClaimsList.set@FlowerApp.ViewModels.ClaimsManagementViewModel.AllClaimsList.set

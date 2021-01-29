@@ -1,159 +1,18 @@
 
-WFlowerApp.Repository.OrderRepository.MapDbOrderToOrderViewModel(FlowerApp.Models.Order)R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csA- A(G"0*±#
-0R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csC L(7√¿
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csC M(7
-%01FlowerApp.ViewModels.OrderHistoryDetailsViewModel"1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
-Ì
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csC C(3
-
-%1void"PFlowerApp.ViewModels.OrderHistoryDetailsViewModel.OrderHistoryDetailsViewModel()*9
-7
-%01FlowerApp.ViewModels.OrderHistoryDetailsViewModel´
-®
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csE E()	
-%2int""FlowerApp.Models.Order.OrderId.get*#
-!
-dbOrderFlowerApp.Models.OrderÈ
-Ê
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csE E()	
-%3int"=FlowerApp.ViewModels.OrderHistoryDetailsViewModel.OrderId.set*9
-7
-%01FlowerApp.ViewModels.OrderHistoryDetailsViewModel*
-	
-%2int≥
-∞
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csF F(.
-%4string"'FlowerApp.Models.Order.AddressLine1.get*#
-!
-dbOrderFlowerApp.Models.OrderÜ
-É
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csF F(4
-%5string"__concat*
-
-%4string*
- ≥
-∞
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csF7 F(K
-%6string"'FlowerApp.Models.Order.AddressLine2.get*#
-!
-dbOrderFlowerApp.Models.Orderè
-å
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csF F(K
-%7string"__concat*
-
-%5string*
-
-%6stringÔ
-Ï
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csF F(K
-%8string"=FlowerApp.ViewModels.OrderHistoryDetailsViewModel.Address.set*9
-7
-%01FlowerApp.ViewModels.OrderHistoryDetailsViewModel*
-
-%7string´
-®
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csG G(#
-%9string"FlowerApp.Models.Order.City.get*#
-!
-dbOrderFlowerApp.Models.OrderÌ
-Í
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csG G(#
-%10string":FlowerApp.ViewModels.OrderHistoryDetailsViewModel.City.set*9
-7
-%01FlowerApp.ViewModels.OrderHistoryDetailsViewModel*
-
-%9string±
-Æ
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csH H(-
-%11string"$FlowerApp.Models.Order.FirstName.get*#
-!
-dbOrderFlowerApp.Models.OrderÛ
-
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csH H(-
-%12string"?FlowerApp.ViewModels.OrderHistoryDetailsViewModel.FirstName.set*9
-7
-%01FlowerApp.ViewModels.OrderHistoryDetailsViewModel*
-
-%11string∞
-≠
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csI I(+
-%13string"#FlowerApp.Models.Order.LastName.get*#
-!
-dbOrderFlowerApp.Models.OrderÚ
-Ô
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csI I(+
-%14string">FlowerApp.ViewModels.OrderHistoryDetailsViewModel.LastName.set*9
-7
-%01FlowerApp.ViewModels.OrderHistoryDetailsViewModel*
-
-%13string±
-Æ
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csJ J(-
-%15string"$FlowerApp.Models.Order.PayMethod.get*#
-!
-dbOrderFlowerApp.Models.OrderÛ
-
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csJ J(-
-%16string"?FlowerApp.ViewModels.OrderHistoryDetailsViewModel.PayMethod.set*9
-7
-%01FlowerApp.ViewModels.OrderHistoryDetailsViewModel*
-
-%15string≥
-∞
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csK K(1
-%17string"&FlowerApp.Models.Order.PhoneNumber.get*#
-!
-dbOrderFlowerApp.Models.Orderı
-Ú
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csK K(1
-%18string"AFlowerApp.ViewModels.OrderHistoryDetailsViewModel.PhoneNumber.set*9
-7
-%01FlowerApp.ViewModels.OrderHistoryDetailsViewModel*
-
-%17string∂
-≥
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csL! L(7
-%19string")FlowerApp.Models.Order.ShippingMethod.get*#
-!
-dbOrderFlowerApp.Models.Order¯
-ı
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csL L(7
-%20string"DFlowerApp.ViewModels.OrderHistoryDetailsViewModel.ShippingMethod.set*9
-7
-%01FlowerApp.ViewModels.OrderHistoryDetailsViewModel*
-
-%19string"è
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csC M(9
-7
-%01FlowerApp.ViewModels.OrderHistoryDetailsViewModel*¬
-1R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csN	 N(	"i
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.csN N(	
-implicit return:!
-dbOrderFlowerApp.Models.OrderB(&
-$FlowerApp.Repository.OrderRepository
+AFlowerApp.Repository.ModelFlowerRepository.FlowerPresentation.setX
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs<8 <(;"0*∫
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs<< <(<ä
+á
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs<8 <(<o,
+*FlowerApp.Repository.ModelFlowerRepository"?
+FlowerPresentation)System.Collections.Generic.IEnumerable<T>"__id*4
+2
+value)System.Collections.Generic.IEnumerable<T>"Õ
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs<8 <(<q*o,
+*FlowerApp.Repository.ModelFlowerRepository"?
+FlowerPresentation)System.Collections.Generic.IEnumerable<T>:2
+value)System.Collections.Generic.IEnumerable<T>B.,
+*FlowerApp.Repository.ModelFlowerRepository

@@ -1,16 +1,16 @@
 
-.FlowerApp.Models.AppDbContext.OrderDetails.getK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs( (("0*Æ
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs( ((í
-ê
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs( ((2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*a*_
-FlowerApp.Models.AppDbContext"<
-OrderDetails,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ƒ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs( ((4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
-FlowerApp.Models.AppDbContext
+=FlowerApp.ViewModels.AddFlowerViewModel.ImageThumbnailUrl.getU
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs* (-"0*€
+0U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs. (.º
+·
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs* (.
+%0string"__id*J*H)
+'FlowerApp.ViewModels.AddFlowerViewModel"
+ImageThumbnailUrlstring"g
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs* (.
+
+%0stringB+)
+'FlowerApp.ViewModels.AddFlowerViewModel

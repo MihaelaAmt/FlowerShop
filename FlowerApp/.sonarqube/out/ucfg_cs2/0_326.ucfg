@@ -1,16 +1,16 @@
 
-+FlowerApp.Models.Flower.LongDescription.getE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs( (+"0*¾
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs, (,˜
-•
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs( (,
-%0string"__id*8*6
-FlowerApp.Models.Flower"
-LongDescriptionstring"W
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs( (,
+ FlowerApp.Models.Order.Email.getD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csE E(!"0*°
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csE" E("Œ
+‰
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csE E("
+%0string"__id*-*+
+FlowerApp.Models.Order"
+Emailstring"V
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csE E("
 
-%0stringB
-FlowerApp.Models.Flower
+%0stringB
+FlowerApp.Models.Order

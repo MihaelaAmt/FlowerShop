@@ -1,13 +1,15 @@
-…
-&FlowerApp.ViewModels.UserRoleViewModelobjectQ
-UserRoleViewModel():FlowerApp.ViewModels.UserRoleViewModel.UserRoleViewModel()?
+§
+!FlowerApp.Models.ShoppingCartItemobjectJ
+ShoppingCartItem()4FlowerApp.Models.ShoppingCartItem.ShoppingCartItem()R
+ShoppingCartItemId.get8FlowerApp.Models.ShoppingCartItem.ShoppingCartItemId.getR
+ShoppingCartItemId.set8FlowerApp.Models.ShoppingCartItem.ShoppingCartItemId.set:
 
-UserId.get1FlowerApp.ViewModels.UserRoleViewModel.UserId.get?
+Flower.get,FlowerApp.Models.ShoppingCartItem.Flower.get:
 
-UserId.set1FlowerApp.ViewModels.UserRoleViewModel.UserId.set?
+Flower.set,FlowerApp.Models.ShoppingCartItem.Flower.set:
 
-RoleId.get1FlowerApp.ViewModels.UserRoleViewModel.RoleId.get?
+Amount.get,FlowerApp.Models.ShoppingCartItem.Amount.get:
 
-RoleId.set1FlowerApp.ViewModels.UserRoleViewModel.RoleId.set=
-	Users.get0FlowerApp.ViewModels.UserRoleViewModel.Users.get=
-	Users.set0FlowerApp.ViewModels.UserRoleViewModel.Users.set
+Amount.set,FlowerApp.Models.ShoppingCartItem.Amount.setJ
+ShoppingCartId.get4FlowerApp.Models.ShoppingCartItem.ShoppingCartId.getJ
+ShoppingCartId.set4FlowerApp.Models.ShoppingCartItem.ShoppingCartId.set

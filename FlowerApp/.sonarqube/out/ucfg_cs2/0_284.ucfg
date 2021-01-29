@@ -1,16 +1,16 @@
 
-"FlowerApp.Models.Order.OrderId.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs ( "0*©
-0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs! (!ˆ
-…
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs (!	
-%0int"__id*,**
-FlowerApp.Models.Order"
-OrderIdint"S
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs (!
-	
-%0intB
-FlowerApp.Models.Order
++FlowerApp.Models.Flower.LongDescription.getE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs( (+"0*¾
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs, (,˜
+•
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs( (,
+%0string"__id*8*6
+FlowerApp.Models.Flower"
+LongDescriptionstring"W
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs( (,
+
+%0stringB
+FlowerApp.Models.Flower

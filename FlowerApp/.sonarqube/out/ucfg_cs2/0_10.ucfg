@@ -1,9 +1,13 @@
 
- FlowerApp.Models.Flower.Flower()E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs ("0*¨
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs ("\
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs (
-implicit returnB
-FlowerApp.Models.Flower
+JFlowerApp.Migrations.ShippingAndPaymentMethods.ShippingAndPaymentMethods()k
+aE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182401_ShippingAndPaymentMethods.cs (2"0*ÿ
+0k
+aE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182401_ShippingAndPaymentMethods.cs- -(‡
+„
+
+%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*64
+2Microsoft.EntityFrameworkCore.Migrations.Migration"‚
+k
+aE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182401_ShippingAndPaymentMethods.cs -(
+implicit returnB20
+.FlowerApp.Migrations.ShippingAndPaymentMethods

@@ -1,148 +1,18 @@
 
->FlowerApp.Models.ShoppingCart.GetCart(System.IServiceProvider)K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs# (*"0*Ñ
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (Rö
-ó
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (R4
-%0.Microsoft.AspNetCore.Http.IHttpContextAccessor"xMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService<T>(System.IServiceProvider)*M"K
-IMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions*%
-#
-servicesSystem.IServiceProvider*
-1
-2*½
-2K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (†ƒ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (+
-%1%Microsoft.AspNetCore.Http.HttpContext">Microsoft.AspNetCore.Http.IHttpContextAccessor.HttpContext.get*6
-4
-%0.Microsoft.AspNetCore.Http.IHttpContextAccessor2HttpContext.getÜ
-Ù
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs ($(
-%2"Microsoft.AspNetCore.Http.ISession"1Microsoft.AspNetCore.Http.HttpContext.Session.get*-
-+
-%1%Microsoft.AspNetCore.Http.HttpContext*
-1*²
-
-1K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (6±
-®
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs ($-
-session"Microsoft.AspNetCore.Http.ISession"__id**
-(
-%2"Microsoft.AspNetCore.Http.ISessionÝ
-Ú
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (=#
-%6FlowerApp.Models.AppDbContext"pMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetService<T>(System.IServiceProvider)*M"K
-IMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions*%
-#
-servicesSystem.IServiceProvider§
-¤
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (=(
-contextFlowerApp.Models.AppDbContext"__id*%
-#
-%6FlowerApp.Models.AppDbContext¯
-¬
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (7
-%7string"aMicrosoft.AspNetCore.Http.SessionExtensions.GetString(Microsoft.AspNetCore.Http.ISession, string)*/"-
-+Microsoft.AspNetCore.Http.SessionExtensions*/
--
-session"Microsoft.AspNetCore.Http.ISession*
-
-CartIds
-q
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (7
-%4string"__id*
+/FlowerApp.ViewModels.EditFlowerViewModel.Id.setV
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs ( "0*ž
+0V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs! (!ª
+§
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs (!7*
+(FlowerApp.ViewModels.EditFlowerViewModel"	
+Idint"__id*
 
-%7strings
-q
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (7
-%3string"__id*
-
-%4string*
-3
-4*Û
-3K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs; (T‹
-ˆ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs; (I
-%8System.Guid"System.Guid.NewGuid()*"
-System.Guid‹
-ˆ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs; (T
-%9string"System.Guid.ToString()*
-
-%8System.Guids
-q
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs; (T
-%5string"__id*
-
-%9strings
-q
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs; (T
-%3string"__id*
-
-%5string*
-4*ô	
-4K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs  (Fw
-u
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (T
-cartIdstring"__id*
-
-%3stringÊ
-Ç
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (/
-%10void"iMicrosoft.AspNetCore.Http.SessionExtensions.SetString(Microsoft.AspNetCore.Http.ISession, string, string)*/"-
-+Microsoft.AspNetCore.Http.SessionExtensions*/
--
-session"Microsoft.AspNetCore.Http.ISession*
-
-CartId*
-
-cartIdstring•’
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs   (H$
-%11FlowerApp.Models.ShoppingCart"FlowerApp.Models.ShoppingCartü
-ù
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs   (#
-%12void"IFlowerApp.Models.ShoppingCart.ShoppingCart(FlowerApp.Models.AppDbContext)*&
-$
-%11FlowerApp.Models.ShoppingCart**
-(
-contextFlowerApp.Models.AppDbContextÍ
-Ê
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs /  (F
-%13string"0FlowerApp.Models.ShoppingCart.ShoppingCartId.set*&
-$
-%11FlowerApp.Models.ShoppingCart*
-
-cartIdstring"u
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs   (I&
-$
-%11FlowerApp.Models.ShoppingCart*´
-5K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs!	 !(	"b
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs! !(	
-implicit return:#
-servicesSystem.IServiceProviderB!"
-FlowerApp.Models.ShoppingCart
+valueint"“
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs (!9*7*
+(FlowerApp.ViewModels.EditFlowerViewModel"	
+Idint:
+valueintB,*
+(FlowerApp.ViewModels.EditFlowerViewModel

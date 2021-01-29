@@ -1,12 +1,6 @@
-·
-FlowerApp.Models.Categoryobject2
-
-Category()$FlowerApp.Models.Category.Category():
-CategoryId.get(FlowerApp.Models.Category.CategoryId.get:
-CategoryId.set(FlowerApp.Models.Category.CategoryId.set>
-CategoryName.get*FlowerApp.Models.Category.CategoryName.get>
-CategoryName.set*FlowerApp.Models.Category.CategoryName.set<
-Description.get)FlowerApp.Models.Category.Description.get<
-Description.set)FlowerApp.Models.Category.Description.set4
-Flowers.get%FlowerApp.Models.Category.Flowers.get4
-Flowers.set%FlowerApp.Models.Category.Flowers.set
+‡
+ FlowerApp.Migrations.AddFavorite2Microsoft.EntityFrameworkCore.Migrations.MigrationobjectŸ
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)^FlowerApp.Migrations.AddFavorite.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)£
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)`FlowerApp.Migrations.AddFavorite.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)]FlowerApp.Migrations.AddFavorite.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)?
+AddFavorite().FlowerApp.Migrations.AddFavorite.AddFavorite()

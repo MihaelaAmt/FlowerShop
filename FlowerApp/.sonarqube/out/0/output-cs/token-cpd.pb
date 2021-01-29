@@ -87,7 +87,7 @@ ClaimsList		# -
 }
 
  
-} û
+} ¡
 FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs
 	namespace 	
 	FlowerApp
@@ -122,8 +122,6 @@ Components 
 {4 5
 new6 9
 AdminMenuItem: G
-(G H
-)H I
 { 
 DisplayValue  
 =! "
@@ -136,8 +134,6 @@ Components 
 , 
 new 
 AdminMenuItem "
-(" #
-)# $
 { 
 DisplayValue  
 =! "
@@ -150,8 +146,6 @@ Components 
 , 
 new 
 AdminMenuItem #
-(# $
-)$ %
 { 
 DisplayValue  
 =! "
@@ -353,7 +347,7 @@ Components 
 ;  * +
 }!! 	
 }"" 
-}## î1
+}## Ð1
 KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs
 	namespace 	
 	FlowerApp
@@ -610,16 +604,14 @@ ModelStateTT 
 =WW 
 newWW 
 ApplicationUserWW .
-(WW. /
-)WW/ 0
-{WW1 2
-UserNameWW3 ;
-=WW< =
-loginViewModelWW> L
-.WWL M
-UserNameWWM U
-}WWV W
-;WWW X
+{WW/ 0
+UserNameWW1 9
+=WW: ;
+loginViewModelWW< J
+.WWJ K
+UserNameWWK S
+}WWT U
+;WWU V
 varXX 
 resultXX 
 =XX 
@@ -699,7 +691,7 @@ ModelStatebb 
 ;nn4 5
 }oo 	
 }pp 
-}qq ˜º
+}qq ˜¹
 IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs
 	namespace 	
 	FlowerApp
@@ -887,8 +879,6 @@ ModelState99 
 =<< 
 new<< 
 ApplicationUser<< *
-(<<* +
-)<<+ ,
 {== 
 UserName>> 
 =>> 
@@ -1039,8 +1029,6 @@ ModelStateNN 
 =ZZ 
 newZZ 
 EditUserViewModelZZ *
-(ZZ* +
-)ZZ+ ,
 {[[ 
 Id\\ 
 =\\ 
@@ -3276,10 +3264,6 @@ ModelState
 ææ 
 Flower
 ææ #
-(
-ææ# $
-)
-ææ$ %
 {
 çç 
 Name
@@ -4119,10 +4103,6 @@ CategoryId
 ÁÁ 
 FlowerViewModel
 ÁÁ &
-(
-ÁÁ& '
-)
-ÁÁ' (
 {
 ÂÂ 
 FlowerId
@@ -5644,7 +5624,7 @@ BadRequest
 ËË 	
 }
 ÌÌ 
-}ÍÍ ¥
+}ÍÍ ‡
 NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerDataController.cs
 	namespace
 
@@ -5781,8 +5761,6 @@ Controller( 2
 return)) 
 new)) 
 FlowerViewModel)) &
-())& '
-)))' (
 {** 
 FlowerId++ 
 =++ 
@@ -13311,7 +13289,7 @@ Categories% /
 CategoriesA K
 ;K L
 } 
-} ¹3
+} ›3
 IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs
 	namespace 	
 	FlowerApp
@@ -13609,8 +13587,6 @@ Repository 
 returnRR 
 newRR 
 FlowerViewModelRR &
-(RR& '
-)RR' (
 {SS 
 FlowerIdTT 
 =TT 
@@ -14250,7 +14226,7 @@ Categories557 A
 ;SS/ 0
 }TT 	
 }UU 
-}VV ý-
+}VV Á-
 HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs
 	namespace 	
 	FlowerApp
@@ -14442,8 +14418,6 @@ Repository 
 =33  !
 new33" %
 OrderDetail33& 1
-(331 2
-)332 3
 {44 
 Amount55 
 =55 
@@ -14502,8 +14476,6 @@ Repository 
 returnCC 
 newCC (
 OrderHistoryDetailsViewModelCC 3
-(CC3 4
-)CC4 5
 {DD 
 OrderIdEE 
 =EE 

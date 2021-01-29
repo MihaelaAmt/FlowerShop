@@ -1,16 +1,18 @@
 
-3FlowerApp.Components.AdminMenuItem.DisplayValue.getP
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,% ,(("0*ç
-0P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,) ,()«
-¨
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,% ,()
-%0string"__id*@*>$
-"FlowerApp.Components.AdminMenuItem"
-DisplayValuestring"b
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,% ,()
-
-%0stringB&$
-"FlowerApp.Components.AdminMenuItem
+4FlowerApp.ViewModels.EditFlowerViewModel.InStock.getV
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs (!"0*ô
+0V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs" ("®
+«
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs ("
+
+%0bool"__id*?*=*
+(FlowerApp.ViewModels.EditFlowerViewModel"
+InStockbool"f
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs ("
+
+
+%0boolB,*
+(FlowerApp.ViewModels.EditFlowerViewModel

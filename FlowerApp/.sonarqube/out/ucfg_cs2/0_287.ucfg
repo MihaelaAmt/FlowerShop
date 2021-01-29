@@ -1,16 +1,18 @@
 
-#FlowerApp.Models.Order.LastName.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs! ($"0*≥
-0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs% (%è
-å
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs! (%
-%0string"__id*0*.
-FlowerApp.Models.Order"
-LastNamestring"V
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs! (%
-
-%0stringB
-FlowerApp.Models.Order
+!FlowerApp.Models.Flower.Price.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$ ('"0*⁄
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs( ((ì
+ê
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$ ((-
+FlowerApp.Models.Flower"
+Pricedecimal"__id*
+
+valuedecimal"x
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$ ((/*-
+FlowerApp.Models.Flower"
+Pricedecimal:
+valuedecimalB
+FlowerApp.Models.Flower

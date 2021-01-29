@@ -1,5 +1,6 @@
-¹
-,FlowerApp.Repository.ModelCategoryRepositoryobjectc
-ModelCategoryRepository()FFlowerApp.Repository.ModelCategoryRepository.ModelCategoryRepository()M
-Categories.get;FlowerApp.Repository.ModelCategoryRepository.Categories.getM
-Categories.set;FlowerApp.Repository.ModelCategoryRepository.Categories.set
+ð
+/FlowerApp.Migrations.ShippingAndPaymentMethods12Microsoft.EntityFrameworkCore.Migrations.Migrationobject®
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)mFlowerApp.Migrations.ShippingAndPaymentMethods1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)²
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)oFlowerApp.Migrations.ShippingAndPaymentMethods1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¬
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)lFlowerApp.Migrations.ShippingAndPaymentMethods1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)l
+ShippingAndPaymentMethods1()LFlowerApp.Migrations.ShippingAndPaymentMethods1.ShippingAndPaymentMethods1()

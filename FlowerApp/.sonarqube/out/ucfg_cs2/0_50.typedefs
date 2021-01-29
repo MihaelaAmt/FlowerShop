@@ -1,7 +1,13 @@
-ë
-*FlowerApp.ViewModels.ShoppingCartViewModelobject]
-ShoppingCartViewModel()BFlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartViewModel()O
-ShoppingCart.get;FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.getO
-ShoppingCart.set;FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.setY
-ShoppingCartTotal.get@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.getY
-ShoppingCartTotal.set@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.set
+…
+&FlowerApp.ViewModels.UserRoleViewModelobjectQ
+UserRoleViewModel():FlowerApp.ViewModels.UserRoleViewModel.UserRoleViewModel()?
+
+UserId.get1FlowerApp.ViewModels.UserRoleViewModel.UserId.get?
+
+UserId.set1FlowerApp.ViewModels.UserRoleViewModel.UserId.set?
+
+RoleId.get1FlowerApp.ViewModels.UserRoleViewModel.RoleId.get?
+
+RoleId.set1FlowerApp.ViewModels.UserRoleViewModel.RoleId.set=
+	Users.get0FlowerApp.ViewModels.UserRoleViewModel.Users.get=
+	Users.set0FlowerApp.ViewModels.UserRoleViewModel.Users.set

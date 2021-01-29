@@ -1,39 +1,93 @@
 
-KFlowerApp.Repository.FlowerRepository.UpdateFlower(FlowerApp.Models.Flower)S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs\ \( "0*œ	
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs^ b(à
+4FlowerApp.Models.ShoppingCart.GetShoppingCartItems()K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csd& d(:"0*‹
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csf f($Ò
+Ï
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csf f($(
+%3"System.Collections.Generic.List<T>"3FlowerApp.Models.ShoppingCart.ShoppingCartItems.get*!
+FlowerApp.Models.ShoppingCart¬
+©
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csf f($(
+%1"System.Collections.Generic.List<T>"__id**
+(
+%3"System.Collections.Generic.List<T>¬
+©
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csf f($(
+%0"System.Collections.Generic.List<T>"__id**
+(
+%1"System.Collections.Generic.List<T>*
+1
+2*ä
+1K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csg i(1Ð
+Í
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh h($#
+%4FlowerApp.Models.AppDbContext"__id*S*Q
+FlowerApp.Models.ShoppingCart".
+_appDbContextFlowerApp.Models.AppDbContextà
 Ý
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs^ ^(#
-%0FlowerApp.Models.AppDbContext"__id*[*Y'
-%FlowerApp.Repository.FlowerRepository".
-_appDbContextFlowerApp.Models.AppDbContextÉÆ
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs^ ^((G
-%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"@Microsoft.EntityFrameworkCore.DbContext.Update<TEntity>(TEntity)*%
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh h(62
+%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>"3FlowerApp.Models.AppDbContext.ShoppingCartItems.get*%
 #
-%0FlowerApp.Models.AppDbContext*#
-!
-flowerFlowerApp.Models.Flower2Update<TEntity>(TEntity)à
-Ý
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs` `(#
-%2FlowerApp.Models.AppDbContext"__id*[*Y'
-%FlowerApp.Repository.FlowerRepository".
-_appDbContextFlowerApp.Models.AppDbContextÐÍ
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs` `('	
-%3int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*%
-#
-%2FlowerApp.Models.AppDbContext2SaveChanges()"]
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csb b(
-""*Ä
-1S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csc	 c(	"j
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csc c(	
-implicit return:!
-flowerFlowerApp.Models.FlowerB)'
-%FlowerApp.Repository.FlowerRepository
+%4FlowerApp.Models.AppDbContextÒ
+Ï
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh h(e
+%6System.Linq.IQueryable<T>"…System.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""Ú
+×
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh i(2R
+%7LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"ÂMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%6System.Linq.IQueryable<T>*
+""Å
+Â
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh j($(
+%8"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*T
+R
+%7LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>þ
+û
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csg j($(
+%9"System.Collections.Generic.List<T>"3FlowerApp.Models.ShoppingCart.ShoppingCartItems.set*!
+FlowerApp.Models.ShoppingCart**
+(
+%8"System.Collections.Generic.List<T>¬
+©
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csg j($(
+%2"System.Collections.Generic.List<T>"__id**
+(
+%9"System.Collections.Generic.List<T>¬
+©
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csg j($(
+%0"System.Collections.Generic.List<T>"__id**
+(
+%2"System.Collections.Generic.List<T>*
+2*Ë
+2K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csk	 k(	"y
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csf j(&*
+(
+%0"System.Collections.Generic.List<T>*´
+3K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csk	 k(	"b
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csk k(	
+implicit returnB!
+FlowerApp.Models.ShoppingCart

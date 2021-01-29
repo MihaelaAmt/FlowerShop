@@ -1,32 +1,32 @@
 
-'flowerapp/views/admin/addnewrole!form73P
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml ("0*Á3
-0u
-kE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewRole.cshtml.g.csK \(I∑¥
+(flowerapp/views/admin/deleteuserfromroleX
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\DeleteUserFromRole.cshtml ("0*∑A
+0~
+sE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteUserFromRole.cshtml.g.csA í(E∂≥
 
 %0void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2û*2=*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2*2"*
 ""2BeginContext(int, int, bool)Å
 
 %1void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∑¥
 
 %2void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2€*2<*
-""2BeginContext(int, int, bool)¥
-±I
-%3CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"=AspNetCore.Views_Admin_AddNewRole.__tagHelperScopeManager.get*%#
-!AspNetCore.Views_Admin_AddNewRole
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2<*2¸*
+""2BeginContext(int, int, bool)ƒ
+¡I
+%3CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"EAspNetCore.Views_Admin_DeleteUserFromRole.__tagHelperScopeManager.get*-+
+)AspNetCore.Views_Admin_DeleteUserFromRole
 
 %4"__id*
-""†
-ù
+""™
+ß
 
-%5void"&flowerapp/views/admin/addnewrole!div78*
+%5void"/flowerapp/views/admin/deleteuserfromrole!form68*
 
-%6*0
-.
-Model%FlowerApp.ViewModels.AddRoleViewModel*
+%6*1
+/
+Model&FlowerApp.ViewModels.UserRoleViewModel*
 
 ViewBagDataAllobject*
 
@@ -38,179 +38,216 @@ kE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\
 
 HttpContextItemsAllobject* 
 
-HttpContextItemsHtmlobjectß
-§ç#
-!AspNetCore.Views_Admin_AddNewRole"f
+HttpContextItemsHtmlobjectØ
+¨ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*
 
 
-%5void«
-ƒD
-%7>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper"JMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.CreateTagHelper<TTagHelper>()*0.
-,Microsoft.AspNetCore.Mvc.Razor.RazorPageBase˛
-˚™#
-!AspNetCore.Views_Admin_AddNewRole"Ç
-@__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper"__id*F
-D
-%7>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelperÎ
-ËM
-%8GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextˇ
-¸D
-%9>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper"__id*≠*™#
-!AspNetCore.Views_Admin_AddNewRole"Ç
-@__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper®
-•
+%5void∫
+∑7
+%71Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"JMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.CreateTagHelper<TTagHelper>()*0.
+,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseﬁ
+€ó+
+)AspNetCore.Views_Admin_DeleteUserFromRole"h
+3__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper1Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*9
+7
+%71Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperÛ
+M
+%8GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextﬂ
+‹7
+%91Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ö*ó+
+)AspNetCore.Views_Admin_DeleteUserFromRole"h
+3__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper1Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperõ
+ò
 %10void"}Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Add(Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper)*O
 M
-%8GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*F
-D
-%9>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper‘
-—
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml (@E
-%11>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper"__id*≠*™#
-!AspNetCore.Views_Admin_AddNewRole"Ç
-@__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelperk
-i
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml (@
-%12"__id*
-""º
-π
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml (@;
-%134Microsoft.AspNetCore.Mvc.Rendering.ValidationSummary"TMicrosoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper.ValidationSummary.set*G
+%8GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*9
+7
+%91Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper»
+≈E
+%11>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper"JMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.CreateTagHelper<TTagHelper>()*0.
+,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseá
+Ñ≤+
+)AspNetCore.Views_Admin_DeleteUserFromRole"Ç
+@__Microsoft_AspNetCore_Mvc_TagHelpers_RenderAtEndOfFormTagHelper>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper"__id*G
 E
-%11>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper*
-
-%12Ï
-ÈN
-%14GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÄ
-˝E
-%15>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper"__id*≠*™#
-!AspNetCore.Views_Admin_AddNewRole"Ç
-@__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelperﬂ
-‹;
-%164Microsoft.AspNetCore.Mvc.Rendering.ValidationSummary"TMicrosoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper.ValidationSummary.get*G
+%11>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelperÙ
+ÒN
+%12GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextà
+ÖE
+%13>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper"__id*µ*≤+
+)AspNetCore.Views_Admin_DeleteUserFromRole"Ç
+@__Microsoft_AspNetCore_Mvc_TagHelpers_RenderAtEndOfFormTagHelper>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper™
+ß
+%14void"}Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Add(Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper)*P
+N
+%12GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*G
 E
-%15>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper
-
-%17"__id*
-""ı
-Ú
-%18void"¨Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(string, object, Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle)*P
-N
-%14GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
-asp-validation-summary*=
-;
-%164Microsoft.AspNetCore.Mvc.Rendering.ValidationSummary*
-
-%17Ï
-ÈN
-%19GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext«
-ƒ?
-%208Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*{*y#
-!AspNetCore.Views_Admin_AddNewRole"R
-__tagHelperAttribute_08Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute∫
-∑
-%21void"íMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddHtmlAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*P
-N
-%19GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*A
+%13>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper‡
+›8
+%151Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ö*ó+
+)AspNetCore.Views_Admin_DeleteUserFromRole"h
+3__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper1Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper—
+Œ?
+%168Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*Ñ*Å+
+)AspNetCore.Views_Admin_DeleteUserFromRole"R
+__tagHelperAttribute_08Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeô
+ñ
+%17object"BMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute.Value.get*A
 ?
-%208Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeÃ
-…D
-%22=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner"__id*{*y#
-!AspNetCore.Views_Admin_AddNewRole"R
-__tagHelperRunner=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunnerÏ
-ÈN
-%23GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
+%168Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute 
+
+%18"__id*
+
+%17objectô
+ñ
+%19string"@Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper.Controller.set*:
+8
+%151Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper*
+
+%18Ù
+ÒN
+%20GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext—
+Œ?
+%218Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*Ñ*Å+
+)AspNetCore.Views_Admin_DeleteUserFromRole"R
+__tagHelperAttribute_08Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeø
+º
+%22void"óMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*P
+N
+%20GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*A
+?
+%218Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute‡
+›8
+%231Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ö*ó+
+)AspNetCore.Views_Admin_DeleteUserFromRole"h
+3__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper1Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper—
+Œ?
+%248Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*Ñ*Å+
+)AspNetCore.Views_Admin_DeleteUserFromRole"R
+__tagHelperAttribute_18Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeô
+ñ
+%25object"BMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute.Value.get*A
+?
+%248Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute 
+
+%26"__id*
+
+%25objectï
+í
+%27string"<Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper.Action.set*:
+8
+%231Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper*
+
+%26Ù
+ÒN
+%28GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext—
+Œ?
+%298Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*Ñ*Å+
+)AspNetCore.Views_Admin_DeleteUserFromRole"R
+__tagHelperAttribute_18Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeø
+º
+%30void"óMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*P
+N
+%28GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*A
+?
+%298Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute÷
+”D
+%31=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner"__id*Ñ*Å+
+)AspNetCore.Views_Admin_DeleteUserFromRole"R
+__tagHelperRunner=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunnerÙ
+ÒN
+%32GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext”
 –"
-%24System.Threading.Tasks.Task"èMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext)*F
+%33System.Threading.Tasks.Task"èMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext)*F
 D
-%22=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner*P
+%31=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner*P
 N
-%23GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÏ
-ÈN
-%25GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
+%32GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÙ
+ÒN
+%34GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÁ
 ‰<
-%265Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
+%355Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
 N
-%25GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextù
+%34GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextù
 ö
-%27bool"KMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.IsContentModified.get*>
+%36bool"KMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.IsContentModified.get*>
 <
-%265Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
+%355Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
 1
-2*À
-1u
-kE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewRole.cshtml.g.cs^ ^(MÏ
-ÈN
-%28GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
+2*›
+1
+sE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteUserFromRole.cshtml.g.csî î(IÙ
+ÒN
+%37GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext⁄
 ◊"
-%29System.Threading.Tasks.Task"_Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()*P
+%38System.Threading.Tasks.Task"_Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()*P
 N
-%28GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
-2*≤C
-2u
-kE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewRole.cshtml.g.cs` t(IÏ
-ÈN
-%30GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
+%37GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
+2*∏<
+2
+sE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteUserFromRole.cshtml.g.csñ ©(EÙ
+ÒN
+%39GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÁ
 ‰<
-%315Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
+%405Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
 N
-%30GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext\
+%39GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext\
 Z
-%32void"!razor_sink*>
+%41void"!razor_sink*>
 <
-%315Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutputµ
-≤J
-%33CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"=AspNetCore.Views_Admin_AddNewRole.__tagHelperScopeManager.get*%#
-!AspNetCore.Views_Admin_AddNewRoleÏ
+%405Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput≈
+¬J
+%42CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"EAspNetCore.Views_Admin_DeleteUserFromRole.__tagHelperScopeManager.get*-+
+)AspNetCore.Views_Admin_DeleteUserFromRoleÏ
 ÈN
-%34GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"IMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager.End()*L
+%43GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"IMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager.End()*L
 J
-%33CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManagerÎ
-Ëç#
-!AspNetCore.Views_Admin_AddNewRole"f
+%42CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManagerÛ
+ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*P
 N
-%34GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÉÄ
-%35void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+%43GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÉÄ
+%44void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
-%36void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ó*2(*
+%45void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2∏*2*
 ""2BeginContext(int, int, bool)ÉÄ
-%37void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+%46void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
-%38void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ø*2A*
-""2BeginContext(int, int, bool)µ
-≤J
-%39CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"=AspNetCore.Views_Admin_AddNewRole.__tagHelperScopeManager.get*%#
-!AspNetCore.Views_Admin_AddNewRole
+%47void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2∫*2?*
+""2BeginContext(int, int, bool)≈
+¬J
+%48CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"EAspNetCore.Views_Admin_DeleteUserFromRole.__tagHelperScopeManager.get*-+
+)AspNetCore.Views_Admin_DeleteUserFromRole
 
-%40"__id*
-""•
-¢
-%41void")flowerapp/views/admin/addnewrole!label102*
+%49"__id*
+""™
+ß
+%50void"-flowerapp/views/admin/deleteuserfromrole!a156*
 
-%42*0
-.
-Model%FlowerApp.ViewModels.AddRoleViewModel*
+%51*1
+/
+Model&FlowerApp.ViewModels.UserRoleViewModel*
 
 ViewBagDataAllobject*
 
@@ -222,558 +259,161 @@ N
 
 HttpContextItemsAllobject* 
 
-HttpContextItemsHtmlobject®
-•ç#
-!AspNetCore.Views_Admin_AddNewRole"f
+HttpContextItemsHtmlobject∞
+≠ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*
 
-%41voidº
-π9
-%432Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper"JMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.CreateTagHelper<TTagHelper>()*0.
-,Microsoft.AspNetCore.Mvc.Razor.RazorPageBase⁄
-◊ë#
-!AspNetCore.Views_Admin_AddNewRole"j
-4__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper2Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper"__id*;
-9
-%432Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelperÏ
-ÈN
-%44GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext€
-ÿ9
-%452Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper"__id*î*ë#
-!AspNetCore.Views_Admin_AddNewRole"j
-4__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper2Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelperû
-õ
-%46void"}Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Add(Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper)*P
+%50voidΩ
+∫:
+%523Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"JMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.CreateTagHelper<TTagHelper>()*0.
+,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseÂ
+‚õ+
+)AspNetCore.Views_Admin_DeleteUserFromRole"l
+5__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper3Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"__id*<
+:
+%523Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelperÙ
+ÒN
+%53GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÊ
+„:
+%543Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"__id*û*õ+
+)AspNetCore.Views_Admin_DeleteUserFromRole"l
+5__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper3Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelperü
+ú
+%55void"}Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Add(Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper)*P
 N
-%44GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*;
-9
-%452Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelperØ
-¨
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml	 	(I9
-%472Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper"__id*î*ë#
-!AspNetCore.Views_Admin_AddNewRole"j
-4__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper2Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelperÑ
-Å
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml	 	(IE
-%48>Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider"=AspNetCore.Views_Admin_AddNewRole.ModelExpressionProvider.get*%#
-!AspNetCore.Views_Admin_AddNewRoleóî
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml	 	(I<
-%495Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpression"ÁMicrosoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider.CreateModelExpression<TModel, TValue>(Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary<TModel>, System.Linq.Expressions.Expression<System.Func<TModel, TValue>>)*G
-E
-%48>Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider*
-
-ViewBagDataAllobject*
-""2®CreateModelExpression<TModel, TValue>(Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary<TModel>, System.Linq.Expressions.Expression<System.Func<TModel, TValue>>)Œ
-À
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml	 	(I<
-%505Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpression":Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper.For.set*;
-9
-%472Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper*>
-<
-%495Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpressionÏ
-ÈN
-%51GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext€
-ÿ9
-%522Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper"__id*î*ë#
-!AspNetCore.Views_Admin_AddNewRole"j
-4__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper2Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper∫
-∑<
-%535Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpression":Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper.For.get*;
-9
-%522Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper
-
-%54"__id*
-""Á
-‰
-%55void"¨Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(string, object, Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle)*P
-N
-%51GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*	
-asp-for*>
-<
-%535Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpression*
-
-%54Ï
-ÈN
-%56GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext«
-ƒ?
-%578Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*{*y#
-!AspNetCore.Views_Admin_AddNewRole"R
-__tagHelperAttribute_18Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute∫
-∑
-%58void"íMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddHtmlAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*P
-N
-%56GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*A
+%53GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*<
+:
+%543Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelperÊ
+„:
+%563Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"__id*û*õ+
+)AspNetCore.Views_Admin_DeleteUserFromRole"l
+5__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper3Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper—
+Œ?
+%578Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*Ñ*Å+
+)AspNetCore.Views_Admin_DeleteUserFromRole"R
+__tagHelperAttribute_28Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeô
+ñ
+%58object"BMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute.Value.get*A
 ?
-%578Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeÃ
-…D
-%59=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner"__id*{*y#
-!AspNetCore.Views_Admin_AddNewRole"R
-__tagHelperRunner=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunnerÏ
-ÈN
-%60GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
+%578Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute 
+
+%59"__id*
+
+%58objectô
+ñ
+%60string">Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper.Action.set*<
+:
+%563Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper*
+
+%59Ù
+ÒN
+%61GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext—
+Œ?
+%628Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*Ñ*Å+
+)AspNetCore.Views_Admin_DeleteUserFromRole"R
+__tagHelperAttribute_28Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeø
+º
+%63void"óMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*P
+N
+%61GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*A
+?
+%628Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeÙ
+ÒN
+%64GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext—
+Œ?
+%658Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*Ñ*Å+
+)AspNetCore.Views_Admin_DeleteUserFromRole"R
+__tagHelperAttribute_38Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute∫
+∑
+%66void"íMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddHtmlAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*P
+N
+%64GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*A
+?
+%658Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute÷
+”D
+%67=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner"__id*Ñ*Å+
+)AspNetCore.Views_Admin_DeleteUserFromRole"R
+__tagHelperRunner=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunnerÙ
+ÒN
+%68GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext”
 –"
-%61System.Threading.Tasks.Task"èMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext)*F
+%69System.Threading.Tasks.Task"èMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext)*F
 D
-%59=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner*P
+%67=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner*P
 N
-%60GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÏ
-ÈN
-%62GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
+%68GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÙ
+ÒN
+%70GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÁ
 ‰<
-%635Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
+%715Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
 N
-%62GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextù
+%70GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextù
 ö
-%64bool"KMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.IsContentModified.get*>
+%72bool"KMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.IsContentModified.get*>
 <
-%635Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
+%715Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
 3
-4*À
-3u
-kE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewRole.cshtml.g.csv v(MÏ
-ÈN
-%65GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
+4*›
+3
+sE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteUserFromRole.cshtml.g.cs´ ´(IÙ
+ÒN
+%73GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext⁄
 ◊"
-%66System.Threading.Tasks.Task"_Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()*P
+%74System.Threading.Tasks.Task"_Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()*P
 N
-%65GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
-4*∂C
-4v
-kE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewRole.cshtml.g.csx å(IÏ
-ÈN
-%67GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
+%73GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
+4*º
+4
+sE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteUserFromRole.cshtml.g.cs≠ ≤(Ù
+ÒN
+%75GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ò*ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÁ
 ‰<
-%685Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
+%765Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
 N
-%67GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext\
+%75GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext\
 Z
-%69void"!razor_sink*>
+%77void"!razor_sink*>
 <
-%685Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutputµ
-≤J
-%70CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"=AspNetCore.Views_Admin_AddNewRole.__tagHelperScopeManager.get*%#
-!AspNetCore.Views_Admin_AddNewRoleÏ
+%765Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput≈
+¬J
+%78CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"EAspNetCore.Views_Admin_DeleteUserFromRole.__tagHelperScopeManager.get*-+
+)AspNetCore.Views_Admin_DeleteUserFromRoleÏ
 ÈN
-%71GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"IMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager.End()*L
+%79GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"IMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager.End()*L
 J
-%70CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManagerÎ
-Ëç#
-!AspNetCore.Views_Admin_AddNewRole"f
+%78CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManagerÛ
+ï+
+)AspNetCore.Views_Admin_DeleteUserFromRole"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*P
 N
-%71GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÉÄ
-%72void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+%79GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÉÄ
+%80void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
-%73void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Ä*2/*
+%81void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2˘*2*
 ""2BeginContext(int, int, bool)ÉÄ
-%74void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
-%75void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Ø*21*
-""2BeginContext(int, int, bool)µ
-≤J
-%76CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"=AspNetCore.Views_Admin_AddNewRole.__tagHelperScopeManager.get*%#
-!AspNetCore.Views_Admin_AddNewRole
-
-%77"__id*
-""•
-¢
-%78void")flowerapp/views/admin/addnewrole!input126*
-
-%79*0
-.
-Model%FlowerApp.ViewModels.AddRoleViewModel*
-
-ViewBagDataAllobject*
-
-ViewBagDataHtmlobject*
-
-TempDataAllobject*
-
-TempDataHtmlobject*
-
-HttpContextItemsAllobject* 
-
-HttpContextItemsHtmlobject®
-•ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*
-
-%78voidº
-π9
-%802Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper"JMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.CreateTagHelper<TTagHelper>()*0.
-,Microsoft.AspNetCore.Mvc.Razor.RazorPageBase⁄
-◊ë#
-!AspNetCore.Views_Admin_AddNewRole"j
-4__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper2Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper"__id*;
-9
-%802Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelperÏ
-ÈN
-%81GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext€
-ÿ9
-%822Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper"__id*î*ë#
-!AspNetCore.Views_Admin_AddNewRole"j
-4__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper2Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelperû
-õ
-%83void"}Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Add(Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper)*P
-N
-%81GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*;
-9
-%822Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelperØ
-¨
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml (=9
-%842Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper"__id*î*ë#
-!AspNetCore.Views_Admin_AddNewRole"j
-4__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper2Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelperÑ
-Å
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml (=E
-%85>Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider"=AspNetCore.Views_Admin_AddNewRole.ModelExpressionProvider.get*%#
-!AspNetCore.Views_Admin_AddNewRoleóî
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml (=<
-%865Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpression"ÁMicrosoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider.CreateModelExpression<TModel, TValue>(Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary<TModel>, System.Linq.Expressions.Expression<System.Func<TModel, TValue>>)*G
-E
-%85>Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider*
-
-ViewBagDataAllobject*
-""2®CreateModelExpression<TModel, TValue>(Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary<TModel>, System.Linq.Expressions.Expression<System.Func<TModel, TValue>>)Œ
-À
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml (=<
-%875Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpression":Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.For.set*;
-9
-%842Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper*>
-<
-%865Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpressionÏ
-ÈN
-%88GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext€
-ÿ9
-%892Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper"__id*î*ë#
-!AspNetCore.Views_Admin_AddNewRole"j
-4__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper2Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper∫
-∑<
-%905Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpression":Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.For.get*;
-9
-%892Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper
-
-%91"__id*
-""Á
-‰
-%92void"¨Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(string, object, Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle)*P
-N
-%88GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*	
-asp-for*>
-<
-%905Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpression*
-
-%91Ï
-ÈN
-%93GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext«
-ƒ?
-%948Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*{*y#
-!AspNetCore.Views_Admin_AddNewRole"R
-__tagHelperAttribute_28Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute∫
-∑
-%95void"íMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddHtmlAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*P
-N
-%93GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*A
-?
-%948Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeÃ
-…D
-%96=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner"__id*{*y#
-!AspNetCore.Views_Admin_AddNewRole"R
-__tagHelperRunner=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunnerÏ
-ÈN
-%97GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext”
-–"
-%98System.Threading.Tasks.Task"èMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext)*F
-D
-%96=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner*P
-N
-%97GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÏ
-ÈN
-%99GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextË
-Â=
-%1005Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
-N
-%99GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextü
-ú
-%101bool"KMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.IsContentModified.get*?
-=
-%1005Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
-5
-6*–
-5w
-kE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewRole.cshtml.g.csé é(MÌ
-ÍO
-%102GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext‹
-Ÿ#
-%103System.Threading.Tasks.Task"_Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()*Q
-O
-%102GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
-6*“E
-6w
-kE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewRole.cshtml.g.csê §(IÌ
-ÍO
-%104GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÈ
-Ê=
-%1055Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*Q
-O
-%104GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext^
-\
-%106void"!razor_sink*?
-=
-%1055Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput∂
-≥K
-%107CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"=AspNetCore.Views_Admin_AddNewRole.__tagHelperScopeManager.get*%#
-!AspNetCore.Views_Admin_AddNewRoleÓ
-ÎO
-%108GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"IMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager.End()*M
-K
-%107CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManagerÏ
-Èç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*Q
-O
-%108GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÑÅ
-%109void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()π∂
-%110void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2‡*2*
-""2BeginContext(int, int, bool)ÑÅ
-%111void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()π∂
-%112void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Ó*2?*
-""2BeginContext(int, int, bool)∂
-≥K
-%113CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"=AspNetCore.Views_Admin_AddNewRole.__tagHelperScopeManager.get*%#
-!AspNetCore.Views_Admin_AddNewRole
-
-%114"__id*
-""¶
-£
-%115void"(flowerapp/views/admin/addnewrole!span150*
-
-%116*0
-.
-Model%FlowerApp.ViewModels.AddRoleViewModel*
-
-ViewBagDataAllobject*
-
-ViewBagDataHtmlobject*
-
-TempDataAllobject*
-
-TempDataHtmlobject*
-
-HttpContextItemsAllobject* 
-
-HttpContextItemsHtmlobject©
-¶ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*
-
-%115void…
-∆F
-%117>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper"JMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.CreateTagHelper<TTagHelper>()*0.
-,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseÄ
-˝™#
-!AspNetCore.Views_Admin_AddNewRole"Ç
-@__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper"__id*H
-F
-%117>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelperÌ
-ÍO
-%118GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÅ
-˛F
-%119>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper"__id*≠*™#
-!AspNetCore.Views_Admin_AddNewRole"Ç
-@__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper≠
-™
-%120void"}Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Add(Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper)*Q
-O
-%118GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*H
-F
-%119>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper’
-“
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml (KF
-%121>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper"__id*≠*™#
-!AspNetCore.Views_Admin_AddNewRole"Ç
-@__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelperÖ
-Ç
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml (KF
-%122>Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider"=AspNetCore.Views_Admin_AddNewRole.ModelExpressionProvider.get*%#
-!AspNetCore.Views_Admin_AddNewRoleôñ
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml (K=
-%1235Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpression"ÁMicrosoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider.CreateModelExpression<TModel, TValue>(Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary<TModel>, System.Linq.Expressions.Expression<System.Func<TModel, TValue>>)*H
-F
-%122>Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider*
-
-ViewBagDataAllobject*
-""2®CreateModelExpression<TModel, TValue>(Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary<TModel>, System.Linq.Expressions.Expression<System.Func<TModel, TValue>>)È
-Ê
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\AddNewRole.cshtml (K=
-%1245Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpression"FMicrosoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper.For.set*H
-F
-%121>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper*?
-=
-%1235Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpressionÌ
-ÍO
-%125GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÅ
-˛F
-%126>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper"__id*≠*™#
-!AspNetCore.Views_Admin_AddNewRole"Ç
-@__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper‘
-—=
-%1275Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpression"FMicrosoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper.For.get*H
-F
-%126>Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper
-
-%128"__id*
-""ˆ
-Û
-%129void"¨Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(string, object, Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle)*Q
-O
-%125GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
-asp-validation-for*?
-=
-%1275Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExpression*
-
-%128Ì
-ÍO
-%130GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext»
-≈@
-%1318Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*{*y#
-!AspNetCore.Views_Admin_AddNewRole"R
-__tagHelperAttribute_08Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeΩ
-∫
-%132void"íMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddHtmlAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*Q
-O
-%130GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*B
-@
-%1318Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeÕ
- E
-%133=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner"__id*{*y#
-!AspNetCore.Views_Admin_AddNewRole"R
-__tagHelperRunner=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunnerÌ
-ÍO
-%134GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext÷
-”#
-%135System.Threading.Tasks.Task"èMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext)*G
-E
-%133=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner*Q
-O
-%134GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÌ
-ÍO
-%136GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÈ
-Ê=
-%1375Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*Q
-O
-%136GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextü
-ú
-%138bool"KMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.IsContentModified.get*?
-=
-%1375Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
-7
-8*–
-7w
-kE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewRole.cshtml.g.cs¶ ¶(MÌ
-ÍO
-%139GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext‹
-Ÿ#
-%140System.Threading.Tasks.Task"_Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()*Q
-O
-%139GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
-8*°
-8w
-kE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewRole.cshtml.g.cs® ≠(Ì
-ÍO
-%141GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ê*ç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÈ
-Ê=
-%1425Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*Q
-O
-%141GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext^
-\
-%143void"!razor_sink*?
-=
-%1425Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput∂
-≥K
-%144CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"=AspNetCore.Views_Admin_AddNewRole.__tagHelperScopeManager.get*%#
-!AspNetCore.Views_Admin_AddNewRoleÓ
-ÎO
-%145GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"IMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager.End()*M
-K
-%144CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManagerÏ
-Èç#
-!AspNetCore.Views_Admin_AddNewRole"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*Q
-O
-%145GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÑÅ
-%146void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∫∑
-%147void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2≠*2⁄*
-""2BeginContext(int, int, bool)ÑÅ
-%148void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+%82void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()*
-9*ì
-9w
-kE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddNewRole.cshtml.g.csÆ Æ("
-implicit return:.
-Model%FlowerApp.ViewModels.AddRoleViewModel:
+5*õ
+5
+sE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\DeleteUserFromRole.cshtml.g.cs≥	 ≥(	"
+implicit return:/
+Model&FlowerApp.ViewModels.UserRoleViewModel:
 ViewBagDataAllobject:
 ViewBagDataHtmlobject:
 TempDataAllobject:

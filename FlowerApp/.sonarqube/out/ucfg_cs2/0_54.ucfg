@@ -1,18 +1,16 @@
 
-0FlowerApp.ViewModels.UserRoleViewModel.Users.setT
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs/ (2"0*÷
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs3 (3ç
-ä
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs/ (3W(
-&FlowerApp.ViewModels.UserRoleViewModel"+
-Users"System.Collections.Generic.List<T>"__id*-
-+
-value"System.Collections.Generic.List<T>"±
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs/ (3Y*W(
-&FlowerApp.ViewModels.UserRoleViewModel"+
-Users"System.Collections.Generic.List<T>:+
-value"System.Collections.Generic.List<T>B*(
-&FlowerApp.ViewModels.UserRoleViewModel
+)FlowerApp.Models.AppDbContext.Flowers.getK
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs ("0*Á
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (è
+å
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*\*Z
+FlowerApp.Models.AppDbContext"7
+Flowers,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ƒ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
+FlowerApp.Models.AppDbContext

@@ -1,18 +1,27 @@
 
-1FlowerApp.ViewModels.AddFlowerViewModel.Price.setU
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs$ ('"0*«
-0U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs( ((³
-°
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs$ ((=)
-'FlowerApp.ViewModels.AddFlowerViewModel"
-Pricedecimal"__id*
-
-valuedecimal"˜
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs$ ((?*=)
-'FlowerApp.ViewModels.AddFlowerViewModel"
-Pricedecimal:
-valuedecimalB+)
-'FlowerApp.ViewModels.AddFlowerViewModel
+XFlowerApp.Components.CategoryMenu.CategoryMenu(FlowerApp.Repository.ICategoryRepository)O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs ("1*Í
+1O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs	 (	r
+p
+
+%0void"6Microsoft.AspNetCore.Mvc.ViewComponent.ViewComponent()**(
+&Microsoft.AspNetCore.Mvc.ViewComponent*
+0*à
+0O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (4„
+
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (4f#
+!FlowerApp.Components.CategoryMenu"?
+_categoryRepository(FlowerApp.Repository.ICategoryRepository"__id*@
+>
+categoryRepository(FlowerApp.Repository.ICategoryRepository*
+2*¼
+2O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs	 (	"f
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (	
+implicit return:>
+categoryRepository(FlowerApp.Repository.ICategoryRepositoryB%#
+!FlowerApp.Components.CategoryMenu

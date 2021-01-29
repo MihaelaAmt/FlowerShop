@@ -1,16 +1,18 @@
 
-)FlowerApp.Models.AppDbContext.Flowers.getK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs ("0*Á
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (è
-å
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*\*Z
-FlowerApp.Models.AppDbContext"7
-Flowers,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ƒ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
-FlowerApp.Models.AppDbContext
+2FlowerApp.ViewModels.AddRoleViewModel.RoleName.setS
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs	& 	()"0*¤
+0S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs	* 	(*°
+­
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs	& 	(*='
+%FlowerApp.ViewModels.AddRoleViewModel"
+RoleNamestring"__id*
+
+valuestring"–
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddRoleViewModel.cs	& 	(*?*='
+%FlowerApp.ViewModels.AddRoleViewModel"
+RoleNamestring:
+valuestringB)'
+%FlowerApp.ViewModels.AddRoleViewModel

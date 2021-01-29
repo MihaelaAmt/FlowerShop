@@ -1,96 +1,102 @@
 
-[FlowerApp.Repository.FlowerRepository.MapDbFlowerToFlowerViewModel(FlowerApp.Models.Flower)S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csP  P(<"0*π
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csR X(>™ß
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csR Y(*
-%0$FlowerApp.ViewModels.FlowerViewModel"$FlowerApp.ViewModels.FlowerViewModel 
-«
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csR R(&
+>FlowerApp.Controllers.FlowerController.RemoveFromFavorite(int)T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csi i(."4*»
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk m(¯
+ı
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk k(*,
+%0&FlowerApp.Repository.IFlowerRepository"__id*i*g(
+&FlowerApp.Controllers.FlowerController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepository˚¯
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk k(2/
+%1)System.Collections.Generic.IEnumerable<T>"2FlowerApp.Repository.IFlowerRepository.Flowers.get*.
+,
+%0&FlowerApp.Repository.IFlowerRepository2Flowers.get’
+“
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk k(U/
+%2)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*1
+/
+%1)System.Collections.Generic.IEnumerable<T>*
+""®
+•
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk k(f
+%3FlowerApp.Models.Flower"_System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%2)System.Collections.Generic.IEnumerable<T>£
+†
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk k(f!
+flowerFlowerApp.Models.Flower"__id*
+
+%3FlowerApp.Models.Flower¬
+ø
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csm m(
 
-%1void"6FlowerApp.ViewModels.FlowerViewModel.FlowerViewModel()*,
-*
-%0$FlowerApp.ViewModels.FlowerViewModel∞
-≠
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csT T(,	
-%2int"$FlowerApp.Models.Flower.FlowerId.get*%
-#
-dbFlowerFlowerApp.Models.Flower—
-Œ
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csT T(,	
-%3int"1FlowerApp.ViewModels.FlowerViewModel.FlowerId.set*,
-*
-%0$FlowerApp.ViewModels.FlowerViewModel*
-	
-%2intØ
-¨
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csU U($
-%4string" FlowerApp.Models.Flower.Name.get*%
-#
-dbFlowerFlowerApp.Models.Flower”
-–
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csU U($
-%5string"-FlowerApp.ViewModels.FlowerViewModel.Name.set*,
-*
-%0$FlowerApp.ViewModels.FlowerViewModel*
-
-%4string±
-Æ
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csV V(&
-%6decimal"!FlowerApp.Models.Flower.Price.get*%
-#
-dbFlowerFlowerApp.Models.Flower÷
-”
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csV V(&
-%7decimal".FlowerApp.ViewModels.FlowerViewModel.Price.set*,
-*
-%0$FlowerApp.ViewModels.FlowerViewModel*
+%4bool""object.operator !=(object, object)*
+"
+object*#
+!
+flowerFlowerApp.Models.Flower*
+""*
+1
+2*»
+1T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cso p(5∫
+∑
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cso o()
 
-%6decimalª
-∏
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csW# W(<
-%8string",FlowerApp.Models.Flower.ShortDescription.get*%
-#
-dbFlowerFlowerApp.Models.Flowerﬂ
-‹
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csW W(<
-%9string"9FlowerApp.ViewModels.FlowerViewModel.ShortDescription.set*,
-*
-%0$FlowerApp.ViewModels.FlowerViewModel*
-
-%8stringΩ
-∫
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csX$ X(>
-%10string"-FlowerApp.Models.Flower.ImageThumbnailUrl.get*%
-#
-dbFlowerFlowerApp.Models.Flower‚
-ﬂ
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csX X(>
-%11string":FlowerApp.ViewModels.FlowerViewModel.ImageThumbnailUrl.set*,
-*
-%0$FlowerApp.ViewModels.FlowerViewModel*
+%5bool"&FlowerApp.Models.Flower.IsFavorite.set*#
+!
+flowerFlowerApp.Models.Flower*
+""¯
+ı
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csp p(!,
+%6&FlowerApp.Repository.IFlowerRepository"__id*i*g(
+&FlowerApp.Controllers.FlowerController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepositoryØ¨
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csp p(6
 
-%10string"É
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csR Y(,
-*
-%0$FlowerApp.ViewModels.FlowerViewModel*ƒ
-1S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csZ	 Z(	"j
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.csZ Z(	
-implicit return:#
-dbFlowerFlowerApp.Models.FlowerB)'
-%FlowerApp.Repository.FlowerRepository
+%7bool"LFlowerApp.Repository.IFlowerRepository.UpdateFlower(FlowerApp.Models.Flower)*.
+,
+%6&FlowerApp.Repository.IFlowerRepository*#
+!
+flowerFlowerApp.Models.Flower2%UpdateFlower(FlowerApp.Models.Flower)*
+2*≠
+2T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.css s(4øº
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.css s(55
+%8/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+List*
+
+Flower2 RedirectToAction(string, string)"è
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.css s(67
+5
+%8/Microsoft.AspNetCore.Mvc.RedirectToActionResult*∆
+3T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cst	 t(	"k
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cst t(	
+implicit return*‘
+4T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csi< i(<t
+r
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csi i(.
+%9"__entrypoint*
+""*
+0:
+flowerIdintB*(
+&FlowerApp.Controllers.FlowerController

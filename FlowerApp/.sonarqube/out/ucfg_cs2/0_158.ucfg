@@ -1,18 +1,18 @@
 
->FlowerApp.ViewModels.EditFlowerViewModel.ImageThumbnailUrl.setV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs/ (2"0*Å
+2FlowerApp.ViewModels.EditFlowerViewModel.Price.setV
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs$ ('"0*°
 0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs3 (3¿
-¼
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs( ((µ
+²
 V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs/ (3I*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-ImageThumbnailUrlstring"__id*
-
-valuestring"¥
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs$ ((>*
+(FlowerApp.ViewModels.EditFlowerViewModel"
+Pricedecimal"__id*
+
+valuedecimal"š
 V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs/ (3K*I*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-ImageThumbnailUrlstring:
-valuestringB,*
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs$ ((@*>*
+(FlowerApp.ViewModels.EditFlowerViewModel"
+Pricedecimal:
+valuedecimalB,*
 (FlowerApp.ViewModels.EditFlowerViewModel

@@ -1,60 +1,22 @@
 
-KFlowerApp.Startup.Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment)?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs ("1*I
-1?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs	 (	*
-0*Ä
-0?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (:¼¹
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (;=
-%07Microsoft.Extensions.Configuration.ConfigurationBuilder"7Microsoft.Extensions.Configuration.ConfigurationBuilderá
-Þ
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs% (9
-
-%1void"NMicrosoft.Extensions.Configuration.ConfigurationBuilder.ConfigurationBuilder()*?
-=
-%07Microsoft.Extensions.Configuration.ConfigurationBuilder÷ô
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs( (J
-%2string"DMicrosoft.AspNetCore.Hosting.IHostingEnvironment.ContentRootPath.get*H
-F
-hostingEnvironment0Microsoft.AspNetCore.Hosting.IHostingEnvironment2ContentRootPath.get¨
-¥
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (K>
-%38Microsoft.Extensions.Configuration.IConfigurationBuilder"ŒMicrosoft.Extensions.Configuration.FileConfigurationExtensions.SetBasePath(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
->Microsoft.Extensions.Configuration.FileConfigurationExtensions*?
-=
-%07Microsoft.Extensions.Configuration.ConfigurationBuilder*
-
-%2string¯
-¬
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (;>
-%48Microsoft.Extensions.Configuration.IConfigurationBuilder"ŒMicrosoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
->Microsoft.Extensions.Configuration.JsonConfigurationExtensions*@
->
-%38Microsoft.Extensions.Configuration.IConfigurationBuilder*
-appsettings.jsonŽ‹
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (#;
-%55Microsoft.Extensions.Configuration.IConfigurationRoot"@Microsoft.Extensions.Configuration.IConfigurationBuilder.Build()*@
->
-%48Microsoft.Extensions.Configuration.IConfigurationBuilder2Build()í
-ê
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (#b
-FlowerApp.Startup"K
-_configurationRoot5Microsoft.Extensions.Configuration.IConfigurationRoot"__id*=
-;
-%55Microsoft.Extensions.Configuration.IConfigurationRoot*
-2*œ
-2?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs	 (	"V
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (	
-implicit return:F
-hostingEnvironment0Microsoft.AspNetCore.Hosting.IHostingEnvironmentB
-FlowerApp.Startup
+[FlowerApp.Migrations.Order2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs  ($"0*œ
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs (·´
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs ( _
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+SecurityCode*
+
+Orders*
+""2"DropColumn(string, string, string)*
+1*Î
+1X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs	 (	"o
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs (	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB
+FlowerApp.Migrations.Order2

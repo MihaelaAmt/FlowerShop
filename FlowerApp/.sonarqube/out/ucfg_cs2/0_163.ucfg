@@ -1,17 +1,18 @@
 
-7FlowerApp.ViewModels.EditFlowerViewModel.CategoryId.getV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs  (#"0*ô
+AFlowerApp.ViewModels.EditFlowerViewModel.IsFlowerPresentation.setV
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs0 (3"0*Å
 0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs$ ($¯
-¬
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs4 (4¾
+»
 V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs  ($	
-%0int"__id*A*?*
-(FlowerApp.ViewModels.EditFlowerViewModel"
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs0 (4J*
+(FlowerApp.ViewModels.EditFlowerViewModel"
+IsFlowerPresentationbool"__id*
 
-CategoryIdint"e
+valuebool"¦
 V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs  ($
-	
-%0intB,*
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs0 (4L*J*
+(FlowerApp.ViewModels.EditFlowerViewModel"
+IsFlowerPresentationbool:
+valueboolB,*
 (FlowerApp.ViewModels.EditFlowerViewModel

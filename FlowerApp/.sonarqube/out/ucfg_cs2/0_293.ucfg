@@ -1,16 +1,18 @@
 
-'FlowerApp.Models.Order.AddressLine2.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs#% #(("0*∑
-0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs#) #()ì
-ê
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs#% #()
-%0string"__id*4*2
-FlowerApp.Models.Order"
-AddressLine2string"V
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs#% #()
-
-%0stringB
-FlowerApp.Models.Order
+#FlowerApp.Models.Flower.InStock.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# (&"0*’
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs' ('è
+å
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# (',
+FlowerApp.Models.Flower"
+InStockbool"__id*
+
+valuebool"w
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# ('.*,
+FlowerApp.Models.Flower"
+InStockbool:
+valueboolB
+FlowerApp.Models.Flower

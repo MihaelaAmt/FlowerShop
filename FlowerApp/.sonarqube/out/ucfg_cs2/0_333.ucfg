@@ -1,18 +1,18 @@
 
--FlowerApp.Models.Flower.ImageThumbnailUrl.setE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs/ (2"0*
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs3 (3ù
-ö
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs/ (38
-FlowerApp.Models.Flower"
-ImageThumbnailUrlstring"__id*
+$FlowerApp.Models.Order.PayMethod.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ' Q(*"0*⁄
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ+ Q(+ì
+ê
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ' Q(+/
+FlowerApp.Models.Order"
+	PayMethodstring"__id*
 
-valuestring"É
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs/ (3:*8
-FlowerApp.Models.Flower"
-ImageThumbnailUrlstring:
-valuestringB
-FlowerApp.Models.Flower
+valuestring"y
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ' Q(+1*/
+FlowerApp.Models.Order"
+	PayMethodstring:
+valuestringB
+FlowerApp.Models.Order

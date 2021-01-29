@@ -1,13 +1,17 @@
-¡
-$FlowerApp.ViewModels.FlowerViewModelobjectK
-FlowerViewModel()6FlowerApp.ViewModels.FlowerViewModel.FlowerViewModel()A
-FlowerId.get1FlowerApp.ViewModels.FlowerViewModel.FlowerId.getA
-FlowerId.set1FlowerApp.ViewModels.FlowerViewModel.FlowerId.set9
-Name.get-FlowerApp.ViewModels.FlowerViewModel.Name.get9
-Name.set-FlowerApp.ViewModels.FlowerViewModel.Name.setQ
-ShortDescription.get9FlowerApp.ViewModels.FlowerViewModel.ShortDescription.getQ
-ShortDescription.set9FlowerApp.ViewModels.FlowerViewModel.ShortDescription.set;
-	Price.get.FlowerApp.ViewModels.FlowerViewModel.Price.get;
-	Price.set.FlowerApp.ViewModels.FlowerViewModel.Price.setS
-ImageThumbnailUrl.get:FlowerApp.ViewModels.FlowerViewModel.ImageThumbnailUrl.getS
-ImageThumbnailUrl.set:FlowerApp.ViewModels.FlowerViewModel.ImageThumbnailUrl.set
+ù
+&FlowerApp.ViewModels.EditUserViewModelobjectQ
+EditUserViewModel():FlowerApp.ViewModels.EditUserViewModel.EditUserViewModel()7
+Id.get-FlowerApp.ViewModels.EditUserViewModel.Id.get7
+Id.set-FlowerApp.ViewModels.EditUserViewModel.Id.setC
+UserName.get3FlowerApp.ViewModels.EditUserViewModel.UserName.getC
+UserName.set3FlowerApp.ViewModels.EditUserViewModel.UserName.set=
+	Email.get0FlowerApp.ViewModels.EditUserViewModel.Email.get=
+	Email.set0FlowerApp.ViewModels.EditUserViewModel.Email.setG
+UserClaims.get5FlowerApp.ViewModels.EditUserViewModel.UserClaims.getG
+UserClaims.set5FlowerApp.ViewModels.EditUserViewModel.UserClaims.setE
+Birthdate.get4FlowerApp.ViewModels.EditUserViewModel.Birthdate.getE
+Birthdate.set4FlowerApp.ViewModels.EditUserViewModel.Birthdate.set;
+City.get/FlowerApp.ViewModels.EditUserViewModel.City.get;
+City.set/FlowerApp.ViewModels.EditUserViewModel.City.setA
+Country.get2FlowerApp.ViewModels.EditUserViewModel.Country.getA
+Country.set2FlowerApp.ViewModels.EditUserViewModel.Country.set

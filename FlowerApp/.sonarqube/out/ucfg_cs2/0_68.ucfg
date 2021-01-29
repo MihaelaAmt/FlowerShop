@@ -1,18 +1,18 @@
 
-5FlowerApp.ViewModels.OrderHistoryViewModel.Orders.setX
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csG (J"0*¢
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csK (Kþ
-û
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csG (Kc,
-*FlowerApp.ViewModels.OrderHistoryViewModel"3
-Orders)System.Collections.Generic.IEnumerable<T>"__id*4
-2
-value)System.Collections.Generic.IEnumerable<T>"Á
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csG (Ke*c,
-*FlowerApp.ViewModels.OrderHistoryViewModel"3
-Orders)System.Collections.Generic.IEnumerable<T>:2
-value)System.Collections.Generic.IEnumerable<T>B.,
-*FlowerApp.ViewModels.OrderHistoryViewModel
+.FlowerApp.Models.AppDbContext.OrderDetails.setK
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs) )("0*ö
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs) )(ð
+í
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs) )(_
+FlowerApp.Models.AppDbContext"<
+OrderDetails,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"°
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs) )(a*_
+FlowerApp.Models.AppDbContext"<
+OrderDetails,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
+FlowerApp.Models.AppDbContext

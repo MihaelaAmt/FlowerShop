@@ -1,35 +1,16 @@
 
-1FlowerApp.Repository.FlowerRepository.Flowers.getS
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ("0*¬	
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (D‡
-›
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ($#
-%0FlowerApp.Models.AppDbContext"__id*[*Y'
-%FlowerApp.Repository.FlowerRepository".
-_appDbContextFlowerApp.Models.AppDbContextﬁ
-€
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (,2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>")FlowerApp.Models.AppDbContext.Flowers.get*%
-#
-%0FlowerApp.Models.AppDbContextı
-Ú
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (ER
-%2LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"¬Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*D"B
-@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-"""´
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (FT
-R
-%2LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>*ƒ
-1S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ("j
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (
-implicit returnB)'
-%FlowerApp.Repository.FlowerRepository
+$FlowerApp.Models.Order.PayMethod.getD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ" Q(%"0*¥
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ& Q(&ê
+ç
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ" Q(&
+%0string"__id*1*/
+FlowerApp.Models.Order"
+	PayMethodstring"V
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ" Q(&
+
+%0stringB
+FlowerApp.Models.Order

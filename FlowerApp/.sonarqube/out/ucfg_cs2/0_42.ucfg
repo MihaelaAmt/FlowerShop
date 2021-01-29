@@ -1,16 +1,17 @@
 
-,FlowerApp.Models.ShoppingCartItem.Flower.getO
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs (""0*ê
-0O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs# (#≈
-¬
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs (#
-%0FlowerApp.Models.Flower"__id*J*H#
-!FlowerApp.Models.ShoppingCartItem"!
-FlowerFlowerApp.Models.Flower"r
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs (#
-
-%0FlowerApp.Models.FlowerB%#
-!FlowerApp.Models.ShoppingCartItem
+,FlowerApp.Models.AppDbContext.Categories.getK
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs ("0*ƒ
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (Î
+Ë
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*_*]
+FlowerApp.Models.AppDbContext":
+
+Categories,Microsoft.EntityFrameworkCore.DbSet<TEntity>"É
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
+FlowerApp.Models.AppDbContext

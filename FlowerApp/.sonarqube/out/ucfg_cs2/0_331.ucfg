@@ -1,18 +1,18 @@
 
-$FlowerApp.Models.Flower.ImageUrl.setE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& ()"0*Ý
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs* (*”
-‘
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& (*/
-FlowerApp.Models.Flower"
-ImageUrlstring"__id*
-
-valuestring"z
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& (*1*/
-FlowerApp.Models.Flower"
-ImageUrlstring:
-valuestringB
-FlowerApp.Models.Flower
+&FlowerApp.Models.Order.OrderPlaced.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM+ M(."0*ú
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM/ M(/§
+¤
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM+ M(/:
+FlowerApp.Models.Order"
+OrderPlacedSystem.DateTime"__id*
+
+valueSystem.DateTime"„
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM+ M(/<*:
+FlowerApp.Models.Order"
+OrderPlacedSystem.DateTime:
+valueSystem.DateTimeB
+FlowerApp.Models.Order

@@ -9,7 +9,7 @@ namespace FlowerApp.Components
         public IViewComponentResult Invoke()
         {
             //list of items for admin
-            var menuItems = new List<AdminMenuItem> { new AdminMenuItem()
+            var menuItems = new List<AdminMenuItem> { new AdminMenuItem
                 {
                     //Display and action value for user
                     DisplayValue = "User management",
@@ -18,14 +18,14 @@ namespace FlowerApp.Components
                 },
 
                 //Display and action value for role
-                 new AdminMenuItem()
+                 new AdminMenuItem
                 {
                     DisplayValue = "Role management",
                     ActionValue = "RoleManagement"
                 },
 
                  //Display and action value for flower
-                  new AdminMenuItem()
+                  new AdminMenuItem
                 {
                     DisplayValue = "Flower management",
                     ActionValue = "FlowerManagement"

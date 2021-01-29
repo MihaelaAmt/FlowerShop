@@ -67,7 +67,7 @@ KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cs
 II %
 
 RR) 1(
-RRA OWW> LXXB Pcc &
+RRA OWW< JXXB Pcc &
 WW XX< @
 XX [[ 
 

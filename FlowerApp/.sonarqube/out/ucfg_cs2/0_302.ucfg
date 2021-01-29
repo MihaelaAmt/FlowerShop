@@ -1,18 +1,16 @@
 
- FlowerApp.Models.Order.State.setD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs/# /(&"0*“
+"FlowerApp.Models.Order.OrderId.getD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs ( "0*©
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs/' /('è
-å
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs! (!à
+Ö
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs/# /('+
-FlowerApp.Models.Order"
-Statestring"__id*
-
-valuestring"u
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs (!	
+%0int"__id*,**
+FlowerApp.Models.Order"
+OrderIdint"S
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs/# /('-*+
-FlowerApp.Models.Order"
-Statestring:
-valuestringB
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs (!
+	
+%0intB
 FlowerApp.Models.Order

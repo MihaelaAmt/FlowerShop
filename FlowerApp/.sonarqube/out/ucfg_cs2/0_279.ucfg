@@ -1,18 +1,18 @@
 
-&FlowerApp.Models.OrderDetail.Order.setJ
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs* (-"0*¡
-0J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs. (.»
-¸
-J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs* (.A
-FlowerApp.Models.OrderDetail"
-OrderFlowerApp.Models.Order"__id*!
-
-valueFlowerApp.Models.Order"‘
-J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs* (.C*A
-FlowerApp.Models.OrderDetail"
-OrderFlowerApp.Models.Order:
-valueFlowerApp.Models.OrderB 
-FlowerApp.Models.OrderDetail
+$FlowerApp.Models.Flower.FlowerId.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# (&"0*Ô
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs' ('Ž
+‹
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# (',
+FlowerApp.Models.Flower"
+FlowerIdint"__id*
+
+valueint"w
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs# ('.*,
+FlowerApp.Models.Flower"
+FlowerIdint:
+valueintB
+FlowerApp.Models.Flower

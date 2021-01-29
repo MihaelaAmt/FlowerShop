@@ -1,4 +1,5 @@
-Å
-.FlowerApp.Migrations.AppDbContextModelSnapshot:Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshotobjectü
-6BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)eFlowerApp.Migrations.AppDbContextModelSnapshot.BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)i
-AppDbContextModelSnapshot()JFlowerApp.Migrations.AppDbContextModelSnapshot.AppDbContextModelSnapshot()
+õ
+*FlowerApp.Controllers.FlowerDataController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobjectß
+<FlowerDataController(FlowerApp.Repository.IFlowerRepository)gFlowerApp.Controllers.FlowerDataController.FlowerDataController(FlowerApp.Repository.IFlowerRepository)Q
+LoadMoreFlowers()<FlowerApp.Controllers.FlowerDataController.LoadMoreFlowers()ô
+5MapDbFlowerToFlowerViewModel(FlowerApp.Models.Flower)`FlowerApp.Controllers.FlowerDataController.MapDbFlowerToFlowerViewModel(FlowerApp.Models.Flower)

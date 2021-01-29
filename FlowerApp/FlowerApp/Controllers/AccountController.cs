@@ -84,7 +84,7 @@ namespace FlowerApp.Controllers
             if (ModelState.IsValid)
             {
                 //create username
-                var user = new ApplicationUser() { UserName = loginViewModel.UserName };
+                var user = new ApplicationUser { UserName = loginViewModel.UserName };
                 var result = await _userManager.CreateAsync(user, loginViewModel.Password);
 
                 //successful registration redirects us to the home page

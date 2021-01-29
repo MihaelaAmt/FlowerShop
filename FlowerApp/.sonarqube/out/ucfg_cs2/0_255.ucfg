@@ -1,39 +1,46 @@
 
-0FlowerApp.Controllers.AccountController.Logout()U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csj) j(/"2*–
-0U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csl n(3è
-å
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csl l( 8
-%02Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*s*q)
-'FlowerApp.Controllers.AccountController"D
-_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>åâ
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csl l(/!
-%1System.Threading.Tasks.Task"AMicrosoft.AspNetCore.Identity.SignInManager<TUser>.SignOutAsync()*:
-8
-%02Microsoft.AspNetCore.Identity.SignInManager<TUser>2SignOutAsync()øº
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csn n(45
-%2/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, string)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*	
-Index*
-Home2 RedirectToAction(string, string)"ê
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csn n(57
-5
-%2/Microsoft.AspNetCore.Mvc.RedirectToActionResult*»
-1U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cso	 o(	"l
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cso o(	
-implicit return*Œ
-2U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csj1 j(1m
-k
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csj) j(/
-%3"__entrypoint*
-0B+)
-'FlowerApp.Controllers.AccountController
+âFlowerApp.Controllers.FlowerController.FlowerController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs ("3*…
+1T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs	 (	i
+g
+
+%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
+#Microsoft.AspNetCore.Mvc.Controller*
+0*¯
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (4Ü
+É
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (0g(
+&FlowerApp.Controllers.FlowerController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepository"__id*<
+:
+flowerRepository&FlowerApp.Repository.IFlowerRepositoryé
+ã
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (4k(
+&FlowerApp.Controllers.FlowerController"?
+_categoryRepository(FlowerApp.Repository.ICategoryRepository"__id*@
+>
+categoryRepository(FlowerApp.Repository.ICategoryRepository*
+2*∆
+2T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs	 (	"k
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (	
+implicit return*Œ
+3T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk (kÌ
+Í
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (
+%1"__entrypoint*<
+:
+flowerRepository&FlowerApp.Repository.IFlowerRepository*@
+>
+categoryRepository(FlowerApp.Repository.ICategoryRepository*
+1::
+flowerRepository&FlowerApp.Repository.IFlowerRepository:>
+categoryRepository(FlowerApp.Repository.ICategoryRepositoryB*(
+&FlowerApp.Controllers.FlowerController

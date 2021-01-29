@@ -1,16 +1,18 @@
 
-(FlowerApp.Models.AppDbContext.Orders.getK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "("0*À
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "(ç
-ä
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "(2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*[*Y
-FlowerApp.Models.AppDbContext"6
-Orders,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ƒ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "(4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
-FlowerApp.Models.AppDbContext
+;FlowerApp.ViewModels.AddFlowerViewModel.LongDescription.setU
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs	- 	(0"0*¼
+0U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs	1 	(1»
+¸
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs	- 	(1F)
+'FlowerApp.ViewModels.AddFlowerViewModel"
+LongDescriptionstring"__id*
+
+valuestring"¡
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs	- 	(1H*F)
+'FlowerApp.ViewModels.AddFlowerViewModel"
+LongDescriptionstring:
+valuestringB+)
+'FlowerApp.ViewModels.AddFlowerViewModel

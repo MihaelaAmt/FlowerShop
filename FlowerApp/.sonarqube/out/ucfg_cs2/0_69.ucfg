@@ -1,18 +1,18 @@
 
-3FlowerApp.Models.ShoppingCart.ShoppingCartItems.setK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs? (B"0*â
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csC (Cá
-Þ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs? (CZ
-FlowerApp.Models.ShoppingCart"7
-ShoppingCartItems"System.Collections.Generic.List<T>"__id*-
-+
-value"System.Collections.Generic.List<T>"«
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs? (C\*Z
-FlowerApp.Models.ShoppingCart"7
-ShoppingCartItems"System.Collections.Generic.List<T>:+
-value"System.Collections.Generic.List<T>B!
-FlowerApp.Models.ShoppingCart
+4FlowerApp.Models.ShoppingCartItem.ShoppingCartId.setO
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs, (/"0*œ
+0O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs0 (0®
+«
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs, (0?#
+!FlowerApp.Models.ShoppingCartItem"
+ShoppingCartIdstring"__id*
+
+valuestring"”
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs, (0A*?#
+!FlowerApp.Models.ShoppingCartItem"
+ShoppingCartIdstring:
+valuestringB%#
+!FlowerApp.Models.ShoppingCartItem

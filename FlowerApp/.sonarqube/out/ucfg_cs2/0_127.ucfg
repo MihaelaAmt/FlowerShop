@@ -1,18 +1,16 @@
 
--FlowerApp.ViewModels.EditRoleViewModel.Id.setT
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditRoleViewModel.cs  (#"0*ù
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditRoleViewModel.cs$ ($¨
-©
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditRoleViewModel.cs  ($8(
-&FlowerApp.ViewModels.EditRoleViewModel"
-Idstring"__id*
-
-valuestring"í
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditRoleViewModel.cs  ($:*8(
-&FlowerApp.ViewModels.EditRoleViewModel"
-Idstring:
-valuestringB*(
-&FlowerApp.ViewModels.EditRoleViewModel
+5FlowerApp.ViewModels.FlowerDetailViewModel.Flower.getX
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerDetailViewModel.cs (""0*¥
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerDetailViewModel.cs# (#◊
+‘
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerDetailViewModel.cs (#
+%0FlowerApp.Models.Flower"__id*S*Q,
+*FlowerApp.ViewModels.FlowerDetailViewModel"!
+FlowerFlowerApp.Models.Flower"{
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerDetailViewModel.cs (#
+
+%0FlowerApp.Models.FlowerB.,
+*FlowerApp.ViewModels.FlowerDetailViewModel

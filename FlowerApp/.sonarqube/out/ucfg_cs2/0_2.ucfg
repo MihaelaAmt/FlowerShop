@@ -1,13 +1,13 @@
 
-0FlowerApp.Auth.ApplicationUser.ApplicationUser()L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs ( "0*±
-0L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs (y
-w
+*FlowerApp.Components.AdminMenu.AdminMenu()P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs ("0*²
+0P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs& &(r
+p
 
-%0void"9Microsoft.AspNetCore.Identity.IdentityUser.IdentityUser()*.,
-*Microsoft.AspNetCore.Identity.IdentityUser"c
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs (
+%0void"6Microsoft.AspNetCore.Mvc.ViewComponent.ViewComponent()**(
+&Microsoft.AspNetCore.Mvc.ViewComponent"g
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs &(
 implicit returnB" 
-FlowerApp.Auth.ApplicationUser
+FlowerApp.Components.AdminMenu

@@ -1,5 +1,8 @@
-ª
-FlowerApp.Startupobjectˆ
-9Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment)KFlowerApp.Startup.Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment)²
-NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)`FlowerApp.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)Ì
-šConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment, Microsoft.Extensions.Logging.ILoggerFactory)¬FlowerApp.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment, Microsoft.Extensions.Logging.ILoggerFactory)
+À
+#FlowerApp.TagHelpers.EmailTagHelper/Microsoft.AspNetCore.Razor.TagHelpers.TagHelperobject•
+vProcess(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput)šFlowerApp.TagHelpers.EmailTagHelper.Process(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput)H
+EmailTagHelper()4FlowerApp.TagHelpers.EmailTagHelper.EmailTagHelper()>
+Address.get/FlowerApp.TagHelpers.EmailTagHelper.Address.get>
+Address.set/FlowerApp.TagHelpers.EmailTagHelper.Address.set>
+Content.get/FlowerApp.TagHelpers.EmailTagHelper.Content.get>
+Content.set/FlowerApp.TagHelpers.EmailTagHelper.Content.set

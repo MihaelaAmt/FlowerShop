@@ -1,20 +1,16 @@
 
-&FlowerApp.Models.Flower.CategoryId.setE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% (("0*ÿ
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs) ()ê
-ç
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% ().
-FlowerApp.Models.Flower"
-
-CategoryIdint"__id*
-
-valueint"y
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% ()0*.
-FlowerApp.Models.Flower"
-
-CategoryIdint:
-valueintB
-FlowerApp.Models.Flower
+.FlowerApp.Models.OrderDetail.OrderDetailId.getJ
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs# (&"0*«
+0J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs' ('ö
+ó
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs# ('	
+%0int"__id*8*6
+FlowerApp.Models.OrderDetail"
+OrderDetailIdint"Y
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs# ('
+	
+%0intB 
+FlowerApp.Models.OrderDetail

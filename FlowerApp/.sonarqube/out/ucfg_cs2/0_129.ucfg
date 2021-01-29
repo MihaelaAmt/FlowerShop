@@ -1,16 +1,18 @@
 
-,FlowerApp.Auth.ApplicationUser.Birthdate.getL
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs	$ 	('"0*Ô
-0L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs	( 	((≤
-Ø
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs	$ 	((
-%0System.DateTime"__id*B*@ 
-FlowerApp.Auth.ApplicationUser"
-	BirthdateSystem.DateTime"g
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs	$ 	((
-
-%0System.DateTimeB" 
-FlowerApp.Auth.ApplicationUser
+-FlowerApp.ViewModels.EditUserViewModel.Id.setT
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	  	(#"0*ù
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	$ 	($¨
+©
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	  	($8(
+&FlowerApp.ViewModels.EditUserViewModel"
+Idstring"__id*
+
+valuestring"í
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	  	($:*8(
+&FlowerApp.ViewModels.EditUserViewModel"
+Idstring:
+valuestringB*(
+&FlowerApp.ViewModels.EditUserViewModel

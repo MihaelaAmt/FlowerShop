@@ -1,21 +1,7 @@
-ë
-'FlowerApp.ViewModels.AddFlowerViewModelobjectT
-AddFlowerViewModel()<FlowerApp.ViewModels.AddFlowerViewModel.AddFlowerViewModel()<
-Name.get0FlowerApp.ViewModels.AddFlowerViewModel.Name.get<
-Name.set0FlowerApp.ViewModels.AddFlowerViewModel.Name.setT
-ShortDescription.get<FlowerApp.ViewModels.AddFlowerViewModel.ShortDescription.getT
-ShortDescription.set<FlowerApp.ViewModels.AddFlowerViewModel.ShortDescription.setR
-LongDescription.get;FlowerApp.ViewModels.AddFlowerViewModel.LongDescription.getR
-LongDescription.set;FlowerApp.ViewModels.AddFlowerViewModel.LongDescription.set>
-	Price.get1FlowerApp.ViewModels.AddFlowerViewModel.Price.get>
-	Price.set1FlowerApp.ViewModels.AddFlowerViewModel.Price.setD
-ImageUrl.get4FlowerApp.ViewModels.AddFlowerViewModel.ImageUrl.getD
-ImageUrl.set4FlowerApp.ViewModels.AddFlowerViewModel.ImageUrl.setV
-ImageThumbnailUrl.get=FlowerApp.ViewModels.AddFlowerViewModel.ImageThumbnailUrl.getV
-ImageThumbnailUrl.set=FlowerApp.ViewModels.AddFlowerViewModel.ImageThumbnailUrl.set\
-IsFlowerPresentation.get@FlowerApp.ViewModels.AddFlowerViewModel.IsFlowerPresentation.get\
-IsFlowerPresentation.set@FlowerApp.ViewModels.AddFlowerViewModel.IsFlowerPresentation.setB
-InStock.get3FlowerApp.ViewModels.AddFlowerViewModel.InStock.getB
-InStock.set3FlowerApp.ViewModels.AddFlowerViewModel.InStock.setH
-CategoryId.get6FlowerApp.ViewModels.AddFlowerViewModel.CategoryId.getH
-CategoryId.set6FlowerApp.ViewModels.AddFlowerViewModel.CategoryId.set
+Ð
+%FlowerApp.Controllers.OrderController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobjectÔ
+UOrderController(FlowerApp.Repository.IOrderRepository, FlowerApp.Models.ShoppingCart){FlowerApp.Controllers.OrderController.OrderController(FlowerApp.Repository.IOrderRepository, FlowerApp.Models.ShoppingCart)>
+
+Checkout()0FlowerApp.Controllers.OrderController.Checkout()j
+ Checkout(FlowerApp.Models.Order)FFlowerApp.Controllers.OrderController.Checkout(FlowerApp.Models.Order)N
+CheckoutComplete()8FlowerApp.Controllers.OrderController.CheckoutComplete()

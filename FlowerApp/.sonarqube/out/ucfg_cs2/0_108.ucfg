@@ -1,18 +1,35 @@
 
-4FlowerApp.ViewModels.FlowerListViewModel.Flowers.setV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs2 (5"0*š
-0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs6 (6û
-ø
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs2 (6b*
-(FlowerApp.ViewModels.FlowerListViewModel"4
-Flowers)System.Collections.Generic.IEnumerable<T>"__id*4
+(FlowerApp.Program.BuildWebHost(string[])?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (+"0*ó
+0?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (-ë
+è
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (.2
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilder";Microsoft.AspNetCore.WebHost.CreateDefaultBuilder(string[])* "
+Microsoft.AspNetCore.WebHost*
+
+argsstring[]ã
+à
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (&2
+%1,Microsoft.AspNetCore.Hosting.IWebHostBuilder"xMicrosoft.AspNetCore.Hosting.WebHostBuilderExtensions.UseStartup<TStartup>(Microsoft.AspNetCore.Hosting.IWebHostBuilder)*9"7
+5Microsoft.AspNetCore.Hosting.WebHostBuilderExtensions*4
 2
-value)System.Collections.Generic.IEnumerable<T>"¾
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs2 (6d*b*
-(FlowerApp.ViewModels.FlowerListViewModel"4
-Flowers)System.Collections.Generic.IEnumerable<T>:2
-value)System.Collections.Generic.IEnumerable<T>B,*
-(FlowerApp.ViewModels.FlowerListViewModel
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilderæã
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (+
+%2%Microsoft.AspNetCore.Hosting.IWebHost"4Microsoft.AspNetCore.Hosting.IWebHostBuilder.Build()*4
+2
+%1,Microsoft.AspNetCore.Hosting.IWebHostBuilder2Build()"p
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (-
++
+%2%Microsoft.AspNetCore.Hosting.IWebHost*œ
+1?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs ("V
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (
+implicit return:
+argsstring[]B"
+FlowerApp.Program

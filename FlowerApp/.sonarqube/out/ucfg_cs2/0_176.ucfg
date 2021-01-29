@@ -1,18 +1,20 @@
 
-@FlowerApp.ViewModels.ClaimsManagementViewModel.AllClaimsList.set\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs	1 	(4"0*¯
-0\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs	5 	(5ÿ
-ü
-\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs	1 	(5g0
-.FlowerApp.ViewModels.ClaimsManagementViewModel"3
-AllClaimsList"System.Collections.Generic.List<T>"__id*-
-+
-value"System.Collections.Generic.List<T>"É
-\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs	1 	(5i*g0
-.FlowerApp.ViewModels.ClaimsManagementViewModel"3
-AllClaimsList"System.Collections.Generic.List<T>:+
-value"System.Collections.Generic.List<T>B20
-.FlowerApp.ViewModels.ClaimsManagementViewModel
+5FlowerApp.ViewModels.CategoryViewModel.CategoryId.setT
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs% (("0*¤
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs) ()®
+«
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs% ()=(
+&FlowerApp.ViewModels.CategoryViewModel"
+
+CategoryIdint"__id*
+
+valueint"—
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\CategoryViewModel.cs% ()?*=(
+&FlowerApp.ViewModels.CategoryViewModel"
+
+CategoryIdint:
+valueintB*(
+&FlowerApp.ViewModels.CategoryViewModel

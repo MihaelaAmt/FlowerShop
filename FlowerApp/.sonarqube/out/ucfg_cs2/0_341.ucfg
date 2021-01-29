@@ -1,18 +1,18 @@
 
-0FlowerApp.Models.Flower.IsFlowerPresentation.getE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (."0*½
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs/ (/™
-–
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (/
-
-%0bool"__id*;*9
-FlowerApp.Models.Flower"
-IsFlowerPresentationbool"U
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (/
-
-
-%0boolB
-FlowerApp.Models.Flower
+(FlowerApp.Models.OrderDetail.OrderId.setJ
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs" (%"0*ì
+0J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs& (&—
+”
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs" (&0
+FlowerApp.Models.OrderDetail"
+OrderIdint"__id*
+
+valueint"€
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs" (&2*0
+FlowerApp.Models.OrderDetail"
+OrderIdint:
+valueintB 
+FlowerApp.Models.OrderDetail

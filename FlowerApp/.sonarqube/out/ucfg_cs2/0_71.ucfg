@@ -1,18 +1,17 @@
 
-=FlowerApp.ViewModels.OrderHistoryDetailsViewModel.OrderId.set_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (%"0*Õ
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs& (&Á
-¾
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (&E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-OrderIdint"__id*
-
-valueint"ª
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (&G*E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-OrderIdint:
-valueintB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+(FlowerApp.Models.Category.CategoryId.getG
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs	 	("0*¸
+0G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs	 	(‘
+Ž
+G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs	 	(	
+%0int"__id*2*0
+FlowerApp.Models.Category"
+
+CategoryIdint"V
+G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs	 	(
+	
+%0intB
+FlowerApp.Models.Category

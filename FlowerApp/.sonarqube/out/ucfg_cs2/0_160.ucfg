@@ -1,18 +1,16 @@
 
-AFlowerApp.ViewModels.EditFlowerViewModel.IsFlowerPresentation.setV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs0 (3"0*Å
+>FlowerApp.ViewModels.EditFlowerViewModel.ImageThumbnailUrl.getV
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs* (-"0*„
 0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs4 (4¾
-»
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs. (.¼
+¹
 V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs0 (4J*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-IsFlowerPresentationbool"__id*
-
-valuebool"¦
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs* (.
+%0string"__id*K*I*
+(FlowerApp.ViewModels.EditFlowerViewModel"
+ImageThumbnailUrlstring"h
 V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs0 (4L*J*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-IsFlowerPresentationbool:
-valueboolB,*
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs* (.
+
+%0stringB,*
 (FlowerApp.ViewModels.EditFlowerViewModel

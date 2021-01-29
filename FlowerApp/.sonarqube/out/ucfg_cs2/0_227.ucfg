@@ -1,20 +1,60 @@
 
-6FlowerApp.ViewModels.AddFlowerViewModel.CategoryId.setU
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs% (("0*©
-0U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs) ()°
-­
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs% ()>)
-'FlowerApp.ViewModels.AddFlowerViewModel"
+KFlowerApp.Startup.Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment)?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs ("1*I
+1?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs	 (	*
+0*Ä
+0?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (:¼¹
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (;=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder"7Microsoft.Extensions.Configuration.ConfigurationBuilderá
+Þ
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs% (9
 
-CategoryIdint"__id*
+%1void"NMicrosoft.Extensions.Configuration.ConfigurationBuilder.ConfigurationBuilder()*?
+=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder÷ô
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs( (J
+%2string"DMicrosoft.AspNetCore.Hosting.IHostingEnvironment.ContentRootPath.get*H
+F
+hostingEnvironment0Microsoft.AspNetCore.Hosting.IHostingEnvironment2ContentRootPath.get¨
+¥
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (K>
+%38Microsoft.Extensions.Configuration.IConfigurationBuilder"ŒMicrosoft.Extensions.Configuration.FileConfigurationExtensions.SetBasePath(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
+>Microsoft.Extensions.Configuration.FileConfigurationExtensions*?
+=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder*
 
-valueint"™
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs% ()@*>)
-'FlowerApp.ViewModels.AddFlowerViewModel"
-
-CategoryIdint:
-valueintB+)
-'FlowerApp.ViewModels.AddFlowerViewModel
+%2string¯
+¬
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (;>
+%48Microsoft.Extensions.Configuration.IConfigurationBuilder"ŒMicrosoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
+>Microsoft.Extensions.Configuration.JsonConfigurationExtensions*@
+>
+%38Microsoft.Extensions.Configuration.IConfigurationBuilder*
+appsettings.jsonŽ‹
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (#;
+%55Microsoft.Extensions.Configuration.IConfigurationRoot"@Microsoft.Extensions.Configuration.IConfigurationBuilder.Build()*@
+>
+%48Microsoft.Extensions.Configuration.IConfigurationBuilder2Build()í
+ê
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (#b
+FlowerApp.Startup"K
+_configurationRoot5Microsoft.Extensions.Configuration.IConfigurationRoot"__id*=
+;
+%55Microsoft.Extensions.Configuration.IConfigurationRoot*
+2*œ
+2?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs	 (	"V
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (	
+implicit return:F
+hostingEnvironment0Microsoft.AspNetCore.Hosting.IHostingEnvironmentB
+FlowerApp.Startup

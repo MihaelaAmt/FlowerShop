@@ -1,18 +1,16 @@
 
-:FlowerApp.ViewModels.FlowerViewModel.ImageThumbnailUrl.setR
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs/ (2"0*±
-0R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs3 (3·
-´
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs/ (3E&
-$FlowerApp.ViewModels.FlowerViewModel"
-ImageThumbnailUrlstring"__id*
-
-valuestring"
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs/ (3G*E&
-$FlowerApp.ViewModels.FlowerViewModel"
-ImageThumbnailUrlstring:
-valuestringB(&
-$FlowerApp.ViewModels.FlowerViewModel
+1FlowerApp.ViewModels.LoginViewModel.ReturnUrl.getQ
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs" (%"0*è
+0Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs& (&ª
+§
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs" (&
+%0string"__id*>*<%
+#FlowerApp.ViewModels.LoginViewModel"
+	ReturnUrlstring"c
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs" (&
+
+%0stringB'%
+#FlowerApp.ViewModels.LoginViewModel

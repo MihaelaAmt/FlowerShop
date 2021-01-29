@@ -1,18 +1,20 @@
 
-!FlowerApp.Models.Flower.Price.setE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$ ('"0*⁄
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs( ((ì
-ê
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$ ((-
-FlowerApp.Models.Flower"
-Pricedecimal"__id*
+%FlowerApp.Models.Order.OrderTotal.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI) I(,"0*ﬂ
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI- I(-ñ
+ì
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI) I(-1
+FlowerApp.Models.Order"
+
+OrderTotaldecimal"__id*
 
-valuedecimal"x
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$ ((/*-
-FlowerApp.Models.Flower"
-Pricedecimal:
-valuedecimalB
-FlowerApp.Models.Flower
+valuedecimal"{
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI) I(-3*1
+FlowerApp.Models.Order"
+
+OrderTotaldecimal:
+valuedecimalB
+FlowerApp.Models.Order

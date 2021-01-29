@@ -1,19 +1,18 @@
 
-&FlowerApp.Models.Flower.IsFavorite.getE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs! ($"0*≥
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% (%è
-å
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs! (%
-
-%0bool"__id*1*/
-FlowerApp.Models.Flower"
-
-IsFavoritebool"U
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs! (%
-
-
-%0boolB
-FlowerApp.Models.Flower
+)FlowerApp.Models.OrderDetail.FlowerId.setJ
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs	# 	(&"0*Ó
+0J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs	' 	('ò
+ï
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs	# 	('1
+FlowerApp.Models.OrderDetail"
+FlowerIdint"__id*
+
+valueint"Å
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs	# 	('3*1
+FlowerApp.Models.OrderDetail"
+FlowerIdint:
+valueintB 
+FlowerApp.Models.OrderDetail

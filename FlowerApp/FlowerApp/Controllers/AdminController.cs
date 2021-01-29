@@ -57,7 +57,7 @@ namespace FlowerApp.Controllers
             if (!ModelState.IsValid)
                 return View(addUserViewModel);
 
-            var user = new ApplicationUser()
+            var user = new ApplicationUser
             {
                 UserName = addUserViewModel.UserName,
                 Email = addUserViewModel.Email,
@@ -87,7 +87,7 @@ namespace FlowerApp.Controllers
             if (user == null)
                 return RedirectToAction(UManagement, _userManager.Users);
             var claims = await _userManager.GetClaimsAsync(user);
-            var vm = new EditUserViewModel()
+            var vm = new EditUserViewModel
             {
                 Id = user.Id,
                 Email = user.Email,
@@ -355,7 +355,7 @@ namespace FlowerApp.Controllers
             if (!ModelState.IsValid)
                 return View(addFlowerViewModel);
 
-            var flower = new Flower()
+            var flower = new Flower
             {
                 Name = addFlowerViewModel.Name,
                 ShortDescription = addFlowerViewModel.ShortDescription,
@@ -446,7 +446,7 @@ namespace FlowerApp.Controllers
 
         private FlowerViewModel MapDbFlowerToFlowerViewModel(Flower dbFlower)
         {
-            return new FlowerViewModel()
+            return new FlowerViewModel
             {
                 FlowerId = dbFlower.FlowerId,
                 Name = dbFlower.Name,

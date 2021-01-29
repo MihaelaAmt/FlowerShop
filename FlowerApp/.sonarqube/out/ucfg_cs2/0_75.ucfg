@@ -1,16 +1,18 @@
 
->FlowerApp.ViewModels.OrderHistoryDetailsViewModel.LastName.get_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs! ($"0*Ÿ
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs% (%Å
-Â
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs! (%
-%0string"__id*K*I3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-LastNamestring"q
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs! (%
-
-%0stringB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+;FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.setX
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs0 (3"0*Š
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs4 (4ì
+é
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs0 (4],
+*FlowerApp.ViewModels.ShoppingCartViewModel"-
+ShoppingCartFlowerApp.Models.ShoppingCart"__id*(
+&
+valueFlowerApp.Models.ShoppingCart"»
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs0 (4_*],
+*FlowerApp.ViewModels.ShoppingCartViewModel"-
+ShoppingCartFlowerApp.Models.ShoppingCart:&
+valueFlowerApp.Models.ShoppingCartB.,
+*FlowerApp.ViewModels.ShoppingCartViewModel

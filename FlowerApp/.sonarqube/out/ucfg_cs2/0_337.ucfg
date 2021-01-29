@@ -1,17 +1,18 @@
 
-&FlowerApp.Models.Flower.CategoryId.getE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs  (#"0*∞
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$ ($ç
-ä
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs  ($	
-%0int"__id*0*.
-FlowerApp.Models.Flower"
-
-CategoryIdint"T
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs  ($
-	
-%0intB
-FlowerApp.Models.Flower
+'FlowerApp.Models.Order.SecurityCode.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csW* W(-"0*‡
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csW. W(.ñ
+ì
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csW* W(.2
+FlowerApp.Models.Order"
+SecurityCodestring"__id*
+
+valuestring"|
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csW* W(.4*2
+FlowerApp.Models.Order"
+SecurityCodestring:
+valuestringB
+FlowerApp.Models.Order
