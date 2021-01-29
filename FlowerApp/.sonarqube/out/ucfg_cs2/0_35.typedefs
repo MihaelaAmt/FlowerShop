@@ -1,11 +1,12 @@
-ù
-.FlowerApp.ViewModels.ClaimsManagementViewModelobjecti
-ClaimsManagementViewModel()JFlowerApp.ViewModels.ClaimsManagementViewModel.ClaimsManagementViewModel()G
+¡	
+&FlowerApp.Controllers.FlowerController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobjectð
+bFlowerController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)‰FlowerApp.Controllers.FlowerController.FlowerController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)à
+ZList(string, decimal, decimal, string, FlowerApp.Controllers.FlowerController.FlowerStock)FlowerApp.Controllers.FlowerController.List(string, decimal, decimal, string, FlowerApp.Controllers.FlowerController.FlowerStock)?
 
-UserId.get9FlowerApp.ViewModels.ClaimsManagementViewModel.UserId.getG
-
-UserId.set9FlowerApp.ViewModels.ClaimsManagementViewModel.UserId.setI
-ClaimId.get:FlowerApp.ViewModels.ClaimsManagementViewModel.ClaimId.getI
-ClaimId.set:FlowerApp.ViewModels.ClaimsManagementViewModel.ClaimId.setU
-AllClaimsList.get@FlowerApp.ViewModels.ClaimsManagementViewModel.AllClaimsList.getU
-AllClaimsList.set@FlowerApp.ViewModels.ClaimsManagementViewModel.AllClaimsList.set
+Favorite()1FlowerApp.Controllers.FlowerController.Favorite()O
+AddToFavorite(int)9FlowerApp.Controllers.FlowerController.AddToFavorite(int)Y
+RemoveFromFavorite(int)>FlowerApp.Controllers.FlowerController.RemoveFromFavorite(int){
+(Search(string, decimal, decimal, string)OFlowerApp.Controllers.FlowerController.Search(string, decimal, decimal, string)S
+AutocompleteSearch();FlowerApp.Controllers.FlowerController.AutocompleteSearch()G
+FlowersNames()5FlowerApp.Controllers.FlowerController.FlowersNames()C
+Details(int)3FlowerApp.Controllers.FlowerController.Details(int)

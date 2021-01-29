@@ -1,23 +1,18 @@
 
-PFlowerApp.Repository.ModelFlowerRepository.DeleteFlower(FlowerApp.Models.Flower)X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csG G( "0*Ö
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csI I(/£ 
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csI I(/$
-%0System.NotImplementedException"System.NotImplementedExceptionË
-È
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csI I(-
-
-%1void"8System.NotImplementedException.NotImplementedException()*&
-$
-%0System.NotImplementedException*
-1*Î
-1X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csJ	 J(	"o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csJ J(	
-implicit return:!
-flowerFlowerApp.Models.FlowerB.,
-*FlowerApp.Repository.ModelFlowerRepository
+*FlowerApp.Models.Category.CategoryName.setG
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs ("0*ð
+0G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (œ
+™
+G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (5
+FlowerApp.Models.Category"
+CategoryNamestring"__id*
+
+valuestring"‚
+G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (7*5
+FlowerApp.Models.Category"
+CategoryNamestring:
+valuestringB
+FlowerApp.Models.Category

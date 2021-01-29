@@ -1,16 +1,35 @@
 
-)FlowerApp.Models.Order.ShippingMethod.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs' (*"0*¹
-0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs+ (+•
-’
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs' (+
-%0string"__id*6*4
-FlowerApp.Models.Order"
-ShippingMethodstring"V
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs' (+
-
-%0stringB
-FlowerApp.Models.Order
+(FlowerApp.Program.BuildWebHost(string[])?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (+"0*ó
+0?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (-ë
+è
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (.2
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilder";Microsoft.AspNetCore.WebHost.CreateDefaultBuilder(string[])* "
+Microsoft.AspNetCore.WebHost*
+
+argsstring[]ã
+à
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (&2
+%1,Microsoft.AspNetCore.Hosting.IWebHostBuilder"xMicrosoft.AspNetCore.Hosting.WebHostBuilderExtensions.UseStartup<TStartup>(Microsoft.AspNetCore.Hosting.IWebHostBuilder)*9"7
+5Microsoft.AspNetCore.Hosting.WebHostBuilderExtensions*4
+2
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilderæã
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (+
+%2%Microsoft.AspNetCore.Hosting.IWebHost"4Microsoft.AspNetCore.Hosting.IWebHostBuilder.Build()*4
+2
+%1,Microsoft.AspNetCore.Hosting.IWebHostBuilder2Build()"p
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (-
++
+%2%Microsoft.AspNetCore.Hosting.IWebHost*œ
+1?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs ("V
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (
+implicit return:
+argsstring[]B"
+FlowerApp.Program

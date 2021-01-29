@@ -1,18 +1,16 @@
 
-4FlowerApp.ViewModels.EditFlowerViewModel.InStock.setV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs# (&"0*«
-0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs' ('±
-®
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs# ('=*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-InStockbool"__id*
-
-valuebool"™
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs# ('?*=*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-InStockbool:
-valueboolB,*
-(FlowerApp.ViewModels.EditFlowerViewModel
+9FlowerApp.ViewModels.ClaimsManagementViewModel.UserId.get\
+RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs (""0*‘
+0\
+RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs# (#½
+º
+\
+RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs (#
+%0string"__id*F*D0
+.FlowerApp.ViewModels.ClaimsManagementViewModel"
+UserIdstring"n
+\
+RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs (#
+
+%0stringB20
+.FlowerApp.ViewModels.ClaimsManagementViewModel

@@ -1,17 +1,20 @@
 
-%FlowerApp.Models.Order.CardNumber.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT# T(&"0*µ
-0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT' T('ë
-é
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT# T('
-%0string"__id*2*0
-FlowerApp.Models.Order"
+&FlowerApp.Models.Flower.IsFavorite.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& ()"0*€
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs* (*í
+è
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& (*/
+FlowerApp.Models.Flower"
 
-CardNumberstring"V
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT# T('
-
-%0stringB
-FlowerApp.Models.Order
+IsFavoritebool"__id*
+
+valuebool"z
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& (*1*/
+FlowerApp.Models.Flower"
+
+IsFavoritebool:
+valueboolB
+FlowerApp.Models.Flower

@@ -1,18 +1,20 @@
 
-'FlowerApp.Models.Order.AddressLine1.setD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs *  (-"0*à
+%FlowerApp.Models.Order.CardNumber.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT( T(+"0*Ü
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs .  (.–
-“
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT, T(,”
+‘
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs *  (.2
-FlowerApp.Models.Order"
-AddressLine1string"__id*
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT( T(,0
+FlowerApp.Models.Order"
+
+CardNumberstring"__id*
 
-valuestring"|
+valuestring"z
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs *  (.4*2
-FlowerApp.Models.Order"
-AddressLine1string:
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT( T(,2*0
+FlowerApp.Models.Order"
+
+CardNumberstring:
 valuestringB
 FlowerApp.Models.Order

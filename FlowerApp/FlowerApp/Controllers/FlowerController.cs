@@ -49,9 +49,13 @@ namespace FlowerApp.Controllers
             if (!string.IsNullOrEmpty(sorting))
             {
                 if (sorting.Equals("ascending", StringComparison.OrdinalIgnoreCase))
+                {
                     flowers = flowers.OrderBy(p => p.Price);
+                }
                 else if (sorting.Equals("descending", StringComparison.OrdinalIgnoreCase))
+                {
                     flowers = flowers.OrderByDescending(p => p.Price);
+                }
             }
 
             switch (availability)
@@ -120,14 +124,22 @@ namespace FlowerApp.Controllers
             if (lowPrice != 0)
             {
                 if (highPrice != 0)
+                {
                     return flowers.Where(x => x.Price >= lowPrice && x.Price <= highPrice).OrderBy(p => p.FlowerId);
+                }
                 else
+                {
                     return flowers.Where(x => x.Price >= lowPrice).OrderBy(p => p.FlowerId);
+                }
             }
             else if (highPrice != 0)
+            {
                 return flowers.Where(x => x.Price <= highPrice).OrderBy(p => p.FlowerId);
+            }
             else
+            {
                 return flowers;
+            }
         }
 
         public enum FlowerStock
@@ -154,9 +166,13 @@ namespace FlowerApp.Controllers
             if (!string.IsNullOrEmpty(sorting))
             {
                 if (sorting.Equals("ascending", StringComparison.OrdinalIgnoreCase))
+                {
                     flowers = flowers.OrderBy(p => p.Price);
+                }
                 else if (sorting.Equals("descending", StringComparison.OrdinalIgnoreCase))
+                {
                     flowers = flowers.OrderByDescending(p => p.Price);
+                }
             }
 
 
@@ -194,7 +210,9 @@ namespace FlowerApp.Controllers
             var flower = _flowerRepository.GetFlowerById(id);
 
             if (flower == null)
+            {
                 return NotFound();
+            }
 
             return View(new FlowerDetailViewModel
             {

@@ -1,17 +1,18 @@
 
-%FlowerApp.Models.Order.OrderLines.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs. (1"0*‰
+&FlowerApp.Models.Order.OrderPlaced.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM+ M(."0*ú
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs2 (2É
-Æ
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM/ M(/§
+¤
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs. (2(
-%0"System.Collections.Generic.List<T>"__id*N*L
-FlowerApp.Models.Order"0
-
-OrderLines"System.Collections.Generic.List<T>"r
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM+ M(/:
+FlowerApp.Models.Order"
+OrderPlacedSystem.DateTime"__id*
+
+valueSystem.DateTime"„
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs. (2*
-(
-%0"System.Collections.Generic.List<T>B
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM+ M(/<*:
+FlowerApp.Models.Order"
+OrderPlacedSystem.DateTime:
+valueSystem.DateTimeB
 FlowerApp.Models.Order

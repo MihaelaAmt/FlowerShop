@@ -1,18 +1,18 @@
 
-:FlowerApp.ViewModels.FlowerViewModel.ImageThumbnailUrl.setR
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs/ (2"0*±
-0R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs3 (3∑
-¥
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs/ (3E&
-$FlowerApp.ViewModels.FlowerViewModel"
-ImageThumbnailUrlstring"__id*
-
-valuestring"ù
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerViewModel.cs/ (3G*E&
-$FlowerApp.ViewModels.FlowerViewModel"
-ImageThumbnailUrlstring:
-valuestringB(&
-$FlowerApp.ViewModels.FlowerViewModel
+4FlowerApp.ViewModels.FlowerListViewModel.Flowers.setV
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs2 (5"0*ö
+0V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs6 (6˚
+¯
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs2 (6b*
+(FlowerApp.ViewModels.FlowerListViewModel"4
+Flowers)System.Collections.Generic.IEnumerable<T>"__id*4
+2
+value)System.Collections.Generic.IEnumerable<T>"æ
+V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\FlowerListViewModel.cs2 (6d*b*
+(FlowerApp.ViewModels.FlowerListViewModel"4
+Flowers)System.Collections.Generic.IEnumerable<T>:2
+value)System.Collections.Generic.IEnumerable<T>B,*
+(FlowerApp.ViewModels.FlowerListViewModel

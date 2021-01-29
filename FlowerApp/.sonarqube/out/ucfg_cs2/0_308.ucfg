@@ -1,18 +1,18 @@
 
-$FlowerApp.Models.Order.FirstName.setD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs' (*"0*⁄
+$FlowerApp.Models.Order.PayMethod.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ' Q(*"0*⁄
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs+ (+ì
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ+ Q(+ì
 ê
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs' (+/
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ' Q(+/
 FlowerApp.Models.Order"
-	FirstNamestring"__id*
+	PayMethodstring"__id*
 
 valuestring"y
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs' (+1*/
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ' Q(+1*/
 FlowerApp.Models.Order"
-	FirstNamestring:
+	PayMethodstring:
 valuestringB
 FlowerApp.Models.Order

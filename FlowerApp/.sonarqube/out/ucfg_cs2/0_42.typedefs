@@ -1,12 +1,9 @@
-¡	
-&FlowerApp.Controllers.FlowerController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobjectð
-bFlowerController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)‰FlowerApp.Controllers.FlowerController.FlowerController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)à
-ZList(string, decimal, decimal, string, FlowerApp.Controllers.FlowerController.FlowerStock)FlowerApp.Controllers.FlowerController.List(string, decimal, decimal, string, FlowerApp.Controllers.FlowerController.FlowerStock)?
-
-Favorite()1FlowerApp.Controllers.FlowerController.Favorite()O
-AddToFavorite(int)9FlowerApp.Controllers.FlowerController.AddToFavorite(int)Y
-RemoveFromFavorite(int)>FlowerApp.Controllers.FlowerController.RemoveFromFavorite(int){
-(Search(string, decimal, decimal, string)OFlowerApp.Controllers.FlowerController.Search(string, decimal, decimal, string)S
-AutocompleteSearch();FlowerApp.Controllers.FlowerController.AutocompleteSearch()G
-FlowersNames()5FlowerApp.Controllers.FlowerController.FlowersNames()C
-Details(int)3FlowerApp.Controllers.FlowerController.Details(int)
+ý
+&FlowerApp.ViewModels.EditRoleViewModelobjectQ
+EditRoleViewModel():FlowerApp.ViewModels.EditRoleViewModel.EditRoleViewModel()7
+Id.get-FlowerApp.ViewModels.EditRoleViewModel.Id.get7
+Id.set-FlowerApp.ViewModels.EditRoleViewModel.Id.setC
+RoleName.get3FlowerApp.ViewModels.EditRoleViewModel.RoleName.getC
+RoleName.set3FlowerApp.ViewModels.EditRoleViewModel.RoleName.set=
+	Users.get0FlowerApp.ViewModels.EditRoleViewModel.Users.get=
+	Users.set0FlowerApp.ViewModels.EditRoleViewModel.Users.set

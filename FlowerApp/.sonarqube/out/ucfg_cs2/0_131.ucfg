@@ -1,18 +1,17 @@
 
-3FlowerApp.ViewModels.EditUserViewModel.UserName.setT
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs& ()"0*©
+5FlowerApp.ViewModels.EditUserViewModel.UserClaims.getT
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs) (,"0*Ê
 0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs* (*²
-¯
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs- (-é
+æ
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs& (*>(
-&FlowerApp.ViewModels.EditUserViewModel"
-UserNamestring"__id*
-
-valuestring"˜
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs) (-(
+%0"System.Collections.Generic.List<T>"__id*^*\(
+&FlowerApp.ViewModels.EditUserViewModel"0
+
+UserClaims"System.Collections.Generic.List<T>"‚
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs& (*@*>(
-&FlowerApp.ViewModels.EditUserViewModel"
-UserNamestring:
-valuestringB*(
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs) (-*
+(
+%0"System.Collections.Generic.List<T>B*(
 &FlowerApp.ViewModels.EditUserViewModel

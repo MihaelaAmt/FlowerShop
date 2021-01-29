@@ -1,16 +1,18 @@
 
--FlowerApp.Models.Flower.ImageThumbnailUrl.getE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs* (-"0*À
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs. (.š
-—
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs* (.
-%0string"__id*:*8
-FlowerApp.Models.Flower"
-ImageThumbnailUrlstring"W
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs* (.
-
-%0stringB
-FlowerApp.Models.Flower
+FlowerApp.Models.Order.City.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs," ,(%"0*Ð
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs,& ,(&Ž
+‹
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs," ,(&*
+FlowerApp.Models.Order"
+Citystring"__id*
+
+valuestring"t
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs," ,(&,**
+FlowerApp.Models.Order"
+Citystring:
+valuestringB
+FlowerApp.Models.Order

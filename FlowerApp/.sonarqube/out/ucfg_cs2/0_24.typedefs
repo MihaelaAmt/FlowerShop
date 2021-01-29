@@ -1,6 +1,6 @@
-ð
-/FlowerApp.Migrations.ShippingAndPaymentMethods12Microsoft.EntityFrameworkCore.Migrations.Migrationobject®
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)mFlowerApp.Migrations.ShippingAndPaymentMethods1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)²
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)oFlowerApp.Migrations.ShippingAndPaymentMethods1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¬
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)lFlowerApp.Migrations.ShippingAndPaymentMethods1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)l
-ShippingAndPaymentMethods1()LFlowerApp.Migrations.ShippingAndPaymentMethods1.ShippingAndPaymentMethods1()
+é
+.FlowerApp.Migrations.ShippingAndPaymentMethods2Microsoft.EntityFrameworkCore.Migrations.Migrationobject­
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)lFlowerApp.Migrations.ShippingAndPaymentMethods.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)±
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)nFlowerApp.Migrations.ShippingAndPaymentMethods.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)«
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)kFlowerApp.Migrations.ShippingAndPaymentMethods.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)i
+ShippingAndPaymentMethods()JFlowerApp.Migrations.ShippingAndPaymentMethods.ShippingAndPaymentMethods()

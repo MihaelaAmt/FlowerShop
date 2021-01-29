@@ -1,18 +1,20 @@
 
- FlowerApp.Models.Order.Email.setD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csE# E(&"0*“
-0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csE' E('è
-å
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csE# E('+
-FlowerApp.Models.Order"
-Emailstring"__id*
-
-valuestring"u
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csE# E('-*+
-FlowerApp.Models.Order"
-Emailstring:
-valuestringB
-FlowerApp.Models.Order
+&FlowerApp.Models.Flower.CategoryId.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% (("0*ÿ
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs) ()ê
+ç
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% ().
+FlowerApp.Models.Flower"
+
+CategoryIdint"__id*
+
+valueint"y
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% ()0*.
+FlowerApp.Models.Flower"
+
+CategoryIdint:
+valueintB
+FlowerApp.Models.Flower

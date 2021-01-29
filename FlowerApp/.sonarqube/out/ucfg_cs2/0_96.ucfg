@@ -1,24 +1,26 @@
 
-DFlowerApp.ViewModels.OrderHistoryDetailsViewModel.ShippingMethod.get_
+DFlowerApp.ViewModels.OrderHistoryDetailsViewModel.ShippingMethod.set_
 UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
-' 
-(*"0*¥
+, 
+(/"0*ì
 0_
 UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
-+ 
-(+Ë
-È
+0 
+(0Î
+Ë
 _
 UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
-' 
-(+
-%0string"__id*Q*O3
+, 
+(0O3
 1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-ShippingMethodstring"q
+ShippingMethodstring"__id*
+
+valuestring"´
 _
 UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
-' 
-(+
-
-%0stringB53
+, 
+(0Q*O3
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
+ShippingMethodstring:
+valuestringB53
 1FlowerApp.ViewModels.OrderHistoryDetailsViewModel

@@ -1,16 +1,69 @@
 
-2FlowerApp.Components.AdminMenuItem.ActionValue.getP
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs/$ /('"0*æ
-0P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs/( /((ª
-§
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs/$ /((
-%0string"__id*?*=$
-"FlowerApp.Components.AdminMenuItem"
-ActionValuestring"b
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs/$ /((
-
-%0stringB&$
-"FlowerApp.Components.AdminMenuItem
+)FlowerApp.Models.ShoppingCart.ClearCart()K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cso o("0*À
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csq w('Ð
+Í
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csq q()#
+%0FlowerApp.Models.AppDbContext"__id*S*Q
+FlowerApp.Models.ShoppingCart".
+_appDbContextFlowerApp.Models.AppDbContextà
+Ý
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csq r("2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"3FlowerApp.Models.AppDbContext.ShoppingCartItems.get*%
+#
+%0FlowerApp.Models.AppDbContextÒ
+Ï
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csq s(E
+%2System.Linq.IQueryable<T>"…System.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""¡
+ž
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csq s(E&
+	cartItemsSystem.Linq.IQueryable<T>"__id*!
+
+%2System.Linq.IQueryable<T>Ð
+Í
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csu u(#
+%3FlowerApp.Models.AppDbContext"__id*S*Q
+FlowerApp.Models.ShoppingCart".
+_appDbContextFlowerApp.Models.AppDbContextà
+Ý
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csu u(+2
+%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>"3FlowerApp.Models.AppDbContext.ShoppingCartItems.get*%
+#
+%3FlowerApp.Models.AppDbContextåâ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csu u(B
+
+%5void"iMicrosoft.EntityFrameworkCore.DbSet<TEntity>.RemoveRange(System.Collections.Generic.IEnumerable<TEntity>)*4
+2
+%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>*(
+&
+	cartItemsSystem.Linq.IQueryable<T>2<RemoveRange(System.Collections.Generic.IEnumerable<TEntity>)Ð
+Í
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csw w(#
+%6FlowerApp.Models.AppDbContext"__id*S*Q
+FlowerApp.Models.ShoppingCart".
+_appDbContextFlowerApp.Models.AppDbContextÈÅ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csw w('	
+%7int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*%
+#
+%6FlowerApp.Models.AppDbContext2SaveChanges()*
+1*´
+1K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csx	 x(	"b
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csx x(	
+implicit returnB!
+FlowerApp.Models.ShoppingCart

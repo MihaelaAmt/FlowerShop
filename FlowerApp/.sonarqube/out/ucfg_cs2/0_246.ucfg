@@ -1,95 +1,110 @@
 
-`FlowerApp.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (%"0*∑*
-0?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs 4(!ß
-§
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (~A
-%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"·Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)*W"U
-SMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+mFlowerApp.Migrations.ShippingAndPaymentMethods1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs  (""0*ô
+0l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs
+  (!Ö
+Ç
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs (
+%0"__id*
+""ˇ¸
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs
+ (!d
+%1^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"ÌMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+ZipCode*
+
+%0*
+""*
+""*2
+*
 ""*
 ""*
-""Ç
-ˇ
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! ((3
-%1-Microsoft.AspNetCore.Identity.IdentityBuilder"·Microsoft.Extensions.DependencyInjection.IdentityServiceCollectionExtensions.AddIdentity<TUser, TRole>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Identity.IdentityOptions>)*P"N
-LMicrosoft.Extensions.DependencyInjection.IdentityServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""≠
-™
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! )(93
-%2-Microsoft.AspNetCore.Identity.IdentityBuilder"£Microsoft.Extensions.DependencyInjection.IdentityEntityFrameworkBuilderExtensions.AddEntityFrameworkStores<TContext>(Microsoft.AspNetCore.Identity.IdentityBuilder)*U"S
-QMicrosoft.Extensions.DependencyInjection.IdentityEntityFrameworkBuilderExtensions*5
-3
-%1-Microsoft.AspNetCore.Identity.IdentityBuilder÷
-”
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs+ +(LA
-%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"∞Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection÷
-”
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs, ,(HA
-%4;Microsoft.Extensions.DependencyInjection.IServiceCollection"∞Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection÷
-”
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs- -(NA
-%5;Microsoft.Extensions.DependencyInjection.IServiceCollection"∞Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection˙
-˜
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs. .(LA
-%6;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÃMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Func<System.IServiceProvider, TService>)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""÷
-”
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs/ /(FA
-%7;Microsoft.Extensions.DependencyInjection.IServiceCollection"∞Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection¶
-£
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs1 1(:
-%84Microsoft.Extensions.DependencyInjection.IMvcBuilder"ãMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddMvc(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
-GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection≈
-¬
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs3 3(%A
-%9;Microsoft.Extensions.DependencyInjection.IServiceCollection"õMicrosoft.Extensions.DependencyInjection.MemoryCacheServiceCollectionExtensions.AddMemoryCache(Microsoft.Extensions.DependencyInjection.IServiceCollection)*S"Q
-OMicrosoft.Extensions.DependencyInjection.MemoryCacheServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection∫
-∑
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs4 4(!B
-%10;Microsoft.Extensions.DependencyInjection.IServiceCollection"ìMicrosoft.Extensions.DependencyInjection.SessionServiceCollectionExtensions.AddSession(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.SessionServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-1*ú
-1?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs5	 5(	"V
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs5 5(	
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
-FlowerApp.Startup
+""*
+""*
+""*
+""*
+""*
+""*
+""*2
+*
+""*
+""*
+""*
+""*
+""*
+""*
+""2≥AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)Ö
+Ç
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs (
+%2"__id*
+""ˇ¸
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs (!d
+%3^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"ÌMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+Country*
+
+%2*
+""*
+""*22*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*22*
+""*
+""*
+""*
+""*
+""*
+""*
+""2≥AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)Ö
+Ç
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs (
+%4"__id*
+""ÑÅ
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs  ("d
+%5^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"ÌMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AddressLine1*
+
+%4*
+""*
+""*2d*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*2d*
+""*
+""*
+""*
+""*
+""*
+""*
+""2≥AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*
+1*˜
+1l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs!	 !(	"É
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs! !(	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB31
+/FlowerApp.Migrations.ShippingAndPaymentMethods1

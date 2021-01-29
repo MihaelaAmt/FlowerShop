@@ -1,16 +1,18 @@
 
-3FlowerApp.ViewModels.AddUserViewModel.Birthdate.getS
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs $  ('"0*‹
+3FlowerApp.ViewModels.AddUserViewModel.Birthdate.setS
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs )  (,"0*Á
 0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs (  ((À
-½
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs -  (-Ã
+À
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs $  ((
-%0System.DateTime"__id*I*G'
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs )  (-G'
 %FlowerApp.ViewModels.AddUserViewModel"
-	BirthdateSystem.DateTime"n
+	BirthdateSystem.DateTime"__id*
+
+valueSystem.DateTime" 
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs $  ((
-
-%0System.DateTimeB)'
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs )  (-I*G'
+%FlowerApp.ViewModels.AddUserViewModel"
+	BirthdateSystem.DateTime:
+valueSystem.DateTimeB)'
 %FlowerApp.ViewModels.AddUserViewModel

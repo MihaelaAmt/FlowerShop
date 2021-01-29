@@ -1,18 +1,23 @@
 
-(FlowerApp.Models.AppDbContext.Orders.setK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs# #("0*ê
+IFlowerApp.Models.ShoppingCart.ShoppingCart(FlowerApp.Models.AppDbContext)K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs ("1*U
+1K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs	 (	*
+0*²
 0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs# #(ê
-ç
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs ((Ú
+×
 K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs# #(Y
-FlowerApp.Models.AppDbContext"6
-Orders,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
-5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ª
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs ((Q
+FlowerApp.Models.ShoppingCart".
+_appDbContextFlowerApp.Models.AppDbContext"__id*/
+-
+appDbContextFlowerApp.Models.AppDbContext*
+2*´
+2K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs	 (	"b
 K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs# #([*Y
-FlowerApp.Models.AppDbContext"6
-Orders,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
-FlowerApp.Models.AppDbContext
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (	
+implicit return:-
+appDbContextFlowerApp.Models.AppDbContextB!
+FlowerApp.Models.ShoppingCart

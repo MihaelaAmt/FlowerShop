@@ -1,69 +1,103 @@
 
-)FlowerApp.Models.ShoppingCart.ClearCart()K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csm m("0*¿
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cso u('–
-Õ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cso o()#
-%0FlowerApp.Models.AppDbContext"__id*S*Q
-FlowerApp.Models.ShoppingCart".
-_appDbContextFlowerApp.Models.AppDbContext‡
-›
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cso p("2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"3FlowerApp.Models.AppDbContext.ShoppingCartItems.get*%
-#
-%0FlowerApp.Models.AppDbContext“
-œ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cso q(E
-%2System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""°
-û
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cso q(E&
-	cartItemsSystem.Linq.IQueryable<T>"__id*!
-
-%2System.Linq.IQueryable<T>–
-Õ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.css s(#
-%3FlowerApp.Models.AppDbContext"__id*S*Q
-FlowerApp.Models.ShoppingCart".
-_appDbContextFlowerApp.Models.AppDbContext‡
-›
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.css s(+2
-%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>"3FlowerApp.Models.AppDbContext.ShoppingCartItems.get*%
-#
-%3FlowerApp.Models.AppDbContextÂ‚
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.css s(B
+9FlowerApp.Controllers.FlowerController.AddToFavorite(int)T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs` `()"4*»
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb d(¯
+ı
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb b(*,
+%0&FlowerApp.Repository.IFlowerRepository"__id*i*g(
+&FlowerApp.Controllers.FlowerController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepository˚¯
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb b(2/
+%1)System.Collections.Generic.IEnumerable<T>"2FlowerApp.Repository.IFlowerRepository.Flowers.get*.
+,
+%0&FlowerApp.Repository.IFlowerRepository2Flowers.get’
+“
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb b(U/
+%2)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*1
+/
+%1)System.Collections.Generic.IEnumerable<T>*
+""®
+•
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb b(f
+%3FlowerApp.Models.Flower"_System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%2)System.Collections.Generic.IEnumerable<T>£
+†
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb b(f!
+flowerFlowerApp.Models.Flower"__id*
+
+%3FlowerApp.Models.Flower¬
+ø
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csd d(
 
-%5void"iMicrosoft.EntityFrameworkCore.DbSet<TEntity>.RemoveRange(System.Collections.Generic.IEnumerable<TEntity>)*4
-2
-%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>*(
-&
-	cartItemsSystem.Linq.IQueryable<T>2<RemoveRange(System.Collections.Generic.IEnumerable<TEntity>)–
-Õ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csu u(#
-%6FlowerApp.Models.AppDbContext"__id*S*Q
-FlowerApp.Models.ShoppingCart".
-_appDbContextFlowerApp.Models.AppDbContext»≈
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csu u('	
-%7int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*%
-#
-%6FlowerApp.Models.AppDbContext2SaveChanges()*
-1*¥
-1K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csv	 v(	"b
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csv v(	
-implicit returnB!
-FlowerApp.Models.ShoppingCart
+%4bool""object.operator !=(object, object)*
+"
+object*#
+!
+flowerFlowerApp.Models.Flower*
+""*
+1
+2*»
+1T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csf g(5∫
+∑
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csf f((
+
+%5bool"&FlowerApp.Models.Flower.IsFavorite.set*#
+!
+flowerFlowerApp.Models.Flower*
+""¯
+ı
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csg g(!,
+%6&FlowerApp.Repository.IFlowerRepository"__id*i*g(
+&FlowerApp.Controllers.FlowerController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepositoryØ¨
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csg g(6
+
+%7bool"LFlowerApp.Repository.IFlowerRepository.UpdateFlower(FlowerApp.Models.Flower)*.
+,
+%6&FlowerApp.Repository.IFlowerRepository*#
+!
+flowerFlowerApp.Models.Flower2%UpdateFlower(FlowerApp.Models.Flower)*
+2*±
+2T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csj j(8√¿
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csj j(95
+%8/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+Favorite*
+
+Flower2 RedirectToAction(string, string)"è
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csj j(:7
+5
+%8/Microsoft.AspNetCore.Mvc.RedirectToActionResult*∆
+3T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk	 k(	"k
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk k(	
+implicit return*‘
+4T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs`7 `(7t
+r
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs` `()
+%9"__entrypoint*
+""*
+0:
+flowerIdintB*(
+&FlowerApp.Controllers.FlowerController

@@ -1,108 +1,16 @@
 
-oFlowerApp.Migrations.ShippingAndPaymentMethods1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs#  #($"0*ô
-0l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs% >(!Ö
-Ç
-l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs' '(
-%0"__id*
-""ˇ¸
-l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs% ,("d
-%1^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"ÌMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-ZipCode*
-
-%0*
-""*
-""*2
-*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*2
-*
-""*
-""*
-""*
-""*
-""*
-""*
-""2≥AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)Ö
-Ç
-l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs0 0(
-%2"__id*
-""ˇ¸
-l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs. 5("d
-%3^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"ÌMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-Country*
-
-%2*
-""*
-""*22*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*22*
-""*
-""*
-""*
-""*
-""*
-""*
-""2≥AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)Ö
-Ç
-l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs9 9(
-%4"__id*
-""ÑÅ
-l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs7 >("d
-%5^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"ÌMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AddressLine1*
-
-%4*
-""*
-""*2d*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*2d*
-""*
-""*
-""*
-""*
-""*
-""*
-""2≥AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?)*
-1*˜
-1l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs?	 ?(	"É
-l
-bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs? ?(	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB31
-/FlowerApp.Migrations.ShippingAndPaymentMethods1
+#FlowerApp.Models.Order.LastName.getD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs! ($"0*≥
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs% (%è
+å
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs! (%
+%0string"__id*0*.
+FlowerApp.Models.Order"
+LastNamestring"V
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs! (%
+
+%0stringB
+FlowerApp.Models.Order

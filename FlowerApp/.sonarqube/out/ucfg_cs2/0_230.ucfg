@@ -1,18 +1,93 @@
 
-3FlowerApp.Components.AdminMenuItem.DisplayValue.setP
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,* ,(-"0*
-0P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,. ,(.®
-«
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,* ,(.>$
-"FlowerApp.Components.AdminMenuItem"
-DisplayValuestring"__id*
-
-valuestring"”
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,* ,(.@*>$
-"FlowerApp.Components.AdminMenuItem"
-DisplayValuestring:
-valuestringB&$
-"FlowerApp.Components.AdminMenuItem
+4FlowerApp.Models.ShoppingCart.GetShoppingCartItems()K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csf& f(:"0*‹
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh h($Ò
+Ï
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh h($(
+%3"System.Collections.Generic.List<T>"3FlowerApp.Models.ShoppingCart.ShoppingCartItems.get*!
+FlowerApp.Models.ShoppingCart¬
+©
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh h($(
+%1"System.Collections.Generic.List<T>"__id**
+(
+%3"System.Collections.Generic.List<T>¬
+©
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh h($(
+%0"System.Collections.Generic.List<T>"__id**
+(
+%1"System.Collections.Generic.List<T>*
+1
+2*ä
+1K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csi k(1Ð
+Í
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csj j($#
+%4FlowerApp.Models.AppDbContext"__id*S*Q
+FlowerApp.Models.ShoppingCart".
+_appDbContextFlowerApp.Models.AppDbContextà
+Ý
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csj j(62
+%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>"3FlowerApp.Models.AppDbContext.ShoppingCartItems.get*%
+#
+%4FlowerApp.Models.AppDbContextÒ
+Ï
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csj j(e
+%6System.Linq.IQueryable<T>"…System.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""Ú
+×
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csj k(2R
+%7LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"ÂMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%6System.Linq.IQueryable<T>*
+""Å
+Â
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csj l($(
+%8"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*T
+R
+%7LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>þ
+û
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csi l($(
+%9"System.Collections.Generic.List<T>"3FlowerApp.Models.ShoppingCart.ShoppingCartItems.set*!
+FlowerApp.Models.ShoppingCart**
+(
+%8"System.Collections.Generic.List<T>¬
+©
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csi l($(
+%2"System.Collections.Generic.List<T>"__id**
+(
+%9"System.Collections.Generic.List<T>¬
+©
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csi l($(
+%0"System.Collections.Generic.List<T>"__id**
+(
+%2"System.Collections.Generic.List<T>*
+2*Ë
+2K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csm	 m(	"y
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csh l(&*
+(
+%0"System.Collections.Generic.List<T>*´
+3K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csm	 m(	"b
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csm m(	
+implicit returnB!
+FlowerApp.Models.ShoppingCart

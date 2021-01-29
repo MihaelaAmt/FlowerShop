@@ -1,27 +1,16 @@
 
-XFlowerApp.Components.CategoryMenu.CategoryMenu(FlowerApp.Repository.ICategoryRepository)O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs ("1*Í
-1O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs	 (	r
-p
-
-%0void"6Microsoft.AspNetCore.Mvc.ViewComponent.ViewComponent()**(
-&Microsoft.AspNetCore.Mvc.ViewComponent*
-0*à
-0O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (4„
-
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (4f#
-!FlowerApp.Components.CategoryMenu"?
-_categoryRepository(FlowerApp.Repository.ICategoryRepository"__id*@
->
-categoryRepository(FlowerApp.Repository.ICategoryRepository*
-2*¼
-2O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs	 (	"f
-O
-EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (	
-implicit return:>
-categoryRepository(FlowerApp.Repository.ICategoryRepositoryB%#
-!FlowerApp.Components.CategoryMenu
+/FlowerApp.TagHelpers.EmailTagHelper.Address.getQ
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs  (#"0*æ
+0Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs$ ($¨
+¥
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs  ($
+%0string"__id*<*:%
+#FlowerApp.TagHelpers.EmailTagHelper"
+Addressstring"c
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs  ($
+
+%0stringB'%
+#FlowerApp.TagHelpers.EmailTagHelper

@@ -1,18 +1,18 @@
 
-,FlowerApp.Models.Flower.ShortDescription.setE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs	. 	(1"0*î
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs	2 	(2œ
-™
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs	. 	(27
-FlowerApp.Models.Flower"
-ShortDescriptionstring"__id*
+'FlowerApp.Models.Order.AddressLine1.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs *  (-"0*à
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs .  (.–
+“
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs *  (.2
+FlowerApp.Models.Order"
+AddressLine1string"__id*
 
-valuestring"‚
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs	. 	(29*7
-FlowerApp.Models.Flower"
-ShortDescriptionstring:
-valuestringB
-FlowerApp.Models.Flower
+valuestring"|
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs *  (.4*2
+FlowerApp.Models.Order"
+AddressLine1string:
+valuestringB
+FlowerApp.Models.Order

@@ -1,112 +1,95 @@
 
-JFlowerApp.Controllers.ShoppingCartController.UpdateShoppingCart(int, bool)Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs-& -(8"6*Œ
-
-0Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs/ 1(&Ñ
-Å
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs/! /(2,
-%0&FlowerApp.Repository.IFlowerRepository"__id*o*m.
-,FlowerApp.Controllers.ShoppingCartController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepositoryÅ˛
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs/! /(:/
-%1)System.Collections.Generic.IEnumerable<T>"2FlowerApp.Repository.IFlowerRepository.Flowers.get*.
-,
-%0&FlowerApp.Repository.IFlowerRepository2Flowers.get“
-œ
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs/! /(f
-%2FlowerApp.Models.Flower"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
-System.Linq.Enumerable*1
-/
-%1)System.Collections.Generic.IEnumerable<T>*
-""±
-Æ
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs/ /(f)
-selectedFlowerFlowerApp.Models.Flower"__id*
-
-%2FlowerApp.Models.Flower–
-Õ
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs1 1(&
-
-%3bool""object.operator !=(object, object)*
-"
-object*+
-)
-selectedFlowerFlowerApp.Models.Flower*
-""*
-1
-2*g
-1Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs3 3(*
-3
-4*‰
-3Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs5 5(=Ó
-Î
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs5 5(!#
-%4FlowerApp.Models.ShoppingCart"__id*b*`.
-,FlowerApp.Controllers.ShoppingCartController".
-_shoppingCartFlowerApp.Models.ShoppingCartå
-â
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs5 5(>
-
-%5void"EFlowerApp.Models.ShoppingCart.AddToCart(FlowerApp.Models.Flower, int)*%
-#
-%4FlowerApp.Models.ShoppingCart*+
-)
-selectedFlowerFlowerApp.Models.Flower*2*
-2*Ê
-4Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs9 9(>Ó
-Î
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs9 9(!#
-%6FlowerApp.Models.ShoppingCart"__id*b*`.
-,FlowerApp.Controllers.ShoppingCartController".
-_shoppingCartFlowerApp.Models.ShoppingCarté
-ã
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs9 9(?
-
-%7void"EFlowerApp.Models.ShoppingCart.AddToCart(FlowerApp.Models.Flower, int)*%
-#
-%6FlowerApp.Models.ShoppingCart*+
-)
-selectedFlowerFlowerApp.Models.Flower*
-""*
-2*§
-2Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs< <(+™ß
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs< <(,5
-%8/Microsoft.AspNetCore.Mvc.RedirectToActionResult"@Microsoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*	
-Index2RedirectToAction(string)"ï
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs< <(-7
-5
-%8/Microsoft.AspNetCore.Mvc.RedirectToActionResult*“
-5Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs=	 =(	"q
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs= =(	
-implicit return*Í
-6Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs-U -(UÉ
-Ä
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs-& -(8
-%9"__entrypoint*
+`FlowerApp.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (%"0*∑*
+0?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs 4(!ß
+§
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (~A
+%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"·Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)*W"U
+SMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
 ""*
-""*
-0:
-flowerIdint:
-isAddingboolB0.
-,FlowerApp.Controllers.ShoppingCartController
+""*
+""Ç
+ˇ
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! ((3
+%1-Microsoft.AspNetCore.Identity.IdentityBuilder"·Microsoft.Extensions.DependencyInjection.IdentityServiceCollectionExtensions.AddIdentity<TUser, TRole>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Identity.IdentityOptions>)*P"N
+LMicrosoft.Extensions.DependencyInjection.IdentityServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""≠
+™
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! )(93
+%2-Microsoft.AspNetCore.Identity.IdentityBuilder"£Microsoft.Extensions.DependencyInjection.IdentityEntityFrameworkBuilderExtensions.AddEntityFrameworkStores<TContext>(Microsoft.AspNetCore.Identity.IdentityBuilder)*U"S
+QMicrosoft.Extensions.DependencyInjection.IdentityEntityFrameworkBuilderExtensions*5
+3
+%1-Microsoft.AspNetCore.Identity.IdentityBuilder÷
+”
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs+ +(LA
+%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"∞Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection÷
+”
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs, ,(HA
+%4;Microsoft.Extensions.DependencyInjection.IServiceCollection"∞Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection÷
+”
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs- -(NA
+%5;Microsoft.Extensions.DependencyInjection.IServiceCollection"∞Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection˙
+˜
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs. .(LA
+%6;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÃMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Func<System.IServiceProvider, TService>)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""÷
+”
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs/ /(FA
+%7;Microsoft.Extensions.DependencyInjection.IServiceCollection"∞Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection¶
+£
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs1 1(:
+%84Microsoft.Extensions.DependencyInjection.IMvcBuilder"ãMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddMvc(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection≈
+¬
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs3 3(%A
+%9;Microsoft.Extensions.DependencyInjection.IServiceCollection"õMicrosoft.Extensions.DependencyInjection.MemoryCacheServiceCollectionExtensions.AddMemoryCache(Microsoft.Extensions.DependencyInjection.IServiceCollection)*S"Q
+OMicrosoft.Extensions.DependencyInjection.MemoryCacheServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection∫
+∑
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs4 4(!B
+%10;Microsoft.Extensions.DependencyInjection.IServiceCollection"ìMicrosoft.Extensions.DependencyInjection.SessionServiceCollectionExtensions.AddSession(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.SessionServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+1*ú
+1?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs5	 5(	"V
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs5 5(	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
+FlowerApp.Startup

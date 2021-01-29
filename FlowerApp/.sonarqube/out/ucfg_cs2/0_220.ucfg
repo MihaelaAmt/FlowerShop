@@ -1,18 +1,68 @@
 
-/FlowerApp.TagHelpers.EmailTagHelper.Content.setQ
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs	% 	(("0*˜
+šFlowerApp.TagHelpers.EmailTagHelper.Process(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput)Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs ($"0*ô
 0Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs	) 	()«
-¨
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (-ñ
+î
 Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs	% 	():%
-#FlowerApp.TagHelpers.EmailTagHelper"
-Contentstring"__id*
-
-valuestring"‘
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs ( 
+%0string"AMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.TagName.set*A
+?
+output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
+a£
+ 
 Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs	% 	()<*:%
-#FlowerApp.TagHelpers.EmailTagHelper"
-Contentstring:
-valuestringB'%
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (B
+%1<Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeList"DMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.Attributes.get*A
+?
+output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput¾
+»
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs? (F
+%2string"/FlowerApp.TagHelpers.EmailTagHelper.Address.get*'%
+#FlowerApp.TagHelpers.EmailTagHelper‹
+ˆ
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs3 (F
+%3string"__concat*	
+mailto:*
+
+%2string
+š
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (G
+
+%4void"YMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeList.SetAttribute(string, object)*D
+B
+%1<Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeList*
+href*
+
+%3stringš
+—
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (<
+%56Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent"AMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.Content.get*A
+?
+output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput¾
+»
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs& (-
+%6string"/FlowerApp.TagHelpers.EmailTagHelper.Content.get*'%
+#FlowerApp.TagHelpers.EmailTagHelper¯
+¬
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (.<
+%76Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent"IMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperContent.SetContent(string)*>
+<
+%56Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent*
+
+%6string*
+1*À
+1Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs	 (	"h
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (	
+implicit return:A
+context6Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext:?
+output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutputB'%
 #FlowerApp.TagHelpers.EmailTagHelper

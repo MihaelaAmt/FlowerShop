@@ -1,16 +1,23 @@
 
-)FlowerApp.Models.OrderDetail.FlowerId.getJ
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs	 	(!"0*Â
-0J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs	" 	("•
-’
-J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs	 	("	
-%0int"__id*3*1
-FlowerApp.Models.OrderDetail"
-FlowerIdint"Y
-J
-@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs	 	("
-	
-%0intB 
-FlowerApp.Models.OrderDetail
+MFlowerApp.Repository.ModelFlowerRepository.AddFlower(FlowerApp.Models.Flower)X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csB B("0*Ö
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csD D(/£ 
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csD D(/$
+%0System.NotImplementedException"System.NotImplementedExceptionË
+È
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csD D(-
+
+%1void"8System.NotImplementedException.NotImplementedException()*&
+$
+%0System.NotImplementedException*
+1*Î
+1X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csE	 E(	"o
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csE E(	
+implicit return:!
+flowerFlowerApp.Models.FlowerB.,
+*FlowerApp.Repository.ModelFlowerRepository

@@ -1,18 +1,16 @@
 
-=FlowerApp.ViewModels.OrderHistoryDetailsViewModel.OrderId.set_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (%"0*Õ
+?FlowerApp.ViewModels.OrderHistoryDetailsViewModel.FirstName.get_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (%"0* 
 0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs& (&Á
-¾
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs& (&Æ
+Ã
 _
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (&E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-OrderIdint"__id*
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (&
+%0string"__id*L*J3
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
+	FirstNamestring"q
+_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (&
 
-valueint"ª
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (&G*E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-OrderIdint:
-valueintB53
+%0stringB53
 1FlowerApp.ViewModels.OrderHistoryDetailsViewModel

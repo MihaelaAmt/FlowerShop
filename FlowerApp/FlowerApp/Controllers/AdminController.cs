@@ -55,7 +55,9 @@ namespace FlowerApp.Controllers
         public async Task<IActionResult> AddUser(AddUserViewModel addUserViewModel)
         {
             if (!ModelState.IsValid)
+            {
                 return View(addUserViewModel);
+            }
 
             var user = new ApplicationUser
             {
@@ -85,7 +87,10 @@ namespace FlowerApp.Controllers
             var user = await _userManager.FindByIdAsync(id);
 
             if (user == null)
+            {
                 return RedirectToAction(UManagement, _userManager.Users);
+            }
+
             var claims = await _userManager.GetClaimsAsync(user);
             var vm = new EditUserViewModel
             {
@@ -114,7 +119,9 @@ namespace FlowerApp.Controllers
                 var result = await _userManager.UpdateAsync(user);
 
                 if (result.Succeeded)
+                {
                     return RedirectToAction(UManagement, _userManager.Users);
+                }
 
                 ModelState.AddModelError("", "User not updated, something went wrong.");
 
@@ -133,9 +140,14 @@ namespace FlowerApp.Controllers
             {
                 IdentityResult result = await _userManager.DeleteAsync(user);
                 if (result.Succeeded)
+                {
                     return RedirectToAction(UManagement);
+                }
                 else
+                {
                     ModelState.AddModelError("", "Something went wrong while deleting this user.");
+                }
+
             }
             else
             {
@@ -158,7 +170,9 @@ namespace FlowerApp.Controllers
         {
 
             if (!ModelState.IsValid)
+            {
                 return View(addRoleViewModel);
+            }
 
             var role = new IdentityRole
             {
@@ -184,7 +198,9 @@ namespace FlowerApp.Controllers
             var role = await _roleManager.FindByIdAsync(id);
 
             if (role == null)
+            {
                 return RedirectToAction(RManagement, _roleManager.Roles);
+            }
 
             var editRoleViewModel = new EditRoleViewModel
             {
@@ -197,7 +213,9 @@ namespace FlowerApp.Controllers
             foreach (var user in _userManager.Users)
             {
                 if (await _userManager.IsInRoleAsync(user, role.Name))
+                {
                     editRoleViewModel.Users.Add(user.UserName);
+                }
             }
 
             return View(editRoleViewModel);
@@ -215,7 +233,9 @@ namespace FlowerApp.Controllers
                 var result = await _roleManager.UpdateAsync(role);
 
                 if (result.Succeeded)
+                {
                     return RedirectToAction(RManagement, _roleManager.Roles);
+                }
 
                 ModelState.AddModelError("", "Role not updated, something went wrong.");
 
@@ -233,7 +253,10 @@ namespace FlowerApp.Controllers
             {
                 var result = await _roleManager.DeleteAsync(role);
                 if (result.Succeeded)
+                {
                     return RedirectToAction(RManagement, _roleManager.Roles);
+                }
+
                 ModelState.AddModelError("", "Something went wrong while deleting this role.");
             }
             else
@@ -250,7 +273,10 @@ namespace FlowerApp.Controllers
             var role = await _roleManager.FindByIdAsync(roleId);
 
             if (role == null)
+            {
                 return RedirectToAction(RManagement, _roleManager.Roles);
+            }
+
 
             var addUserToRoleViewModel = new UserRoleViewModel { RoleId = role.Id };
 
@@ -291,8 +317,9 @@ namespace FlowerApp.Controllers
             var role = await _roleManager.FindByIdAsync(roleId);
 
             if (role == null)
+            {
                 return RedirectToAction(RManagement, _roleManager.Roles);
-
+            }
             var addUserToRoleViewModel = new UserRoleViewModel { RoleId = role.Id };
 
             foreach (var user in _userManager.Users)
@@ -353,8 +380,9 @@ namespace FlowerApp.Controllers
         public IActionResult AddFlower(AddFlowerViewModel addFlowerViewModel)
         {
             if (!ModelState.IsValid)
+            {
                 return View(addFlowerViewModel);
-
+            }
             var flower = new Flower
             {
                 Name = addFlowerViewModel.Name,
@@ -399,7 +427,9 @@ namespace FlowerApp.Controllers
             var flower = _flowerRepository.GetFlowerById(id);
 
             if (flower == null)
+            {
                 return View(FManagement, _flowerRepository.FlowersAsViewModel);
+            }
 
             var editFlowerViewModel = new EditFlowerViewModel
             {

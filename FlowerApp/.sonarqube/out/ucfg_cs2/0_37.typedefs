@@ -1,7 +1,4 @@
-Ø
-&FlowerApp.ViewModels.CategoryViewModelobjectQ
-CategoryViewModel():FlowerApp.ViewModels.CategoryViewModel.CategoryViewModel()G
-CategoryId.get5FlowerApp.ViewModels.CategoryViewModel.CategoryId.getG
-CategoryId.set5FlowerApp.ViewModels.CategoryViewModel.CategoryId.setK
-CategoryName.get7FlowerApp.ViewModels.CategoryViewModel.CategoryName.getK
-CategoryName.set7FlowerApp.ViewModels.CategoryViewModel.CategoryName.set
+Å
+.FlowerApp.Migrations.AppDbContextModelSnapshot:Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshotobjectü
+6BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)eFlowerApp.Migrations.AppDbContextModelSnapshot.BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)i
+AppDbContextModelSnapshot()JFlowerApp.Migrations.AppDbContextModelSnapshot.AppDbContextModelSnapshot()

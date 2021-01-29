@@ -1,16 +1,18 @@
 
-1FlowerApp.ViewModels.LoginViewModel.ReturnUrl.getQ
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs" (%"0*è
+1FlowerApp.ViewModels.LoginViewModel.ReturnUrl.setQ
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs' (*"0*œ
 0Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs& (&ª
-§
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs+ (+­
+ª
 Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs" (&
-%0string"__id*>*<%
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs' (+<%
 #FlowerApp.ViewModels.LoginViewModel"
-	ReturnUrlstring"c
+	ReturnUrlstring"__id*
+
+valuestring"“
 Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs" (&
-
-%0stringB'%
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs' (+>*<%
+#FlowerApp.ViewModels.LoginViewModel"
+	ReturnUrlstring:
+valuestringB'%
 #FlowerApp.ViewModels.LoginViewModel

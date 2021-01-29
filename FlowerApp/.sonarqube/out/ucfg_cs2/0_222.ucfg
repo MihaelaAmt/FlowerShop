@@ -1,31 +1,60 @@
 
-rFlowerApp.Repository.OrderRepository.OrderRepository(FlowerApp.Models.AppDbContext, FlowerApp.Models.ShoppingCart)R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs ("1*\
-1R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs	 (	*
-0*²
-0R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs ((è
-å
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs ((X&
-$FlowerApp.Repository.OrderRepository".
-_appDbContextFlowerApp.Models.AppDbContext"__id*/
--
-appDbContextFlowerApp.Models.AppDbContextè
-å
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs ((X&
-$FlowerApp.Repository.OrderRepository".
-_shoppingCartFlowerApp.Models.ShoppingCart"__id*/
--
-shoppingCartFlowerApp.Models.ShoppingCart*
-2*Â
-2R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs	 (	"i
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs (	
-implicit return:-
-appDbContextFlowerApp.Models.AppDbContext:-
-shoppingCartFlowerApp.Models.ShoppingCartB(&
-$FlowerApp.Repository.OrderRepository
+KFlowerApp.Startup.Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment)?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs ("1*I
+1?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs	 (	*
+0*Ä
+0?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (:¼¹
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (;=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder"7Microsoft.Extensions.Configuration.ConfigurationBuilderá
+Þ
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs% (9
+
+%1void"NMicrosoft.Extensions.Configuration.ConfigurationBuilder.ConfigurationBuilder()*?
+=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder÷ô
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs( (J
+%2string"DMicrosoft.AspNetCore.Hosting.IHostingEnvironment.ContentRootPath.get*H
+F
+hostingEnvironment0Microsoft.AspNetCore.Hosting.IHostingEnvironment2ContentRootPath.get¨
+¥
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (K>
+%38Microsoft.Extensions.Configuration.IConfigurationBuilder"ŒMicrosoft.Extensions.Configuration.FileConfigurationExtensions.SetBasePath(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
+>Microsoft.Extensions.Configuration.FileConfigurationExtensions*?
+=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder*
+
+%2string¯
+¬
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (;>
+%48Microsoft.Extensions.Configuration.IConfigurationBuilder"ŒMicrosoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
+>Microsoft.Extensions.Configuration.JsonConfigurationExtensions*@
+>
+%38Microsoft.Extensions.Configuration.IConfigurationBuilder*
+appsettings.jsonŽ‹
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! (#;
+%55Microsoft.Extensions.Configuration.IConfigurationRoot"@Microsoft.Extensions.Configuration.IConfigurationBuilder.Build()*@
+>
+%48Microsoft.Extensions.Configuration.IConfigurationBuilder2Build()í
+ê
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (#b
+FlowerApp.Startup"K
+_configurationRoot5Microsoft.Extensions.Configuration.IConfigurationRoot"__id*=
+;
+%55Microsoft.Extensions.Configuration.IConfigurationRoot*
+2*œ
+2?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs	 (	"V
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (	
+implicit return:F
+hostingEnvironment0Microsoft.AspNetCore.Hosting.IHostingEnvironmentB
+FlowerApp.Startup

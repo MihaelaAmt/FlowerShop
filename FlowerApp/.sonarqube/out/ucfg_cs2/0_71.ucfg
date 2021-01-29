@@ -1,17 +1,18 @@
 
-(FlowerApp.Models.Category.CategoryId.getG
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs	 	("0*¸
-0G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs	 	(‘
-Ž
-G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs	 	(	
-%0int"__id*2*0
-FlowerApp.Models.Category"
-
-CategoryIdint"V
-G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs	 	(
-	
-%0intB
-FlowerApp.Models.Category
+@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.setX
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(3"0*Ò
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	4 	(4Å
+Â
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(4L,
+*FlowerApp.ViewModels.ShoppingCartViewModel"
+ShoppingCartTotaldecimal"__id*
+
+valuedecimal"ª
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(4N*L,
+*FlowerApp.ViewModels.ShoppingCartViewModel"
+ShoppingCartTotaldecimal:
+valuedecimalB.,
+*FlowerApp.ViewModels.ShoppingCartViewModel

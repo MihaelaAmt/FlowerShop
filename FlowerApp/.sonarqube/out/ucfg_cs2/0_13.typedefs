@@ -1,6 +1,5 @@
-Ö
-FlowerApp.Migrations.Init2Microsoft.EntityFrameworkCore.Migrations.Migrationobject˜
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)WFlowerApp.Migrations.Init.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)œ
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)YFlowerApp.Migrations.Init.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)–
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)VFlowerApp.Migrations.Init.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)*
-Init() FlowerApp.Migrations.Init.Init()
+ª
+FlowerApp.Startupobjectˆ
+9Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment)KFlowerApp.Startup.Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment)²
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)`FlowerApp.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)Ì
+šConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment, Microsoft.Extensions.Logging.ILoggerFactory)¬FlowerApp.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment, Microsoft.Extensions.Logging.ILoggerFactory)

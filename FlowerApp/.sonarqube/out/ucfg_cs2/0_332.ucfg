@@ -1,16 +1,18 @@
 
-$FlowerApp.Models.Order.PayMethod.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ" Q(%"0*¥
-0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ& Q(&ê
-ç
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ" Q(&
-%0string"__id*1*/
-FlowerApp.Models.Order"
-	PayMethodstring"V
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csQ" Q(&
-
-%0stringB
-FlowerApp.Models.Order
+0FlowerApp.Models.Flower.IsFlowerPresentation.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs0 (3"0*
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs4 (4ú
+ô
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs0 (49
+FlowerApp.Models.Flower"
+IsFlowerPresentationbool"__id*
+
+valuebool"Ñ
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs0 (4;*9
+FlowerApp.Models.Flower"
+IsFlowerPresentationbool:
+valueboolB
+FlowerApp.Models.Flower

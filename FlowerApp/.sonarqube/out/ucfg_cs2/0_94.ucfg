@@ -1,18 +1,24 @@
 
-=FlowerApp.ViewModels.OrderHistoryDetailsViewModel.Address.set_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs% (("0*Þ
+DFlowerApp.ViewModels.OrderHistoryDetailsViewModel.ShippingMethod.get_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
+' 
+(*"0*¥
 0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs) ()Ç
-Ä
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
++ 
+(+Ë
+È
 _
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs% ()H3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-Addressstring"__id*
-
-valuestring"­
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
+' 
+(+
+%0string"__id*Q*O3
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
+ShippingMethodstring"q
 _
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs% ()J*H3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-Addressstring:
-valuestringB53
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs
+' 
+(+
+
+%0stringB53
 1FlowerApp.ViewModels.OrderHistoryDetailsViewModel

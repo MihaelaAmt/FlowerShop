@@ -1,34 +1,71 @@
 
-6FlowerApp.Controllers.AdminController.RoleManagement()U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csî î(+"2*∫
-0U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csñ ó(á
-Ñ
-U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csñ ñ($6
-%00Microsoft.AspNetCore.Identity.RoleManager<TRole>"__id*m*k'
-%FlowerApp.Controllers.AdminController"@
-_roleManager0Microsoft.AspNetCore.Identity.RoleManager<TRole>¸˘
-U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csñ ñ(*
-%1System.Linq.IQueryable<T>":Microsoft.AspNetCore.Identity.RoleManager<TRole>.Roles.get*8
-6
-%00Microsoft.AspNetCore.Identity.RoleManager<TRole>2	Roles.getß
-§
-U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csñ ñ(*"
-rolesSystem.Linq.IQueryable<T>"__id*!
-
-%1System.Linq.IQueryable<T>Ô
-Ï
-U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csó ó(
+,FlowerApp.Controllers.HomeController.Index()R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs ("2*û
+0R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (%•¢
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs  ((
+%0"FlowerApp.ViewModels.HomeViewModel""FlowerApp.ViewModels.HomeViewModel√
+¿
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs$ (1
 
-%2void"$flowerapp/views/admin/rolemanagement*
+%1void"2FlowerApp.ViewModels.HomeViewModel.HomeViewModel()**
+(
+%0"FlowerApp.ViewModels.HomeViewModelÙ
+Ò
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs% (6,
+%2&FlowerApp.Repository.IFlowerRepository"__id*g*e&
+$FlowerApp.Controllers.HomeController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepositoryèå
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs% (I/
+%3)System.Collections.Generic.IEnumerable<T>"=FlowerApp.Repository.IFlowerRepository.FlowerPresentation.get*.
+,
+%2&FlowerApp.Repository.IFlowerRepository2FlowerPresentation.get¢
+ü
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (I/
+%4)System.Collections.Generic.IEnumerable<T>"9FlowerApp.ViewModels.HomeViewModel.FlowerPresentation.set**
+(
+%0"FlowerApp.ViewModels.HomeViewModel*1
+/
+%3)System.Collections.Generic.IEnumerable<T>Ù
+Ò
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (/,
+%5&FlowerApp.Repository.IFlowerRepository"__id*g*e&
+$FlowerApp.Controllers.HomeController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepositoryÉÄ
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (</
+%6)System.Collections.Generic.IEnumerable<T>"7FlowerApp.Repository.IFlowerRepository.FlowersNames.get*.
+,
+%5&FlowerApp.Repository.IFlowerRepository2FlowersNames.getõ
+ò
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (</
+%7)System.Collections.Generic.IEnumerable<T>"2FlowerApp.ViewModels.HomeViewModel.FlowersName.set**
+(
+%0"FlowerApp.ViewModels.HomeViewModel*1
+/
+%6)System.Collections.Generic.IEnumerable<T>æ
+ª
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (3
+homeViewModel"FlowerApp.ViewModels.HomeViewModel"__id**
+(
+%0"FlowerApp.ViewModels.HomeViewModelÛ
+
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (&
+
+%8void"flowerapp/views/home/index*
 
-%3*$
-"
-rolesSystem.Linq.IQueryable<T>*
+%9*5
+3
+homeViewModel"FlowerApp.ViewModels.HomeViewModel*
 
 %ViewBagDataAllobject*
 
@@ -40,16 +77,15 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csó 
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjectÂ
-‚
-U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csó ó(
-
-%4void"flowerapp/views/_viewstart*
-
-%5*$
-"
-rolesSystem.Linq.IQueryable<T>*
+%HttpContextItemsHtmlobjectı
+Ú
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (&
+%10void"flowerapp/views/_viewstart*
+
+%11*5
+3
+homeViewModel"FlowerApp.ViewModels.HomeViewModel*
 
 %ViewBagDataAllobject*
 
@@ -61,16 +97,15 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csó 
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjectÈ
-Ê
-U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csó ó(
-
-%6void"flowerapp/views/shared/_layout*
-
-%7*$
-"
-rolesSystem.Linq.IQueryable<T>*
+%HttpContextItemsHtmlobject˘
+ˆ
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (&
+%12void"flowerapp/views/shared/_layout*
+
+%13*5
+3
+homeViewModel"FlowerApp.ViewModels.HomeViewModel*
 
 %ViewBagDataAllobject*
 
@@ -82,22 +117,21 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csó 
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobject"e
-U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csó ó(
-
-
-%6void*»
-1U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csò	 ò(	"l
-U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csò ò(	
-implicit return*Œ
-2U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csî- î(-m
-k
-U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csî î(+
-%8"__entrypoint*
-0B)'
-%FlowerApp.Controllers.AdminController
+%HttpContextItemsHtmlobject"c
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs ('
+
+%12void*¬
+1R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs	 (	"i
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (	
+implicit return*…
+2R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs! (!k
+i
+R
+HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\HomeController.cs (
+%14"__entrypoint*
+0B(&
+$FlowerApp.Controllers.HomeController

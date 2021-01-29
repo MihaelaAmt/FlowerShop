@@ -43,7 +43,10 @@ namespace FlowerApp.Controllers
         public async Task<IActionResult> Login(LoginViewModel loginViewModel)
         {
             if (!ModelState.IsValid)
+            {
                 return View(loginViewModel);
+            }
+
 
             var user = await _userManager.FindByNameAsync(loginViewModel.UserName);
 
@@ -57,7 +60,10 @@ namespace FlowerApp.Controllers
                 {
                     //redirect to home page
                     if (string.IsNullOrEmpty(loginViewModel.ReturnUrl))
+                    {
                         return RedirectToAction("Index", "Home");
+                    }
+
                     //else remain in this page
                     return Redirect(loginViewModel.ReturnUrl);
                 }

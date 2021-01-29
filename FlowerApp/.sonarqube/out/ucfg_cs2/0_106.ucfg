@@ -1,28 +1,16 @@
 
- FlowerApp.Program.Main(string[])?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs ("0*£
-0?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (Æ
-Ã
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (+
-%0%Microsoft.AspNetCore.Hosting.IWebHost"(FlowerApp.Program.BuildWebHost(string[])*"
-FlowerApp.Program*
-
-argsstring[]Ž
-‹
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs ($
-
-%1void"YMicrosoft.AspNetCore.Hosting.WebHostExtensions.Run(Microsoft.AspNetCore.Hosting.IWebHost)*2"0
-.Microsoft.AspNetCore.Hosting.WebHostExtensions*-
-+
-%0%Microsoft.AspNetCore.Hosting.IWebHost*
-1*œ
-1?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs	 (	"V
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (	
-implicit return:
-argsstring[]B"
-FlowerApp.Program
+9FlowerApp.ViewModels.HomeViewModel.FlowerPresentation.getP
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\HomeViewModel.cs8 (;"0*×
+0P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\HomeViewModel.cs< (<÷
+ô
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\HomeViewModel.cs8 (</
+%0)System.Collections.Generic.IEnumerable<T>"__id*i*g$
+"FlowerApp.ViewModels.HomeViewModel"?
+FlowerPresentation)System.Collections.Generic.IEnumerable<T>"…
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\HomeViewModel.cs8 (<1
+/
+%0)System.Collections.Generic.IEnumerable<T>B&$
+"FlowerApp.ViewModels.HomeViewModel

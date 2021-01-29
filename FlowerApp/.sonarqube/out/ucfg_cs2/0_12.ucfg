@@ -1,24 +1,13 @@
 
-6FlowerApp.Repository.CategoryRepository.Categories.getU
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs% (/"0*¬
-0U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs3 (Kä
-á
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs3 (@#
-%0FlowerApp.Models.AppDbContext"__id*]*[)
-'FlowerApp.Repository.CategoryRepository".
-_appDbContextFlowerApp.Models.AppDbContextã
-à
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs3 (K2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>",FlowerApp.Models.AppDbContext.Categories.get*%
-#
-%0FlowerApp.Models.AppDbContext*
-1*È
-1U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.csL (L"l
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.csK (L
-implicit returnB+)
-'FlowerApp.Repository.CategoryRepository
+4FlowerApp.TagHelpers.EmailTagHelper.EmailTagHelper()Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs ("0*Ã
+0Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (€
+~
+
+%0void";Microsoft.AspNetCore.Razor.TagHelpers.TagHelper.TagHelper()*31
+/Microsoft.AspNetCore.Razor.TagHelpers.TagHelper"h
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (
+implicit returnB'%
+#FlowerApp.TagHelpers.EmailTagHelper

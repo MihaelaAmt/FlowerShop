@@ -1,18 +1,16 @@
 
-@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.setX
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(3"0*“
+5FlowerApp.ViewModels.OrderHistoryViewModel.Orders.getX
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csB (E"0*Î
 0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	4 	(4≈
-¬
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csF (F˚
+¯
 X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(4L,
-*FlowerApp.ViewModels.ShoppingCartViewModel"
-ShoppingCartTotaldecimal"__id*
-
-valuedecimal"™
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csB (F/
+%0)System.Collections.Generic.IEnumerable<T>"__id*e*c,
+*FlowerApp.ViewModels.OrderHistoryViewModel"3
+Orders)System.Collections.Generic.IEnumerable<T>"ç
 X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(4N*L,
-*FlowerApp.ViewModels.ShoppingCartViewModel"
-ShoppingCartTotaldecimal:
-valuedecimalB.,
-*FlowerApp.ViewModels.ShoppingCartViewModel
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryViewModel.csB (F1
+/
+%0)System.Collections.Generic.IEnumerable<T>B.,
+*FlowerApp.ViewModels.OrderHistoryViewModel

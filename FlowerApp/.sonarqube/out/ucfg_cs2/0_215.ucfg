@@ -1,18 +1,56 @@
 
-3FlowerApp.ViewModels.AddFlowerViewModel.InStock.setU
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs# (&"0*¶
-0U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs' ('Ø
-¨
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs# ('<)
-'FlowerApp.ViewModels.AddFlowerViewModel"
-InStockbool"__id*
+nFlowerApp.Migrations.ShippingAndPaymentMethods.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)k
+aE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182401_ShippingAndPaymentMethods.cs  ($"0*‚
+0k
+aE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182401_ShippingAndPaymentMethods.cs! +(Ñ
+Å
+k
+aE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182401_ShippingAndPaymentMethods.cs# #(
+%0"__id*
+""ƒ¡
+k
+aE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182401_ShippingAndPaymentMethods.cs! #(_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
 
-valuebool"ó
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs# ('>*<)
-'FlowerApp.ViewModels.AddFlowerViewModel"
-InStockbool:
-valueboolB+)
-'FlowerApp.ViewModels.AddFlowerViewModel
+CardNumber*
+
+%0*
+""2"DropColumn(string, string, string)Ñ
+Å
+k
+aE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182401_ShippingAndPaymentMethods.cs' '(
+%2"__id*
+""√¿
+k
+aE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182401_ShippingAndPaymentMethods.cs% '(_
+%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+	PayMethod*
+
+%2*
+""2"DropColumn(string, string, string)Ñ
+Å
+k
+aE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182401_ShippingAndPaymentMethods.cs+ +(
+%4"__id*
+""»≈
+k
+aE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182401_ShippingAndPaymentMethods.cs) +(_
+%5YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+ShippingMethod*
+
+%4*
+""2"DropColumn(string, string, string)*
+1*ı
+1k
+aE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182401_ShippingAndPaymentMethods.cs,	 ,(	"Ç
+k
+aE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182401_ShippingAndPaymentMethods.cs, ,(	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB20
+.FlowerApp.Migrations.ShippingAndPaymentMethods

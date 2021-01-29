@@ -1,4 +1,9 @@
- 
-!FlowerApp.Components.CategoryMenu&Microsoft.AspNetCore.Mvc.ViewComponentobject’
-6CategoryMenu(FlowerApp.Repository.ICategoryRepository)XFlowerApp.Components.CategoryMenu.CategoryMenu(FlowerApp.Repository.ICategoryRepository)6
-Invoke()*FlowerApp.Components.CategoryMenu.Invoke()
+«
+FlowerApp.Auth.ApplicationUser*Microsoft.AspNetCore.Identity.IdentityUser0Microsoft.AspNetCore.Identity.IdentityUser<TKey>objectE
+ApplicationUser()0FlowerApp.Auth.ApplicationUser.ApplicationUser()=
+Birthdate.get,FlowerApp.Auth.ApplicationUser.Birthdate.get=
+Birthdate.set,FlowerApp.Auth.ApplicationUser.Birthdate.set3
+City.get'FlowerApp.Auth.ApplicationUser.City.get3
+City.set'FlowerApp.Auth.ApplicationUser.City.set9
+Country.get*FlowerApp.Auth.ApplicationUser.Country.get9
+Country.set*FlowerApp.Auth.ApplicationUser.Country.set

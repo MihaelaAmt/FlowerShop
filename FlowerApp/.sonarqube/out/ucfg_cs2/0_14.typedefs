@@ -1,5 +1,6 @@
-Ö
-'FlowerApp.Repository.CategoryRepositoryobjectŽ
-1CategoryRepository(FlowerApp.Models.AppDbContext)YFlowerApp.Repository.CategoryRepository.CategoryRepository(FlowerApp.Models.AppDbContext)H
-Categories.get6FlowerApp.Repository.CategoryRepository.Categories.getH
-Categories.set6FlowerApp.Repository.CategoryRepository.Categories.set
+Ö
+FlowerApp.Migrations.Init2Microsoft.EntityFrameworkCore.Migrations.Migrationobject˜
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)WFlowerApp.Migrations.Init.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)œ
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)YFlowerApp.Migrations.Init.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)–
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)VFlowerApp.Migrations.Init.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)*
+Init() FlowerApp.Migrations.Init.Init()

@@ -1,18 +1,18 @@
 
-1FlowerApp.ViewModels.UserRoleViewModel.RoleId.setT
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs$ ('"0*¥
+0FlowerApp.ViewModels.UserRoleViewModel.Users.setT
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs/ (2"0*÷
 0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs( ((°
-­
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs3 (3ç
+ä
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs$ ((<(
-&FlowerApp.ViewModels.UserRoleViewModel"
-RoleIdstring"__id*
-
-valuestring"–
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs/ (3W(
+&FlowerApp.ViewModels.UserRoleViewModel"+
+Users"System.Collections.Generic.List<T>"__id*-
++
+value"System.Collections.Generic.List<T>"±
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs$ ((>*<(
-&FlowerApp.ViewModels.UserRoleViewModel"
-RoleIdstring:
-valuestringB*(
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs/ (3Y*W(
+&FlowerApp.ViewModels.UserRoleViewModel"+
+Users"System.Collections.Generic.List<T>:+
+value"System.Collections.Generic.List<T>B*(
 &FlowerApp.ViewModels.UserRoleViewModel

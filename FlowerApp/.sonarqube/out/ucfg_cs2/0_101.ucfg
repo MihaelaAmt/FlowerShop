@@ -1,16 +1,18 @@
 
-0FlowerApp.ViewModels.LoginViewModel.UserName.getQ
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs	! 	($"0*ç
+0FlowerApp.ViewModels.LoginViewModel.UserName.setQ
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs	& 	()"0*š
 0Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs	% 	(%©
-¦
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs	* 	(*¬
+©
 Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs	! 	(%
-%0string"__id*=*;%
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs	& 	(*;%
 #FlowerApp.ViewModels.LoginViewModel"
-UserNamestring"c
+UserNamestring"__id*
+
+valuestring"’
 Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs	! 	(%
-
-%0stringB'%
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs	& 	(*=*;%
+#FlowerApp.ViewModels.LoginViewModel"
+UserNamestring:
+valuestringB'%
 #FlowerApp.ViewModels.LoginViewModel

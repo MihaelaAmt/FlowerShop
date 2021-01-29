@@ -1,16 +1,16 @@
 
-.FlowerApp.Models.AppDbContext.OrderDetails.getK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs( (("0*∆
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs( ((Ì
-Í
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs( ((2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*a*_
-FlowerApp.Models.AppDbContext"<
-OrderDetails,Microsoft.EntityFrameworkCore.DbSet<TEntity>"É
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs( ((4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
-FlowerApp.Models.AppDbContext
+@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.getX
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	+ 	(."0*è
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	/ 	(/¬
+ø
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	+ 	(/
+%0decimal"__id*N*L,
+*FlowerApp.ViewModels.ShoppingCartViewModel"
+ShoppingCartTotaldecimal"k
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	+ 	(/
+
+%0decimalB.,
+*FlowerApp.ViewModels.ShoppingCartViewModel

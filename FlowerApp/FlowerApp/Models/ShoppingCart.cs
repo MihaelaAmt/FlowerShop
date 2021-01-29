@@ -66,7 +66,9 @@ namespace FlowerApp.Models
                     shoppingCartItem.Amount = amount;
                 }
                 else
+                {
                     shoppingCartItem.Amount += amount;
+                }
             }
             _appDbContext.SaveChanges();
         }

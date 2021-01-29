@@ -1,22 +1,16 @@
 
-[FlowerApp.Migrations.Order2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs  ($"0*œ
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs (·´
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs ( _
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-SecurityCode*
-
-Orders*
-""2"DropColumn(string, string, string)*
-1*Î
-1X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs	 (	"o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB
-FlowerApp.Migrations.Order2
+)FlowerApp.Models.AppDbContext.Flowers.getK
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs ("0*Á
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (è
+å
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*\*Z
+FlowerApp.Models.AppDbContext"7
+Flowers,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ƒ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
+FlowerApp.Models.AppDbContext

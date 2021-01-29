@@ -1,22 +1,13 @@
 
-AFlowerApp.Repository.ModelFlowerRepository.FlowersAsViewModel.getX
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs>, >(>"0*Ö
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs>H >(e£ 
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs>H >(e$
-%0System.NotImplementedException"System.NotImplementedExceptionË
-È
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs>L >(c
+LFlowerApp.Migrations.ShippingAndPaymentMethods1.ShippingAndPaymentMethods1()l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs (3"0*
+0l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs@ @(‡
+„
 
-%1void"8System.NotImplementedException.NotImplementedException()*&
-$
-%0System.NotImplementedException*
-1*Î
-1X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs>f >(f"o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs>e >(f
-implicit returnB.,
-*FlowerApp.Repository.ModelFlowerRepository
+%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*64
+2Microsoft.EntityFrameworkCore.Migrations.Migration"ƒ
+l
+bE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191211182629_ShippingAndPaymentMethods1.cs @(
+implicit returnB31
+/FlowerApp.Migrations.ShippingAndPaymentMethods1

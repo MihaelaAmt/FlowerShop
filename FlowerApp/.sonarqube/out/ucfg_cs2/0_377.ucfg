@@ -1,16 +1,135 @@
 
-0FlowerApp.Controllers.OrderController.Checkout()S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (%"2*≤	
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (–
-Õ
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (
+4FlowerApp.Controllers.OrderHistoryController.Index()Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs ("6*å	
+0Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs6 (.¢
+ü
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs6 (C3
+orders)System.Collections.Generic.IEnumerable<T>"__id*
+""ô
+ñ
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (8
+%02Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*x*v.
+,FlowerApp.Controllers.OrderHistoryController"D
+_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>Ï
+È
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs* (.,
+%1&System.Security.Claims.ClaimsPrincipal"0Microsoft.AspNetCore.Mvc.ControllerBase.User.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseÚÔ
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (/
 
-%0void"flowerapp/views/order/checkout*
-
-%1*
-	{unknown}*
+%2bool"eMicrosoft.AspNetCore.Identity.SignInManager<TUser>.IsSignedIn(System.Security.Claims.ClaimsPrincipal)*:
+8
+%02Microsoft.AspNetCore.Identity.SignInManager<TUser>*.
+,
+%1&System.Security.Claims.ClaimsPrincipal22IsSignedIn(System.Security.Claims.ClaimsPrincipal)*
+1
+2*”
+1Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs3 (QÏ
+È
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs3 (7,
+%3&System.Security.Claims.ClaimsPrincipal"0Microsoft.AspNetCore.Mvc.ControllerBase.User.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase˙˜
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs3 (R
+
+%4bool"7System.Security.Claims.ClaimsPrincipal.IsInRole(string)*.
+,
+%3&System.Security.Claims.ClaimsPrincipal*
+Administrators2IsInRole(string)*
+3
+2*‰
+3Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (@Å
+˛
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs ()+
+%5%FlowerApp.Repository.IOrderRepository"__id*m*k.
+,FlowerApp.Controllers.OrderHistoryController"9
+_orderRepository%FlowerApp.Repository.IOrderRepository©¶
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (@/
+%6)System.Collections.Generic.IEnumerable<T>"BFlowerApp.Repository.IOrderRepository.GetOrdersAsViewModel(string)*-
++
+%5%FlowerApp.Repository.IOrderRepository*
+""2GetOrdersAsViewModel(string)Õ
+ 
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (@3
+orders)System.Collections.Generic.IEnumerable<T>"__id*1
+/
+%6)System.Collections.Generic.IEnumerable<T>*
+4*¥
+2Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (QÅ
+˛
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs ()+
+%7%FlowerApp.Repository.IOrderRepository"__id*m*k.
+,FlowerApp.Controllers.OrderHistoryController"9
+_orderRepository%FlowerApp.Repository.IOrderRepositoryÏ
+È
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs? (C,
+%8&System.Security.Claims.ClaimsPrincipal"0Microsoft.AspNetCore.Mvc.ControllerBase.User.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase˝˙
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs? (L)
+%9#System.Security.Principal.IIdentity"3System.Security.Claims.ClaimsPrincipal.Identity.get*.
+,
+%8&System.Security.Claims.ClaimsPrincipal2Identity.get”–
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs? (Q
+%10string",System.Security.Principal.IIdentity.Name.get*+
+)
+%9#System.Security.Principal.IIdentity2Name.get≥∞
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (R0
+%11)System.Collections.Generic.IEnumerable<T>"BFlowerApp.Repository.IOrderRepository.GetOrdersAsViewModel(string)*-
++
+%7%FlowerApp.Repository.IOrderRepository*
+
+%10string2GetOrdersAsViewModel(string)Œ
+À
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (R3
+orders)System.Collections.Generic.IEnumerable<T>"__id*2
+0
+%11)System.Collections.Generic.IEnumerable<T>*
+4*≤
+4Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs! #(æª
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs! $(1
+%12*FlowerApp.ViewModels.OrderHistoryViewModel"*FlowerApp.ViewModels.OrderHistoryViewModelÂ
+‚
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs! !(1
+%13void"BFlowerApp.ViewModels.OrderHistoryViewModel.OrderHistoryViewModel()*3
+1
+%12*FlowerApp.ViewModels.OrderHistoryViewModel¥
+±
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs# #(0
+%14)System.Collections.Generic.IEnumerable<T>"5FlowerApp.ViewModels.OrderHistoryViewModel.Orders.set*3
+1
+%12*FlowerApp.ViewModels.OrderHistoryViewModel*5
+3
+orders)System.Collections.Generic.IEnumerable<T>É
+Ä
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs! $(
+%15void""flowerapp/views/orderhistory/index*
+
+%16*3
+1
+%12*FlowerApp.ViewModels.OrderHistoryViewModel*
 
 %ViewBagDataAllobject*
 
@@ -22,15 +141,15 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs 
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjectÃ
-…
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (
-
-%2void"flowerapp/views/_viewstart*
-
-%3*
-	{unknown}*
+%HttpContextItemsHtmlobject˚
+¯
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs! $(
+%17void"flowerapp/views/_viewstart*
+
+%18*3
+1
+%12*FlowerApp.ViewModels.OrderHistoryViewModel*
 
 %ViewBagDataAllobject*
 
@@ -42,15 +161,15 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs 
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobject–
-Õ
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (
-
-%4void"flowerapp/views/shared/_layout*
-
-%5*
-	{unknown}*
+%HttpContextItemsHtmlobjectˇ
+¸
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs! $(
+%19void"flowerapp/views/shared/_layout*
+
+%20*3
+1
+%12*FlowerApp.ViewModels.OrderHistoryViewModel*
 
 %ViewBagDataAllobject*
 
@@ -62,22 +181,21 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs 
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobject"c
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (
-
-
-%4void*ƒ
-1S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs	 (	"j
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (	
-implicit return* 
-2S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs' ('k
-i
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (%
-%6"__entrypoint*
-0B)'
-%FlowerApp.Controllers.OrderController
+%HttpContextItemsHtmlobject"k
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs! $(
+
+%19void*“
+5Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs%	 %(	"q
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs% %(	
+implicit return*Ÿ
+6Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs! (!s
+q
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (
+%21"__entrypoint*
+0B0.
+,FlowerApp.Controllers.OrderHistoryController

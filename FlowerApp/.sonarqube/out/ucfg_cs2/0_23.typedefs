@@ -1,8 +1,5 @@
-À
-#FlowerApp.TagHelpers.EmailTagHelper/Microsoft.AspNetCore.Razor.TagHelpers.TagHelperobject•
-vProcess(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput)šFlowerApp.TagHelpers.EmailTagHelper.Process(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput)H
-EmailTagHelper()4FlowerApp.TagHelpers.EmailTagHelper.EmailTagHelper()>
-Address.get/FlowerApp.TagHelpers.EmailTagHelper.Address.get>
-Address.set/FlowerApp.TagHelpers.EmailTagHelper.Address.set>
-Content.get/FlowerApp.TagHelpers.EmailTagHelper.Content.get>
-Content.set/FlowerApp.TagHelpers.EmailTagHelper.Content.set
+‡
+%FlowerApp.ViewModels.AddRoleViewModelobjectN
+AddRoleViewModel()8FlowerApp.ViewModels.AddRoleViewModel.AddRoleViewModel()B
+RoleName.get2FlowerApp.ViewModels.AddRoleViewModel.RoleName.getB
+RoleName.set2FlowerApp.ViewModels.AddRoleViewModel.RoleName.set

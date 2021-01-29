@@ -1,16 +1,18 @@
 
--FlowerApp.ViewModels.EditUserViewModel.Id.getT
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	 	("0*Ì
+-FlowerApp.ViewModels.EditUserViewModel.Id.setT
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	  	(#"0*ù
 0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	 	(©
-¶
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	$ 	($¨
+©
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	 	(
-%0string"__id*:*8(
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	  	($8(
 &FlowerApp.ViewModels.EditUserViewModel"
-Idstring"f
+Idstring"__id*
+
+valuestring"í
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	 	(
-
-%0stringB*(
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditUserViewModel.cs	  	($:*8(
+&FlowerApp.ViewModels.EditUserViewModel"
+Idstring:
+valuestringB*(
 &FlowerApp.ViewModels.EditUserViewModel

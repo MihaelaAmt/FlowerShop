@@ -1,17 +1,16 @@
 
-&FlowerApp.Models.Flower.CategoryId.getE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs  (#"0*∞
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$ ($ç
-ä
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs  ($	
-%0int"__id*0*.
-FlowerApp.Models.Flower"
-
-CategoryIdint"T
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs  ($
-	
-%0intB
-FlowerApp.Models.Flower
+&FlowerApp.Models.Order.PhoneNumber.getD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9$ 9('"0*∂
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9( 9((í
+è
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9$ 9((
+%0string"__id*3*1
+FlowerApp.Models.Order"
+PhoneNumberstring"V
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9$ 9((
+
+%0stringB
+FlowerApp.Models.Order

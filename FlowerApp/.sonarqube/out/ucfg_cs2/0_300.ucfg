@@ -1,19 +1,20 @@
 
-&FlowerApp.Models.Flower.IsFavorite.getE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs! ($"0*≥
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% (%è
-å
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs! (%
+%FlowerApp.Models.Order.OrderTotal.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI) I(,"0*ﬂ
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI- I(-ñ
+ì
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI) I(-1
+FlowerApp.Models.Order"
 
-%0bool"__id*1*/
-FlowerApp.Models.Flower"
+OrderTotaldecimal"__id*
+
+valuedecimal"{
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI) I(-3*1
+FlowerApp.Models.Order"
 
-IsFavoritebool"U
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs! (%
-
-
-%0boolB
-FlowerApp.Models.Flower
+OrderTotaldecimal:
+valuedecimalB
+FlowerApp.Models.Order

@@ -1,25 +1,24 @@
 
-YFlowerApp.Repository.CategoryRepository.CategoryRepository(FlowerApp.Models.AppDbContext)U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs
- 
-(!"1*_
-1U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs	 (	*
-0*Ð
-0U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs ((î
-ë
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs (([)
-'FlowerApp.Repository.CategoryRepository".
-_appDbContextFlowerApp.Models.AppDbContext"__id*/
--
-appDbContextFlowerApp.Models.AppDbContext*
-2*È
-2U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs	 (	"l
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs (	
-implicit return:-
-appDbContextFlowerApp.Models.AppDbContextB+)
-'FlowerApp.Repository.CategoryRepository
+yFlowerApp.Models.AppDbContext.AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<FlowerApp.Models.AppDbContext>)K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	 	("1*U
+1K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	 (	*
+0*Ú
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	D 	(R‚
+ÿ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	D 	(S
+
+%0void"ŒMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>.IdentityDbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*NL
+JMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*
+2*´
+2K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	 (	"b
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>B!
+FlowerApp.Models.AppDbContext

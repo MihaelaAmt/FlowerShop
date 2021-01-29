@@ -1,18 +1,18 @@
 
-5FlowerApp.ViewModels.EditFlowerViewModel.ImageUrl.setV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs& ()"0*≥
+AFlowerApp.ViewModels.EditFlowerViewModel.IsFlowerPresentation.getV
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs+ (."0*Å
 0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs* (*∂
-≥
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs/ (/ª
+∏
 V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs& (*@*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-ImageUrlstring"__id*
-
-valuestring"ú
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs+ (/
+
+%0bool"__id*L*J*
+(FlowerApp.ViewModels.EditFlowerViewModel"
+IsFlowerPresentationbool"f
 V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs& (*B*@*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-ImageUrlstring:
-valuestringB,*
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs+ (/
+
+
+%0boolB,*
 (FlowerApp.ViewModels.EditFlowerViewModel

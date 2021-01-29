@@ -1,18 +1,17 @@
 
-0FlowerApp.Models.Flower.IsFlowerPresentation.getE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (."0*Ω
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs/ (/ô
-ñ
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (/
+%FlowerApp.Models.Order.OrderTotal.getD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI$ I('"0*∏
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI( I((ì
+ê
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI$ I((
+%0decimal"__id*3*1
+FlowerApp.Models.Order"
 
-%0bool"__id*;*9
-FlowerApp.Models.Flower"
-IsFlowerPresentationbool"U
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs+ (/
+OrderTotaldecimal"W
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csI$ I((
 
-
-%0boolB
-FlowerApp.Models.Flower
+%0decimalB
+FlowerApp.Models.Order
