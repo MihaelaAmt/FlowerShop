@@ -35,7 +35,35 @@ namespace FlowerApp.Controllers
             //enumeration for flower
             IEnumerable<Flower> flowers;
             string currentCategory = string.Empty;
+            GetByCategory(category, lowPrice, highPrice, out flowers, out currentCategory);
 
+            //sorting
+            flowers = SortFlowers(sorting, flowers);
+
+            switch (availability)
+            {
+                //sorting if the flowers are in stock
+                case FlowerStock.InStock:
+                    flowers = flowers.Where(x => x.InStock);
+                    break;
+                //the flowers are not in stock
+                case FlowerStock.NotInStock:
+                    flowers = flowers.Where(x => !x.InStock);
+                    break;
+                // all
+                case FlowerStock.All:
+                    break;
+            }
+
+            return View(new FlowerListViewModel
+            {
+                Flowers = flowers,
+                CurrentCategory = currentCategory
+            });
+        }
+
+        private void GetByCategory(string category, decimal lowPrice, decimal highPrice, out IEnumerable<Flower> flowers, out string currentCategory)
+        {
             if (string.IsNullOrEmpty(category))
             {
                 //order by Id
@@ -56,8 +84,10 @@ namespace FlowerApp.Controllers
 
                 currentCategory = _categoryRepository.Categories.FirstOrDefault(c => c.CategoryName == category).CategoryName;
             }
+        }
 
-            //sorting
+        private static IEnumerable<Flower> SortFlowers(string sorting, IEnumerable<Flower> flowers)
+        {
             if (!string.IsNullOrEmpty(sorting))
             {
                 //ascending sort
@@ -72,26 +102,7 @@ namespace FlowerApp.Controllers
                 }
             }
 
-            switch (availability)
-            {
-                //sorting if the flowers are in stock
-                case FlowerStock.InStock:
-                    flowers = flowers.Where(x => x.InStock == true);
-                    break;
-                //the flowers are not in stock
-                case FlowerStock.NotInStock:
-                    flowers = flowers.Where(x => x.InStock == false);
-                    break;
-                // all
-                case FlowerStock.All:
-                    break;
-            }
-
-            return View(new FlowerListViewModel
-            {
-                Flowers = flowers,
-                CurrentCategory = currentCategory
-            });
+            return flowers;
         }
 
         //favorite flowers
