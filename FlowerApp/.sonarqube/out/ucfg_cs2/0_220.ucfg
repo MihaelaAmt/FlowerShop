@@ -1,68 +1,16 @@
 
-öFlowerApp.TagHelpers.EmailTagHelper.Process(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput)Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs ($"0*Ù
-0Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (-Ò
-Ó
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs ( 
-%0string"AMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.TagName.set*A
-?
-output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
-a£
-†
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (B
-%1<Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeList"DMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.Attributes.get*A
-?
-output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutputæ
-ª
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs? (F
-%2string"/FlowerApp.TagHelpers.EmailTagHelper.Address.get*'%
-#FlowerApp.TagHelpers.EmailTagHelperã
-à
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs3 (F
-%3string"__concat*	
-mailto:*
+3FlowerApp.Components.AdminMenuItem.DisplayValue.getP
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,% ,(("0*Á
+0P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,) ,()´
+®
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,% ,()
+%0string"__id*@*>$
+"FlowerApp.Components.AdminMenuItem"
+DisplayValuestring"b
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,% ,()
 
-%2stringù
-ö
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (G
-
-%4void"YMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeList.SetAttribute(string, object)*D
-B
-%1<Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeList*
-href*
-
-%3stringö
-ó
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (<
-%56Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent"AMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.Content.get*A
-?
-output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutputæ
-ª
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs& (-
-%6string"/FlowerApp.TagHelpers.EmailTagHelper.Content.get*'%
-#FlowerApp.TagHelpers.EmailTagHelperØ
-¨
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (.<
-%76Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent"IMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperContent.SetContent(string)*>
-<
-%56Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent*
-
-%6string*
-1*¿
-1Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs	 (	"h
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (	
-implicit return:A
-context6Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext:?
-output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutputB'%
-#FlowerApp.TagHelpers.EmailTagHelper
+%0stringB&$
+"FlowerApp.Components.AdminMenuItem

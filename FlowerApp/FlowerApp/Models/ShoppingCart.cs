@@ -7,18 +7,23 @@ using System.Linq;
 
 namespace FlowerApp.Models
 {
+    //class for shopping cart 
     public class ShoppingCart
     {
         private readonly AppDbContext _appDbContext;
+        //constructor
         private ShoppingCart(AppDbContext appDbContext)
         {
             _appDbContext = appDbContext;
         }
 
+        //shopping cart id
         public string ShoppingCartId { get; set; }
 
+        //list for shopping cart item
         public List<ShoppingCartItem> ShoppingCartItems { get; set; }
 
+        //get cart
         public static ShoppingCart GetCart(IServiceProvider services)
         {
             ISession session = services.GetRequiredService<IHttpContextAccessor>()?
@@ -32,14 +37,21 @@ namespace FlowerApp.Models
             return new ShoppingCart(context) { ShoppingCartId = cartId };
         }
 
+        //add to cart
+        //the method has two parameters 
         public void AddToCart(Flower flower, int amount)
         {
+            //set var shopping cart item with shopping cart id
             var shoppingCartItem =
                     _appDbContext.ShoppingCartItems.SingleOrDefault(
                         s => s.Flower.FlowerId == flower.FlowerId && s.ShoppingCartId == ShoppingCartId);
-
+            //if it is null
             if (shoppingCartItem == null)
             {
+                //in shopping cart item view
+                //shopping cart id
+                //flower
+                //amount
                 shoppingCartItem = new ShoppingCartItem
                 {
                     ShoppingCartId = ShoppingCartId,
@@ -49,6 +61,7 @@ namespace FlowerApp.Models
 
                 _appDbContext.ShoppingCartItems.Add(shoppingCartItem);
             }
+            //else it is different from null
             else
             {
                 //if (shoppingCartItem.Amount > 0 && shoppingCartItem.Amount < 9)
@@ -70,21 +83,25 @@ namespace FlowerApp.Models
                     shoppingCartItem.Amount += amount;
                 }
             }
+            //save changes
             _appDbContext.SaveChanges();
         }
 
+        //remove to cart
         public int RemoveFromCart(Flower flower)
         {
             var shoppingCartItem =
                     _appDbContext.ShoppingCartItems.SingleOrDefault(
                         s => s.Flower.FlowerId == flower.FlowerId && s.ShoppingCartId == ShoppingCartId);
-
+            //set local amount
             var localAmount = 0;
 
+            //if is different from null
             if (shoppingCartItem != null)
             {
                 if (shoppingCartItem.Amount > 1)
                 {
+                    //decrement
                     shoppingCartItem.Amount--;
                     localAmount = shoppingCartItem.Amount;
                 }
@@ -93,12 +110,13 @@ namespace FlowerApp.Models
                     _appDbContext.ShoppingCartItems.Remove(shoppingCartItem);
                 }
             }
-
+            //save changes
             _appDbContext.SaveChanges();
 
             return localAmount;
         }
 
+        //list of shopping cart item
         public List<ShoppingCartItem> GetShoppingCartItems()
         {
             return ShoppingCartItems ??
@@ -108,8 +126,10 @@ namespace FlowerApp.Models
                            .ToList());
         }
 
+        //clear cart
         public void ClearCart()
         {
+            //set var cart items with id cart
             var cartItems = _appDbContext
                 .ShoppingCartItems
                 .Where(cart => cart.ShoppingCartId == ShoppingCartId);
@@ -120,7 +140,7 @@ namespace FlowerApp.Models
         }
 
 
-
+        //shopping cart total
         public decimal GetShoppingCartTotal()
         {
             var total = _appDbContext.ShoppingCartItems.Where(c => c.ShoppingCartId == ShoppingCartId)

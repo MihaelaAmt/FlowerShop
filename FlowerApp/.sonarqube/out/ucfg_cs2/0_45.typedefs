@@ -1,17 +1,7 @@
-
-&FlowerApp.ViewModels.EditUserViewModelobjectQ
-EditUserViewModel():FlowerApp.ViewModels.EditUserViewModel.EditUserViewModel()7
-Id.get-FlowerApp.ViewModels.EditUserViewModel.Id.get7
-Id.set-FlowerApp.ViewModels.EditUserViewModel.Id.setC
-UserName.get3FlowerApp.ViewModels.EditUserViewModel.UserName.getC
-UserName.set3FlowerApp.ViewModels.EditUserViewModel.UserName.set=
-	Email.get0FlowerApp.ViewModels.EditUserViewModel.Email.get=
-	Email.set0FlowerApp.ViewModels.EditUserViewModel.Email.setG
-UserClaims.get5FlowerApp.ViewModels.EditUserViewModel.UserClaims.getG
-UserClaims.set5FlowerApp.ViewModels.EditUserViewModel.UserClaims.setE
-Birthdate.get4FlowerApp.ViewModels.EditUserViewModel.Birthdate.getE
-Birthdate.set4FlowerApp.ViewModels.EditUserViewModel.Birthdate.set;
-City.get/FlowerApp.ViewModels.EditUserViewModel.City.get;
-City.set/FlowerApp.ViewModels.EditUserViewModel.City.setA
-Country.get2FlowerApp.ViewModels.EditUserViewModel.Country.getA
-Country.set2FlowerApp.ViewModels.EditUserViewModel.Country.set
+¿
+(FlowerApp.ViewModels.FlowerListViewModelobjectW
+FlowerListViewModel()>FlowerApp.ViewModels.FlowerListViewModel.FlowerListViewModel()C
+Flowers.get4FlowerApp.ViewModels.FlowerListViewModel.Flowers.getC
+Flowers.set4FlowerApp.ViewModels.FlowerListViewModel.Flowers.setS
+CurrentCategory.get<FlowerApp.ViewModels.FlowerListViewModel.CurrentCategory.getS
+CurrentCategory.set<FlowerApp.ViewModels.FlowerListViewModel.CurrentCategory.set

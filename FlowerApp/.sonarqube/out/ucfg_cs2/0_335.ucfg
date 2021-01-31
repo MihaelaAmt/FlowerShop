@@ -1,39 +1,16 @@
 
-ŽFlowerApp.Controllers.FavoriteFlowerController.FavoriteFlowerController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Models.ShoppingCart)\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FavoriteFlowerController.cs ('"3*Ñ
-1\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FavoriteFlowerController.cs	 (	i
-g
-
-%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
-#Microsoft.AspNetCore.Mvc.Controller*
-0*ÿ
-0\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FavoriteFlowerController.cs (0–
-“
-\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FavoriteFlowerController.cs (0o0
-.FlowerApp.Controllers.FavoriteFlowerController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepository"__id*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository*
-2*Ö
-2\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FavoriteFlowerController.cs	 (	"s
-\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FavoriteFlowerController.cs (	
-implicit return*Í
-3\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FavoriteFlowerController.csf (fä
-á
-\
-RE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FavoriteFlowerController.cs ('
-%1"__entrypoint*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository*/
--
-shoppingCartFlowerApp.Models.ShoppingCart*
-1::
-flowerRepository&FlowerApp.Repository.IFlowerRepository:-
-shoppingCartFlowerApp.Models.ShoppingCartB20
-.FlowerApp.Controllers.FavoriteFlowerController
++FlowerApp.Models.Flower.LongDescription.getE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs( (+"0*¾
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs, (,˜
+•
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs( (,
+%0string"__id*8*6
+FlowerApp.Models.Flower"
+LongDescriptionstring"W
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs( (,
+
+%0stringB
+FlowerApp.Models.Flower

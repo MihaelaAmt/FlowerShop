@@ -1,16 +1,20 @@
 
-.FlowerApp.ViewModels.AddUserViewModel.City.getS
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs" "( "0*ë
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs"! "(!©
-¦
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs" "(!
-%0string"__id*;*9'
-%FlowerApp.ViewModels.AddUserViewModel"
-Citystring"e
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs" "(!
-
-%0stringB)'
-%FlowerApp.ViewModels.AddUserViewModel
+,FlowerApp.Models.AppDbContext.Categories.setK
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs ("0*ò
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (î
+ë
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (]
+FlowerApp.Models.AppDbContext":
+
+Categories,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"®
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (_*]
+FlowerApp.Models.AppDbContext":
+
+Categories,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
+FlowerApp.Models.AppDbContext

@@ -1,95 +1,22 @@
 
-`FlowerApp.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (%"0*·*
-0?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs 4(!§
-¤
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs (~A
-%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"áMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)*W"U
-SMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""*
-""*
-""‚
-ÿ
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! ((3
-%1-Microsoft.AspNetCore.Identity.IdentityBuilder"áMicrosoft.Extensions.DependencyInjection.IdentityServiceCollectionExtensions.AddIdentity<TUser, TRole>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Identity.IdentityOptions>)*P"N
-LMicrosoft.Extensions.DependencyInjection.IdentityServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""­
-ª
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs! )(93
-%2-Microsoft.AspNetCore.Identity.IdentityBuilder"£Microsoft.Extensions.DependencyInjection.IdentityEntityFrameworkBuilderExtensions.AddEntityFrameworkStores<TContext>(Microsoft.AspNetCore.Identity.IdentityBuilder)*U"S
-QMicrosoft.Extensions.DependencyInjection.IdentityEntityFrameworkBuilderExtensions*5
-3
-%1-Microsoft.AspNetCore.Identity.IdentityBuilderÖ
-Ó
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs+ +(LA
-%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionÖ
-Ó
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs, ,(HA
-%4;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionÖ
-Ó
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs- -(NA
-%5;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionú
-÷
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs. .(LA
-%6;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÌMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Func<System.IServiceProvider, TService>)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""Ö
-Ó
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs/ /(FA
-%7;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection¦
-£
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs1 1(:
-%84Microsoft.Extensions.DependencyInjection.IMvcBuilder"‹Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddMvc(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
-GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionÅ
-Â
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs3 3(%A
-%9;Microsoft.Extensions.DependencyInjection.IServiceCollection"›Microsoft.Extensions.DependencyInjection.MemoryCacheServiceCollectionExtensions.AddMemoryCache(Microsoft.Extensions.DependencyInjection.IServiceCollection)*S"Q
-OMicrosoft.Extensions.DependencyInjection.MemoryCacheServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionº
-·
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs4 4(!B
-%10;Microsoft.Extensions.DependencyInjection.IServiceCollection"“Microsoft.Extensions.DependencyInjection.SessionServiceCollectionExtensions.AddSession(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.SessionServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-1*œ
-1?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs5	 5(	"V
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs5 5(	
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
-FlowerApp.Startup
+[FlowerApp.Migrations.Order2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs  ($"0*œ
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs (·´
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs ( _
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+SecurityCode*
+
+Orders*
+""2"DropColumn(string, string, string)*
+1*Î
+1X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs	 (	"o
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs (	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB
+FlowerApp.Migrations.Order2

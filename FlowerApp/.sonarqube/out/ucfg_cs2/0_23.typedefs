@@ -1,5 +1,39 @@
-‡
-%FlowerApp.ViewModels.AddRoleViewModelobjectN
-AddRoleViewModel()8FlowerApp.ViewModels.AddRoleViewModel.AddRoleViewModel()B
-RoleName.get2FlowerApp.ViewModels.AddRoleViewModel.RoleName.getB
-RoleName.set2FlowerApp.ViewModels.AddRoleViewModel.RoleName.set
+‹
+FlowerApp.Models.Orderobject)
+Order()FlowerApp.Models.Order.Order()1
+OrderId.get"FlowerApp.Models.Order.OrderId.get1
+OrderId.set"FlowerApp.Models.Order.OrderId.set7
+OrderLines.get%FlowerApp.Models.Order.OrderLines.get7
+OrderLines.set%FlowerApp.Models.Order.OrderLines.set5
+FirstName.get$FlowerApp.Models.Order.FirstName.get5
+FirstName.set$FlowerApp.Models.Order.FirstName.set3
+LastName.get#FlowerApp.Models.Order.LastName.get3
+LastName.set#FlowerApp.Models.Order.LastName.set?
+ShippingMethod.get)FlowerApp.Models.Order.ShippingMethod.get?
+ShippingMethod.set)FlowerApp.Models.Order.ShippingMethod.set;
+AddressLine1.get'FlowerApp.Models.Order.AddressLine1.get;
+AddressLine1.set'FlowerApp.Models.Order.AddressLine1.set;
+AddressLine2.get'FlowerApp.Models.Order.AddressLine2.get;
+AddressLine2.set'FlowerApp.Models.Order.AddressLine2.set1
+ZipCode.get"FlowerApp.Models.Order.ZipCode.get1
+ZipCode.set"FlowerApp.Models.Order.ZipCode.set+
+City.getFlowerApp.Models.Order.City.get+
+City.setFlowerApp.Models.Order.City.set-
+	State.get FlowerApp.Models.Order.State.get-
+	State.set FlowerApp.Models.Order.State.set1
+Country.get"FlowerApp.Models.Order.Country.get1
+Country.set"FlowerApp.Models.Order.Country.set9
+PhoneNumber.get&FlowerApp.Models.Order.PhoneNumber.get9
+PhoneNumber.set&FlowerApp.Models.Order.PhoneNumber.set-
+	Email.get FlowerApp.Models.Order.Email.get-
+	Email.set FlowerApp.Models.Order.Email.set7
+OrderTotal.get%FlowerApp.Models.Order.OrderTotal.get7
+OrderTotal.set%FlowerApp.Models.Order.OrderTotal.set9
+OrderPlaced.get&FlowerApp.Models.Order.OrderPlaced.get9
+OrderPlaced.set&FlowerApp.Models.Order.OrderPlaced.set5
+PayMethod.get$FlowerApp.Models.Order.PayMethod.get5
+PayMethod.set$FlowerApp.Models.Order.PayMethod.set7
+CardNumber.get%FlowerApp.Models.Order.CardNumber.get7
+CardNumber.set%FlowerApp.Models.Order.CardNumber.set;
+SecurityCode.get'FlowerApp.Models.Order.SecurityCode.get;
+SecurityCode.set'FlowerApp.Models.Order.SecurityCode.set

@@ -1,20 +1,40 @@
 
-2FlowerApp.Auth.FlowerShopClaimTypes.ClaimsList.setQ
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs	5 	(8"0*Ú
-0Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs	9 	(9Ê
-„
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs	5 	(9Y%
-#FlowerApp.Auth.FlowerShopClaimTypes"0
+:FlowerApp.ViewModels.UserRoleViewModel.UserRoleViewModel()T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs ( "1*^
+1T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs	 (	*
+0*◊
+0T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs
+ 
+(,ß§
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs
+ 
+(,(
+%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>º
+π
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs
+ 
+(*
 
-ClaimsList"System.Collections.Generic.List<T>"__id*-
-+
-value"System.Collections.Generic.List<T>"∞
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\FlowerShopClaimTypes.cs	5 	(9[*Y%
-#FlowerApp.Auth.FlowerShopClaimTypes"0
-
-ClaimsList"System.Collections.Generic.List<T>:+
-value"System.Collections.Generic.List<T>B'"%
-#FlowerApp.Auth.FlowerShopClaimTypes
+%1void")System.Collections.Generic.List<T>.List()**
+(
+%0"System.Collections.Generic.List<T>ç
+ä
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs
+ 
+(,(
+%2"System.Collections.Generic.List<T>"0FlowerApp.ViewModels.UserRoleViewModel.Users.set**(
+&FlowerApp.ViewModels.UserRoleViewModel**
+(
+%0"System.Collections.Generic.List<T>*
+2*∆
+2T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs	 (	"k
+T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\UserRoleViewModel.cs (	
+implicit returnB*(
+&FlowerApp.ViewModels.UserRoleViewModel

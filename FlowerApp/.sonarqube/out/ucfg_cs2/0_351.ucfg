@@ -1,43 +1,18 @@
 
-6FlowerApp.Repository.FlowerRepository.FlowersNames.getS
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ("0*ß
+0FlowerApp.Models.Flower.IsFlowerPresentation.getE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$+ $(."0*Ω
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$/ $(/ô
+ñ
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$+ $(/
 
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (?‡
-›
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ($#
-%0FlowerApp.Models.AppDbContext"__id*[*Y'
-%FlowerApp.Repository.FlowerRepository".
-_appDbContextFlowerApp.Models.AppDbContextﬁ
-€
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (,2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>")FlowerApp.Models.AppDbContext.Flowers.get*%
-#
-%0FlowerApp.Models.AppDbContextÁ
-‰
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (@
-%2System.Linq.IQueryable<T>"íSystem.Linq.Queryable.Select<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TResult>>)*"
-System.Linq.Queryable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""ö
-ó
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (I(
-%3"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*!
-
-%2System.Linq.IQueryable<T>"Å
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (J*
-(
-%3"System.Collections.Generic.List<T>*ƒ
-1S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs ("j
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\FlowerRepository.cs (
-implicit returnB)'
-%FlowerApp.Repository.FlowerRepository
+%0bool"__id*;*9
+FlowerApp.Models.Flower"
+IsFlowerPresentationbool"U
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs$+ $(/
+
+
+%0boolB
+FlowerApp.Models.Flower

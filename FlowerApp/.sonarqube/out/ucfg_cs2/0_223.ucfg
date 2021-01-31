@@ -1,46 +1,18 @@
 
-·FlowerApp.Controllers.OrderHistoryController.OrderHistoryController(FlowerApp.Repository.IOrderRepository, Microsoft.AspNetCore.Identity.SignInManager<FlowerApp.Auth.ApplicationUser>)Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (%"3*Ï
-1Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs	 (	i
-g
-
-%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
-#Microsoft.AspNetCore.Mvc.Controller*
-0*œ
-0Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (*Ž
-‹
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (.k.
-,FlowerApp.Controllers.OrderHistoryController"9
-_orderRepository%FlowerApp.Repository.IOrderRepository"__id*:
-8
-orderRepository%FlowerApp.Repository.IOrderRepository¤
-¡
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (*v.
-,FlowerApp.Controllers.OrderHistoryController"D
-_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*E
-C
-signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>*
-2*Ò
-2Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs	 (	"q
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (	
-implicit return*Ý
-3Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.csu (uö
-ó
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (%
-%1"__entrypoint*:
-8
-orderRepository%FlowerApp.Repository.IOrderRepository*E
-C
-signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>*
-1:8
-orderRepository%FlowerApp.Repository.IOrderRepository:C
-signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>B0.
-,FlowerApp.Controllers.OrderHistoryController
+2FlowerApp.Components.AdminMenuItem.ActionValue.setP
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs/) /(,"0*›
+0P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs/- /(-­
+ª
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs/) /(-=$
+"FlowerApp.Components.AdminMenuItem"
+ActionValuestring"__id*
+
+valuestring"“
+P
+FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs/) /(-?*=$
+"FlowerApp.Components.AdminMenuItem"
+ActionValuestring:
+valuestringB&$
+"FlowerApp.Components.AdminMenuItem

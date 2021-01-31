@@ -1,16 +1,18 @@
 
-,FlowerApp.Auth.ApplicationUser.Birthdate.getL
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs	$ 	('"0*ï
-0L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs	( 	((²
-¯
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs	$ 	((
-%0System.DateTime"__id*B*@ 
-FlowerApp.Auth.ApplicationUser"
-	BirthdateSystem.DateTime"g
-L
-BE:\Projects\FlowerShop\FlowerApp\FlowerApp\Auth\ApplicationUser.cs	$ 	((
-
-%0System.DateTimeB" 
-FlowerApp.Auth.ApplicationUser
+@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.setX
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(3"0*Ò
+0X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	4 	(4Å
+Â
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(4L,
+*FlowerApp.ViewModels.ShoppingCartViewModel"
+ShoppingCartTotaldecimal"__id*
+
+valuedecimal"ª
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ShoppingCartViewModel.cs	0 	(4N*L,
+*FlowerApp.ViewModels.ShoppingCartViewModel"
+ShoppingCartTotaldecimal:
+valuedecimalB.,
+*FlowerApp.ViewModels.ShoppingCartViewModel

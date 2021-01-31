@@ -1,13 +1,13 @@
 
-4FlowerApp.TagHelpers.EmailTagHelper.EmailTagHelper()Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs ("0*Ã
-0Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (€
-~
+ FlowerApp.Migrations.Init.Init()V
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs ("0*×
+0X
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cså å(‡
+„
 
-%0void";Microsoft.AspNetCore.Razor.TagHelpers.TagHelper.TagHelper()*31
-/Microsoft.AspNetCore.Razor.TagHelpers.TagHelper"h
-Q
-GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (
-implicit returnB'%
-#FlowerApp.TagHelpers.EmailTagHelper
+%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*64
+2Microsoft.EntityFrameworkCore.Migrations.Migration"n
+W
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191208173628_Init.cs å(
+implicit returnB
+FlowerApp.Migrations.Init

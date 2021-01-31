@@ -1,17 +1,18 @@
 
-%FlowerApp.Models.Order.CardNumber.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT# T(&"0*µ
+FlowerApp.Models.Order.City.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs:" :(%"0*Ð
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT' T('‘
-Ž
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs:& :(&Ž
+‹
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT# T('
-%0string"__id*2*0
-FlowerApp.Models.Order"
-
-CardNumberstring"V
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs:" :(&*
+FlowerApp.Models.Order"
+Citystring"__id*
+
+valuestring"t
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csT# T('
-
-%0stringB
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs:" :(&,**
+FlowerApp.Models.Order"
+Citystring:
+valuestringB
 FlowerApp.Models.Order

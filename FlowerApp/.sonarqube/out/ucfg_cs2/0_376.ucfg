@@ -1,15 +1,37 @@
 
-0FlowerApp.Controllers.OrderController.Checkout()S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (%"2*²	
+8FlowerApp.Controllers.OrderController.CheckoutComplete()S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs9 9(-"2*Ê
 0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (Ð
-Í
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs= ?(zx
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs= =(
+%ViewBagDataAllobject"object{y
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs= =(
+%ViewBagDataHtmlobject"objectæ
+ã
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs= =(n
+%0"__mapSet*
+
+%ViewBagDataAllobject*
+CheckoutCompleteMessage*B@
+>Thanks for your order. You'll soon enjoy our beautiful flowers«
+¨
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs= =(n
+%1"__mapSet*
+
+%ViewBagDataHtmlobject*
+CheckoutCompleteMessage*
+""Ø
+Õ
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs? ?(
 
-%0void"flowerapp/views/order/checkout*
+%2void"&flowerapp/views/order/checkoutcomplete*
 
-%1*
+%3*
 	{unknown}*
 
 %ViewBagDataAllobject*
@@ -25,11 +47,11 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs 
 %HttpContextItemsHtmlobjectÌ
 É
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs? ?(
 
-%2void"flowerapp/views/_viewstart*
+%4void"flowerapp/views/_viewstart*
 
-%3*
+%5*
 	{unknown}*
 
 %ViewBagDataAllobject*
@@ -45,11 +67,11 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs 
 %HttpContextItemsHtmlobjectÐ
 Í
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs? ?(
 
-%4void"flowerapp/views/shared/_layout*
+%6void"flowerapp/views/shared/_layout*
 
-%5*
+%7*
 	{unknown}*
 
 %ViewBagDataAllobject*
@@ -64,20 +86,20 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs 
 
 %HttpContextItemsHtmlobject"c
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs? ?(
 
 
-%4void*Ä
+%6void*Ä
 1S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs	 (	"j
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs@	 @(	"j
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (	
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs@ @(	
 implicit return*Ê
 2S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs' ('k
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs9/ 9(/k
 i
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs (%
-%6"__entrypoint*
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderController.cs9 9(-
+%8"__entrypoint*
 0B)'
 %FlowerApp.Controllers.OrderController

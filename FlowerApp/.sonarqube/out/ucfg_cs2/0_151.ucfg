@@ -1,16 +1,18 @@
 
-=FlowerApp.ViewModels.EditFlowerViewModel.ShortDescription.getV
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs	) 	(,"0*ƒ
+4FlowerApp.ViewModels.EditFlowerViewModel.InStock.setV
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs# (&"0*«
 0V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs	- 	(-»
-¸
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs' ('±
+®
 V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs	) 	(-
-%0string"__id*J*H*
-(FlowerApp.ViewModels.EditFlowerViewModel"
-ShortDescriptionstring"h
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs# ('=*
+(FlowerApp.ViewModels.EditFlowerViewModel"
+InStockbool"__id*
+
+valuebool"™
 V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs	) 	(-
-
-%0stringB,*
+LE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\EditFlowerViewModel.cs# ('?*=*
+(FlowerApp.ViewModels.EditFlowerViewModel"
+InStockbool:
+valueboolB,*
 (FlowerApp.ViewModels.EditFlowerViewModel

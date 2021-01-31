@@ -1,118 +1,153 @@
 
-$flowerapp/views/admin/usermanagementT
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\UserManagement.cshtml ("0*”
-0y
-oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.cshtml.g.csF J(∂≥
+&flowerapp/views/admin/flowermanagementV
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\FlowerManagement.cshtml ("0*◊
+0{
+qE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.cshtml.g.csF J(∂≥
 
 %0void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Z*2*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2`*2*
 ""2BeginContext(int, int, bool)Å
 
 %1void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()ç
-ä
-T
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\UserManagement.cshtml (
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()è
+å
+V
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\FlowerManagement.cshtml (
 
 %2bool"TSystem.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
 System.Linq.Enumerable*4
 2
 Model)System.Collections.Generic.IEnumerable<T>*
 1
-2*¡
-1y
-oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.cshtml.g.csO Q(∑¥
+2*√
+1{
+qE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.cshtml.g.csO Q(∑¥
 
 %3void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ç*2H*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ë*2H*
 ""2BeginContext(int, int, bool)Å
 
 %4void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()*
-3*¬
-2y
-oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.cshtml.g.csY ](,∏µ
+3*ƒ
+2{
+qE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.cshtml.g.csY ](1∏µ
 
 %5void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2·*2œ*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Â*2˝*
 ""2BeginContext(int, int, bool)Å
 
 %6void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()*
-4*à
-4{
-oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.cshtml.g.csı	 ı(	*
+4*ä
+4}
+qE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.cshtml.g.csâ	 â(	*
 5
-6*≤B
-5z
-oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.cshtml.g.csb ¥(W∑¥
+6*∆O
+5|
+qE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.cshtml.g.csb »(W∑¥
 
 %7void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Í*2&*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2°*2&*
 ""2BeginContext(int, int, bool)Å
 
 %8void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∑¥
 
 %9void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ë*2*
-""2BeginContext(int, int, bool)·ﬁ
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\UserManagement.cshtml (!
-%10string"7Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Id.get*4
-2
-user*Microsoft.AspNetCore.Identity.IdentityUser2Id.getÉÄ
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2»*2*
+""2BeginContext(int, int, bool)Œ
+À
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\FlowerManagement.cshtml ()
+
+%10int"1FlowerApp.ViewModels.FlowerViewModel.FlowerId.get*0
+.
+flower$FlowerApp.ViewModels.FlowerViewModelÉÄ
 %11void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
 %12void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ò*2*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2◊*2*
 ""2BeginContext(int, int, bool)ÉÄ
 %13void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
 %14void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2¥*2*
-""2BeginContext(int, int, bool)ÌÍ
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\UserManagement.cshtml ('
-%15string"=Microsoft.AspNetCore.Identity.IdentityUser<TKey>.UserName.get*4
-2
-user*Microsoft.AspNetCore.Identity.IdentityUser2UserName.getÉÄ
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Û*2*
+""2BeginContext(int, int, bool)Õ
+ 
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\FlowerManagement.cshtml (%
+%15string"-FlowerApp.ViewModels.FlowerViewModel.Name.get*0
+.
+flower$FlowerApp.ViewModels.FlowerViewModelÉÄ
 %16void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
 %17void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2¡*2*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2˛*2*
 ""2BeginContext(int, int, bool)ÉÄ
 %18void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
 %19void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2›*2
-*
-""2BeginContext(int, int, bool)Á‰
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\UserManagement.cshtml ($
-%20string":Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Email.get*4
-2
-user*Microsoft.AspNetCore.Identity.IdentityUser2	Email.getÉÄ
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ö*2*
+""2BeginContext(int, int, bool)Ÿ
+÷
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\FlowerManagement.cshtml (1
+%20string"9FlowerApp.ViewModels.FlowerViewModel.ShortDescription.get*0
+.
+flower$FlowerApp.ViewModels.FlowerViewModelÉÄ
 %21void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
 %22void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Á*21*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2±*2*
 ""2BeginContext(int, int, bool)ÉÄ
 %23void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()π∂
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
 %24void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ò*2≠*
-""2BeginContext(int, int, bool)Ω
-∫J
-%25CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"AAspNetCore.Views_Admin_UserManagement.__tagHelperScopeManager.get*)'
-%AspNetCore.Views_Admin_UserManagement
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Õ*2*
+""2BeginContext(int, int, bool)œ
+Ã
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\FlowerManagement.cshtml (&
+%25decimal".FlowerApp.ViewModels.FlowerViewModel.Price.get*0
+.
+flower$FlowerApp.ViewModels.FlowerViewModelÉÄ
+%26void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%27void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Ÿ*2*
+""2BeginContext(int, int, bool)ÉÄ
+%28void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%29void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ı*2*
+""2BeginContext(int, int, bool)⁄
+◊
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\FlowerManagement.cshtml (2
+%30string":FlowerApp.ViewModels.FlowerViewModel.ImageThumbnailUrl.get*0
+.
+flower$FlowerApp.ViewModels.FlowerViewModelÉÄ
+%31void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
+%32void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ç*21*
+""2BeginContext(int, int, bool)ÉÄ
+%33void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()π∂
+%34void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2æ*2√*
+""2BeginContext(int, int, bool)¡
+æJ
+%35CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"CAspNetCore.Views_Admin_FlowerManagement.__tagHelperScopeManager.get*+)
+'AspNetCore.Views_Admin_FlowerManagement
 
-%26"__id*
-""¨
-©
-%27void",flowerapp/views/admin/usermanagement!form131*
+%36"__id*
+""Æ
+´
+%37void".flowerapp/views/admin/flowermanagement!form151*
 
-%28*4
+%38*4
 2
 Model)System.Collections.Generic.IEnumerable<T>*
 
@@ -126,328 +161,334 @@ LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\UserManagement.cshtml
 
 HttpContextItemsAllobject* 
 
-HttpContextItemsHtmlobject¨
-©ë'
-%AspNetCore.Views_Admin_UserManagement"f
+HttpContextItemsHtmlobjectÆ
+´ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*
 
-%27voidª
+%37voidª
 ∏8
-%291Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"JMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.CreateTagHelper<TTagHelper>()*0.
-,Microsoft.AspNetCore.Mvc.Razor.RazorPageBase€
-ÿì'
-%AspNetCore.Views_Admin_UserManagement"h
+%391Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"JMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.CreateTagHelper<TTagHelper>()*0.
+,Microsoft.AspNetCore.Mvc.Razor.RazorPageBase›
+⁄ï)
+'AspNetCore.Views_Admin_FlowerManagement"h
 3__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper1Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*:
 8
-%291Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper
-ÌN
-%30GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext‹
-Ÿ8
-%311Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ñ*ì'
-%AspNetCore.Views_Admin_UserManagement"h
+%391Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperÚ
+ÔN
+%40GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextﬁ
+€8
+%411Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ò*ï)
+'AspNetCore.Views_Admin_FlowerManagement"h
 3__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper1Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperù
 ö
-%32void"}Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Add(Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper)*P
+%42void"}Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Add(Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper)*P
 N
-%30GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*:
+%40GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*:
 8
-%311Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper»
+%411Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper»
 ≈E
-%33>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper"JMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.CreateTagHelper<TTagHelper>()*0.
-,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseÉ
-ÄÆ'
-%AspNetCore.Views_Admin_UserManagement"Ç
+%43>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper"JMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.CreateTagHelper<TTagHelper>()*0.
+,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseÖ
+Ç∞)
+'AspNetCore.Views_Admin_FlowerManagement"Ç
 @__Microsoft_AspNetCore_Mvc_TagHelpers_RenderAtEndOfFormTagHelper>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper"__id*G
 E
-%33>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper
-ÌN
-%34GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÑ
-ÅE
-%35>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper"__id*±*Æ'
-%AspNetCore.Views_Admin_UserManagement"Ç
+%43>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelperÚ
+ÔN
+%44GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÜ
+ÉE
+%45>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper"__id*≥*∞)
+'AspNetCore.Views_Admin_FlowerManagement"Ç
 @__Microsoft_AspNetCore_Mvc_TagHelpers_RenderAtEndOfFormTagHelper>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper™
 ß
-%36void"}Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Add(Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper)*P
+%46void"}Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Add(Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper)*P
 N
-%34GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*G
+%44GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*G
 E
-%35>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper‹
-Ÿ8
-%371Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ñ*ì'
-%AspNetCore.Views_Admin_UserManagement"h
-3__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper1Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperÀ
-»?
-%388Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id**}'
-%AspNetCore.Views_Admin_UserManagement"R
+%45>Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelperﬁ
+€8
+%471Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ò*ï)
+'AspNetCore.Views_Admin_FlowerManagement"h
+3__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper1Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperŒ
+À?
+%488Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*Å*)
+'AspNetCore.Views_Admin_FlowerManagement"R
 __tagHelperAttribute_28Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeô
 ñ
-%39object"BMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute.Value.get*A
+%49object"BMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute.Value.get*A
 ?
-%388Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute 
+%488Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute 
 
-%40"__id*
+%50"__id*
 
-%39objectï
+%49objectï
 í
-%41string"<Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper.Action.set*:
+%51string"<Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper.Action.set*:
 8
-%371Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper*
+%471Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper*
 
-%40
-ÌN
-%42GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÀ
-»?
-%438Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id**}'
-%AspNetCore.Views_Admin_UserManagement"R
+%50Ú
+ÔN
+%52GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextŒ
+À?
+%538Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*Å*)
+'AspNetCore.Views_Admin_FlowerManagement"R
 __tagHelperAttribute_28Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeø
 º
-%44void"óMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*P
+%54void"óMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*P
 N
-%42GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*A
+%52GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*A
 ?
-%438Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute‹
-Ÿ8
-%451Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ñ*ì'
-%AspNetCore.Views_Admin_UserManagement"h
+%538Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeﬁ
+€8
+%551Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ò*ï)
+'AspNetCore.Views_Admin_FlowerManagement"h
 3__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper1Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperø
 º;
-%464System.Collections.Generic.IDictionary<TKey, TValue>"AMicrosoft.AspNetCore.Mvc.TagHelpers.FormTagHelper.RouteValues.get*:
+%564System.Collections.Generic.IDictionary<TKey, TValue>"AMicrosoft.AspNetCore.Mvc.TagHelpers.FormTagHelper.RouteValues.get*:
 8
-%451Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperá
+%551Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperá
 Ñ
-%47bool""object.operator ==(object, object)*
+%57bool""object.operator ==(object, object)*
 "
 object*=
 ;
-%464System.Collections.Generic.IDictionary<TKey, TValue>*
+%564System.Collections.Generic.IDictionary<TKey, TValue>*
 ""*
 7
-8*Ò
-7|
-oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.cshtml.g.cs∂ ∂(®Ü
+8*Û
+7~
+qE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.cshtml.g.cs   (®Ü
 É
-%48string"fMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.InvalidTagHelperIndexerAssignment(string, string, string)*0.
+%58string"fMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.InvalidTagHelperIndexerAssignment(string, string, string)*0.
 ,Microsoft.AspNetCore.Mvc.Razor.RazorPageBase*
 asp-route-id*53
 1Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper*
 RouteValuesMK'
-%49 System.InvalidOperationException" System.InvalidOperationExceptionê
+%59 System.InvalidOperationException" System.InvalidOperationExceptionê
 ç
-%50void"BSystem.InvalidOperationException.InvalidOperationException(string)*)
+%60void"BSystem.InvalidOperationException.InvalidOperationException(string)*)
 '
-%49 System.InvalidOperationException*
+%59 System.InvalidOperationException*
 
-%48string*
-9*Ï*
-8{
-oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.cshtml.g.cs∏ ƒ(Eè
+%58string*
+9*ˆ*
+8}
+qE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.cshtml.g.csÃ ÿ(Eè
 å
-%51void"KMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.BeginWriteTagHelperAttribute()*0.
-,Microsoft.AspNetCore.Mvc.Razor.RazorPageBase·ﬁ
-V
-LE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\UserManagement.cshtml (X
-%52string"7Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Id.get*4
-2
-user*Microsoft.AspNetCore.Identity.IdentityUser2Id.getè
+%61void"KMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.BeginWriteTagHelperAttribute()*0.
+,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseŒ
+À
+X
+NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Views\Admin\FlowerManagement.cshtml (b
+
+%62int"1FlowerApp.ViewModels.FlowerViewModel.FlowerId.get*0
+.
+flower$FlowerApp.ViewModels.FlowerViewModelè
 å
-%53string"IMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.EndWriteTagHelperAttribute()*0.
-,Microsoft.AspNetCore.Mvc.Razor.RazorPageBasel
-jQ'
-%AspNetCore.Views_Admin_UserManagement"&
+%63string"IMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.EndWriteTagHelperAttribute()*0.
+,Microsoft.AspNetCore.Mvc.Razor.RazorPageBasen
+lS)
+'AspNetCore.Views_Admin_FlowerManagement"&
 __tagHelperStringValueBufferstring"__id*
 
-%53string‹
-Ÿ8
-%541Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ñ*ì'
-%AspNetCore.Views_Admin_UserManagement"h
+%63stringﬁ
+€8
+%641Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ò*ï)
+'AspNetCore.Views_Admin_FlowerManagement"h
 3__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper1Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperø
 º;
-%554System.Collections.Generic.IDictionary<TKey, TValue>"AMicrosoft.AspNetCore.Mvc.TagHelpers.FormTagHelper.RouteValues.get*:
+%654System.Collections.Generic.IDictionary<TKey, TValue>"AMicrosoft.AspNetCore.Mvc.TagHelpers.FormTagHelper.RouteValues.get*:
 8
-%541Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperl
-j
-%56string"__id*S*Q'
-%AspNetCore.Views_Admin_UserManagement"&
+%641Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelpern
+l
+%66string"__id*U*S)
+'AspNetCore.Views_Admin_FlowerManagement"&
 __tagHelperStringValueBufferstringk
 i
-%57"__mapSet*=
+%67"__mapSet*=
 ;
-%554System.Collections.Generic.IDictionary<TKey, TValue>*
+%654System.Collections.Generic.IDictionary<TKey, TValue>*
 id*
 
-%56string
-ÌN
-%58GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext‹
-Ÿ8
-%591Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ñ*ì'
-%AspNetCore.Views_Admin_UserManagement"h
+%66stringÚ
+ÔN
+%68GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextﬁ
+€8
+%691Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ò*ï)
+'AspNetCore.Views_Admin_FlowerManagement"h
 3__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper1Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperø
 º;
-%604System.Collections.Generic.IDictionary<TKey, TValue>"AMicrosoft.AspNetCore.Mvc.TagHelpers.FormTagHelper.RouteValues.get*:
+%704System.Collections.Generic.IDictionary<TKey, TValue>"AMicrosoft.AspNetCore.Mvc.TagHelpers.FormTagHelper.RouteValues.get*:
 8
-%591Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperb
+%691Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperb
 `
-%61string"__mapGet*=
+%71string"__mapGet*=
 ;
-%604System.Collections.Generic.IDictionary<TKey, TValue>*
+%704System.Collections.Generic.IDictionary<TKey, TValue>*
 id
 
-%62"__id*
+%72"__id*
 ""Ω
 ∫
-%63void"¨Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(string, object, Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle)*P
+%73void"¨Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(string, object, Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle)*P
 N
-%58GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
+%68GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
 asp-route-id*
 
-%61string*
+%71string*
 
-%62‹
-Ÿ8
-%641Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ñ*ì'
-%AspNetCore.Views_Admin_UserManagement"h
-3__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper1Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperÀ
-»?
-%658Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id**}'
-%AspNetCore.Views_Admin_UserManagement"R
+%72ﬁ
+€8
+%741Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper"__id*ò*ï)
+'AspNetCore.Views_Admin_FlowerManagement"h
+3__Microsoft_AspNetCore_Mvc_TagHelpers_FormTagHelper1Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelperŒ
+À?
+%758Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*Å*)
+'AspNetCore.Views_Admin_FlowerManagement"R
 __tagHelperAttribute_38Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeô
 ñ
-%66object"BMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute.Value.get*A
+%76object"BMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute.Value.get*A
 ?
-%658Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute 
+%758Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute 
 
-%67"__id*
+%77"__id*
 
-%66objectï
+%76objectï
 í
-%68string"<Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper.Method.set*:
+%78string"<Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper.Method.set*:
 8
-%641Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper*
+%741Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper*
 
-%67
-ÌN
-%69GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÀ
-»?
-%708Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id**}'
-%AspNetCore.Views_Admin_UserManagement"R
+%77Ú
+ÔN
+%79GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextŒ
+À?
+%808Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*Å*)
+'AspNetCore.Views_Admin_FlowerManagement"R
 __tagHelperAttribute_38Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeø
 º
-%71void"óMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*P
+%81void"óMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*P
 N
-%69GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*A
+%79GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*A
 ?
-%708Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute–
-ÕD
-%72=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner"__id**}'
-%AspNetCore.Views_Admin_UserManagement"R
-__tagHelperRunner=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner
-ÌN
-%73GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
+%808Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute”
+–D
+%82=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner"__id*Å*)
+'AspNetCore.Views_Admin_FlowerManagement"R
+__tagHelperRunner=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunnerÚ
+ÔN
+%83GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext”
 –"
-%74System.Threading.Tasks.Task"èMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext)*F
+%84System.Threading.Tasks.Task"èMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext)*F
 D
-%72=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner*P
+%82=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner*P
 N
-%73GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext
-ÌN
-%75GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
+%83GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÚ
+ÔN
+%85GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÁ
 ‰<
-%765Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
+%865Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
 N
-%75GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextù
+%85GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextù
 ö
-%77bool"KMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.IsContentModified.get*>
+%87bool"KMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.IsContentModified.get*>
 <
-%765Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
+%865Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
 10
-11*◊
-10{
-oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.cshtml.g.cs∆ ∆(I
-ÌN
-%78GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
+11*€
+10}
+qE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.cshtml.g.cs⁄ ⁄(IÚ
+ÔN
+%88GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext⁄
 ◊"
-%79System.Threading.Tasks.Task"_Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()*P
+%89System.Threading.Tasks.Task"_Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()*P
 N
-%78GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
-11*©
-11{
-oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.cshtml.g.cs» Õ(
-ÌN
-%80GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
+%88GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
+11*≥
+11}
+qE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.cshtml.g.cs‹ ·(Ú
+ÔN
+%90GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÁ
 ‰<
-%815Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
+%915Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
 N
-%80GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext\
+%90GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext\
 Z
-%82void"!razor_sink*>
+%92void"!razor_sink*>
 <
-%815Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutputΩ
-∫J
-%83CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"AAspNetCore.Views_Admin_UserManagement.__tagHelperScopeManager.get*)'
-%AspNetCore.Views_Admin_UserManagementÏ
+%915Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput¡
+æJ
+%93CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"CAspNetCore.Views_Admin_FlowerManagement.__tagHelperScopeManager.get*+)
+'AspNetCore.Views_Admin_FlowerManagementÏ
 ÈN
-%84GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"IMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager.End()*L
+%94GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"IMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager.End()*L
 J
-%83CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManagerÔ
-Ïë'
-%AspNetCore.Views_Admin_UserManagement"f
+%93CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManagerÒ
+Óì)
+'AspNetCore.Views_Admin_FlowerManagement"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*P
 N
-%84GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÉÄ
-%85void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+%94GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÉÄ
+%95void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
-%86void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2≈*2,*
+%96void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2Å
+*2,*
 ""2BeginContext(int, int, bool)ÉÄ
-%87void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+%97void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()*
-4*∆
-6{
-oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.cshtml.g.cs” ’(∏µ
-%88void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2¸*2*
+4*»
+6}
+qE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.cshtml.g.csÁ È(∏µ
+%98void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2∏
+*2*
 ""2BeginContext(int, int, bool)ÉÄ
-%89void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+%99void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()*
-3*ù1
-3{
-oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.cshtml.g.cs€ Î(E∏µ
-%90void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ç	*2	*
-""2BeginContext(int, int, bool)ÉÄ
-%91void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()∏µ
-%92void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ñ	*2@*
-""2BeginContext(int, int, bool)Ω
-∫J
-%93CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"AAspNetCore.Views_Admin_UserManagement.__tagHelperScopeManager.get*)'
-%AspNetCore.Views_Admin_UserManagement
-
-%94"__id*
-""©
-¶
-%95void")flowerapp/views/admin/usermanagement!a222*
-
-%96*4
+3*—1
+3}
+qE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.cshtml.g.csÔ ˇ(Eπ∂
+%100void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2…
+*2	*
+""2BeginContext(int, int, bool)ÑÅ
+%101void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()π∂
+%102void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2“
+*2D*
+""2BeginContext(int, int, bool)¬
+øK
+%103CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"CAspNetCore.Views_Admin_FlowerManagement.__tagHelperScopeManager.get*+)
+'AspNetCore.Views_Admin_FlowerManagement
+
+%104"__id*
+""≠
+™
+%105void"+flowerapp/views/admin/flowermanagement!a242*
+
+%106*4
 2
 Model)System.Collections.Generic.IEnumerable<T>*
 
@@ -461,159 +502,159 @@ oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\
 
 HttpContextItemsAllobject* 
 
-HttpContextItemsHtmlobject¨
-©ë'
-%AspNetCore.Views_Admin_UserManagement"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*
-
-%95voidΩ
-∫:
-%973Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"JMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.CreateTagHelper<TTagHelper>()*0.
-,Microsoft.AspNetCore.Mvc.Razor.RazorPageBase·
-ﬁó'
-%AspNetCore.Views_Admin_UserManagement"l
-5__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper3Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"__id*<
-:
-%973Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper
-ÌN
-%98GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext‚
-ﬂ:
-%993Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"__id*ö*ó'
-%AspNetCore.Views_Admin_UserManagement"l
-5__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper3Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper†
-ù
-%100void"}Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Add(Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper)*P
-N
-%98GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*<
-:
-%993Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelperÒ
-ÓO
-%101GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÃ
-…@
-%1028Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id**}'
-%AspNetCore.Views_Admin_UserManagement"R
+HttpContextItemsHtmlobjectØ
+¨ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*
+
+%105voidæ
+ª;
+%1073Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"JMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.CreateTagHelper<TTagHelper>()*0.
+,Microsoft.AspNetCore.Mvc.Razor.RazorPageBase‰
+·ô)
+'AspNetCore.Views_Admin_FlowerManagement"l
+5__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper3Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"__id*=
+;
+%1073Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelperÛ
+O
+%108GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÂ
+‚;
+%1093Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"__id*ú*ô)
+'AspNetCore.Views_Admin_FlowerManagement"l
+5__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper3Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper¢
+ü
+%110void"}Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Add(Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper)*Q
+O
+%108GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*=
+;
+%1093Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelperÛ
+O
+%111GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextœ
+Ã@
+%1128Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*Å*)
+'AspNetCore.Views_Admin_FlowerManagement"R
 __tagHelperAttribute_48Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeΩ
 ∫
-%103void"íMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddHtmlAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*Q
+%113void"íMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddHtmlAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*Q
 O
-%101GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*B
+%111GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*B
 @
-%1028Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute„
-‡;
-%1043Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"__id*ö*ó'
-%AspNetCore.Views_Admin_UserManagement"l
-5__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper3Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelperÃ
-…@
-%1058Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id**}'
-%AspNetCore.Views_Admin_UserManagement"R
+%1128Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeÂ
+‚;
+%1143Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"__id*ú*ô)
+'AspNetCore.Views_Admin_FlowerManagement"l
+5__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper3Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelperœ
+Ã@
+%1158Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*Å*)
+'AspNetCore.Views_Admin_FlowerManagement"R
 __tagHelperAttribute_58Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeõ
 ò
-%106object"BMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute.Value.get*B
+%116object"BMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute.Value.get*B
 @
-%1058Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"
+%1158Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"
  
-%107"__id*
+%117"__id*
 
-%106objectú
+%116objectú
 ô
-%108string">Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper.Action.set*=
+%118string">Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper.Action.set*=
 ;
-%1043Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper*
+%1143Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper*
 
-%107Ò
-ÓO
-%109GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
-__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÃ
-…@
-%1108Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id**}'
-%AspNetCore.Views_Admin_UserManagement"R
+%117Û
+O
+%119GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextœ
+Ã@
+%1208Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*Å*)
+'AspNetCore.Views_Admin_FlowerManagement"R
 __tagHelperAttribute_58Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute¬
 ø
-%111void"óMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*Q
+%121void"óMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*Q
 O
-%109GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*B
+%119GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*B
 @
-%1108Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute—
-ŒE
-%112=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner"__id**}'
-%AspNetCore.Views_Admin_UserManagement"R
-__tagHelperRunner=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunnerÒ
-ÓO
-%113GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
+%1208Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute‘
+—E
+%122=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner"__id*Å*)
+'AspNetCore.Views_Admin_FlowerManagement"R
+__tagHelperRunner=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunnerÛ
+O
+%123GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext÷
 ”#
-%114System.Threading.Tasks.Task"èMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext)*G
+%124System.Threading.Tasks.Task"èMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext)*G
 E
-%112=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner*Q
+%122=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner*Q
 O
-%113GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÒ
-ÓO
-%115GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
+%123GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÛ
+O
+%125GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÈ
 Ê=
-%1165Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*Q
+%1265Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*Q
 O
-%115GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextü
+%125GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextü
 ú
-%117bool"KMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.IsContentModified.get*?
+%127bool"KMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.IsContentModified.get*?
 =
-%1165Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
+%1265Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
 12
-13*⁄
-12{
-oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.cshtml.g.csÌ Ì(IÒ
-ÓO
-%118GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
+13*ﬁ
+12}
+qE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.cshtml.g.csÅ Å(IÛ
+O
+%128GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext‹
 Ÿ#
-%119System.Threading.Tasks.Task"_Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()*Q
+%129System.Threading.Tasks.Task"_Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()*Q
 O
-%118GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
-13*µ
-13{
-oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.cshtml.g.csÔ Ù(Ò
-ÓO
-%120GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*î*ë'
-%AspNetCore.Views_Admin_UserManagement"f
+%128GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
+13*ø
+13}
+qE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.cshtml.g.csÉ à(Û
+O
+%130GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ñ*ì)
+'AspNetCore.Views_Admin_FlowerManagement"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÈ
 Ê=
-%1215Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*Q
+%1315Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*Q
 O
-%120GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext^
+%130GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext^
 \
-%122void"!razor_sink*?
+%132void"!razor_sink*?
 =
-%1215Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutputæ
-ªK
-%123CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"AAspNetCore.Views_Admin_UserManagement.__tagHelperScopeManager.get*)'
-%AspNetCore.Views_Admin_UserManagementÓ
+%1315Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput¬
+øK
+%133CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager"CAspNetCore.Views_Admin_FlowerManagement.__tagHelperScopeManager.get*+)
+'AspNetCore.Views_Admin_FlowerManagementÓ
 ÎO
-%124GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"IMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager.End()*M
+%134GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"IMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager.End()*M
 K
-%123CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager
-Ìë'
-%AspNetCore.Views_Admin_UserManagement"f
+%133CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManagerÚ
+Ôì)
+'AspNetCore.Views_Admin_FlowerManagement"f
 __tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*Q
 O
-%124GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÑÅ
-%125void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+%134GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÑÅ
+%135void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()π∂
-%126void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
-(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2÷	*2*
+%136void"EMicrosoft.AspNetCore.Mvc.Razor.RazorPage.BeginContext(int, int, bool)*,*
+(Microsoft.AspNetCore.Mvc.Razor.RazorPage*2ñ*2*
 ""2BeginContext(int, int, bool)ÑÅ
-%127void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
+%137void"5Microsoft.AspNetCore.Mvc.Razor.RazorPage.EndContext()*,*
 (Microsoft.AspNetCore.Mvc.Razor.RazorPage2EndContext()*
-9*ó
-9{
-oE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\UserManagement.cshtml.g.csı	 ı(	"
+9*ô
+9}
+qE:\Projects\FlowerShop\FlowerApp\FlowerApp\obj\Debug\netcoreapp2.1\Razor\Views\Admin\FlowerManagement.cshtml.g.csâ	 â(	"
 implicit return:2
 Model)System.Collections.Generic.IEnumerable<T>:
 ViewBagDataAllobject:

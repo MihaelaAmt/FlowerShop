@@ -1,6 +1,4 @@
-á
- FlowerApp.Migrations.AddFavorite2Microsoft.EntityFrameworkCore.Migrations.Migrationobjectü
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)^FlowerApp.Migrations.AddFavorite.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)£
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)`FlowerApp.Migrations.AddFavorite.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ù
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)]FlowerApp.Migrations.AddFavorite.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)?
-AddFavorite().FlowerApp.Migrations.AddFavorite.AddFavorite()
+Å
+.FlowerApp.Migrations.AppDbContextModelSnapshot:Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshotobjectü
+6BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)eFlowerApp.Migrations.AppDbContextModelSnapshot.BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)i
+AppDbContextModelSnapshot()JFlowerApp.Migrations.AppDbContextModelSnapshot.AppDbContextModelSnapshot()

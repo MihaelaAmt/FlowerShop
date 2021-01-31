@@ -1,16 +1,16 @@
 
-=FlowerApp.ViewModels.OrderHistoryDetailsViewModel.OrderId.get_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs ( "0*•
+?FlowerApp.ViewModels.OrderHistoryDetailsViewModel.PayMethod.get_
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (%"0* 
 0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs! (!¾
-»
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs& (&Æ
+Ã
 _
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs (!	
-%0int"__id*G*E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-OrderIdint"n
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (&
+%0string"__id*L*J3
+1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
+	PayMethodstring"q
 _
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs (!
-	
-%0intB53
+UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs" (&
+
+%0stringB53
 1FlowerApp.ViewModels.OrderHistoryDetailsViewModel

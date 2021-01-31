@@ -1,103 +1,39 @@
 
-9FlowerApp.Controllers.FlowerController.AddToFavorite(int)T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs` `()"4*»
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb d(¯
-ı
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb b(*,
-%0&FlowerApp.Repository.IFlowerRepository"__id*i*g(
-&FlowerApp.Controllers.FlowerController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepository˚¯
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb b(2/
-%1)System.Collections.Generic.IEnumerable<T>"2FlowerApp.Repository.IFlowerRepository.Flowers.get*.
-,
-%0&FlowerApp.Repository.IFlowerRepository2Flowers.get’
-“
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb b(U/
-%2)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
-System.Linq.Enumerable*1
-/
-%1)System.Collections.Generic.IEnumerable<T>*
-""®
-•
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb b(f
-%3FlowerApp.Models.Flower"_System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*1
-/
-%2)System.Collections.Generic.IEnumerable<T>£
-†
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csb b(f!
-flowerFlowerApp.Models.Flower"__id*
-
-%3FlowerApp.Models.Flower¬
-ø
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csd d(
-
-%4bool""object.operator !=(object, object)*
-"
-object*#
-!
-flowerFlowerApp.Models.Flower*
-""*
-1
-2*»
-1T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csf g(5∫
-∑
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csf f((
-
-%5bool"&FlowerApp.Models.Flower.IsFavorite.set*#
-!
-flowerFlowerApp.Models.Flower*
-""¯
-ı
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csg g(!,
-%6&FlowerApp.Repository.IFlowerRepository"__id*i*g(
-&FlowerApp.Controllers.FlowerController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepositoryØ¨
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csg g(6
-
-%7bool"LFlowerApp.Repository.IFlowerRepository.UpdateFlower(FlowerApp.Models.Flower)*.
-,
-%6&FlowerApp.Repository.IFlowerRepository*#
-!
-flowerFlowerApp.Models.Flower2%UpdateFlower(FlowerApp.Models.Flower)*
-2*±
-2T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csj j(8√¿
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csj j(95
-%8/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, string)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*
-
-Favorite*
-
-Flower2 RedirectToAction(string, string)"è
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csj j(:7
+0FlowerApp.Controllers.AccountController.Logout()U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csp) p(/"2*–
+0U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csr t(3è
+å
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csr r( 8
+%02Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*s*q)
+'FlowerApp.Controllers.AccountController"D
+_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>åâ
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csr r(/!
+%1System.Threading.Tasks.Task"AMicrosoft.AspNetCore.Identity.SignInManager<TUser>.SignOutAsync()*:
+8
+%02Microsoft.AspNetCore.Identity.SignInManager<TUser>2SignOutAsync()øº
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cst t(45
+%2/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*	
+Index*
+Home2 RedirectToAction(string, string)"ê
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cst t(57
 5
-%8/Microsoft.AspNetCore.Mvc.RedirectToActionResult*∆
-3T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk	 k(	"k
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk k(	
-implicit return*‘
-4T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs`7 `(7t
-r
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs` `()
-%9"__entrypoint*
-""*
-0:
-flowerIdintB*(
-&FlowerApp.Controllers.FlowerController
+%2/Microsoft.AspNetCore.Mvc.RedirectToActionResult*»
+1U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csu	 u(	"l
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csu u(	
+implicit return*Œ
+2U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csp1 p(1m
+k
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csp) p(/
+%3"__entrypoint*
+0B+)
+'FlowerApp.Controllers.AccountController

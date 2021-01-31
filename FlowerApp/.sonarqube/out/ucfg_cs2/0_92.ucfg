@@ -1,16 +1,18 @@
 
-:FlowerApp.ViewModels.OrderHistoryDetailsViewModel.City.get_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	 	( "0*›
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	! 	(!Á
-¾
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	 	(!
-%0string"__id*G*E3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-Citystring"q
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs	 	(!
-
-%0stringB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+1FlowerApp.ViewModels.LoginViewModel.ReturnUrl.setQ
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs' (*"0*œ
+0Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs+ (+­
+ª
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs' (+<%
+#FlowerApp.ViewModels.LoginViewModel"
+	ReturnUrlstring"__id*
+
+valuestring"“
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs' (+>*<%
+#FlowerApp.ViewModels.LoginViewModel"
+	ReturnUrlstring:
+valuestringB'%
+#FlowerApp.ViewModels.LoginViewModel

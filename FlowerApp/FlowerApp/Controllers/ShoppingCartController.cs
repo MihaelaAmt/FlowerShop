@@ -6,17 +6,24 @@ using System.Linq;
 
 namespace FlowerApp.Controllers
 {
+    //create controller for Shopping Cart
+    //base class is controller
     public class ShoppingCartController : Controller
     {
+        //using Flower Repository interface
         private readonly IFlowerRepository _flowerRepository;
+        //using Shopping Cart from models
         private readonly ShoppingCart _shoppingCart;
 
+        //constructor
         public ShoppingCartController(IFlowerRepository flowerRepository, ShoppingCart shoppingCart)
         {
             _flowerRepository = flowerRepository;
             _shoppingCart = shoppingCart;
         }
 
+
+        //create a view result
         public ViewResult Index()
         {
             var items = _shoppingCart.GetShoppingCartItems();
@@ -24,6 +31,8 @@ namespace FlowerApp.Controllers
 
             var shoppingCartViewModel = new ShoppingCartViewModel
             {
+                //shopping cart
+                //and shopping cart total
                 ShoppingCart = _shoppingCart,
                 ShoppingCartTotal = _shoppingCart.GetShoppingCartTotal()
             };
@@ -31,21 +40,28 @@ namespace FlowerApp.Controllers
             return View(shoppingCartViewModel);
         }
 
+
+        //add flower in shooping cart
         public RedirectToActionResult AddToShoppingCart(int flowerId)
         {
             var selectedFlower = _flowerRepository.Flowers.FirstOrDefault(p => p.FlowerId == flowerId);
 
+            //the flower selected is not null
             if (selectedFlower != null)
             {
                 _shoppingCart.AddToCart(selectedFlower, 1);
             }
+            //redirect to index
             return RedirectToAction("Index");
         }
 
+
+        //update shopping cart
         public RedirectToActionResult UpdateShoppingCart(int flowerId, bool isAdding)
         {
             var selectedFlower = _flowerRepository.Flowers.FirstOrDefault(p => p.FlowerId == flowerId);
 
+            //the flower selected is not null
             if (selectedFlower != null)
             {
                 if (isAdding)
@@ -57,9 +73,11 @@ namespace FlowerApp.Controllers
                     _shoppingCart.AddToCart(selectedFlower, -1);
                 }
             }
+            //redirect to index
             return RedirectToAction("Index");
         }
 
+        //remove from Shopping Cart
         public RedirectToActionResult RemoveFromShoppingCart(int flowerId)
         {
             var selectedFlower = _flowerRepository.Flowers.FirstOrDefault(p => p.FlowerId == flowerId);
@@ -68,6 +86,7 @@ namespace FlowerApp.Controllers
             {
                 _shoppingCart.RemoveFromCart(selectedFlower);
             }
+            //redirect to index
             return RedirectToAction("Index");
         }
     }

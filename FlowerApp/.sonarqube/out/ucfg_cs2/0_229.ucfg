@@ -1,31 +1,18 @@
 
-rFlowerApp.Repository.OrderRepository.OrderRepository(FlowerApp.Models.AppDbContext, FlowerApp.Models.ShoppingCart)R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs ("1*\
-1R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs	 (	*
-0*²
-0R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs ((è
-å
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs ((X&
-$FlowerApp.Repository.OrderRepository".
-_appDbContextFlowerApp.Models.AppDbContext"__id*/
--
-appDbContextFlowerApp.Models.AppDbContextè
-å
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs ((X&
-$FlowerApp.Repository.OrderRepository".
-_shoppingCartFlowerApp.Models.ShoppingCart"__id*/
--
-shoppingCartFlowerApp.Models.ShoppingCart*
-2*Â
-2R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs	 (	"i
-R
-HE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\OrderRepository.cs (	
-implicit return:-
-appDbContextFlowerApp.Models.AppDbContext:-
-shoppingCartFlowerApp.Models.ShoppingCartB(&
-$FlowerApp.Repository.OrderRepository
+*FlowerApp.Models.Category.CategoryName.setG
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs ("0*ð
+0G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (œ
+™
+G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (5
+FlowerApp.Models.Category"
+CategoryNamestring"__id*
+
+valuestring"‚
+G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (7*5
+FlowerApp.Models.Category"
+CategoryNamestring:
+valuestringB
+FlowerApp.Models.Category

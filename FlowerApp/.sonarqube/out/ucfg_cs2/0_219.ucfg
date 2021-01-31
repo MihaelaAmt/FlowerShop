@@ -1,22 +1,28 @@
 
-[FlowerApp.Migrations.Order2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs  ($"0*œ
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs (·´
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs ( _
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-SecurityCode*
-
-Orders*
-""2"DropColumn(string, string, string)*
-1*Î
-1X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs	 (	"o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB
-FlowerApp.Migrations.Order2
+ FlowerApp.Program.Main(string[])?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs ("0*£
+0?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (Æ
+Ã
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (+
+%0%Microsoft.AspNetCore.Hosting.IWebHost"(FlowerApp.Program.BuildWebHost(string[])*"
+FlowerApp.Program*
+
+argsstring[]Ž
+‹
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs ($
+
+%1void"YMicrosoft.AspNetCore.Hosting.WebHostExtensions.Run(Microsoft.AspNetCore.Hosting.IWebHost)*2"0
+.Microsoft.AspNetCore.Hosting.WebHostExtensions*-
++
+%0%Microsoft.AspNetCore.Hosting.IWebHost*
+1*œ
+1?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs	 (	"V
+?
+5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Program.cs (	
+implicit return:
+argsstring[]B"
+FlowerApp.Program

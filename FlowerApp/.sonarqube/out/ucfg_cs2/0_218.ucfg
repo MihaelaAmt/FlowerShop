@@ -1,30 +1,70 @@
 
-YFlowerApp.Migrations.Order2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs  (""0*ç
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs	 (‚ÿ
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs	 (_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"žMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-SecurityCode*
-
-Orders*
-""*
-""*22*
-""*
-""*
-""*
-""*
-""*
-""*
-""2dAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?)*
-1*Î
-1X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs	 (	"o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191212095803_Order2.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB
-FlowerApp.Migrations.Order2
+!razor_component_CategoryMenuO
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs$ (*"0*Ü
+0O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs ("ô
+ñ
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (0.
+%0(FlowerApp.Repository.ICategoryRepository"__id*h*f#
+!FlowerApp.Components.CategoryMenu"?
+_categoryRepository(FlowerApp.Repository.ICategoryRepository€ý
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (;/
+%1)System.Collections.Generic.IEnumerable<T>"7FlowerApp.Repository.ICategoryRepository.Categories.get*0
+.
+%0(FlowerApp.Repository.ICategoryRepository2Categories.get×
+Ô
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (X.
+%2(System.Linq.IOrderedEnumerable<TElement>"zSystem.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)*"
+System.Linq.Enumerable*1
+/
+%1)System.Collections.Generic.IEnumerable<T>*
+""Ä
+Á
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (X6
+
+categories(System.Linq.IOrderedEnumerable<TElement>"__id*0
+.
+%2(System.Linq.IOrderedEnumerable<TElement>‰
+†
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (#
+
+%3void"6flowerapp/views/shared/components/categorymenu/default*
+
+%4*8
+6
+
+categories(System.Linq.IOrderedEnumerable<TElement>*
+
+ViewBagDataAllobject*
+
+ViewBagDataHtmlobject*
+
+TempDataAllobject*
+
+TempDataHtmlobject*
+
+HttpContextItemsAllobject* 
+
+HttpContextItemsHtmlobject"_
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs ($
+
+
+%3void*¼
+1O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs	 (	"f
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\CategoryMenu.cs (	
+implicit return:
+ViewBagDataAllobject:
+ViewBagDataHtmlobject:
+TempDataAllobject:
+TempDataHtmlobject:
+HttpContextItemsAllobject:
+HttpContextItemsHtmlobjectB%#
+!FlowerApp.Components.CategoryMenu

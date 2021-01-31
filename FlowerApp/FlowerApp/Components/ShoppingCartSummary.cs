@@ -22,7 +22,8 @@ namespace FlowerApp.Components
             //var items = new List<ShoppingCartItem>() { new ShoppingCartItem(), new ShoppingCartItem() };
             _shoppingCart.ShoppingCartItems = items;
 
-            //all itmes from shopping cart and total
+            //all itmes from shopping cart 
+            //and total
             var shoppingViewModel = new ShoppingCartViewModel
             {
                 ShoppingCart = _shoppingCart,

@@ -1,16 +1,34 @@
 
-/FlowerApp.Controllers.AdminController.AddUser()S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs1 1($"2*±	
+TFlowerApp.Controllers.AdminController.AddUser(FlowerApp.ViewModels.AddUserViewModel)S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csC) C(0"9*’
 0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs3 3(œ
-Ã
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csE E(#ˇ
+¸
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs3 3(
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csE E(@
+%0:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"6Microsoft.AspNetCore.Mvc.ControllerBase.ModelState.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase
+Ì
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csE E(#
 
-%0void"flowerapp/views/admin/adduser*
+%1bool"FMicrosoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary.IsValid.get*B
+@
+%0:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary*
+1
+2*ª
+
+1S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csG G(,˝
+˙
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csG G(-
+
+%2void"flowerapp/views/admin/adduser*
 
-%1*
-	{unknown}*
+%3*;
+9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModel*
 
 %ViewBagDataAllobject*
 
@@ -22,15 +40,16 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs3 3
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjectÃ
-…
+%HttpContextItemsHtmlobject˙
+˜
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs3 3(
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csG G(-
 
-%2void"flowerapp/views/_viewstart*
+%4void"flowerapp/views/_viewstart*
 
-%3*
-	{unknown}*
+%5*;
+9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModel*
 
 %ViewBagDataAllobject*
 
@@ -42,15 +61,16 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs3 3
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobject–
-Õ
+%HttpContextItemsHtmlobject˛
+˚
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs3 3(
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csG G(-
 
-%4void"flowerapp/views/shared/_layout*
+%6void"flowerapp/views/shared/_layout*
 
-%5*
-	{unknown}*
+%7*;
+9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModel*
 
 %ViewBagDataAllobject*
 
@@ -64,20 +84,289 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs3 3
 
 %HttpContextItemsHtmlobject"c
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs3 3(
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csG G(.
 
 
-%4void*ƒ
-1S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs4	 4(	"j
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs4 4(	
-implicit return* 
+%6void*ﬁ
 2S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs1& 1(&k
-i
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csJ \( ûõ
 S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs1 1($
-%6"__entrypoint*
-0B)'
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csJ V($
+%8FlowerApp.Auth.ApplicationUser"FlowerApp.Auth.ApplicationUseræ
+ª
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csJ J(*
+
+%9void"0FlowerApp.Auth.ApplicationUser.ApplicationUser()*&
+$
+%8FlowerApp.Auth.ApplicationUserÿ
+’
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csM M(4
+%10string"2FlowerApp.ViewModels.AddUserViewModel.UserName.get*;
+9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModelÌÍ
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csM M(4
+%11string"=Microsoft.AspNetCore.Identity.IdentityUser<TKey>.UserName.set*&
+$
+%8FlowerApp.Auth.ApplicationUser*
+
+%10string2UserName.set’
+“
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csO O(.
+%12string"/FlowerApp.ViewModels.AddUserViewModel.Email.get*;
+9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModelÁ‰
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csO O(.
+%13string":Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Email.set*&
+$
+%8FlowerApp.Auth.ApplicationUser*
+
+%12string2	Email.set‚
+ﬂ
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csQ Q(6
+%14System.DateTime"3FlowerApp.ViewModels.AddUserViewModel.Birthdate.get*;
+9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModel‡
+›
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csQ Q(6
+%15System.DateTime",FlowerApp.Auth.ApplicationUser.Birthdate.set*&
+$
+%8FlowerApp.Auth.ApplicationUser*
+
+%14System.DateTime‘
+—
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csS S(,
+%16string".FlowerApp.ViewModels.AddUserViewModel.City.get*;
+9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModel…
+∆
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csS S(,
+%17string"'FlowerApp.Auth.ApplicationUser.City.set*&
+$
+%8FlowerApp.Auth.ApplicationUser*
+
+%16string◊
+‘
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csU U(2
+%18string"1FlowerApp.ViewModels.AddUserViewModel.Country.get*;
+9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModelÃ
+…
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csU U(2
+%19string"*FlowerApp.Auth.ApplicationUser.Country.set*&
+$
+%8FlowerApp.Auth.ApplicationUser*
+
+%18stringÆ
+´
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csJ V(&
+userFlowerApp.Auth.ApplicationUser"__id*&
+$
+%8FlowerApp.Auth.ApplicationUserÜ
+É
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csX* X(67
+%200Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*m*k'
+%FlowerApp.Controllers.AdminController"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>ÿ
+’
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csXI X(b
+%21string"2FlowerApp.ViewModels.AddUserViewModel.Password.get*;
+9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModel‰·
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csX* X(c+
+%22$System.Threading.Tasks.Task<TResult>"KMicrosoft.AspNetCore.Identity.UserManager<TUser>.CreateAsync(TUser, string)*9
+7
+%200Microsoft.AspNetCore.Identity.UserManager<TUser>*(
+&
+userFlowerApp.Auth.ApplicationUser*
+
+%21string2CreateAsync(TUser, string)û
+õ
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csX X(c6
+result,Microsoft.AspNetCore.Identity.IdentityResult"__id*
+""€
+ÿ
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs\ \( 
+%23bool":Microsoft.AspNetCore.Identity.IdentityResult.Succeeded.get*8
+6
+result,Microsoft.AspNetCore.Identity.IdentityResult*
+3
+4*π	
+3S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs^ ^(Gl
+j
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs^( ^(3
+%24"__id*
+""Ü
+É
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs^5 ^(A7
+%250Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*m*k'
+%FlowerApp.Controllers.AdminController"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>¸˘
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs^5 ^(G 
+%26System.Linq.IQueryable<T>":Microsoft.AspNetCore.Identity.UserManager<TUser>.Users.get*9
+7
+%250Microsoft.AspNetCore.Identity.UserManager<TUser>2	Users.get÷”
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs^ ^(H6
+%27/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+%24*"
+ 
+%26System.Linq.IQueryable<T>2 RedirectToAction(string, object)"è
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs^ ^(I8
+6
+%27/Microsoft.AspNetCore.Mvc.RedirectToActionResult*›
+4S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csb, b(9˝
+˙
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csb, b(90
+%28)System.Collections.Generic.IEnumerable<T>"7Microsoft.AspNetCore.Identity.IdentityResult.Errors.get*8
+6
+result,Microsoft.AspNetCore.Identity.IdentityResult*
+5*`
+5S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csg	 g(	*
+6
+7*€
+6S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csd d(>Ä
+˝
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csd d(A
+%29:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"6Microsoft.AspNetCore.Mvc.ControllerBase.ModelState.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase‹
+Ÿ
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csd- d(>
+%30string";Microsoft.AspNetCore.Identity.IdentityError.Description.get*6
+4
+error+Microsoft.AspNetCore.Identity.IdentityErrorô
+ñ
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csd d(?
+%31void"XMicrosoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary.AddModelError(string, string)*C
+A
+%29:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary* *
+
+%30string*
+5*¬
+
+7S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csf f((ˇ
+¸
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csf f()
+%32void"flowerapp/views/admin/adduser*
+
+%33*;
+9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject¸
+˘
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csf f()
+%34void"flowerapp/views/_viewstart*
+
+%35*;
+9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectÄ
+˝
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csf f()
+%36void"flowerapp/views/shared/_layout*
+
+%37*;
+9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"d
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csf f(*
+
+%36void*ƒ
+8S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csg	 g(	"j
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csg g(	
+implicit return*¶
+9S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csCS C(S™
+ß
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csC) C(0
+%38"__entrypoint*;
+9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModelÏ
+È
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csB	 B(
+%39"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*;
+9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModel™
+ß
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csC1 C(R9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModel"__annotation*
+
+%39*
+0:9
+addUserViewModel%FlowerApp.ViewModels.AddUserViewModelB)'
 %FlowerApp.Controllers.AdminController

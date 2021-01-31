@@ -1,23 +1,18 @@
 
-MFlowerApp.Repository.ModelFlowerRepository.AddFlower(FlowerApp.Models.Flower)X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csB B("0*Ö
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csD D(/£ 
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csD D(/$
-%0System.NotImplementedException"System.NotImplementedExceptionË
-È
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csD D(-
-
-%1void"8System.NotImplementedException.NotImplementedException()*&
-$
-%0System.NotImplementedException*
-1*Î
-1X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csE	 E(	"o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csE E(	
-implicit return:!
-flowerFlowerApp.Models.FlowerB.,
-*FlowerApp.Repository.ModelFlowerRepository
+$FlowerApp.Models.Flower.ImageUrl.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& ()"0*Ý
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs* (*”
+‘
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& (*/
+FlowerApp.Models.Flower"
+ImageUrlstring"__id*
+
+valuestring"z
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& (*1*/
+FlowerApp.Models.Flower"
+ImageUrlstring:
+valuestringB
+FlowerApp.Models.Flower

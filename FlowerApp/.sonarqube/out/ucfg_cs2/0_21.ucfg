@@ -1,22 +1,9 @@
 
-AFlowerApp.Repository.ModelFlowerRepository.FlowersAsViewModel.getX
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs>, >(>"0*Ö
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs>H >(e£ 
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs>H >(e$
-%0System.NotImplementedException"System.NotImplementedExceptionË
-È
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs>L >(c
-
-%1void"8System.NotImplementedException.NotImplementedException()*&
-$
-%0System.NotImplementedException*
-1*Î
-1X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs>f >(f"o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs>e >(f
-implicit returnB.,
-*FlowerApp.Repository.ModelFlowerRepository
+4FlowerApp.Models.ShoppingCartItem.ShoppingCartItem()O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs (!"0*¼
+0O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs ("f
+O
+EE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCartItem.cs (
+implicit returnB%#
+!FlowerApp.Models.ShoppingCartItem

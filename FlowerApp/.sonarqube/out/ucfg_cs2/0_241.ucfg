@@ -1,16 +1,87 @@
 
-(FlowerApp.Models.AppDbContext.Orders.getK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "("0*¿
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "(Á
-‰
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "(2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*[*Y
-FlowerApp.Models.AppDbContext"6
-Orders,Microsoft.EntityFrameworkCore.DbSet<TEntity>"É
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs" "(4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
-FlowerApp.Models.AppDbContext
+CFlowerApp.Controllers.ShoppingCartController.AddToShoppingCart(int)Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs-& -(7"4*Œ
+
+0Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs/ 2(&Ñ
+Å
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs/! /(2,
+%0&FlowerApp.Repository.IFlowerRepository"__id*o*m.
+,FlowerApp.Controllers.ShoppingCartController";
+_flowerRepository&FlowerApp.Repository.IFlowerRepositoryÅ˛
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs/! /(:/
+%1)System.Collections.Generic.IEnumerable<T>"2FlowerApp.Repository.IFlowerRepository.Flowers.get*.
+,
+%0&FlowerApp.Repository.IFlowerRepository2Flowers.get“
+œ
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs/! /(f
+%2FlowerApp.Models.Flower"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*1
+/
+%1)System.Collections.Generic.IEnumerable<T>*
+""±
+Æ
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs/ /(f)
+selectedFlowerFlowerApp.Models.Flower"__id*
+
+%2FlowerApp.Models.Flower–
+Õ
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs2 2(&
+
+%3bool""object.operator !=(object, object)*
+"
+object*+
+)
+selectedFlowerFlowerApp.Models.Flower*
+""*
+1
+2*‰
+1Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs4 4(9Ó
+Î
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs4 4(#
+%4FlowerApp.Models.ShoppingCart"__id*b*`.
+,FlowerApp.Controllers.ShoppingCartController".
+_shoppingCartFlowerApp.Models.ShoppingCartå
+â
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs4 4(:
+
+%5void"EFlowerApp.Models.ShoppingCart.AddToCart(FlowerApp.Models.Flower, int)*%
+#
+%4FlowerApp.Models.ShoppingCart*+
+)
+selectedFlowerFlowerApp.Models.Flower*2*
+2*§
+2Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs7 7(+™ß
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs7 7(,5
+%6/Microsoft.AspNetCore.Mvc.RedirectToActionResult"@Microsoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*	
+Index2RedirectToAction(string)"ï
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs7 7(-7
+5
+%6/Microsoft.AspNetCore.Mvc.RedirectToActionResult*“
+3Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs8	 8(	"q
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs8 8(	
+implicit return*‡
+4Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs-E -(Ez
+x
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs-& -(7
+%7"__entrypoint*
+""*
+0:
+flowerIdintB0.
+,FlowerApp.Controllers.ShoppingCartController

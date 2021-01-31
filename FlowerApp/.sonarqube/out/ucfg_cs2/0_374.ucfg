@@ -1,99 +1,135 @@
 
-4FlowerApp.Controllers.ShoppingCartController.Index()Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs ("2*¸"
+4FlowerApp.Controllers.OrderHistoryController.Index()Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs ("6*å	
 0Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (-Ó
-Î
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs6 !(.¢
+ü
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (%#
-%0FlowerApp.Models.ShoppingCart"__id*b*`.
-,FlowerApp.Controllers.ShoppingCartController".
-_shoppingCartFlowerApp.Models.ShoppingCartÊ
-„
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs6 (C3
+orders)System.Collections.Generic.IEnumerable<T>"__id*
+""ô
+ñ
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (<(
-%1"System.Collections.Generic.List<T>"4FlowerApp.Models.ShoppingCart.GetShoppingCartItems()*%
-#
-%0FlowerApp.Models.ShoppingCartæ
-ª
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs! !(8
+%02Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*x*v.
+,FlowerApp.Controllers.OrderHistoryController"D
+_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>Ï
+È
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (<+
-items"System.Collections.Generic.List<T>"__id**
-(
-%1"System.Collections.Generic.List<T>Ó
-Î
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs!* !(.,
+%1&System.Security.Claims.ClaimsPrincipal"0Microsoft.AspNetCore.Mvc.ControllerBase.User.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseÚÔ
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (#
-%2FlowerApp.Models.ShoppingCart"__id*b*`.
-,FlowerApp.Controllers.ShoppingCartController".
-_shoppingCartFlowerApp.Models.ShoppingCartî
-ë
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs! !(/
+
+%2bool"eMicrosoft.AspNetCore.Identity.SignInManager<TUser>.IsSignedIn(System.Security.Claims.ClaimsPrincipal)*:
+8
+%02Microsoft.AspNetCore.Identity.SignInManager<TUser>*.
+,
+%1&System.Security.Claims.ClaimsPrincipal22IsSignedIn(System.Security.Claims.ClaimsPrincipal)*
+1
+2*”
+1Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs!3 !(QÏ
+È
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (3(
-%3"System.Collections.Generic.List<T>"3FlowerApp.Models.ShoppingCart.ShoppingCartItems.set*%
-#
-%2FlowerApp.Models.ShoppingCart*-
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs!3 !(7,
+%3&System.Security.Claims.ClaimsPrincipal"0Microsoft.AspNetCore.Mvc.ControllerBase.User.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase˙˜
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs!3 !(R
+
+%4bool"7System.Security.Claims.ClaimsPrincipal.IsInRole(string)*.
+,
+%3&System.Security.Claims.ClaimsPrincipal*
+Administrators2IsInRole(string)*
+3
+2*‰
+3Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs# #(@Å
+˛
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs# #()+
+%5%FlowerApp.Repository.IOrderRepository"__id*m*k.
+,FlowerApp.Controllers.OrderHistoryController"9
+_orderRepository%FlowerApp.Repository.IOrderRepository©¶
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs# #(@/
+%6)System.Collections.Generic.IEnumerable<T>"BFlowerApp.Repository.IOrderRepository.GetOrdersAsViewModel(string)*-
 +
-items"System.Collections.Generic.List<T>Ω∫
+%5%FlowerApp.Repository.IOrderRepository*
+""2GetOrdersAsViewModel(string)Õ
+ 
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs( (0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel"*FlowerApp.ViewModels.ShoppingCartViewModel„
-‡
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs# #(@3
+orders)System.Collections.Generic.IEnumerable<T>"__id*1
+/
+%6)System.Collections.Generic.IEnumerable<T>*
+4*¥
+2Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs' '(QÅ
+˛
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs, (A
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs' '()+
+%7%FlowerApp.Repository.IOrderRepository"__id*m*k.
+,FlowerApp.Controllers.OrderHistoryController"9
+_orderRepository%FlowerApp.Repository.IOrderRepositoryÏ
+È
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs'? '(C,
+%8&System.Security.Claims.ClaimsPrincipal"0Microsoft.AspNetCore.Mvc.ControllerBase.User.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase˝˙
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs'? '(L)
+%9#System.Security.Principal.IIdentity"3System.Security.Claims.ClaimsPrincipal.Identity.get*.
+,
+%8&System.Security.Claims.ClaimsPrincipal2Identity.get”–
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs'? '(Q
+%10string",System.Security.Principal.IIdentity.Name.get*+
+)
+%9#System.Security.Principal.IIdentity2Name.get≥∞
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs' '(R0
+%11)System.Collections.Generic.IEnumerable<T>"BFlowerApp.Repository.IOrderRepository.GetOrdersAsViewModel(string)*-
++
+%7%FlowerApp.Repository.IOrderRepository*
 
-%5void"BFlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartViewModel()*2
+%10string2GetOrdersAsViewModel(string)Œ
+À
+Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs' '(R3
+orders)System.Collections.Generic.IEnumerable<T>"__id*2
 0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel
-Ì
+%11)System.Collections.Generic.IEnumerable<T>*
+4*≤
+4Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs* ,(æª
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (,#
-%6FlowerApp.Models.ShoppingCart"__id*d*b
-0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel".
-_shoppingCartFlowerApp.Models.ShoppingCartú
-ô
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs* -(1
+%12*FlowerApp.ViewModels.OrderHistoryViewModel"*FlowerApp.ViewModels.OrderHistoryViewModelÂ
+‚
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (,#
-%7FlowerApp.Models.ShoppingCart";FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCart.set*2
-0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel*%
-#
-%6FlowerApp.Models.ShoppingCartÓ
-Î
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs* *(1
+%13void"BFlowerApp.ViewModels.OrderHistoryViewModel.OrderHistoryViewModel()*3
+1
+%12*FlowerApp.ViewModels.OrderHistoryViewModel¥
+±
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs$ (1#
-%8FlowerApp.Models.ShoppingCart"__id*b*`.
-,FlowerApp.Controllers.ShoppingCartController".
-_shoppingCartFlowerApp.Models.ShoppingCartÀ
-»
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs, ,(0
+%14)System.Collections.Generic.IEnumerable<T>"5FlowerApp.ViewModels.OrderHistoryViewModel.Orders.set*3
+1
+%12*FlowerApp.ViewModels.OrderHistoryViewModel*5
+3
+orders)System.Collections.Generic.IEnumerable<T>É
+Ä
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs$ (H
-%9decimal"4FlowerApp.Models.ShoppingCart.GetShoppingCartTotal()*%
-#
-%8FlowerApp.Models.ShoppingCartˆ
-Û
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (H
-%10decimal"@FlowerApp.ViewModels.ShoppingCartViewModel.ShoppingCartTotal.set*2
-0
-%4*FlowerApp.ViewModels.ShoppingCartViewModel*
-
-%9decimalﬁ
-€
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (C
-shoppingCartViewModel*FlowerApp.ViewModels.ShoppingCartViewModel"__id*2
-0
-%4*FlowerApp.ViewModels.ShoppingCartViewModelï
-í
-Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (.
-%11void""flowerapp/views/shoppingcart/index*
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs* -(
+%15void""flowerapp/views/orderhistory/index*
 
-%12*E
-C
-shoppingCartViewModel*FlowerApp.ViewModels.ShoppingCartViewModel*
+%16*3
+1
+%12*FlowerApp.ViewModels.OrderHistoryViewModel*
 
 %ViewBagDataAllobject*
 
@@ -105,15 +141,15 @@ C
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjectç
-ä
+%HttpContextItemsHtmlobject˚
+¯
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (.
-%13void"flowerapp/views/_viewstart*
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs* -(
+%17void"flowerapp/views/_viewstart*
 
-%14*E
-C
-shoppingCartViewModel*FlowerApp.ViewModels.ShoppingCartViewModel*
+%18*3
+1
+%12*FlowerApp.ViewModels.OrderHistoryViewModel*
 
 %ViewBagDataAllobject*
 
@@ -125,15 +161,15 @@ C
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjectë
-é
+%HttpContextItemsHtmlobjectˇ
+¸
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (.
-%15void"flowerapp/views/shared/_layout*
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs* -(
+%19void"flowerapp/views/shared/_layout*
 
-%16*E
-C
-shoppingCartViewModel*FlowerApp.ViewModels.ShoppingCartViewModel*
+%20*3
+1
+%12*FlowerApp.ViewModels.OrderHistoryViewModel*
 
 %ViewBagDataAllobject*
 
@@ -147,19 +183,19 @@ C
 
 %HttpContextItemsHtmlobject"k
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (/
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs* -(
 
-%15void*“
-1Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs 	  (	"q
+%19void*“
+5Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs.	 .(	"q
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs   (	
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs. .(	
 implicit return*Ÿ
-2Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs! (!s
+6Z
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs! (!s
 q
 Z
-PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\ShoppingCartController.cs (
-%17"__entrypoint*
+PE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\OrderHistoryController.cs (
+%21"__entrypoint*
 0B0.
-,FlowerApp.Controllers.ShoppingCartController
+,FlowerApp.Controllers.OrderHistoryController

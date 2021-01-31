@@ -1,8 +1,6 @@
-À
-#FlowerApp.TagHelpers.EmailTagHelper/Microsoft.AspNetCore.Razor.TagHelpers.TagHelperobject•
-vProcess(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput)šFlowerApp.TagHelpers.EmailTagHelper.Process(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput)H
-EmailTagHelper()4FlowerApp.TagHelpers.EmailTagHelper.EmailTagHelper()>
-Address.get/FlowerApp.TagHelpers.EmailTagHelper.Address.get>
-Address.set/FlowerApp.TagHelpers.EmailTagHelper.Address.set>
-Content.get/FlowerApp.TagHelpers.EmailTagHelper.Content.get>
-Content.set/FlowerApp.TagHelpers.EmailTagHelper.Content.set
+ð
+/FlowerApp.Migrations.ShippingAndPaymentMethods12Microsoft.EntityFrameworkCore.Migrations.Migrationobject®
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)mFlowerApp.Migrations.ShippingAndPaymentMethods1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)²
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)oFlowerApp.Migrations.ShippingAndPaymentMethods1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¬
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)lFlowerApp.Migrations.ShippingAndPaymentMethods1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)l
+ShippingAndPaymentMethods1()LFlowerApp.Migrations.ShippingAndPaymentMethods1.ShippingAndPaymentMethods1()

@@ -1,4 +1,7 @@
-
-.FlowerApp.Migrations.AppDbContextModelSnapshot:Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshotobjectŸ
-6BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)eFlowerApp.Migrations.AppDbContextModelSnapshot.BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)i
-AppDbContextModelSnapshot()JFlowerApp.Migrations.AppDbContextModelSnapshot.AppDbContextModelSnapshot()
+Ð
+%FlowerApp.Controllers.OrderController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobjectÔ
+UOrderController(FlowerApp.Repository.IOrderRepository, FlowerApp.Models.ShoppingCart){FlowerApp.Controllers.OrderController.OrderController(FlowerApp.Repository.IOrderRepository, FlowerApp.Models.ShoppingCart)>
+
+Checkout()0FlowerApp.Controllers.OrderController.Checkout()j
+ Checkout(FlowerApp.Models.Order)FFlowerApp.Controllers.OrderController.Checkout(FlowerApp.Models.Order)N
+CheckoutComplete()8FlowerApp.Controllers.OrderController.CheckoutComplete()

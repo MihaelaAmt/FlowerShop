@@ -1,18 +1,195 @@
 
-(FlowerApp.Models.AppDbContext.Orders.setK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs# #("0*Í
+EFlowerApp.Models.ShoppingCart.AddToCart(FlowerApp.Models.Flower, int)K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs* *("0*Ä
+
 0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs# #(Í
-Á
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs- 1((–
+Õ
 K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs# #(Y
-FlowerApp.Models.AppDbContext"6
-Orders,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs. .(!#
+%0FlowerApp.Models.AppDbContext"__id*S*Q
+FlowerApp.Models.ShoppingCart".
+_appDbContextFlowerApp.Models.AppDbContext‡
+›
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs. .(32
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"3FlowerApp.Models.AppDbContext.ShoppingCartItems.get*%
+#
+%0FlowerApp.Models.AppDbContext‰
+·
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs. /(h'
+%2!FlowerApp.Models.ShoppingCartItem"èSystem.Linq.Queryable.SingleOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""∏
+µ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs- /(h5
+shoppingCartItem!FlowerApp.Models.ShoppingCartItem"__id*)
+'
+%2!FlowerApp.Models.ShoppingCartItemÕ
+ 
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs1 1((
+
+%3bool""object.operator ==(object, object)*
+"
+object*7
 5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"™
+shoppingCartItem!FlowerApp.Models.ShoppingCartItem*
+""*
+1
+2*ª
+1K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs7 >(Dúô
 K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs# #([*Y
-FlowerApp.Models.AppDbContext"6
-Orders,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
-FlowerApp.Models.AppDbContext
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs7# <('
+%4!FlowerApp.Models.ShoppingCartItem"!FlowerApp.Models.ShoppingCartItemΩ
+∫
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs7' 7(7
+
+%5void"4FlowerApp.Models.ShoppingCartItem.ShoppingCartItem()*)
+'
+%4!FlowerApp.Models.ShoppingCartItemª
+∏
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs9% 9(3
+%6string"0FlowerApp.Models.ShoppingCart.ShoppingCartId.get*)
+'
+%4!FlowerApp.Models.ShoppingCartItemœ
+Ã
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs9 9(3
+%7string"4FlowerApp.Models.ShoppingCartItem.ShoppingCartId.set*)
+'
+%4!FlowerApp.Models.ShoppingCartItem*
+
+%6stringÌ
+Í
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs: :(#
+%8FlowerApp.Models.Flower",FlowerApp.Models.ShoppingCartItem.Flower.set*)
+'
+%4!FlowerApp.Models.ShoppingCartItem*#
+!
+flowerFlowerApp.Models.Flower∫
+∑
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs; ;(	
+%9int",FlowerApp.Models.ShoppingCartItem.Amount.set*)
+'
+%4!FlowerApp.Models.ShoppingCartItem*2∏
+µ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs7 <(5
+shoppingCartItem!FlowerApp.Models.ShoppingCartItem"__id*)
+'
+%4!FlowerApp.Models.ShoppingCartItem—
+Œ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs> >($
+%10FlowerApp.Models.AppDbContext"__id*S*Q
+FlowerApp.Models.ShoppingCart".
+_appDbContextFlowerApp.Models.AppDbContext‚
+ﬂ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs> >(/3
+%11,Microsoft.EntityFrameworkCore.DbSet<TEntity>"3FlowerApp.Models.AppDbContext.ShoppingCartItems.get*&
+$
+%10FlowerApp.Models.AppDbContext”–
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs> >(EH
+%12AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*5
+3
+%11,Microsoft.EntityFrameworkCore.DbSet<TEntity>*7
+5
+shoppingCartItem!FlowerApp.Models.ShoppingCartItem2Add(TEntity)*
+3*û
+2K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csI I(/√
+¿
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csI I(+
+
+%13int",FlowerApp.Models.ShoppingCartItem.Amount.get*7
+5
+shoppingCartItem!FlowerApp.Models.ShoppingCartItem*
+4
+5*£
+4K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csK K(8À
+»
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csK K(8
+
+%14int",FlowerApp.Models.ShoppingCartItem.Amount.set*7
+5
+shoppingCartItem!FlowerApp.Models.ShoppingCartItem*
+""*
+3*û
+5K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csM M(4√
+¿
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csM M(0
+
+%15int",FlowerApp.Models.ShoppingCartItem.Amount.get*7
+5
+shoppingCartItem!FlowerApp.Models.ShoppingCartItem*
+6
+7*£
+6K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csO O(4À
+»
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csO O(4
+
+%16int",FlowerApp.Models.ShoppingCartItem.Amount.set*7
+5
+shoppingCartItem!FlowerApp.Models.ShoppingCartItem*
+""*
+3*È
+7K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csS S(5√
+¿
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csS S(+
+
+%17int",FlowerApp.Models.ShoppingCartItem.Amount.get*7
+5
+shoppingCartItem!FlowerApp.Models.ShoppingCartItemÀ
+»
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csS S(5
+
+%18int",FlowerApp.Models.ShoppingCartItem.Amount.set*7
+5
+shoppingCartItem!FlowerApp.Models.ShoppingCartItem*
+""*
+3*ˆ
+3K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csW W('—
+Œ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csW W($
+%19FlowerApp.Models.AppDbContext"__id*S*Q
+FlowerApp.Models.ShoppingCart".
+_appDbContextFlowerApp.Models.AppDbContext «
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csW W('
+
+%20int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*&
+$
+%19FlowerApp.Models.AppDbContext2SaveChanges()*
+8*¥
+8K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csX	 X(	"b
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csX X(	
+implicit return:!
+flowerFlowerApp.Models.Flower:
+amountintB!
+FlowerApp.Models.ShoppingCart

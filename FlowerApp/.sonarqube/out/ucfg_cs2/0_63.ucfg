@@ -1,18 +1,23 @@
 
-3FlowerApp.Components.AdminMenuItem.DisplayValue.setP
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,* ,(-"0*
-0P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,. ,(.®
-«
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,* ,(.>$
-"FlowerApp.Components.AdminMenuItem"
-DisplayValuestring"__id*
-
-valuestring"”
-P
-FE:\Projects\FlowerShop\FlowerApp\FlowerApp\Components\AdminMenuItem.cs,* ,(.@*>$
-"FlowerApp.Components.AdminMenuItem"
-DisplayValuestring:
-valuestringB&$
-"FlowerApp.Components.AdminMenuItem
+IFlowerApp.Models.ShoppingCart.ShoppingCart(FlowerApp.Models.AppDbContext)K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs ("1*U
+1K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs	 (	*
+0*²
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs ((Ú
+×
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs ((Q
+FlowerApp.Models.ShoppingCart".
+_appDbContextFlowerApp.Models.AppDbContext"__id*/
+-
+appDbContextFlowerApp.Models.AppDbContext*
+2*´
+2K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs	 (	"b
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.cs (	
+implicit return:-
+appDbContextFlowerApp.Models.AppDbContextB!
+FlowerApp.Models.ShoppingCart

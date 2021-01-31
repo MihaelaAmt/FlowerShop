@@ -1,18 +1,16 @@
 
-)FlowerApp.Models.Order.ShippingMethod.setD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs, (/"0*ä
-0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs0 (0˜
-•
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs, (04
-FlowerApp.Models.Order"
-ShippingMethodstring"__id*
-
-valuestring"~
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs, (06*4
-FlowerApp.Models.Order"
-ShippingMethodstring:
-valuestringB
-FlowerApp.Models.Order
+&FlowerApp.Models.OrderDetail.Price.getJ
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs (""0*Ë
+0J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs# (#š
+—
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs (#
+%0decimal"__id*4*2
+FlowerApp.Models.OrderDetail"
+Pricedecimal"]
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs (#
+
+%0decimalB 
+FlowerApp.Models.OrderDetail

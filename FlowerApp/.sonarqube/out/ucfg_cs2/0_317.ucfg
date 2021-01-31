@@ -1,39 +1,18 @@
 
-0FlowerApp.Controllers.AccountController.Logout()U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csp) p(/"2*–
-0U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csr t(3è
-å
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csr r( 8
-%02Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*s*q)
-'FlowerApp.Controllers.AccountController"D
-_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>åâ
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csr r(/!
-%1System.Threading.Tasks.Task"AMicrosoft.AspNetCore.Identity.SignInManager<TUser>.SignOutAsync()*:
-8
-%02Microsoft.AspNetCore.Identity.SignInManager<TUser>2SignOutAsync()øº
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cst t(45
-%2/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, string)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*	
-Index*
-Home2 RedirectToAction(string, string)"ê
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.cst t(57
-5
-%2/Microsoft.AspNetCore.Mvc.RedirectToActionResult*»
-1U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csu	 u(	"l
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csu u(	
-implicit return*Œ
-2U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csp1 p(1m
-k
-U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AccountController.csp) p(/
-%3"__entrypoint*
-0B+)
-'FlowerApp.Controllers.AccountController
+&FlowerApp.Models.Order.PhoneNumber.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csK) K(,"0*ﬁ
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csK- K(-ï
+í
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csK) K(-1
+FlowerApp.Models.Order"
+PhoneNumberstring"__id*
+
+valuestring"{
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csK) K(-3*1
+FlowerApp.Models.Order"
+PhoneNumberstring:
+valuestringB
+FlowerApp.Models.Order

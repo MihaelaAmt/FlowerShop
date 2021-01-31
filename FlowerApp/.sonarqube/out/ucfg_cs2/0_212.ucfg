@@ -1,20 +1,18 @@
 
-6FlowerApp.ViewModels.AddFlowerViewModel.CategoryId.setU
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs% (("0*©
+3FlowerApp.ViewModels.AddFlowerViewModel.InStock.setU
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs# (&"0*¦
 0U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs) ()°
-­
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs' ('¯
+¬
 U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs% ()>)
-'FlowerApp.ViewModels.AddFlowerViewModel"
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs# ('<)
+'FlowerApp.ViewModels.AddFlowerViewModel"
+InStockbool"__id*
 
-CategoryIdint"__id*
-
-valueint"™
+valuebool"—
 U
-KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs% ()@*>)
-'FlowerApp.ViewModels.AddFlowerViewModel"
-
-CategoryIdint:
-valueintB+)
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddFlowerViewModel.cs# ('>*<)
+'FlowerApp.ViewModels.AddFlowerViewModel"
+InStockbool:
+valueboolB+)
 'FlowerApp.ViewModels.AddFlowerViewModel

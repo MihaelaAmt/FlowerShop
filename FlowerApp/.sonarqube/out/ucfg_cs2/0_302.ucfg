@@ -1,16 +1,16 @@
 
-&FlowerApp.Models.Order.OrderPlaced.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM& M()"0*Ñ
+)FlowerApp.Models.Order.ShippingMethod.getD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs"' "(*"0*¹
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM* M(*¤
-¡
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs"+ "(+•
+’
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM& M(*
-%0System.DateTime"__id*<*:
-FlowerApp.Models.Order"
-OrderPlacedSystem.DateTime"_
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs"' "(+
+%0string"__id*6*4
+FlowerApp.Models.Order"
+ShippingMethodstring"V
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csM& M(*
-
-%0System.DateTimeB
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs"' "(+
+
+%0stringB
 FlowerApp.Models.Order

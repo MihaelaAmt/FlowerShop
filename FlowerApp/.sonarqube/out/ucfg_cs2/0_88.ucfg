@@ -1,16 +1,16 @@
 
->FlowerApp.ViewModels.OrderHistoryDetailsViewModel.LastName.get_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs! ($"0*Ÿ
-0_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs% (%Å
-Â
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs! (%
-%0string"__id*K*I3
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel"
-LastNamestring"q
-_
-UE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\OrderHistoryDetailsViewModel.cs! (%
+0FlowerApp.ViewModels.LoginViewModel.Password.getQ
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs! ($"0*ç
+0Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs% (%©
+¦
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs! (%
+%0string"__id*=*;%
+#FlowerApp.ViewModels.LoginViewModel"
+Passwordstring"c
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\LoginViewModel.cs! (%
 
-%0stringB53
-1FlowerApp.ViewModels.OrderHistoryDetailsViewModel
+%0stringB'%
+#FlowerApp.ViewModels.LoginViewModel

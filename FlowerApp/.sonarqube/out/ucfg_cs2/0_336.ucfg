@@ -1,46 +1,18 @@
 
-‰FlowerApp.Controllers.FlowerController.FlowerController(FlowerApp.Repository.IFlowerRepository, FlowerApp.Repository.ICategoryRepository)T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs ("3*É
-1T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs	 (	i
-g
-
-%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
-#Microsoft.AspNetCore.Mvc.Controller*
-0*ø
-0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (4†
-ƒ
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (0g(
-&FlowerApp.Controllers.FlowerController";
-_flowerRepository&FlowerApp.Repository.IFlowerRepository"__id*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepositoryŽ
-‹
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (4k(
-&FlowerApp.Controllers.FlowerController"?
-_categoryRepository(FlowerApp.Repository.ICategoryRepository"__id*@
->
-categoryRepository(FlowerApp.Repository.ICategoryRepository*
-2*Æ
-2T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs	 (	"k
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (	
-implicit return*Î
-3T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csk (kí
-ê
-T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs (
-%1"__entrypoint*<
-:
-flowerRepository&FlowerApp.Repository.IFlowerRepository*@
->
-categoryRepository(FlowerApp.Repository.ICategoryRepository*
-1::
-flowerRepository&FlowerApp.Repository.IFlowerRepository:>
-categoryRepository(FlowerApp.Repository.ICategoryRepositoryB*(
-&FlowerApp.Controllers.FlowerController
+,FlowerApp.Models.Flower.ShortDescription.setE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs. (1"0*î
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs2 (2œ
+™
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs. (27
+FlowerApp.Models.Flower"
+ShortDescriptionstring"__id*
+
+valuestring"‚
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs. (29*7
+FlowerApp.Models.Flower"
+ShortDescriptionstring:
+valuestringB
+FlowerApp.Models.Flower

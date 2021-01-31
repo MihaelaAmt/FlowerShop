@@ -1,18 +1,20 @@
 
- FlowerApp.Models.Order.Email.setD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csE# E(&"0*“
+%FlowerApp.Models.Order.OrderLines.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs3 (6"0*±
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csE' E('è
-å
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs7 (7Ã
+…
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csE# E('+
-FlowerApp.Models.Order"
-Emailstring"__id*
-
-valuestring"u
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs3 (7L
+FlowerApp.Models.Order"0
+
+OrderLines"System.Collections.Generic.List<T>"__id*-
++
+value"System.Collections.Generic.List<T>"ñ
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csE# E('-*+
-FlowerApp.Models.Order"
-Emailstring:
-valuestringB
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs3 (7N*L
+FlowerApp.Models.Order"0
+
+OrderLines"System.Collections.Generic.List<T>:+
+value"System.Collections.Generic.List<T>B
 FlowerApp.Models.Order

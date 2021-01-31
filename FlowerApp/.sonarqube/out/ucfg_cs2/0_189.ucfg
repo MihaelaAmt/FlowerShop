@@ -1,18 +1,24 @@
 
-.FlowerApp.ViewModels.AddUserViewModel.City.setS
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs"" "(%"0*œ
-0S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs"& "(&¬
-©
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs"" "(&9'
-%FlowerApp.ViewModels.AddUserViewModel"
-Citystring"__id*
-
-valuestring"’
-S
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs"" "(&;*9'
-%FlowerApp.ViewModels.AddUserViewModel"
-Citystring:
-valuestringB)'
-%FlowerApp.ViewModels.AddUserViewModel
+yFlowerApp.Models.AppDbContext.AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<FlowerApp.Models.AppDbContext>)K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	 	("1*U
+1K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	 (	*
+0*Ú
+0K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	D 	(R‚
+ÿ
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	D 	(S
+
+%0void"ŒMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>.IdentityDbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*NL
+JMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*
+2*´
+2K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs	 (	"b
+K
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (	
+implicit return:C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>B!
+FlowerApp.Models.AppDbContext

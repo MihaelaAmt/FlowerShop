@@ -1,23 +1,18 @@
 
-PFlowerApp.Repository.ModelFlowerRepository.UpdateFlower(FlowerApp.Models.Flower)X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csQ Q( "0*Ö
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csS S(/£ 
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csS S(/$
-%0System.NotImplementedException"System.NotImplementedExceptionË
-È
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csS S(-
+#FlowerApp.Models.Flower.InStock.getE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs (!"0*°
+0E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs" ("Œ
+‰
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs ("
 
-%1void"8System.NotImplementedException.NotImplementedException()*&
-$
-%0System.NotImplementedException*
-1*Î
-1X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csT	 T(	"o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csT T(	
-implicit return:!
-flowerFlowerApp.Models.FlowerB.,
-*FlowerApp.Repository.ModelFlowerRepository
+%0bool"__id*.*,
+FlowerApp.Models.Flower"
+InStockbool"U
+E
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs ("
+
+
+%0boolB
+FlowerApp.Models.Flower

@@ -1,17 +1,16 @@
 
-,FlowerApp.Models.AppDbContext.Categories.getK
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs ("0*Ä
-0K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (ë
-è
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*_*]
-FlowerApp.Models.AppDbContext":
-
-Categories,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ƒ
-K
-AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\AppDbContext.cs (4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B!
-FlowerApp.Models.AppDbContext
+%FlowerApp.Models.Category.Flowers.getG
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs ("0*’
+0G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (Ì
+É
+G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs ((
+%0"System.Collections.Generic.List<T>"__id*N*L
+FlowerApp.Models.Category"-
+Flowers"System.Collections.Generic.List<T>"u
+G
+=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (*
+(
+%0"System.Collections.Generic.List<T>B
+FlowerApp.Models.Category

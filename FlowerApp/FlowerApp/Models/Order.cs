@@ -11,46 +11,64 @@ namespace FlowerApp.Models
         public int OrderId { get; set; }
 
         public List<OrderDetail> OrderLines { get; set; }
-
+        //message to add first name
         [Required(ErrorMessage = "Please enter your first name")]
+        //permanently viewed
         [Display(Name = "First Name")]
+        //max length
         [StringLength(50)]
         public string FirstName { get; set; }
 
+        //message to add last name
         [Required(ErrorMessage = "Please enter your last name")]
+        //permanently viewed
         [Display(Name = "Last Name")]
+        //max length
         [StringLength(50)]
         public string LastName { get; set; }
 
+        //shipping method
         [Required]
+        //max legth
         [StringLength(50)]
         public string ShippingMethod { get; set; }
 
+        //Address 
         //[Required(ErrorMessage = "Please enter your address")]
         [StringLength(100)]
+        //permanently viewed
         [Display(Name = "Address Line 1")]
         public string AddressLine1 { get; set; }
 
+        //permanently viewed
         [Display(Name = "Address Line 2")]
         public string AddressLine2 { get; set; }
 
         //[Required(ErrorMessage = "Please enter your zip code")]
+        //permanently viewed
         [Display(Name = "Zip code")]
+        //set min length
         [StringLength(10, MinimumLength = 4)]
         public string ZipCode { get; set; }
 
+        //message to add city
         [Required(ErrorMessage = "Please enter your city")]
+        //max length
         [StringLength(50)]
         public string City { get; set; }
 
+        //max length
         [StringLength(10)]
         public string State { get; set; }
 
         //[Required(ErrorMessage = "Please enter your country")]
+        //max length
         [StringLength(50)]
         public string Country { get; set; }
 
+        //message to add phone number
         [Required(ErrorMessage = "Please enter your phone number")]
+        //max length
         [StringLength(25)]
         [DataType(DataType.PhoneNumber)]
         [Display(Name = "Phone number")]

@@ -1,18 +1,16 @@
 
-#FlowerApp.Models.Order.LastName.setD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs& ()"0*ÿ
-0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs* (*í
-è
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs& (*.
-FlowerApp.Models.Order"
-LastNamestring"__id*
-
-valuestring"x
-D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs& (*0*.
-FlowerApp.Models.Order"
-LastNamestring:
-valuestringB
-FlowerApp.Models.Order
+'FlowerApp.Models.OrderDetail.Amount.getJ
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs ("0*¿
+0J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs  ( ì
+ê
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs ( 	
+%0int"__id*1*/
+FlowerApp.Models.OrderDetail"
+Amountint"Y
+J
+@E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\OrderDetail.cs ( 
+	
+%0intB 
+FlowerApp.Models.OrderDetail

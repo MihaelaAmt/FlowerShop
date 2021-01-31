@@ -1,9 +1,5 @@
-Ö
-'FlowerApp.Controllers.AccountController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject€
-©AccountController(Microsoft.AspNetCore.Identity.UserManager<FlowerApp.Auth.ApplicationUser>, Microsoft.AspNetCore.Identity.SignInManager<FlowerApp.Auth.ApplicationUser>)ÑFlowerApp.Controllers.AccountController.AccountController(Microsoft.AspNetCore.Identity.UserManager<FlowerApp.Auth.ApplicationUser>, Microsoft.AspNetCore.Identity.SignInManager<FlowerApp.Auth.ApplicationUser>)F
-Login(string)5FlowerApp.Controllers.AccountController.Login(string)€
-*Login(FlowerApp.ViewModels.LoginViewModel)RFlowerApp.Controllers.AccountController.Login(FlowerApp.ViewModels.LoginViewModel)@
-
-Register()2FlowerApp.Controllers.AccountController.Register()†
--Register(FlowerApp.ViewModels.LoginViewModel)UFlowerApp.Controllers.AccountController.Register(FlowerApp.ViewModels.LoginViewModel)<
-Logout()0FlowerApp.Controllers.AccountController.Logout()
+ª
+FlowerApp.Startupobjectˆ
+9Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment)KFlowerApp.Startup.Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment)²
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)`FlowerApp.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)Ì
+šConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment, Microsoft.Extensions.Logging.ILoggerFactory)¬FlowerApp.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment, Microsoft.Extensions.Logging.ILoggerFactory)

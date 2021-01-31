@@ -1,34 +1,16 @@
 
-6FlowerApp.Controllers.AdminController.RoleManagement()U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs   (+"2*º
+2FlowerApp.Controllers.AdminController.AddNewRole()U
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÓ Ó('"2*¾	
 0U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¢ £(‡
-„
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÓ- Ó(3Ô
+Ñ
 U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¢ ¢($6
-%00Microsoft.AspNetCore.Identity.RoleManager<TRole>"__id*m*k'
-%FlowerApp.Controllers.AdminController"@
-_roleManager0Microsoft.AspNetCore.Identity.RoleManager<TRole>üù
-U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¢ ¢(*
-%1System.Linq.IQueryable<T>":Microsoft.AspNetCore.Identity.RoleManager<TRole>.Roles.get*8
-6
-%00Microsoft.AspNetCore.Identity.RoleManager<TRole>2	Roles.get§
-¤
-U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¢ ¢(*"
-rolesSystem.Linq.IQueryable<T>"__id*!
-
-%1System.Linq.IQueryable<T>ï
-ì
-U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs£ £(
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÓ- Ó(3
 
-%2void"$flowerapp/views/admin/rolemanagement*
+%0void" flowerapp/views/admin/addnewrole*
 
-%3*$
-"
-rolesSystem.Linq.IQueryable<T>*
+%1*
+	{unknown}*
 
 %ViewBagDataAllobject*
 
@@ -40,16 +22,15 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs£ 
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjectå
-â
+%HttpContextItemsHtmlobjectÎ
+Ë
 U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs£ £(
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÓ- Ó(3
 
-%4void"flowerapp/views/_viewstart*
+%2void"flowerapp/views/_viewstart*
 
-%5*$
-"
-rolesSystem.Linq.IQueryable<T>*
+%3*
+	{unknown}*
 
 %ViewBagDataAllobject*
 
@@ -61,16 +42,15 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs£ 
 
 %HttpContextItemsAllobject*!
 
-%HttpContextItemsHtmlobjecté
-æ
+%HttpContextItemsHtmlobjectÒ
+Ï
 U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs£ £(
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÓ- Ó(3
 
-%6void"flowerapp/views/shared/_layout*
+%4void"flowerapp/views/shared/_layout*
 
-%7*$
-"
-rolesSystem.Linq.IQueryable<T>*
+%5*
+	{unknown}*
 
 %ViewBagDataAllobject*
 
@@ -84,20 +64,20 @@ IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs£ 
 
 %HttpContextItemsHtmlobject"e
 U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs£ £(
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÓ- Ó(3
 
 
-%6void*È
+%4void*È
 1U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¤	 ¤(	"l
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÓ4 Ó(4"l
 U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs¤ ¤(	
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÓ3 Ó(4
 implicit return*Î
 2U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs -  (-m
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÓ) Ó()m
 k
 U
-IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.cs   (+
-%8"__entrypoint*
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\AdminController.csÓ Ó('
+%6"__entrypoint*
 0B)'
 %FlowerApp.Controllers.AdminController

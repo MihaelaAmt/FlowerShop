@@ -1,27 +1,4 @@
-ß
-FlowerApp.Models.Flowerobject,
-Flower() FlowerApp.Models.Flower.Flower()4
-FlowerId.get$FlowerApp.Models.Flower.FlowerId.get4
-FlowerId.set$FlowerApp.Models.Flower.FlowerId.set,
-Name.get FlowerApp.Models.Flower.Name.get,
-Name.set FlowerApp.Models.Flower.Name.setD
-ShortDescription.get,FlowerApp.Models.Flower.ShortDescription.getD
-ShortDescription.set,FlowerApp.Models.Flower.ShortDescription.setB
-LongDescription.get+FlowerApp.Models.Flower.LongDescription.getB
-LongDescription.set+FlowerApp.Models.Flower.LongDescription.set.
-	Price.get!FlowerApp.Models.Flower.Price.get.
-	Price.set!FlowerApp.Models.Flower.Price.set4
-ImageUrl.get$FlowerApp.Models.Flower.ImageUrl.get4
-ImageUrl.set$FlowerApp.Models.Flower.ImageUrl.setF
-ImageThumbnailUrl.get-FlowerApp.Models.Flower.ImageThumbnailUrl.getF
-ImageThumbnailUrl.set-FlowerApp.Models.Flower.ImageThumbnailUrl.set2
-InStock.get#FlowerApp.Models.Flower.InStock.get2
-InStock.set#FlowerApp.Models.Flower.InStock.set8
-CategoryId.get&FlowerApp.Models.Flower.CategoryId.get8
-CategoryId.set&FlowerApp.Models.Flower.CategoryId.set4
-Category.get$FlowerApp.Models.Flower.Category.get4
-Category.set$FlowerApp.Models.Flower.Category.setL
-IsFlowerPresentation.get0FlowerApp.Models.Flower.IsFlowerPresentation.getL
-IsFlowerPresentation.set0FlowerApp.Models.Flower.IsFlowerPresentation.set8
-IsFavorite.get&FlowerApp.Models.Flower.IsFavorite.get8
-IsFavorite.set&FlowerApp.Models.Flower.IsFavorite.set
+­
+(FlowerApp.Components.ShoppingCartSummary&Microsoft.AspNetCore.Mvc.ViewComponentobject‘
+2ShoppingCartSummary(FlowerApp.Models.ShoppingCart)[FlowerApp.Components.ShoppingCartSummary.ShoppingCartSummary(FlowerApp.Models.ShoppingCart)=
+Invoke()1FlowerApp.Components.ShoppingCartSummary.Invoke()

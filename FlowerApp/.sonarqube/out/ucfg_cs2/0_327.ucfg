@@ -1,20 +1,20 @@
 
-&FlowerApp.Models.Flower.CategoryId.setE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% (("0*ÿ
-0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs) ()ê
-ç
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% ().
-FlowerApp.Models.Flower"
+%FlowerApp.Models.Order.CardNumber.setD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csf( f(+"0*‹
+0D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csf, f(,î
+ë
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csf( f(,0
+FlowerApp.Models.Order"
 
-CategoryIdint"__id*
-
-valueint"y
-E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs% ()0*.
-FlowerApp.Models.Flower"
+CardNumberstring"__id*
+
+valuestring"z
+D
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.csf( f(,2*0
+FlowerApp.Models.Order"
 
-CategoryIdint:
-valueintB
-FlowerApp.Models.Flower
+CardNumberstring:
+valuestringB
+FlowerApp.Models.Order

@@ -18,50 +18,52 @@ namespace FlowerApp.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+            //use for build model
             modelBuilder.Entity("FlowerApp.Auth.ApplicationUser", b =>
                 {
+                    //id
                     b.Property<string>("Id")
                         .ValueGeneratedOnAdd();
-
+                    //access faild count
                     b.Property<int>("AccessFailedCount");
-
+                    //birthdate
                     b.Property<DateTime>("Birthdate");
-
+                    //city
                     b.Property<string>("City");
-
+                    //concurrency stamp
                     b.Property<string>("ConcurrencyStamp")
                         .IsConcurrencyToken();
-
+                    //country
                     b.Property<string>("Country");
-
+                    //email
                     b.Property<string>("Email")
                         .HasMaxLength(256);
-
+                    //email confirmed
                     b.Property<bool>("EmailConfirmed");
-
+                    //email confirmed
                     b.Property<bool>("LockoutEnabled");
-
+                    //lockout end
                     b.Property<DateTimeOffset?>("LockoutEnd");
-
+                    //normlized email
                     b.Property<string>("NormalizedEmail")
                         .HasMaxLength(256);
-
+                    //normalized user name
                     b.Property<string>("NormalizedUserName")
                         .HasMaxLength(256);
-
+                    //password hash
                     b.Property<string>("PasswordHash");
-
+                    //phone number
                     b.Property<string>("PhoneNumber");
-
+                    //phone number conirmed
                     b.Property<bool>("PhoneNumberConfirmed");
-
+                    //security stamp
                     b.Property<string>("SecurityStamp");
-
+                    //two factor stamp
                     b.Property<bool>("TwoFactorEnabled");
-
+                    //user name
                     b.Property<string>("UserName")
                         .HasMaxLength(256);
-
+                    //id
                     b.HasKey("Id");
 
                     b.HasIndex("NormalizedEmail")

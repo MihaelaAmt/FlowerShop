@@ -1,26 +1,12 @@
 
-BFlowerApp.Repository.ModelFlowerRepository.ModelFlowerRepository()X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs	 	(&"0*‡
-0X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csU U(¿¼
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csC (`2
-%0,FlowerApp.Repository.ModelCategoryRepository",FlowerApp.Repository.ModelCategoryRepositoryç
-ä
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.csG (^
-
-%1void"FFlowerApp.Repository.ModelCategoryRepository.ModelCategoryRepository()*4
-2
-%0,FlowerApp.Repository.ModelCategoryRepositoryŠ
-‡
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs- (`o,
-*FlowerApp.Repository.ModelFlowerRepository"?
-_categoryRepository(FlowerApp.Repository.ICategoryRepository"__id*4
-2
-%0,FlowerApp.Repository.ModelCategoryRepository"o
-X
-NE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\ModelFlowerRepository.cs	 U(
-implicit returnB.,
-*FlowerApp.Repository.ModelFlowerRepository
+JFlowerApp.ViewModels.ClaimsManagementViewModel.ClaimsManagementViewModel()\
+RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs (*"0*Ö
+0\
+RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs
+ 
+("s
+\
+RE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\ClaimsManagementViewModel.cs 
+(
+implicit returnB20
+.FlowerApp.ViewModels.ClaimsManagementViewModel

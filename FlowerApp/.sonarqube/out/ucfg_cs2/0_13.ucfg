@@ -1,13 +1,24 @@
 
-.FlowerApp.Migrations.AddFavorite.AddFavorite()]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs ($"0*â
-0]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs (‡
-„
-
-%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*64
-2Microsoft.EntityFrameworkCore.Migrations.Migration"t
-]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs (
-implicit returnB$"
- FlowerApp.Migrations.AddFavorite
+6FlowerApp.Repository.CategoryRepository.Categories.getU
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs% (/"0*¬
+0U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs3 (Kä
+á
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs3 (@#
+%0FlowerApp.Models.AppDbContext"__id*]*[)
+'FlowerApp.Repository.CategoryRepository".
+_appDbContextFlowerApp.Models.AppDbContextã
+à
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.cs3 (K2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>",FlowerApp.Models.AppDbContext.Categories.get*%
+#
+%0FlowerApp.Models.AppDbContext*
+1*È
+1U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.csL (L"l
+U
+KE:\Projects\FlowerShop\FlowerApp\FlowerApp\Repository\CategoryRepository.csK (L
+implicit returnB+)
+'FlowerApp.Repository.CategoryRepository

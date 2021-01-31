@@ -1,22 +1,16 @@
 
-`FlowerApp.Migrations.AddFavorite.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs  ($"0*¥
-0]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs ( »¸
-]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs (!_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-IsFavorite*	
-Flowers*
-""2"DropColumn(string, string, string)*
-1*Ø
-1]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs	 (	"t
-]
-SE:\Projects\FlowerShop\FlowerApp\FlowerApp\Migrations\20191209173625_AddFavorite.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB$"
- FlowerApp.Migrations.AddFavorite
+2FlowerApp.ViewModels.AddUserViewModel.Password.getS
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs! ($"0*ï
+0S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs% (%­
+ª
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs! (%
+%0string"__id*?*='
+%FlowerApp.ViewModels.AddUserViewModel"
+Passwordstring"e
+S
+IE:\Projects\FlowerShop\FlowerApp\FlowerApp\ViewModels\AddUserViewModel.cs! (%
+
+%0stringB)'
+%FlowerApp.ViewModels.AddUserViewModel

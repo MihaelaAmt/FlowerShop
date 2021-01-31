@@ -1,22 +1,22 @@
 
->FlowerApp.Controllers.FlowerController.RemoveFromFavorite(int)T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csm m(."4*»
+9FlowerApp.Controllers.FlowerController.AddToFavorite(int)T
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csr r()"4*»
 0T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cso q(¯
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cst v(¯
 ı
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cso o(*,
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cst t(*,
 %0&FlowerApp.Repository.IFlowerRepository"__id*i*g(
 &FlowerApp.Controllers.FlowerController";
 _flowerRepository&FlowerApp.Repository.IFlowerRepository˚¯
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cso o(2/
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cst t(2/
 %1)System.Collections.Generic.IEnumerable<T>"2FlowerApp.Repository.IFlowerRepository.Flowers.get*.
 ,
 %0&FlowerApp.Repository.IFlowerRepository2Flowers.get’
 “
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cso o(U/
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cst t(U/
 %2)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
 System.Linq.Enumerable*1
 /
@@ -24,20 +24,20 @@ JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cso 
 ""®
 •
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cso o(f
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cst t(f
 %3FlowerApp.Models.Flower"_System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
 System.Linq.Enumerable*1
 /
 %2)System.Collections.Generic.IEnumerable<T>£
 †
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cso o(f!
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cst t(f!
 flowerFlowerApp.Models.Flower"__id*
 
 %3FlowerApp.Models.Flower¬
 ø
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csq q(
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csv v(
 
 %4bool""object.operator !=(object, object)*
 "
@@ -48,10 +48,10 @@ JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csq 
 1
 2*»
 1T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.css t(5∫
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csx y(5∫
 ∑
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.css s()
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csx x((
 
 %5bool"&FlowerApp.Models.Flower.IsFavorite.set*#
 !
@@ -59,42 +59,43 @@ JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.css 
 ""¯
 ı
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cst t(!,
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csy y(!,
 %6&FlowerApp.Repository.IFlowerRepository"__id*i*g(
 &FlowerApp.Controllers.FlowerController";
 _flowerRepository&FlowerApp.Repository.IFlowerRepositoryØ¨
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cst t(6
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csy y(6
 
 %7bool"LFlowerApp.Repository.IFlowerRepository.UpdateFlower(FlowerApp.Models.Flower)*.
 ,
 %6&FlowerApp.Repository.IFlowerRepository*#
 !
 flowerFlowerApp.Models.Flower2%UpdateFlower(FlowerApp.Models.Flower)*
-2*≠
+2*±
 2T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csw w(4øº
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs| |(8√¿
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csw w(55
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs| |(95
 %8/Microsoft.AspNetCore.Mvc.RedirectToActionResult"HMicrosoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string, string)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*
-List*
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+Favorite*
 
 Flower2 RedirectToAction(string, string)"è
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csw w(67
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs| |(:7
 5
 %8/Microsoft.AspNetCore.Mvc.RedirectToActionResult*∆
 3T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csx	 x(	"k
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs}	 }(	"k
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csx x(	
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.cs} }(	
 implicit return*‘
 4T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csm< m(<t
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csr7 r(7t
 r
 T
-JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csm m(.
+JE:\Projects\FlowerShop\FlowerApp\FlowerApp\Controllers\FlowerController.csr r()
 %9"__entrypoint*
 ""*
 0:

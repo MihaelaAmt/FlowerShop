@@ -1,66 +1,68 @@
 
-¬FlowerApp.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment, Microsoft.Extensions.Logging.ILoggerFactory)?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs8 8("0*µ
-0?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs: M("†
-ƒ
+šFlowerApp.TagHelpers.EmailTagHelper.Process(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput)Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs ($"0*ô
+0Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (-ñ
+î
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs ( 
+%0string"AMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.TagName.set*A
 ?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs: :(+6
-%00Microsoft.AspNetCore.Builder.IApplicationBuilder"‰Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
-=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilderð
-í
+output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
+a£
+ 
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (B
+%1<Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeList"DMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.Attributes.get*A
 ?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs; ;($6
-%10Microsoft.AspNetCore.Builder.IApplicationBuilder"{Microsoft.AspNetCore.Builder.StatusCodePagesExtensions.UseStatusCodePages(Microsoft.AspNetCore.Builder.IApplicationBuilder)*:"8
-6Microsoft.AspNetCore.Builder.StatusCodePagesExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilderâ
-ß
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs< <( 6
-%20Microsoft.AspNetCore.Builder.IApplicationBuilder"rMicrosoft.AspNetCore.Builder.StaticFileExtensions.UseStaticFiles(Microsoft.AspNetCore.Builder.IApplicationBuilder)*5"3
-1Microsoft.AspNetCore.Builder.StaticFileExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilderì
-é
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs= =(6
-%30Microsoft.AspNetCore.Builder.IApplicationBuilder"uMicrosoft.AspNetCore.Builder.SessionMiddlewareExtensions.UseSession(Microsoft.AspNetCore.Builder.IApplicationBuilder)*<":
-8Microsoft.AspNetCore.Builder.SessionMiddlewareExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilderÙ
-Ö
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.cs> >(6
-%40Microsoft.AspNetCore.Builder.IApplicationBuilder"lMicrosoft.AspNetCore.Builder.BuilderExtensions.UseIdentity(Microsoft.AspNetCore.Builder.IApplicationBuilder)*2"0
-.Microsoft.AspNetCore.Builder.BuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder´
-±
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.csA K(6
-%50Microsoft.AspNetCore.Builder.IApplicationBuilder"°Microsoft.AspNetCore.Builder.MvcApplicationBuilderExtensions.UseMvc(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IRouteBuilder>)*@">
-<Microsoft.AspNetCore.Builder.MvcApplicationBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-""†
-ƒ
-?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.csM M(#
+output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput¾
+»
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs? (F
+%2string"/FlowerApp.TagHelpers.EmailTagHelper.Address.get*'%
+#FlowerApp.TagHelpers.EmailTagHelper‹
+ˆ
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs3 (F
+%3string"__concat*	
+mailto:*
+
+%2string
+š
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (G
 
-%6void"UFlowerApp.Models.DbInitializer.Seed(Microsoft.AspNetCore.Builder.IApplicationBuilder)*"" 
-FlowerApp.Models.DbInitializer*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-1*œ
-1?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.csN	 N(	"V
+%4void"YMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeList.SetAttribute(string, object)*D
+B
+%1<Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeList*
+href*
+
+%3stringš
+—
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (<
+%56Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent"AMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.Content.get*A
 ?
-5E:\Projects\FlowerShop\FlowerApp\FlowerApp\Startup.csN N(	
-implicit return:7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
-env0Microsoft.AspNetCore.Hosting.IHostingEnvironment:<
-loggerFactory+Microsoft.Extensions.Logging.ILoggerFactoryB
-FlowerApp.Startup
+output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput¾
+»
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs& (-
+%6string"/FlowerApp.TagHelpers.EmailTagHelper.Content.get*'%
+#FlowerApp.TagHelpers.EmailTagHelper¯
+¬
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (.<
+%76Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent"IMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperContent.SetContent(string)*>
+<
+%56Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent*
+
+%6string*
+1*À
+1Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs	 (	"h
+Q
+GE:\Projects\FlowerShop\FlowerApp\FlowerApp\TagHelpers\EmailTagHelper.cs (	
+implicit return:A
+context6Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext:?
+output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutputB'%
+#FlowerApp.TagHelpers.EmailTagHelper

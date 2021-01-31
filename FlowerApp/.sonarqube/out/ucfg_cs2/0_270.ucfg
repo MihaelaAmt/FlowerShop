@@ -1,18 +1,56 @@
 
-%FlowerApp.Models.Category.Flowers.setG
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs ("0*∫
-0G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (œ
-Ã
-G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (L
-FlowerApp.Models.Category"-
-Flowers"System.Collections.Generic.List<T>"__id*-
-+
-value"System.Collections.Generic.List<T>"ô
-G
-=E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Category.cs (N*L
-FlowerApp.Models.Category"-
-Flowers"System.Collections.Generic.List<T>:+
-value"System.Collections.Generic.List<T>B
-FlowerApp.Models.Category
+4FlowerApp.Models.ShoppingCart.GetShoppingCartTotal()M
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csê ê(+"0*Û
+0M
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csí î(“
+œ
+M
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csí í(%#
+%0FlowerApp.Models.AppDbContext"__id*S*Q
+FlowerApp.Models.ShoppingCart".
+_appDbContextFlowerApp.Models.AppDbContext‚
+ﬂ
+M
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csí í(72
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"3FlowerApp.Models.AppDbContext.ShoppingCartItems.get*%
+#
+%0FlowerApp.Models.AppDbContext‘
+—
+M
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csí í(f
+%2System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""Œ
+À
+M
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csí ì(7
+%3System.Linq.IQueryable<T>"íSystem.Linq.Queryable.Select<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TResult>>)*"
+System.Linq.Queryable*!
+
+%2System.Linq.IQueryable<T>*
+""€
+ÿ
+M
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csí ì(=
+%4decimal":System.Linq.Queryable.Sum(System.Linq.IQueryable<decimal>)*"
+System.Linq.Queryable*!
+
+%3System.Linq.IQueryable<T>z
+x
+M
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csí ì(=
+totaldecimal"__id*
+
+%4decimal"c
+M
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csî î(
+
+totaldecimal*∏
+1M
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csï	 ï(	"d
+M
+AE:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\ShoppingCart.csï ï(	
+implicit returnB!
+FlowerApp.Models.ShoppingCart

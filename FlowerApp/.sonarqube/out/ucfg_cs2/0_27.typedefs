@@ -1,6 +1,15 @@
-ð
-/FlowerApp.Migrations.ShippingAndPaymentMethods12Microsoft.EntityFrameworkCore.Migrations.Migrationobject®
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)mFlowerApp.Migrations.ShippingAndPaymentMethods1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)²
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)oFlowerApp.Migrations.ShippingAndPaymentMethods1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¬
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)lFlowerApp.Migrations.ShippingAndPaymentMethods1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)l
-ShippingAndPaymentMethods1()LFlowerApp.Migrations.ShippingAndPaymentMethods1.ShippingAndPaymentMethods1()
+“
+%FlowerApp.ViewModels.AddUserViewModelobjectN
+AddUserViewModel()8FlowerApp.ViewModels.AddUserViewModel.AddUserViewModel()B
+UserName.get2FlowerApp.ViewModels.AddUserViewModel.UserName.getB
+UserName.set2FlowerApp.ViewModels.AddUserViewModel.UserName.set<
+	Email.get/FlowerApp.ViewModels.AddUserViewModel.Email.get<
+	Email.set/FlowerApp.ViewModels.AddUserViewModel.Email.setB
+Password.get2FlowerApp.ViewModels.AddUserViewModel.Password.getB
+Password.set2FlowerApp.ViewModels.AddUserViewModel.Password.setD
+Birthdate.get3FlowerApp.ViewModels.AddUserViewModel.Birthdate.getD
+Birthdate.set3FlowerApp.ViewModels.AddUserViewModel.Birthdate.set:
+City.get.FlowerApp.ViewModels.AddUserViewModel.City.get:
+City.set.FlowerApp.ViewModels.AddUserViewModel.City.set@
+Country.get1FlowerApp.ViewModels.AddUserViewModel.Country.get@
+Country.set1FlowerApp.ViewModels.AddUserViewModel.Country.set

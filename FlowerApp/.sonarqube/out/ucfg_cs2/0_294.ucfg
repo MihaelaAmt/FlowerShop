@@ -1,16 +1,16 @@
 
-&FlowerApp.Models.Order.PhoneNumber.getD
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9$ 9('"0*∂
+"FlowerApp.Models.Order.OrderId.getD
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs ( "0*©
 0D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9( 9((í
-è
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs! (!à
+Ö
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9$ 9((
-%0string"__id*3*1
-FlowerApp.Models.Order"
-PhoneNumberstring"V
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs (!	
+%0int"__id*,**
+FlowerApp.Models.Order"
+OrderIdint"S
 D
-:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs9$ 9((
-
-%0stringB
+:E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Order.cs (!
+	
+%0intB
 FlowerApp.Models.Order

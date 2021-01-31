@@ -1,20 +1,16 @@
 
-&FlowerApp.Models.Flower.IsFavorite.setE
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& ()"0*€
+,FlowerApp.Models.Flower.ShortDescription.getE
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs) (,"0*ø
 0E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs* (*í
-è
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs- (-ô
+ñ
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& (*/
-FlowerApp.Models.Flower"
-
-IsFavoritebool"__id*
-
-valuebool"z
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs) (-
+%0string"__id*9*7
+FlowerApp.Models.Flower"
+ShortDescriptionstring"W
 E
-;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs& (*1*/
-FlowerApp.Models.Flower"
-
-IsFavoritebool:
-valueboolB
+;E:\Projects\FlowerShop\FlowerApp\FlowerApp\Models\Flower.cs) (-
+
+%0stringB
 FlowerApp.Models.Flower
