@@ -1,6 +1,5 @@
 ﻿using FlowerApp.Models;
 using FlowerApp.ViewModels;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -11,7 +10,7 @@ namespace FlowerApp.Repository
         private readonly ICategoryRepository _categoryRepository = new ModelCategoryRepository();
 
 
-        public IEnumerable<Flower> Flowers
+        private List<Flower> FlowersList
         {
             get
             {
@@ -59,28 +58,48 @@ namespace FlowerApp.Repository
 
         public IEnumerable<Flower> FlowerPresentation { get; }
 
-        public IEnumerable<FlowerViewModel> FlowersAsViewModel => throw new NotImplementedException();
+        public IEnumerable<FlowerViewModel> FlowersAsViewModel => FlowersList.Select(x => new FlowerViewModel
+        {
+            Name = x.Name,
+            FlowerId = x.FlowerId,
+            Price = x.Price,
+            ImageThumbnailUrl = x.ImageThumbnailUrl,
+            ShortDescription = x.ShortDescription
+        });
 
-        public IEnumerable<string> FlowersNames => throw new NotImplementedException();
+        public IEnumerable<string> FlowersNames => FlowersList.Select(x => x.Name);
+
+        public IEnumerable<Flower> Flowers => FlowersList;
 
         public bool AddFlower(Flower flower)
         {
-            throw new NotImplementedException();
+            FlowersList.Add(flower);
+            return true;
         }
 
         public bool DeleteFlower(Flower flower)
         {
-            throw new NotImplementedException();
+            FlowersList.Remove(flower);
+            return true;
         }
 
         public Flower GetFlowerById(int flowerId)
         {
-            throw new System.NotImplementedException();
+            return FlowersList.FirstOrDefault(x => x.FlowerId == flowerId);
         }
 
         public bool UpdateFlower(Flower flower)
         {
-            throw new NotImplementedException();
+            var flowerToUpdate = GetFlowerById(flower.FlowerId);
+            flowerToUpdate.Name = flower.Name;
+            flowerToUpdate.Price = flower.Price;
+            flowerToUpdate.IsFlowerPresentation = flower.IsFlowerPresentation;
+            flowerToUpdate.InStock = flower.InStock;
+            flowerToUpdate.ImageThumbnailUrl = flower.ImageThumbnailUrl;
+            flowerToUpdate.LongDescription = flower.LongDescription;
+            flowerToUpdate.ShortDescription = flower.ShortDescription;
+
+            return true;
         }
     }
 }
