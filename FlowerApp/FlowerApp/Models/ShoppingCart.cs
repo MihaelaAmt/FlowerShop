@@ -117,14 +117,10 @@ namespace FlowerApp.Models
         }
 
         //list of shopping cart item
-        public List<ShoppingCartItem> GetShoppingCartItems()
-        {
-            return ShoppingCartItems ??
-                   (ShoppingCartItems =
-                       _appDbContext.ShoppingCartItems.Where(c => c.ShoppingCartId == ShoppingCartId)
+        public List<ShoppingCartItem> GetShoppingCartItems => ShoppingCartItems ??
+                   (ShoppingCartItems = _appDbContext.ShoppingCartItems.Where(c => c.ShoppingCartId == ShoppingCartId)
                            .Include(s => s.Flower)
                            .ToList());
-        }
 
         //clear cart
         public void ClearCart()
@@ -141,11 +137,9 @@ namespace FlowerApp.Models
 
 
         //shopping cart total
-        public decimal GetShoppingCartTotal()
-        {
-            var total = _appDbContext.ShoppingCartItems.Where(c => c.ShoppingCartId == ShoppingCartId)
-                .Select(c => c.Flower.Price * c.Amount).Sum();
-            return total;
-        }
+        public decimal GetShoppingCartTotal => _appDbContext.ShoppingCartItems
+            .Where(c => c.ShoppingCartId == ShoppingCartId)
+            .Select(c => c.Flower.Price * c.Amount)
+            .Sum();
     }
 }
