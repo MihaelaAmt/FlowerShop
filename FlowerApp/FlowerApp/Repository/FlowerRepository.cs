@@ -33,7 +33,7 @@ namespace FlowerApp.Repository
             //create a list with flower name
             get
             {
-                return _appDbContext.Flowers.Select(x => x.Name).ToList();
+                return _appDbContext.Flowers.Select(x => x.Name);
             }
         }
 
