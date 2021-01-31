@@ -75,7 +75,7 @@ namespace FlowerApp.Repository
 
             _appDbContext.SaveChanges();
             //result for added
-            return result.State == EntityState.Added || result.State == EntityState.Unchanged ? true : false;
+            return result.State == EntityState.Added || result.State == EntityState.Unchanged;
         }
 
         //delete flower
@@ -85,7 +85,7 @@ namespace FlowerApp.Repository
 
             _appDbContext.SaveChanges();
             //result for deleted
-            return result.State == EntityState.Deleted || result.State == EntityState.Unchanged ? true : false;
+            return result.State == EntityState.Deleted || result.State == EntityState.Unchanged;
         }
 
         //main page for flowers

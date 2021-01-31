@@ -33,7 +33,7 @@ namespace FlowerApp.Controllers
         //checkout
         public IActionResult Checkout(Order order)
         {
-            var items = _shoppingCart.GetShoppingCartItems();
+            var items = _shoppingCart.GetShoppingCartItems;
             _shoppingCart.ShoppingCartItems = items;
 
             if (_shoppingCart.ShoppingCartItems.Count == 0)

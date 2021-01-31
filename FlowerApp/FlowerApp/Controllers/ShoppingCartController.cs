@@ -26,7 +26,7 @@ namespace FlowerApp.Controllers
         //create a view result
         public ViewResult Index()
         {
-            var items = _shoppingCart.GetShoppingCartItems();
+            var items = _shoppingCart.GetShoppingCartItems;
             _shoppingCart.ShoppingCartItems = items;
 
             var shoppingCartViewModel = new ShoppingCartViewModel
@@ -34,7 +34,7 @@ namespace FlowerApp.Controllers
                 //shopping cart
                 //and shopping cart total
                 ShoppingCart = _shoppingCart,
-                ShoppingCartTotal = _shoppingCart.GetShoppingCartTotal()
+                ShoppingCartTotal = _shoppingCart.GetShoppingCartTotal
             };
 
             return View(shoppingCartViewModel);
